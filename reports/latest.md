@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-04-28 04:23
+生成时间：2026-04-29 04:10
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. China’s latest push to commercialize research: match 680,000 innovators with companies
+## 1. Author Correction: Quantum error correction below the surface code threshold
 
 - 期刊：Nature
 - 日期：2026-04-28
-- DOI：10.1038/d41586-026-01202-7
+- DOI：10.1038/s41586-026-10559-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01202-7
+- 链接：https://www.nature.com/articles/s41586-026-10559-8
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01202-7 The nation’s top-down approach contrasts with that of countries such as the United States, where market forces drive innovation.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/s41586-026-10559-8 Author Correction: Quantum error correction below the surface code threshold
 
-## 2. Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads
+## 2. The equity paradox of environmental DNA for biodiversity monitoring
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/s41586-026-10563-y
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01349-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10563-y
+- 链接：https://www.nature.com/articles/d41586-026-01349-3
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/s41586-026-10563-y Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01349-3 The equity paradox of environmental DNA for biodiversity monitoring
 
-## 3. #ScientistAtWork 2026: Nature seeks striking photographs that capture researchers at work
+## 3. To hire good scientists, look at their peer-reviewing records
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01266-5
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01368-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01266-5
+- 链接：https://www.nature.com/articles/d41586-026-01368-0
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01266-5 Competition winners receive a cash prize and will see their images featured in Nature.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01368-0 To hire good scientists, look at their peer-reviewing records
 
-## 4. A chemistry lab that runs itself to find the perfect reaction
+## 4. Gulf states must move from efficiency to resilience
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01283-4
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01366-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01283-4
+- 链接：https://www.nature.com/articles/d41586-026-01366-2
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01283-4 Low-cost system can optimize synthesis of a wide variety of products.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01366-2 Gulf states must move from efficiency to resilience
 
-## 5. Could agentic AI topple grant-funding systems?
+## 5. The politics of playful primates
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01297-y
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01352-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01297-y
+- 链接：https://www.nature.com/articles/d41586-026-01352-8
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01297-y Funders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01352-8 Apes, monkeys and their relatives that live in despotic societies are less likely to clown around as adults.
 
-## 6. Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved
+## 6. Hungarian science has undergone rapid changes
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01295-0
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01367-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01295-0
+- 链接：https://www.nature.com/articles/d41586-026-01367-1
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01295-0 Discovery bolsters theory that ancient mitochondria formed brand-new, specialized ‘sacs’ in cells by shedding their outer membranes.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01367-1 Hungarian science has undergone rapid changes
 
-## 7. ‘The job description is changing’: mathematician Terence Tao on the rise of AI
+## 7. Rhymes on reason: scientific units inspire poetry
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01246-9
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-00916-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01246-9
+- 链接：https://www.nature.com/articles/d41586-026-00916-y
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01246-9 The Fields medallist discusses how ever-evolving technology is transforming mathematicians’ work.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00916-y Nature readers are invited to compose couplets about SI units, and a report on an Anglo-Saxon burial ground, in our weekly dip into Nature’s archive.
 
-## 8. Why cosmology is more than a theory
+## 8. ‘World models’ are AI’s latest sensation: what are they and what can they do?
 
 - 期刊：Nature
-- 日期：2026-04-27
-- DOI：10.1038/d41586-026-01303-3
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-00820-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01303-3
+- 链接：https://www.nature.com/articles/d41586-026-00820-5
 
-摘要精简：Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01303-3 A philosophical take on the history of the Universe that is inspiring but incomplete.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00820-5 Training AI world models on data about physical environments could improve their real-world capabilities in technologies such as robotics.
 
-## 9. Daily briefing: The heart’s pumping motion seems to keep cancer at bay
+## 9. Data centres are controversial: will launching them into space help?
 
 - 期刊：Nature
-- 日期：2026-04-24
-- DOI：10.1038/d41586-026-01363-5
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-01370-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01363-5
+- 链接：https://www.nature.com/articles/d41586-026-01370-6
 
-摘要精简：Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01363-5 Hearts that didn’t beat were quickly overtaken by cancer cells in mice. Plus, huge octopuses might have ruled the ancient seas and how geopolitics is affecting huge health data sets.
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01370-6 The massive computing facilities powering the AI boom have drawn ire for soaking up energy and water on Earth.
 
-## 10. A pro-carcinogenic bacterial toxin binds claudin-4 to cleave E-cadherin
+## 10. First detailed ‘smell maps’ reveal how noses track odours
 
 - 期刊：Nature
-- 日期：2026-04-22
-- DOI：10.1038/s41586-026-10375-0
+- 日期：2026-04-28
+- DOI：10.1038/d41586-026-00894-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10375-0
+- 链接：https://www.nature.com/articles/d41586-026-00894-1
 
-摘要精简：Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10375-0 CRISPR screening shows that claudin-4 is a receptor for the pro-carcinogenic B. fragilis toxin on colonic epithelial cells, and that this interaction promotes cleavage of E-cadherin,...
+摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00894-1 Detailed maps of smell receptors in the nose overturn textbook models of olfactory receptor organization in mice.
