@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-04-29 04:10
+生成时间：2026-04-30 04:12
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Quantum error correction below the surface code threshold
+## 1. An electrifying test to find a good coffee
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/s41586-026-10559-8
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01289-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10559-8
+- 链接：https://www.nature.com/articles/d41586-026-01289-y
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/s41586-026-10559-8 Author Correction: Quantum error correction below the surface code threshold
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.
 
-## 2. The equity paradox of environmental DNA for biodiversity monitoring
+## 2. Author Correction: Broadly stable atmospheric CO 2 and CH 4 levels over the past 3 million years
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01349-3
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10600-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01349-3
+- 链接：https://www.nature.com/articles/s41586-026-10600-w
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01349-3 The equity paradox of environmental DNA for biodiversity monitoring
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10600-w Author Correction: Broadly stable atmospheric CO 2 and CH 4 levels over the past 3 million years
 
-## 3. To hire good scientists, look at their peer-reviewing records
+## 3. Overestimating outsourced biodiversity loss may misguide policy
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01368-0
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10370-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01368-0
+- 链接：https://www.nature.com/articles/s41586-026-10370-5
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01368-0 To hire good scientists, look at their peer-reviewing records
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10370-5 Overestimating outsourced biodiversity loss may misguide policy
 
-## 4. Gulf states must move from efficiency to resilience
+## 4. Reply to: Overestimating outsourced biodiversity loss may misguide policy
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01366-2
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10371-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01366-2
+- 链接：https://www.nature.com/articles/s41586-026-10371-4
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01366-2 Gulf states must move from efficiency to resilience
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10371-4 Reply to: Overestimating outsourced biodiversity loss may misguide policy
 
-## 5. The politics of playful primates
+## 5. Immunity gets a boost from a surprising place — breakfast
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01352-8
+- 日期：2026-04-29
+- DOI：10.1038/d41586-026-01406-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01352-8
+- 链接：https://www.nature.com/articles/d41586-026-01406-x
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01352-8 Apes, monkeys and their relatives that live in despotic societies are less likely to clown around as adults.
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.
 
-## 6. Hungarian science has undergone rapid changes
+## 6. Decarboxylative alkylation of alkenes
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01367-1
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10463-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01367-1
+- 链接：https://www.nature.com/articles/s41586-026-10463-1
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01367-1 Hungarian science has undergone rapid changes
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10463-1 A Pd-catalysed method enables regio- and diastereoselective C–H alkylation of diverse alkenes using carboxylic acids, expanding synthetic access to complex substituted alkenes.
 
-## 7. Rhymes on reason: scientific units inspire poetry
+## 7. Recycling of spin-triplet excitons in organic photovoltaics
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-00916-y
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10419-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00916-y
+- 链接：https://www.nature.com/articles/s41586-026-10419-5
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00916-y Nature readers are invited to compose couplets about SI units, and a report on an Anglo-Saxon burial ground, in our weekly dip into Nature’s archive.
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10419-5 Triplet excitons in OPVs can redissociate via the charge-transfer state into free carriers, reducing losses and improving efficiency, enabled by molecular design controlling...
 
-## 8. ‘World models’ are AI’s latest sensation: what are they and what can they do?
+## 8. Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-00820-5
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10341-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00820-5
+- 链接：https://www.nature.com/articles/s41586-026-10341-w
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00820-5 Training AI world models on data about physical environments could improve their real-world capabilities in technologies such as robotics.
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10341-w The phase 1b NIVIPIT trial shows that in combined therapy with intravenous nivolumab (anti-PD1), intratumoural administration of ipilimumab (anti-CTLA4) offers improved safety and...
 
-## 9. Data centres are controversial: will launching them into space help?
+## 9. Digital quantum magnetism on a trapped-ion quantum computer
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-01370-6
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10445-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01370-6
+- 链接：https://www.nature.com/articles/s41586-026-10445-3
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01370-6 The massive computing facilities powering the AI boom have drawn ire for soaking up energy and water on Earth.
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10445-3 Simulations performed using Quantinuum’s H2 trapped-ion quantum computer for observing thermalization on challenging timescales demonstrate the usefulness of digital quantum computers...
 
-## 10. First detailed ‘smell maps’ reveal how noses track odours
+## 10. Improving access to essential medicines via decision-aware machine learning
 
 - 期刊：Nature
-- 日期：2026-04-28
-- DOI：10.1038/d41586-026-00894-1
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10433-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00894-1
+- 链接：https://www.nature.com/articles/s41586-026-10433-7
 
-摘要精简：Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00894-1 Detailed maps of smell receptors in the nose overturn textbook models of olfactory receptor organization in mice.
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10433-7 Nationwide deployment of a novel decision-aware machine learning framework as a decision support tool for the allocation of essential medicines in Sierra Leone resulted in improved...
