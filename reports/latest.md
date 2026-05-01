@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-04-30 04:12
+生成时间：2026-05-01 04:36
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. An electrifying test to find a good coffee
+## 1. This organoid can menstruate — and shows how tissue can repair itself
+
+- 期刊：Nature
+- 日期：2026-05-01
+- DOI：10.1038/d41586-026-01428-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01428-5
+
+摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.
+
+## 2. Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells
 
 - 期刊：Nature
 - 日期：2026-04-30
-- DOI：10.1038/d41586-026-01289-y
+- DOI：10.1038/s41586-026-10587-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01289-y
+- 链接：https://www.nature.com/articles/s41586-026-10587-4
 
-摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4 Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells
 
-## 2. Author Correction: Broadly stable atmospheric CO 2 and CH 4 levels over the past 3 million years
+## 3. Blood test hints at breast-tumour response to treatment
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10600-w
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01353-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10600-w
+- 链接：https://www.nature.com/articles/d41586-026-01353-7
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10600-w Author Correction: Broadly stable atmospheric CO 2 and CH 4 levels over the past 3 million years
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01353-7 A biomarker shows which people with certain types of breast cancer are more likely to respond to an immune-based therapy.
 
-## 3. Overestimating outsourced biodiversity loss may misguide policy
+## 4. Forest pests hit trees hard as temperatures rise
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10370-5
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01288-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10370-5
+- 链接：https://www.nature.com/articles/d41586-026-01288-z
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10370-5 Overestimating outsourced biodiversity loss may misguide policy
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01288-z Damage by certain insects and fungi tends to be greatest in US woodlands where maximum temperatures during the warmest months are increasing.
 
-## 4. Reply to: Overestimating outsourced biodiversity loss may misguide policy
+## 5. Wild-meat consumption estimated across Central Africa
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10371-4
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01306-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10371-4
+- 链接：https://www.nature.com/articles/d41586-026-01306-0
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10371-4 Reply to: Overestimating outsourced biodiversity loss may misguide policy
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study...
 
-## 5. Immunity gets a boost from a surprising place — breakfast
+## 6. ‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/d41586-026-01406-x
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01421-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01406-x
+- 链接：https://www.nature.com/articles/d41586-026-01421-y
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.
 
-## 6. Decarboxylative alkylation of alkenes
+## 7. Long-lived immune cells show promise against cancer in world-first trial
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10463-1
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01398-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10463-1
+- 链接：https://www.nature.com/articles/d41586-026-01398-8
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10463-1 A Pd-catalysed method enables regio- and diastereoselective C–H alkylation of diverse alkenes using carboxylic acids, expanding synthetic access to complex substituted alkenes.
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.
 
-## 7. Recycling of spin-triplet excitons in organic photovoltaics
+## 8. Genome pioneer Craig Venter dies: here’s how he transformed science
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10419-5
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01226-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10419-5
+- 链接：https://www.nature.com/articles/d41586-026-01226-z
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10419-5 Triplet excitons in OPVs can redissociate via the charge-transfer state into free carriers, reducing losses and improving efficiency, enabled by molecular design controlling...
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01226-z Venter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.
 
-## 8. Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1
+## 9. All life runs on 20 amino acids. These cells run key machinery on just 19
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10341-w
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01396-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10341-w
+- 链接：https://www.nature.com/articles/d41586-026-01396-w
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10341-w The phase 1b NIVIPIT trial shows that in combined therapy with intravenous nivolumab (anti-PD1), intratumoural administration of ipilimumab (anti-CTLA4) offers improved safety and...
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01396-w AI-guided redesign of protein alphabet in bacteria could unlock new ways to build synthetic organisms.
 
-## 9. Digital quantum magnetism on a trapped-ion quantum computer
+## 10. US lawmakers vote to reduce science spending – but reject Trump’s massive cuts
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10445-3
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01427-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10445-3
+- 链接：https://www.nature.com/articles/d41586-026-01427-6
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10445-3 Simulations performed using Quantinuum’s H2 trapped-ion quantum computer for observing thermalization on challenging timescales demonstrate the usefulness of digital quantum computers...
-
-## 10. Improving access to essential medicines via decision-aware machine learning
-
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10433-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10433-7
-
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10433-7 Nationwide deployment of a novel decision-aware machine learning framework as a decision support tool for the allocation of essential medicines in Sierra Leone resulted in improved...
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01427-6 A draft bill would preserve NASA’s overall funding but downsize the National Science Foundation’s budget by 20%.
