@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-02 04:01
+生成时间：2026-05-03 04:30
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/s41586-026-10601-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10601-9
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/s41586-026-10601-9 Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-
-## 2. Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01439-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01439-2
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2 Nature staff discuss some of the week's top science news.
-
-## 3. The imperfect legacy
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01075-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01075-w
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w Not a bug, but a feature.
-
-## 4. US faculty members report high levels of anxiety
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01252-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01252-x
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x Surveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.
-
-## 5. The exotic particles that could finally break the Standard Model
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01387-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01387-x
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x ‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.
-
-## 6. The news is not all bad: five inspiring science stories to lift your mood
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01290-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01290-5
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5 Species recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.
-
-## 7. European funder must increase capacity to meet the ambition of scientists
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01411-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01411-0
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0 To avoid sabotaging science, the European Research Council needs more funding and structural change.
-
-## 8. Prestigious European science funder scraps stricter rules after researcher backlash
-
-- 期刊：Nature
-- 日期：2026-05-01
-- DOI：10.1038/d41586-026-01435-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01435-6
-
-摘要精简：Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6 The tough new policy was introduced to curb submissions, but drew criticism from researchers.
-
-## 9. Why preprint servers are increasing moderation — and what that means for researchers
+## 1. Why cows burp methane: new ‘cellular organ’ discovered in gut microbes
 
 - 期刊：Nature
 - 日期：2026-04-30
-- DOI：10.1038/d41586-026-01203-6
+- DOI：10.1038/d41586-026-01425-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01203-6
+- 链接：https://www.nature.com/articles/d41586-026-01425-8
 
-摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01203-6 Repositories are adapting in response to AI-generated content and junk science, leading some people to question how much moderation is too much.
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01425-8 The discovery could help find ways to lower the amounts of methane produced by grazing animals.
 
-## 10. ‘Beyond COP’ climate summit puts scientists at the centre of the action
+## 2. Scientists to return to Fukushima — this time to study disaster recovery
 
 - 期刊：Nature
 - 日期：2026-04-30
-- DOI：10.1038/d41586-026-01399-7
+- DOI：10.1038/d41586-026-01345-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01399-7
+- 链接：https://www.nature.com/articles/d41586-026-01345-7
 
-摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01399-7 Researchers presented ways for nations to phase out fossil fuels at an international meeting of countries ready to take action.
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01345-7 A new research centre could help to reassure the public that the region is safe.
+
+## 3. How sewing can set you up for failure and success in science
+
+- 期刊：Nature
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01388-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01388-w
+
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01388-w Making a garment and designing an experiment require similar skills and creative thinking. Time to try a new hobby?
+
+## 4. Saving sharks and rays, one catch at a time — in photos
+
+- 期刊：Nature
+- 日期：2026-04-30
+- DOI：10.1038/d41586-026-01145-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01145-z
+
+摘要精简：Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01145-z Working alongside fishers in a biodiverse gulf in Greece, Roxani Naasan Aga-Spyridopoulou is focused on securing species’ future survival.
+
+## 5. Transdimensional anomalous Hall effect in rhombohedral thin graphite
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10471-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10471-1
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10471-1 The experimental observation of a fundamentally new type of anomalous Hall effect that couples both in-plane and out-of-plane orbital magnetizations in multilayer rhombohedral graphene...
+
+## 6. Vaccination generates broadly cross-neutralizing antibodies to the HIV Env apex
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10429-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10429-3
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10429-3 A vaccination strategy using heterologous HIV Env trimers covalently coupled to liposomes for multivalent display generates cross-neutralizing HIV serum antibody responses in non-human...
+
+## 7. Translation-dependent degradation of cas12 mRNA triggered by an anti-CRISPR
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10440-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10440-8
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10440-8 The anti-CRISPR protein AcrVA2 specifically interrupts Cas12a biogenesis by triggering co-translational mRNA degradation.
+
+## 8. Engineering tough blood clots for rapid haemostasis and enhanced regeneration
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10412-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10412-y
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10412-y Engineered blood clots using rapidly crosslinked red blood cells form within seconds, greatly improving toughness and adhesion while effectively stopping bleeding and enhancing tissue...
+
+## 9. Cytoplasmic competition between separate parental pronuclei in zygotes
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10417-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10417-7
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10417-7 Drug-based and manipulation-based strategies provide evidence of pronuclear competition for finite cytoplasmic resources between separate parental pronuclei in zygotes, suggesting a...
+
+## 10. Training language models to be warm can reduce accuracy and increase sycophancy
+
+- 期刊：Nature
+- 日期：2026-04-29
+- DOI：10.1038/s41586-026-10410-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10410-0
+
+摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10410-0 Experiments on five different language models show that training language models to produce warmer responses can undermine the accuracy of their output, especially when users express...
