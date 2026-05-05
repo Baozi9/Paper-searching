@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-04 04:29
+生成时间：2026-05-05 03:57
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup
+## 1. Powerful tools are revealing the ‘control knobs’ of the genome
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10363-4
+- 日期：2026-05-04
+- DOI：10.1038/d41586-026-01410-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10363-4
+- 链接：https://www.nature.com/articles/d41586-026-01410-1
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10363-4 A single-cell spatial atlas identifies a B cell-predominant microenvironment within the profibrotic tubular niche that marks a subset of patients with diabetic kidney disease with rapid...
+摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1 By accelerating the identification of DNA sequences that control gene expression, assays are revealing the hidden grammar of the regulatory genome — and giving scientists the means to...
 
-## 2. Increase in wild animal consumption across Central Africa
+## 2. Hantavirus crops up on a cruise ship — what scientists are watching
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10422-w
+- 日期：2026-05-04
+- DOI：10.1038/d41586-026-01450-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10422-w
+- 链接：https://www.nature.com/articles/d41586-026-01450-7
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10422-w Wild meat is a fundamental component of the diets of rural Central African populations, accounting for 20% of the recommended daily protein intake, compared with 13% and 6% for those...
+摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01450-7 The group of rodent viruses can cause disease in humans, but cases are rare.
 
-## 3. GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice
+## 3. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
 
 - 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10427-5
+- 日期：2026-05-04
+- DOI：10.1038/d41586-026-01394-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10427-5
+- 链接：https://www.nature.com/articles/d41586-026-01394-y
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10427-5 GLP-1–GIP–lanifibranor, a single-molecule agonist of GLP-1R, GIPR, PPARα, PPARγ and PPARδ, shows promising therapeutic efficacy against obesity-linked metabolic dysfunction in vitro and...
+摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-y Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's...
 
-## 4. The past, present and future of de novo protein design
+## 4. Double robustness
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10328-7
+- 期刊：Nature Methods
+- 日期：2026-05-04
+- DOI：10.1038/s41592-026-03099-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10328-7
+- 链接：https://www.nature.com/articles/s41592-026-03099-6
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10328-7 A Review of de novo protein design highlights key methodological advances and achievements, current challenges and future applications.
+摘要精简：Nature Methods, Published online: 04 May 2026; doi:10.1038/s41592-026-03099-6 It is not certain that everything is uncertain. —Blaise Pascal
 
-## 5. Uncertain dynamic response of mid-latitude winter precipitation
+## 5. Unsupervised transfer learning enables multi-animal tracking without training annotation
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10474-y
+- 期刊：Nature Methods
+- 日期：2026-05-04
+- DOI：10.1038/s41592-026-03051-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10474-y
+- 链接：https://www.nature.com/articles/s41592-026-03051-8
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10474-y Separating the anthropogenic forced thermodynamic and dynamic components from internal variability in winter precipitation trends in the mid-latitudes shows that thermodynamic effects...
+摘要精简：Nature Methods, Published online: 04 May 2026; doi:10.1038/s41592-026-03051-8 UDMT is a multi-animal tracker for behavioral research that is based on a transformer architecture, which negates the need for manually annotated training data. UDMT is showcased...
 
-## 6. Higher-order interactions enhance the latitudinal tree diversity gradient
+## 6. Call your AI agent
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10434-6
+- 期刊：Nature Methods
+- 日期：2026-05-01
+- DOI：10.1038/s41592-026-03088-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10434-6
+- 链接：https://www.nature.com/articles/s41592-026-03088-9
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10434-6 Higher-order interactions are shown to contribute to the decrease in species diversity from low to high latitudes in global forests, potentially explaining why this intricate phenomenon...
+摘要精简：Nature Methods, Published online: 01 May 2026; doi:10.1038/s41592-026-03088-9 AI agent systems are now being built on top of large language models, and they can conduct autonomous analyses. Choosing among the offerings takes a balance of curiosity,...
 
-## 7. Charge-dependent spectral softenings of primary cosmic rays below the knee
+## 7. Resolving sensitivity, specificity and signal contamination in Xenium spatial transcriptomics
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10472-0
+- 期刊：Nature Methods
+- 日期：2026-04-30
+- DOI：10.1038/s41592-026-03089-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10472-0
+- 链接：https://www.nature.com/articles/s41592-026-03089-8
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10472-0 The DAMPE satellite observed a universal charge-dependent spectral softening in primary cosmic rays, and ruled out mass-dependent softening with >99.999% confidence.
+摘要精简：Nature Methods, Published online: 30 April 2026; doi:10.1038/s41592-026-03089-8 This study investigates technical noise in Xenium spatial transcriptomics data, including transcript spillover, and introduces SPLIT to resolve mixed signals and enhance cell-...
 
-## 8. Prime assembly with linear DNA donors enables large genomic insertions
+## 8. eSIG-Net: an interaction language model that decodes the protein code of single mutations
 
-- 期刊：Nature
+- 期刊：Nature Methods
 - 日期：2026-04-29
-- DOI：10.1038/s41586-026-10460-4
+- DOI：10.1038/s41592-026-03086-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10460-4
+- 链接：https://www.nature.com/articles/s41592-026-03086-x
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10460-4 Prime assembly can initiate Gibson-like assembly in cells to generate gene insertions without double-stranded DNA breaks, recombinases or homology-directed repair.
+摘要精简：Nature Methods, Published online: 29 April 2026; doi:10.1038/s41592-026-03086-x eSIG-Net is an interaction language model that predicts the effects of mutations on protein interaction.
 
-## 9. Pervasive and programmed nucleosome distortion on single chromatin fibres
+## 9. Digital twins of ex vivo human lungs enable accurate and personalized evaluation of therapeutic efficacy
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10418-6
+- 期刊：Nature Biotechnology
+- 日期：2026-05-04
+- DOI：10.1038/s41587-026-03121-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10418-6
+- 链接：https://www.nature.com/articles/s41587-026-03121-4
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10418-6 An analytical pipeline called Iteratively Defined Lengths of Inaccessibility (IDLI) maps the genome-wide occupancy of a range of nucleosome types and shows that most nucleosomes exhibit...
+摘要精简：Nature Biotechnology, Published online: 04 May 2026; doi:10.1038/s41587-026-03121-4 A comprehensive ‘digital twin’ of a human organ has been built.
 
-## 10. Demography and life histories across the Roman frontier in Germany 400–700 ce
+## 10. TxPert: using multiple knowledge graphs for prediction of transcriptomic perturbation effects
 
-- 期刊：Nature
-- 日期：2026-04-29
-- DOI：10.1038/s41586-026-10437-3
+- 期刊：Nature Biotechnology
+- 日期：2026-05-01
+- DOI：10.1038/s41587-026-03113-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10437-3
+- 链接：https://www.nature.com/articles/s41587-026-03113-4
 
-摘要精简：Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10437-3 Analysis of 258 ancient genomes from southern Germany reveals a major demographic shift during the late fifth century, yet family structures persisted from Late Roman times,...
+摘要精简：Nature Biotechnology, Published online: 01 May 2026; doi:10.1038/s41587-026-03113-4 TxPert predicts unseen single transcriptomic perturbations with accuracy approaching split-half experimental reproducibility.
