@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-05 03:57
+生成时间：2026-05-06 04:23
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Powerful tools are revealing the ‘control knobs’ of the genome
+## 1. Precision medicine without equity is just stratified inequality
 
 - 期刊：Nature
-- 日期：2026-05-04
-- DOI：10.1038/d41586-026-01410-1
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01442-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01410-1
+- 链接：https://www.nature.com/articles/d41586-026-01442-7
 
-摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1 By accelerating the identification of DNA sequences that control gene expression, assays are revealing the hidden grammar of the regulatory genome — and giving scientists the means to...
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01442-7 Precision medicine without equity is just stratified inequality
 
-## 2. Hantavirus crops up on a cruise ship — what scientists are watching
+## 2. Tumbleweed-style robot can roll across the prairie — no wind needed
 
 - 期刊：Nature
-- 日期：2026-05-04
-- DOI：10.1038/d41586-026-01450-7
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01445-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01450-7
+- 链接：https://www.nature.com/articles/d41586-026-01445-4
 
-摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01450-7 The group of rodent viruses can cause disease in humans, but cases are rare.
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01445-4 Woven from light-responsive strips, a tiny sphere trundles across a variety of surfaces when illuminated.
 
-## 3. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
+## 3. AI agents in research: when productivity comes at the cost of apprenticeship
 
 - 期刊：Nature
-- 日期：2026-05-04
-- DOI：10.1038/d41586-026-01394-y
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01440-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01394-y
+- 链接：https://www.nature.com/articles/d41586-026-01440-9
 
-摘要精简：Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-y Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's...
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01440-9 AI agents in research: when productivity comes at the cost of apprenticeship
 
-## 4. Double robustness
+## 4. Thymic health under the microscope
 
-- 期刊：Nature Methods
-- 日期：2026-05-04
-- DOI：10.1038/s41592-026-03099-6
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01443-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03099-6
+- 链接：https://www.nature.com/articles/d41586-026-01443-6
 
-摘要精简：Nature Methods, Published online: 04 May 2026; doi:10.1038/s41592-026-03099-6 It is not certain that everything is uncertain. —Blaise Pascal
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01443-6 Thymic health under the microscope
 
-## 5. Unsupervised transfer learning enables multi-animal tracking without training annotation
+## 5. Legal rights for insects: a global imperative for stingless-bee conservation
 
-- 期刊：Nature Methods
-- 日期：2026-05-04
-- DOI：10.1038/s41592-026-03051-8
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01441-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03051-8
+- 链接：https://www.nature.com/articles/d41586-026-01441-8
 
-摘要精简：Nature Methods, Published online: 04 May 2026; doi:10.1038/s41592-026-03051-8 UDMT is a multi-animal tracker for behavioral research that is based on a transformer architecture, which negates the need for manually annotated training data. UDMT is showcased...
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01441-8 Legal rights for insects: a global imperative for stingless-bee conservation
 
-## 6. Call your AI agent
+## 6. Marvellous microscopes impress guests at a London party
 
-- 期刊：Nature Methods
-- 日期：2026-05-01
-- DOI：10.1038/s41592-026-03088-9
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01333-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03088-9
+- 链接：https://www.nature.com/articles/d41586-026-01333-x
 
-摘要精简：Nature Methods, Published online: 01 May 2026; doi:10.1038/s41592-026-03088-9 AI agent systems are now being built on top of large language models, and they can conduct autonomous analyses. Choosing among the offerings takes a balance of curiosity,...
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01333-x A sensational scientific soirée, and reflections on how F. C. L. Wratten advanced photography in this week’s pick from the Nature archive.
 
-## 7. Resolving sensitivity, specificity and signal contamination in Xenium spatial transcriptomics
+## 7. To move beyond GDP, don’t ignore environmental economists
 
-- 期刊：Nature Methods
-- 日期：2026-04-30
-- DOI：10.1038/s41592-026-03089-8
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01299-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03089-8
+- 链接：https://www.nature.com/articles/d41586-026-01299-w
 
-摘要精简：Nature Methods, Published online: 30 April 2026; doi:10.1038/s41592-026-03089-8 This study investigates technical noise in Xenium spatial transcriptomics data, including transcript spillover, and introduces SPLIT to resolve mixed signals and enhance cell-...
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01299-w Sustainable development will only be achieved when governments base decisions on human skills and natural resources, not just gross domestic product.
 
-## 8. eSIG-Net: an interaction language model that decodes the protein code of single mutations
+## 8. NIH grant cuts disproportionately hit minority and female scientists
 
-- 期刊：Nature Methods
-- 日期：2026-04-29
-- DOI：10.1038/s41592-026-03086-x
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01426-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03086-x
+- 链接：https://www.nature.com/articles/d41586-026-01426-7
 
-摘要精简：Nature Methods, Published online: 29 April 2026; doi:10.1038/s41592-026-03086-x eSIG-Net is an interaction language model that predicts the effects of mutations on protein interaction.
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01426-7 A survey reveals sharp divides in who bore the brunt of last year’s spree of grant cancellations by the Trump administration.
 
-## 9. Digital twins of ex vivo human lungs enable accurate and personalized evaluation of therapeutic efficacy
+## 9. Responses to the AI grant flood must prioritize fairness as part of excellence
 
-- 期刊：Nature Biotechnology
-- 日期：2026-05-04
-- DOI：10.1038/s41587-026-03121-4
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01422-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41587-026-03121-4
+- 链接：https://www.nature.com/articles/d41586-026-01422-x
 
-摘要精简：Nature Biotechnology, Published online: 04 May 2026; doi:10.1038/s41587-026-03121-4 A comprehensive ‘digital twin’ of a human organ has been built.
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01422-x Research funding agencies are battling a wave of AI-assisted applications. Countermeasures should not entrench existing power structures.
 
-## 10. TxPert: using multiple knowledge graphs for prediction of transcriptomic perturbation effects
+## 10. Testosterone therapy is trending. Who really needs it, and why?
 
-- 期刊：Nature Biotechnology
-- 日期：2026-05-01
-- DOI：10.1038/s41587-026-03113-4
+- 期刊：Nature
+- 日期：2026-05-05
+- DOI：10.1038/d41586-026-01408-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41587-026-03113-4
+- 链接：https://www.nature.com/articles/d41586-026-01408-9
 
-摘要精简：Nature Biotechnology, Published online: 01 May 2026; doi:10.1038/s41587-026-03113-4 TxPert predicts unseen single transcriptomic perturbations with accuracy approaching split-half experimental reproducibility.
+摘要精简：Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01408-9 Some clinicians are pushing to broaden testosterone use, but there is debate about its benefits and risks.
