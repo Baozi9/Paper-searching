@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-08 03:59
+生成时间：2026-05-09 04:04
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion
+## 1. Radioactive rain and proving relativity: Books in brief
 
 - 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/s41586-026-10608-2
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01500-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10608-2
+- 链接：https://www.nature.com/articles/d41586-026-01500-0
 
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/s41586-026-10608-2 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0 Andrew Robinson reviews five of the best science picks.
 
-## 2. There is no vaccine for deadly hantavirus: what that means for future outbreaks
+## 2. ‘Undruggable’ cancer proteins meet their match
 
 - 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01494-9
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01447-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01494-9
+- 链接：https://www.nature.com/articles/d41586-026-01447-2
 
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01447-2 People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.
 
-## 3. Early-career researchers do more ‘disruptive’ science than veterans
+## 3. World-leading climate centre takes Trump administration to court
 
 - 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01466-z
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01501-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01466-z
+- 链接：https://www.nature.com/articles/d41586-026-01501-z
 
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01466-z Analysis of papers from millions of scientists shows that older researchers tend to stick with ideas from their past.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01501-z Universities that run the National Center for Atmospheric Research want to keep it from being dismantled.
 
-## 4. OpenAI is under criminal investigation — why chatbots don’t always follow the law
+## 4. Goodbye GDP? 31 ways to replace the world's favourite measure of economic health
 
 - 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01405-y
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01511-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01405-y
+- 链接：https://www.nature.com/articles/d41586-026-01511-x
 
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01405-y A person accused of murder in Florida allegedly sought ChatGPT's advice to plan the crime.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01511-x Proposed UN progress indicators include greenhouse gas emissions, life expectancy and children's performance in reading and maths.
 
-## 5. My English skills are hurting my chances in academic publishing — how can I improve?
+## 5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
 
 - 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01350-w
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-00748-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01350-w
+- 链接：https://www.nature.com/articles/d41586-026-00748-w
 
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01350-w A non-fluent English speaker struggles to navigate language barriers in academic publishing.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-00748-w An analysis of 97 million citations has found that rates of fabricated citations have climbed steeply since 2023.
 
-## 6. Plasticity and language in the anaesthetized human hippocampus
+## 6. World’s largest forest research agency faces severe cutback by Trump administration
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10448-0
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01493-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10448-0
+- 链接：https://www.nature.com/articles/d41586-026-01493-w
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10448-0 In the hippocampus, complex processing of sensory stimuli occurs even in the unconscious state.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01493-w The US Forest Service has proposed closing some three-quarters of its research sites in a move that has provoked widespread fear and uncertainty.
 
-## 7. Genome-wide sweeps create ecological units in the human gut microbiome
+## 7. Three mental-health claims from RFK’s wellness movement: what scientists say
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10476-w
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01449-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10476-w
+- 链接：https://www.nature.com/articles/d41586-026-01449-0
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10476-w Genome-wide selective sweeps commonly occur in the human gut microbiome and can spread across the world within decades to produce epidemic-like population structures.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01449-0 The Make America Healthy Again movement asserts that over-prescription of drugs for mental-health conditions is rife in the United States.
 
-## 8. Tree community resource economics control soil food web multifunctionality
+## 8. Matter of taste
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10455-1
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01079-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10455-1
+- 链接：https://www.nature.com/articles/d41586-026-01079-6
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10455-1 Plant community properties affect ecosystem functioning via energy fluxes in food webs, with the leaf and root resource economics of dominant tree species controlling soil food web...
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01079-6 It’s hard to swallow.
 
-## 9. Prefrontal to ventral tegmental area dynamics drive contingency degradation
+## 9. A life in pictures: celebrating David Attenborough at 100
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10443-5
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01371-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10443-5
+- 链接：https://www.nature.com/articles/d41586-026-01371-5
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10443-5 This work provides a mechanistic understanding of how certain prefrontal circuits in the rodent brain permit flexibility to selectively stop learned behaviours through interactions with...
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.
 
-## 10. Steric hindrance of antibody binding in an Omicron spike fusion intermediate
+## 10. How a passion for baking fermented a fresh career move
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10462-2
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01390-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10462-2
+- 链接：https://www.nature.com/articles/d41586-026-01390-2
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10462-2 The SARS-CoV-2 Omicron variant escapes neutralization by antibodies targeting the pan-coronavirus epitope in a spike fusion intermediate via steric hindrance, but reducing the antibody...
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.
