@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-09 04:04
+生成时间：2026-05-10 04:33
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Radioactive rain and proving relativity: Books in brief
+## 1. Happy 100th birthday David Attenborough! Nature salutes you
 
 - 期刊：Nature
 - 日期：2026-05-08
-- DOI：10.1038/d41586-026-01500-0
+- DOI：10.1038/d41586-026-01473-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01500-0
+- 链接：https://www.nature.com/articles/d41586-026-01473-0
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0 Andrew Robinson reviews five of the best science picks.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01473-0 The science communicator has raised awareness of the natural world andits myriad interconnections on which humans depend.
 
-## 2. ‘Undruggable’ cancer proteins meet their match
+## 2. Trafficked pangolins can be traced to their source by DNA — even to a specific forest
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01447-2
+- 日期：2026-05-07
+- DOI：10.1038/d41586-026-01446-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01447-2
+- 链接：https://www.nature.com/articles/d41586-026-01446-3
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01447-2 People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.
+摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01446-3 A method reveals that some local wild-meat markets share the same supply chains as global smuggling operations.
 
-## 3. World-leading climate centre takes Trump administration to court
+## 3. Daily briefing: A stunningly detailed map of the Universe and the month’s best science images
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01501-z
+- 日期：2026-05-07
+- DOI：10.1038/d41586-026-01508-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01501-z
+- 链接：https://www.nature.com/articles/d41586-026-01508-6
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01501-z Universities that run the National Center for Atmospheric Research want to keep it from being dismantled.
+摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01508-6 The month’s most spectacular science images. Plus, the surprising activity in the unconscious brain.
 
-## 4. Goodbye GDP? 31 ways to replace the world's favourite measure of economic health
+## 4. Purcell-enhanced spin–phonon coupling with a single colour centre
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01511-x
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10495-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01511-x
+- 链接：https://www.nature.com/articles/s41586-026-10495-7
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01511-x Proposed UN progress indicators include greenhouse gas emissions, life expectancy and children's performance in reading and maths.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10495-7 The acoustic Purcell effect is observed by constructing a specially engineered, microwave-frequency nanomechanical resonator around a colour centre spin qubit in diamond.
 
-## 5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
+## 5. Predicting temporal stability and resilience from resistance and recovery
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-00748-w
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10498-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00748-w
+- 链接：https://www.nature.com/articles/s41586-026-10498-4
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-00748-w An analysis of 97 million citations has found that rates of fabricated citations have climbed steeply since 2023.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10498-4 New predictions for how temporal stability and resilience depend on their resistance and recovery components are explored.
 
-## 6. World’s largest forest research agency faces severe cutback by Trump administration
+## 6. HIV-1 signalling remodels nuclear pores to licence infection
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01493-w
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10453-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01493-w
+- 链接：https://www.nature.com/articles/s41586-026-10453-3
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01493-w The US Forest Service has proposed closing some three-quarters of its research sites in a move that has provoked widespread fear and uncertainty.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10453-3 HIV-1 capsid nuclear import at the nuclear pore complex is a bottleneck to resting T cell infection, but HIV-1 overcomes this by triggering receptor-mediated signalling during cell–cell...
 
-## 7. Three mental-health claims from RFK’s wellness movement: what scientists say
+## 7. Specific expansion of motor cortical projections in a singing mouse
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01449-0
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10458-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01449-0
+- 链接：https://www.nature.com/articles/s41586-026-10458-y
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01449-0 The Make America Healthy Again movement asserts that over-prescription of drugs for mental-health conditions is rife in the United States.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10458-y High-throughput barcoded neuroanatomy of two closely related rodent species with divergent vocalizations reveals differences in long-range projection motifs in the brain that may support...
 
-## 8. Matter of taste
+## 8. Quantum coherent manipulation and readout of superconducting vortex states
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01079-6
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10441-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01079-6
+- 链接：https://www.nature.com/articles/s41586-026-10441-7
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01079-6 It’s hard to swallow.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10441-7 Vortices trapped in superconducting granular aluminium films can behave as a quantum two-level system that can be manipulated and read out, suggesting that they could be used for future...
 
-## 9. A life in pictures: celebrating David Attenborough at 100
+## 9. Imaging the flat bands of magic-angle graphene reshaped by interactions
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01371-5
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10378-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01371-5
+- 链接：https://www.nature.com/articles/s41586-026-10378-x
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10378-x Quantum twisting microscopy is used to directly image the interacting energy bands of magic-angle twisted bilayer graphene, allowing characterization of the dual nature of its electrons...
 
-## 10. How a passion for baking fermented a fresh career move
+## 10. Deforestation-induced drying lowers Amazon climate threshold
 
 - 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01390-2
+- 日期：2026-05-06
+- DOI：10.1038/s41586-026-10456-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01390-2
+- 链接：https://www.nature.com/articles/s41586-026-10456-0
 
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10456-0 The Amazon forest faces a near system-wide transition of 62−77% of the area under a combination of 1.5–1.9 °C global warming and 22−28% deforestation.
