@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-10 04:33
+生成时间：2026-05-11 04:45
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Happy 100th birthday David Attenborough! Nature salutes you
-
-- 期刊：Nature
-- 日期：2026-05-08
-- DOI：10.1038/d41586-026-01473-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01473-0
-
-摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01473-0 The science communicator has raised awareness of the natural world andits myriad interconnections on which humans depend.
-
-## 2. Trafficked pangolins can be traced to their source by DNA — even to a specific forest
-
-- 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01446-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01446-3
-
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01446-3 A method reveals that some local wild-meat markets share the same supply chains as global smuggling operations.
-
-## 3. Daily briefing: A stunningly detailed map of the Universe and the month’s best science images
-
-- 期刊：Nature
-- 日期：2026-05-07
-- DOI：10.1038/d41586-026-01508-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01508-6
-
-摘要精简：Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01508-6 The month’s most spectacular science images. Plus, the surprising activity in the unconscious brain.
-
-## 4. Purcell-enhanced spin–phonon coupling with a single colour centre
+## 1. Molecular skeleton programming of premediators in sulfur electrochemistry
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10495-7
+- DOI：10.1038/s41586-026-10505-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10495-7
+- 链接：https://www.nature.com/articles/s41586-026-10505-8
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10495-7 The acoustic Purcell effect is observed by constructing a specially engineered, microwave-frequency nanomechanical resonator around a colour centre spin qubit in diamond.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10505-8 A potential premediator, 2-chloropyrimidine, could be a model material for molecular skeleton design enabling lithium–sulfur batteries to achieve a strong average capacity retention and...
 
-## 5. Predicting temporal stability and resilience from resistance and recovery
+## 2. A brain reward circuit inhibited by next-generation weight-loss drugs in mice
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10498-4
+- DOI：10.1038/s41586-026-10444-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10498-4
+- 链接：https://www.nature.com/articles/s41586-026-10444-4
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10498-4 New predictions for how temporal stability and resilience depend on their resistance and recovery components are explored.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10444-4 Humanized glucagon-like peptide 1 receptor (GLP1R) mouse models are used to investigate the neural circuitry through which small-molecule GLP1R agonists modulate feeding, with...
 
-## 6. HIV-1 signalling remodels nuclear pores to licence infection
+## 3. Extreme galaxy-scale outflows are frequent among luminous early quasars
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10453-3
+- DOI：10.1038/s41586-026-10477-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10453-3
+- 链接：https://www.nature.com/articles/s41586-026-10477-9
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10453-3 HIV-1 capsid nuclear import at the nuclear pore complex is a bottleneck to resting T cell infection, but HIV-1 overcomes this by triggering receptor-mediated signalling during cell–cell...
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10477-9 James Webb Space Telescope observations show powerful high-redshift quasar outflows, supporting quasar feedback as a key mechanism driving rapid star-formation quenching in early massive...
 
-## 7. Specific expansion of motor cortical projections in a singing mouse
+## 4. Androgen loss accelerates brain tumour growth via HPA axis activation
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10458-y
+- DOI：10.1038/s41586-026-10451-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10458-y
+- 链接：https://www.nature.com/articles/s41586-026-10451-5
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10458-y High-throughput barcoded neuroanatomy of two closely related rodent species with divergent vocalizations reveals differences in long-range projection motifs in the brain that may support...
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10451-5 Androgens have distinct roles in the brain, acting as immune-based tumour suppressors through neuroinflammation and neuroendocrine mechanisms.
 
-## 8. Quantum coherent manipulation and readout of superconducting vortex states
+## 5. Two decades of PARP inhibitor synthetic lethality in cancer
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10441-7
+- DOI：10.1038/s41586-026-10404-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10441-7
+- 链接：https://www.nature.com/articles/s41586-026-10404-y
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10441-7 Vortices trapped in superconducting granular aluminium films can behave as a quantum two-level system that can be manipulated and read out, suggesting that they could be used for future...
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10404-y The past two decades of PARP inhibitor synthetic lethality in cancer is explored.
 
-## 9. Imaging the flat bands of magic-angle graphene reshaped by interactions
+## 6. Systematic partisan content skews in TikTok during the 2024 US elections
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10378-x
+- DOI：10.1038/s41586-026-10447-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10378-x
+- 链接：https://www.nature.com/articles/s41586-026-10447-1
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10378-x Quantum twisting microscopy is used to directly image the interacting energy bands of magic-angle twisted bilayer graphene, allowing characterization of the dual nature of its electrons...
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10447-1 Audit experiments on TikTok show asymmetric partisan exposure that is not explained by observable engagement metrics, with Republican-leaning accounts receiving more aligned content and...
 
-## 10. Deforestation-induced drying lowers Amazon climate threshold
+## 7. Multiplexed magnetic resonance imaging
 
 - 期刊：Nature
 - 日期：2026-05-06
-- DOI：10.1038/s41586-026-10456-0
+- DOI：10.1038/s41586-026-10475-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10456-0
+- 链接：https://www.nature.com/articles/s41586-026-10475-x
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10456-0 The Amazon forest faces a near system-wide transition of 62−77% of the area under a combination of 1.5–1.9 °C global warming and 22−28% deforestation.
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10475-x A new approach to magnetic resonance imaging, ‘multiplexed magnetic resonance imaging’, is reported, which enables high-resolution simultaneous multiparametric mapping of multiple...
+
+## 8. Origin story
+
+- 期刊：Nature
+- 日期：2026-05-06
+- DOI：10.1038/d41586-026-01077-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01077-8
+
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01077-8 Plans for expansion.
+
+## 9. The lights are out but someone’s home: sensory processing in anaesthetized human brains
+
+- 期刊：Nature
+- 日期：2026-05-06
+- DOI：10.1038/d41586-026-01310-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01310-4
+
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01310-4 Detailed neural recordings were made from a brain structure called the hippocampus in unconscious anaesthetized people. Neuronal activity responded to ‘oddballs’ in a series of auditory...
+
+## 10. Towards disentangling human-induced drivers of precipitation trends from naturally occurring ones
+
+- 期刊：Nature
+- 日期：2026-05-06
+- DOI：10.1038/d41586-026-01419-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01419-6
+
+摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01419-6 Combining climate models with statistical learning allows an assessment of the relative contributions of different factors to trends in winter precipitation at mid-latitudes....
