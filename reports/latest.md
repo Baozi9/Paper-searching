@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-11 04:45
+生成时间：2026-05-12 04:24
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Molecular skeleton programming of premediators in sulfur electrochemistry
+## 1. Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10505-8
+- 日期：2026-05-11
+- DOI：10.1038/s41586-026-10578-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10505-8
+- 链接：https://www.nature.com/articles/s41586-026-10578-5
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10505-8 A potential premediator, 2-chloropyrimidine, could be a model material for molecular skeleton design enabling lithium–sulfur batteries to achieve a strong average capacity retention and...
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5 Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome
 
-## 2. A brain reward circuit inhibited by next-generation weight-loss drugs in mice
+## 2. Audio long read: The air is full of DNA — here’s what scientists are using it for
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10444-4
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01522-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10444-4
+- 链接：https://www.nature.com/articles/d41586-026-01522-8
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10444-4 Humanized glucagon-like peptide 1 receptor (GLP1R) mouse models are used to investigate the neural circuitry through which small-molecule GLP1R agonists modulate feeding, with...
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01522-8 Floating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm.
 
-## 3. Extreme galaxy-scale outflows are frequent among luminous early quasars
+## 3. The sleep paradox: why do humans sleep so little when we need it so much?
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10477-9
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01478-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10477-9
+- 链接：https://www.nature.com/articles/d41586-026-01478-9
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10477-9 James Webb Space Telescope observations show powerful high-redshift quasar outflows, supporting quasar feedback as a key mechanism driving rapid star-formation quenching in early massive...
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01478-9 A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for how each of us can sleep better.
 
-## 4. Androgen loss accelerates brain tumour growth via HPA axis activation
+## 4. Elsevier vs Meta: first science publisher sues over scraped research papers
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10451-5
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01481-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10451-5
+- 链接：https://www.nature.com/articles/d41586-026-01481-0
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10451-5 Androgens have distinct roles in the brain, acting as immune-based tumour suppressors through neuroinflammation and neuroendocrine mechanisms.
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01481-0 Science publishing giant Elsevier has joined a class-action lawsuit against Meta that alleges the reproduction of copyrighted works in developing the Llama AI model.
 
-## 5. Two decades of PARP inhibitor synthetic lethality in cancer
+## 5. Best. Day. Ever. What does a good day in science look like?
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10404-y
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01479-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10404-y
+- 链接：https://www.nature.com/articles/d41586-026-01479-8
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10404-y The past two decades of PARP inhibitor synthetic lethality in cancer is explored.
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01479-8 Struggling to remember why you picked a career in science? Here are some heart-warming tales to jog your memory.
 
-## 6. Systematic partisan content skews in TikTok during the 2024 US elections
+## 6. Hantavirus outbreak exposes uncertainty about how disease spreads
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10447-1
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01512-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10447-1
+- 链接：https://www.nature.com/articles/d41586-026-01512-w
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10447-1 Audit experiments on TikTok show asymmetric partisan exposure that is not explained by observable engagement metrics, with Republican-leaning accounts receiving more aligned content and...
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01512-w Passengers who were on the cruise ship MV Hondius will quarantine in their home countries.
 
-## 7. Multiplexed magnetic resonance imaging
+## 7. Giant map reveals thousands of cities worldwide with successful green policies
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/s41586-026-10475-x
+- 日期：2026-05-11
+- DOI：10.1038/d41586-026-01491-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10475-x
+- 链接：https://www.nature.com/articles/d41586-026-01491-y
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10475-x A new approach to magnetic resonance imaging, ‘multiplexed magnetic resonance imaging’, is reported, which enables high-resolution simultaneous multiparametric mapping of multiple...
+摘要精简：Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01491-y Greenhouse-gas emissions from burning fossil fuel have been mapped across thousands of cities worldwide.
 
-## 8. Origin story
+## 8. Briefing Chat: Can’t focus? It’s not your attention span, it’s your notifications
 
 - 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/d41586-026-01077-8
+- 日期：2026-05-08
+- DOI：10.1038/d41586-026-01510-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01077-8
+- 链接：https://www.nature.com/articles/d41586-026-01510-y
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01077-8 Plans for expansion.
+摘要精简：Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01510-y Nature staff discuss some of the week’s top science news.
 
-## 9. The lights are out but someone’s home: sensory processing in anaesthetized human brains
+## 9. Automated device for permitting free movement during simultaneous photometry and electrophysiology in mice
 
-- 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/d41586-026-01310-4
+- 期刊：Nature Methods
+- 日期：2026-05-11
+- DOI：10.1038/s41592-026-03092-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01310-4
+- 链接：https://www.nature.com/articles/s41592-026-03092-z
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01310-4 Detailed neural recordings were made from a brain structure called the hippocampus in unconscious anaesthetized people. Neuronal activity responded to ‘oddballs’ in a series of auditory...
+摘要精简：Nature Methods, Published online: 11 May 2026; doi:10.1038/s41592-026-03092-z A device for simultaneous photometry and electrophysiology allows recordings in freely moving mice without restriction or inhibition of movement or entanglement of the fiber and...
 
-## 10. Towards disentangling human-induced drivers of precipitation trends from naturally occurring ones
+## 10. ‘FILMing’ the metabolic landscape of individual cell organelles
 
-- 期刊：Nature
-- 日期：2026-05-06
-- DOI：10.1038/d41586-026-01419-6
+- 期刊：Nature Methods
+- 日期：2026-05-07
+- DOI：10.1038/s41592-026-03091-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01419-6
+- 链接：https://www.nature.com/articles/s41592-026-03091-0
 
-摘要精简：Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01419-6 Combining climate models with statistical learning allows an assessment of the relative contributions of different factors to trends in winter precipitation at mid-latitudes....
+摘要精简：Nature Methods, Published online: 07 May 2026; doi:10.1038/s41592-026-03091-0 Optical boxcar-enhanced fluorescence-detected mid-infrared photothermal microscopy (FILM), together with artificial intelligence-assisted data processing, maps the chemical...
