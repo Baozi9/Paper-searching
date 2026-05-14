@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-13 04:31
+生成时间：2026-05-14 04:30
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Predictive coding of reward in the hippocampus
+## 1. Stereoelectronic manipulation of ligands for perovskite solar cells
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/s41586-026-10615-3
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10626-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10615-3
+- 链接：https://www.nature.com/articles/s41586-026-10626-0
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10615-3 Author Correction: Predictive coding of reward in the hippocampus
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10626-0 Stereoelectronic manipulation of ligands for perovskite solar cells
 
-## 2. Author Correction: A mechanical ratchet drives unilateral cytokinesis
+## 2. The hunt for the next antibiotics
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/s41586-026-10618-0
+- 日期：2026-05-13
+- DOI：10.1038/d41586-026-01424-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10618-0
+- 链接：https://www.nature.com/articles/d41586-026-01424-9
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/s41586-026-10618-0 Author Correction: A mechanical ratchet drives unilateral cytokinesis
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9 To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.
 
-## 3. Cruise-ship hantavirus cluster exposes a wider preparedness gap
+## 3. Red-light therapy is all the rage — does it work?
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01518-4
+- 日期：2026-05-13
+- DOI：10.1038/d41586-026-01547-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01518-4
+- 链接：https://www.nature.com/articles/d41586-026-01547-z
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01518-4 Cruise-ship hantavirus cluster exposes a wider preparedness gap
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-z There are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity...
 
-## 4. Charles Darwin reports a squirrel surprise
+## 4. Pristine Antarctic ice records the Solar System’s travels
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01334-w
+- 日期：2026-05-13
+- DOI：10.1038/d41586-026-01505-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01334-w
+- 链接：https://www.nature.com/articles/d41586-026-01505-9
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01334-w An unexpected creature munches on cherry blossom flowers, and the value of drawing art is considered in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9 Rare isotopes hint at when the Solar System entered the Local Interstellar Cloud.
 
-## 5. UK Biobank breach prompts the field of genomics to rethink open science
+## 5. An ultra-faint, chemically primitive galaxy forming in the reionization era
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01520-w
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10374-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01520-w
+- 链接：https://www.nature.com/articles/s41586-026-10374-1
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01520-w UK Biobank breach prompts the field of genomics to rethink open science
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1 LAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an...
 
-## 6. Ice core reveals longest-ever continuous record of Earth’s climate
+## 6. More concentrated precipitation decreases terrestrial water storage
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01523-7
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10487-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01523-7
+- 链接：https://www.nature.com/articles/s41586-026-10487-7
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01523-7 Data from Antarctica could help to solve the mystery of why ice ages were so brutal.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7 Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.
 
-## 7. Animal-testing alternatives will require a cultural change in research institutions
+## 7. Efficient robot navigation inspired by honeybee learning flights
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01519-3
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10461-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01519-3
+- 链接：https://www.nature.com/articles/s41586-026-10461-3
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01519-3 Animal-testing alternatives will require a cultural change in research institutions
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3 A highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means...
 
-## 8. Chemistry in the AI era
+## 8. Sustaining microglial reparative function enhances stroke recovery
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01521-9
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10480-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01521-9
+- 链接：https://www.nature.com/articles/s41586-026-10480-0
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01521-9 Chemistry in the AI era
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0 Reparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using...
 
-## 9. Bacterial−viral conflicts shape cholera evolution
+## 9. Adaptive cellular evolution in the intestine of hyperdiverse cichlid fishes
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01156-w
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10494-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01156-w
+- 链接：https://www.nature.com/articles/s41586-026-10494-8
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01156-w Genomics and experimental data suggest that an evolutionary arms race between cholera-causing bacteria and their viral predators shapes the disease in humans.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10494-8 Single-cell transcriptomics combined with morphological and ecological data show that the rapid evolutionary radiation of cichlid fishes in Lake Tanganyika was accompanied by dietary...
 
-## 10. Science can take the lead in making better measures of economic growth
+## 10. Long-term editing of brain circuits using an engineered electrical synapse
 
 - 期刊：Nature
-- 日期：2026-05-12
-- DOI：10.1038/d41586-026-01474-z
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10501-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01474-z
+- 链接：https://www.nature.com/articles/s41586-026-10501-y
 
-摘要精简：Nature, Published online: 12 May 2026; doi:10.1038/d41586-026-01474-z The United Nations wants scientists to help design indicators of progress that go beyond GDP. Researchers should seize the chance and be aware of past failures.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10501-y Connexin proteins found in white perch fish were used to engineer synthetic electrical synapses, enabling precision circuit editing in mammals.
