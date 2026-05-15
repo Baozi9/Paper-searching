@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-14 04:30
+生成时间：2026-05-15 04:36
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Stereoelectronic manipulation of ligands for perovskite solar cells
+## 1. Author Correction: Postprandial lipid metabolism durably enhances T cell immunity
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/s41586-026-10620-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10620-6
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6 Author Correction: Postprandial lipid metabolism durably enhances T cell immunity
+
+## 2. Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/s41586-026-10573-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10573-w
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis
+
+## 3. NIH staffing shortage could slash number of new grants issued this year
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01537-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01537-1
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01537-1 Some units at the US funding giant are so understaffed, they are focusing on mandated grant renewals rather than new awards.
+
+## 4. Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01549-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01549-x
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01549-x Health-evidence reviewers reverse recommendation on a blood test that detects a biomarker of a common cancer after decades of controversy.
+
+## 5. Are we really headed for a ‘super’ El Niño? What the science says
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01538-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01538-0
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0 An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity.
+
+## 6. Hallucinated citations highest in social sciences preprints site
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01545-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01545-1
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01545-1 More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone.
+
+## 7. Immune cells in the blood drive cognitive ageing — blocking them improves memory
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01531-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01531-7
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01531-7 Old T cells secrete an enzyme that can impair brain function in mice.
+
+## 8. Mental-health research is too often invisible — it is time to change that
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-01550-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01550-4
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4 Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.
+
+## 9. Procrastination, productivity and inspiration: how research is like designing video games
+
+- 期刊：Nature
+- 日期：2026-05-14
+- DOI：10.1038/d41586-026-00895-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-00895-0
+
+摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-00895-0 After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning.
+
+## 10. State media control influences large language models
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10626-0
+- DOI：10.1038/s41586-026-10506-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10626-0
+- 链接：https://www.nature.com/articles/s41586-026-10506-7
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10626-0 Stereoelectronic manipulation of ligands for perovskite solar cells
-
-## 2. The hunt for the next antibiotics
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01424-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01424-9
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9 To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.
-
-## 3. Red-light therapy is all the rage — does it work?
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01547-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01547-z
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-z There are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity...
-
-## 4. Pristine Antarctic ice records the Solar System’s travels
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01505-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01505-9
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9 Rare isotopes hint at when the Solar System entered the Local Interstellar Cloud.
-
-## 5. An ultra-faint, chemically primitive galaxy forming in the reionization era
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10374-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10374-1
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1 LAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an...
-
-## 6. More concentrated precipitation decreases terrestrial water storage
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10487-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10487-7
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7 Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.
-
-## 7. Efficient robot navigation inspired by honeybee learning flights
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10461-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10461-3
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3 A highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means...
-
-## 8. Sustaining microglial reparative function enhances stroke recovery
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10480-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10480-0
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0 Reparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using...
-
-## 9. Adaptive cellular evolution in the intestine of hyperdiverse cichlid fishes
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10494-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10494-8
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10494-8 Single-cell transcriptomics combined with morphological and ecological data show that the rapid evolutionary radiation of cichlid fishes in Lake Tanganyika was accompanied by dietary...
-
-## 10. Long-term editing of brain circuits using an engineered electrical synapse
-
-- 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10501-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10501-y
-
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10501-y Connexin proteins found in white perch fish were used to engineer synthetic electrical synapses, enabling precision circuit editing in mammals.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a...
