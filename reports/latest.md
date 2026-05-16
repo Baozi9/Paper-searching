@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-15 04:36
+生成时间：2026-05-16 04:10
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Postprandial lipid metabolism durably enhances T cell immunity
+## 1. Even mild blows to the head disrupt the microbiome
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/s41586-026-10620-6
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01504-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10620-6
+- 链接：https://www.nature.com/articles/d41586-026-01504-w
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6 Author Correction: Postprandial lipid metabolism durably enhances T cell immunity
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01504-w Some bacterial species became less abundant in the guts of American football players as the season progressed.
 
-## 2. Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis
+## 2. Briefing Chat: Hantavirus — what this outbreak reveals about the disease
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/s41586-026-10573-w
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01575-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10573-w
+- 链接：https://www.nature.com/articles/d41586-026-01575-9
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01575-9 Nature staff discuss some of the week's top science news.
 
-## 3. NIH staffing shortage could slash number of new grants issued this year
+## 3. Bespoke DNA vaccine offers hope for treatment of notorious brain cancer
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01537-1
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01503-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01537-1
+- 链接：https://www.nature.com/articles/d41586-026-01503-x
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01537-1 Some units at the US funding giant are so understaffed, they are focusing on mandated grant renewals rather than new awards.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01503-x The personalized treatment encourages the immune system to attack the tumours called glioblastomas.
 
-## 4. Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings
+## 4. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01549-x
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01558-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01549-x
+- 链接：https://www.nature.com/articles/d41586-026-01558-w
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01549-x Health-evidence reviewers reverse recommendation on a blood test that detects a biomarker of a common cancer after decades of controversy.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01558-w Eight of the top ten officials at the US National Institute of Allergy and Infectious Diseases have now been pushed out since President Donald Trump took office.
 
-## 5. Are we really headed for a ‘super’ El Niño? What the science says
+## 5. Running a farm, pursuing a research career: what’s the difference?
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01538-0
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01391-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01538-0
+- 链接：https://www.nature.com/articles/d41586-026-01391-1
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0 An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.
 
-## 6. Hallucinated citations highest in social sciences preprints site
+## 6. Mouse eyes photosynthesize after plant-to-animal transplant
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01545-1
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01559-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01545-1
+- 链接：https://www.nature.com/articles/d41586-026-01559-9
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01545-1 More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01559-9 Could spinach extracts be the next treatment for dry-eye disease?
 
-## 7. Immune cells in the blood drive cognitive ageing — blocking them improves memory
+## 7. Serebral
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01531-7
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01083-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01531-7
+- 链接：https://www.nature.com/articles/d41586-026-01083-w
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01531-7 Old T cells secrete an enzyme that can impair brain function in mice.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01083-w Forging connections.
 
-## 8. Mental-health research is too often invisible — it is time to change that
+## 8. US biology lab locked down for more than a week amid smuggling inquiry
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-01550-4
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01590-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01550-4
+- 链接：https://www.nature.com/articles/d41586-026-01590-w
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4 Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01590-w The Trump administration has spent months investigating the lab after a Chinese postdoc was charged with smuggling biological material into the country.
 
-## 9. Procrastination, productivity and inspiration: how research is like designing video games
+## 9. Genetic survey exposes flaws in widely used mouse models
 
 - 期刊：Nature
-- 日期：2026-05-14
-- DOI：10.1038/d41586-026-00895-0
+- 日期：2026-05-15
+- DOI：10.1038/d41586-026-01534-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00895-0
+- 链接：https://www.nature.com/articles/d41586-026-01534-4
 
-摘要精简：Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-00895-0 After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning.
+摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4 A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.
 
-## 10. State media control influences large language models
+## 10. Enhanced response of extreme compound events to cumulative CO 2 emissions
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10506-7
+- DOI：10.1038/s41586-026-10544-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10506-7
+- 链接：https://www.nature.com/articles/s41586-026-10544-1
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C...
