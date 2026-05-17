@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-16 04:10
+生成时间：2026-05-17 04:40
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Even mild blows to the head disrupt the microbiome
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01504-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01504-w
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01504-w Some bacterial species became less abundant in the guts of American football players as the season progressed.
-
-## 2. Briefing Chat: Hantavirus — what this outbreak reveals about the disease
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01575-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01575-9
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01575-9 Nature staff discuss some of the week's top science news.
-
-## 3. Bespoke DNA vaccine offers hope for treatment of notorious brain cancer
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01503-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01503-x
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01503-x The personalized treatment encourages the immune system to attack the tumours called glioblastomas.
-
-## 4. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01558-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01558-w
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01558-w Eight of the top ten officials at the US National Institute of Allergy and Infectious Diseases have now been pushed out since President Donald Trump took office.
-
-## 5. Running a farm, pursuing a research career: what’s the difference?
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01391-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01391-1
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.
-
-## 6. Mouse eyes photosynthesize after plant-to-animal transplant
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01559-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01559-9
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01559-9 Could spinach extracts be the next treatment for dry-eye disease?
-
-## 7. Serebral
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01083-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01083-w
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01083-w Forging connections.
-
-## 8. US biology lab locked down for more than a week amid smuggling inquiry
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01590-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01590-w
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01590-w The Trump administration has spent months investigating the lab after a Chinese postdoc was charged with smuggling biological material into the country.
-
-## 9. Genetic survey exposes flaws in widely used mouse models
-
-- 期刊：Nature
-- 日期：2026-05-15
-- DOI：10.1038/d41586-026-01534-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01534-4
-
-摘要精简：Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4 A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.
-
-## 10. Enhanced response of extreme compound events to cumulative CO 2 emissions
+## 1. Enamel proteins from six Homo erectus specimens across China
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10544-1
+- DOI：10.1038/s41586-026-10478-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10544-1
+- 链接：https://www.nature.com/articles/s41586-026-10478-8
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10478-8 Palaeoproteomic analysis of ancient enamel proteins extracted from Middle Pleistocene Homo erectus specimens from the Zhoukoudian, Hexian and Sunjiadong sites in China suggests that they...
+
+## 2. Twenty-first century emergence of alpine fire in Central African mountains
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10511-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10511-w
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10511-w A twenty-first century fire is shown to be the first to have affected a high-elevation region in the central African mountains in the past 12,000 years, and previous burning at mid-...
+
+## 3. Ecotypes of triple-negative breast cancer in response to chemotherapy
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10469-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10469-9
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10469-9 Treatment data for triple-negative breast cancer show the importance of macrophage subtypes and cancer-cell metaprograms for interferon signalling, HLA expression and cell cycle activity...
+
+## 4. Gaussian boson sampling with 1,024 squeezed states in 8,176 modes
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10523-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10523-6
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10523-6 A programmable photonic quantum processor, Jiuzhang 4.0, incorporates 1,024 high-efficiency squeezed states into a hybrid spatial–temporal encoded 8,176-mode circuit.
+
+## 5. Lineage and organ signals sequentially build organ intrinsic nervous systems
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10490-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10490-y
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10490-y Systems-level analyses of organ intrinsic nervous systems reveal that these networks are initially configured by lineage-dependent programmes, and their architecture and molecular...
+
+## 6. SNOR promotes translation restart after dormancy
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10530-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10530-7
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10530-7 High-resolution in situ cryo-electron tomography in Schizosaccharomyces pombe identifies SNOR protein, which binds to ribosomes during dormancy induced by glucose depletion, priming them...
+
+## 7. Mesoscale atomic engineering in a crystal lattice
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10431-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10431-9
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10431-9 Electron-beam control enables deterministic placement of tens of thousands of atomic defects in three-dimensional crystals, creating stable, programmable artificial matter for scalable...
+
+## 8. Subspace communication in the hippocampal–retrosplenial axis
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10481-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10481-z
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10481-z Hippocampal–neocortical communication reconfigures predetermined circuit motifs to flexibly encode experiences.
+
+## 9. Large-scale discovery, analysis and design of protein energy landscapes
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10465-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10465-z
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10465-z An analysis of 5,778 domains 28–64 amino acids in length reveals hidden variation in conformational fluctuations, even between sequences sharing the same fold and global folding stability.
+
+## 10. Asymmetric splitting in dividing lipid-nucleotide multilamellar droplets
+
+- 期刊：Nature
+- 日期：2026-05-13
+- DOI：10.1038/s41586-026-10489-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10489-5
+
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10489-5 Structured liquid droplets exhibit asymmetric division in the absence of reconstituted protein machinery.
