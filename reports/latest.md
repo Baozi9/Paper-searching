@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-17 04:40
+生成时间：2026-05-18 04:51
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Enamel proteins from six Homo erectus specimens across China
+## 1. Sleep chart of biological ageing clocks in middle and late life
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10478-8
+- DOI：10.1038/s41586-026-10524-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10478-8
+- 链接：https://www.nature.com/articles/s41586-026-10524-5
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10478-8 Palaeoproteomic analysis of ancient enamel proteins extracted from Middle Pleistocene Homo erectus specimens from the Zhoukoudian, Hexian and Sunjiadong sites in China suggests that they...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10524-5 A cross-organ, multi-omics U-shaped relationship between sleep duration and biological ageing clocks highlights the potential of sleep optimization to promote healthy ageing, lower...
 
-## 2. Twenty-first century emergence of alpine fire in Central African mountains
+## 2. Developmental gene expression patterns driving species-specific cortical features
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10511-w
+- DOI：10.1038/s41586-026-10491-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10511-w
+- 链接：https://www.nature.com/articles/s41586-026-10491-x
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10511-w A twenty-first century fire is shown to be the first to have affected a high-elevation region in the central African mountains in the past 12,000 years, and previous burning at mid-...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10491-x Machine learning analysis of cell-type-specific gene expression in mouse and human neocortex and human cortical organoids reveals human-specific cell-type and temporal variations in...
 
-## 3. Ecotypes of triple-negative breast cancer in response to chemotherapy
+## 3. Obesity rise plateaus in developed nations and accelerates in developing nations
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10469-9
+- DOI：10.1038/s41586-026-10383-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10469-9
+- 链接：https://www.nature.com/articles/s41586-026-10383-0
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10469-9 Treatment data for triple-negative breast cancer show the importance of macrophage subtypes and cancer-cell metaprograms for interferon signalling, HLA expression and cell cycle activity...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10383-0 Global analysis of obesity trends from 1980 to 2024 in 200 countries and territories using data from 4,050 population-based studies reveals that framing obesity as a single global...
 
-## 4. Gaussian boson sampling with 1,024 squeezed states in 8,176 modes
+## 4. Eosinophils drive intestinal remodelling and innate defence in reproduction
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10523-6
+- DOI：10.1038/s41586-026-10531-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10523-6
+- 链接：https://www.nature.com/articles/s41586-026-10531-6
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10523-6 A programmable photonic quantum processor, Jiuzhang 4.0, incorporates 1,024 high-efficiency squeezed states into a hybrid spatial–temporal encoded 8,176-mode circuit.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10531-6 From pregnancy until lactation, eosinophils accumulate in the small intestine where they regulate goblet cell fate and enhance innate defences against enteric pathogens.
 
-## 5. Lineage and organ signals sequentially build organ intrinsic nervous systems
+## 5. A synaptic locus of song learning
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10490-y
+- DOI：10.1038/s41586-026-10510-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10490-y
+- 链接：https://www.nature.com/articles/s41586-026-10510-x
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10490-y Systems-level analyses of organ intrinsic nervous systems reveal that these networks are initially configured by lineage-dependent programmes, and their architecture and molecular...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10510-x Combining a computational framework and optogenetic and chemogenetic manipulations within and downstream of the cortico-basal ganglia circuit identifies the specific cortico-basal ganglia...
 
-## 6. SNOR promotes translation restart after dormancy
+## 6. An X-linked long non-coding RNA, PTCHD1-AS , and the core features of autism
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10530-7
+- DOI：10.1038/s41586-026-10515-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10530-7
+- 链接：https://www.nature.com/articles/s41586-026-10515-6
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10530-7 High-resolution in situ cryo-electron tomography in Schizosaccharomyces pombe identifies SNOR protein, which binds to ribosomes during dormancy induced by glucose depletion, priming them...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10515-6 PTCHD1-AS, which encodes a long non-coding RNA, is associated with the aetiology of autism spectrum disorder in humans through striatal molecular and circuit-level dysregulation.
 
-## 7. Mesoscale atomic engineering in a crystal lattice
+## 7. White matter micro- and macrostructure brain charts for the human lifespan
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10431-9
+- DOI：10.1038/s41586-026-10454-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10431-9
+- 链接：https://www.nature.com/articles/s41586-026-10454-2
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10431-9 Electron-beam control enables deterministic placement of tens of thousands of atomic defects in three-dimensional crystals, creating stable, programmable artificial matter for scalable...
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10454-2 Integration of data representing 35,120 brain scans from diverse global studies enables construction of reference charts that define normative microstructural and macrostructural...
 
-## 8. Subspace communication in the hippocampal–retrosplenial axis
+## 8. Street sellers and private physicians fuel antibiotic overuse
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10481-z
+- DOI：10.1038/d41586-026-01374-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10481-z
+- 链接：https://www.nature.com/articles/d41586-026-01374-2
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10481-z Hippocampal–neocortical communication reconfigures predetermined circuit motifs to flexibly encode experiences.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01374-2 Limited access to medical professionals and irresponsible prescribing practices are contributing to antimicrobial resistance in low-resource settings.
 
-## 9. Large-scale discovery, analysis and design of protein energy landscapes
+## 9. Old antibiotics are being revived to fight new threats
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10465-z
+- DOI：10.1038/d41586-026-01379-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10465-z
+- 链接：https://www.nature.com/articles/d41586-026-01379-x
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10465-z An analysis of 5,778 domains 28–64 amino acids in length reveals hidden variation in conformational fluctuations, even between sequences sharing the same fold and global folding stability.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01379-x The last antimicrobial peptide was developed decades ago. Now, drug-resistant bacteria are forcing scientists to take a fresh look at this class of antibiotic.
 
-## 10. Asymmetric splitting in dividing lipid-nucleotide multilamellar droplets
+## 10. Fast and furious: the gaseous outflows of quasars in the early Universe were extreme
 
 - 期刊：Nature
 - 日期：2026-05-13
-- DOI：10.1038/s41586-026-10489-5
+- DOI：10.1038/d41586-026-01485-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10489-5
+- 链接：https://www.nature.com/articles/d41586-026-01485-w
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10489-5 Structured liquid droplets exhibit asymmetric division in the absence of reconstituted protein machinery.
+摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01485-w Observations from the James Webb Space Telescope reveal that extremely fast, galaxy-scale outflows from luminous objects called quasars were much more frequent, and on average more...
