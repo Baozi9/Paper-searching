@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-18 04:51
+生成时间：2026-05-19 04:44
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Sleep chart of biological ageing clocks in middle and late life
+## 1. China moves AI brain implants from trials towards real-world use
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10524-5
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01468-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10524-5
+- 链接：https://www.nature.com/articles/d41586-026-01468-x
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10524-5 A cross-organ, multi-omics U-shaped relationship between sleep duration and biological ageing clocks highlights the potential of sleep optimization to promote healthy ageing, lower...
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01468-x Chinese start-up firms are supercharging their efforts to develop algorithms for brain–computer interfaces that help people to walk and talk.
 
-## 2. Developmental gene expression patterns driving species-specific cortical features
+## 2. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10491-x
+- 日期：2026-05-18
+- DOI：10.1038/s41586-026-10649-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10491-x
+- 链接：https://www.nature.com/articles/s41586-026-10649-7
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10491-x Machine learning analysis of cell-type-specific gene expression in mouse and human neocortex and human cortical organoids reveals human-specific cell-type and temporal variations in...
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7 Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
 
-## 3. Obesity rise plateaus in developed nations and accelerates in developing nations
+## 3. Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10383-0
+- 日期：2026-05-18
+- DOI：10.1038/s41586-026-10619-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10383-0
+- 链接：https://www.nature.com/articles/s41586-026-10619-z
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10383-0 Global analysis of obesity trends from 1980 to 2024 in 200 countries and territories using data from 4,050 population-based studies reveals that framing obesity as a single global...
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-z Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice
 
-## 4. Eosinophils drive intestinal remodelling and innate defence in reproduction
+## 4. Do you hate or love AI? Take Nature's poll
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10531-6
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01563-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10531-6
+- 链接：https://www.nature.com/articles/d41586-026-01563-z
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10531-6 From pregnancy until lactation, eosinophils accumulate in the small intestine where they regulate goblet cell fate and enhance innate defences against enteric pathogens.
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01563-z The backlash against artificial intelligence is growing. Nature wants to know what its readers think about the impact on science.
 
-## 5. A synaptic locus of song learning
+## 5. A step-by-step guide for scientists who hate conference networking
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10510-x
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-00525-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10510-x
+- 链接：https://www.nature.com/articles/d41586-026-00525-9
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10510-x Combining a computational framework and optogenetic and chemogenetic manipulations within and downstream of the cortico-basal ganglia circuit identifies the specific cortico-basal ganglia...
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9 If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.
 
-## 6. An X-linked long non-coding RNA, PTCHD1-AS , and the core features of autism
+## 6. Criminals are made, not born: how when you live shapes whether you will break the law
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10515-6
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01556-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10515-6
+- 链接：https://www.nature.com/articles/d41586-026-01556-y
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10515-6 PTCHD1-AS, which encodes a long non-coding RNA, is associated with the aetiology of autism spectrum disorder in humans through striatal molecular and circuit-level dysregulation.
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-y An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.
 
-## 7. White matter micro- and macrostructure brain charts for the human lifespan
+## 7. Ebola outbreak is a global health emergency: what happens next
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/s41586-026-10454-2
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01597-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10454-2
+- 链接：https://www.nature.com/articles/d41586-026-01597-3
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10454-2 Integration of data representing 35,120 brain scans from diverse global studies enables construction of reference charts that define normative microstructural and macrostructural...
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01597-3 The outbreak is only the third caused by the rare Bundibugyo virus, for which there are no approved vaccines or therapeutics.
 
-## 8. Street sellers and private physicians fuel antibiotic overuse
+## 8. Can the ‘steroid Olympics’ show the sporting community how to support athletes better?
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01374-2
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01552-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01374-2
+- 链接：https://www.nature.com/articles/d41586-026-01552-2
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01374-2 Limited access to medical professionals and irresponsible prescribing practices are contributing to antimicrobial resistance in low-resource settings.
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01552-2 The Enhanced Games, which permits the use of performance-enhancing drugs, exposes flaws in the sporting world.
 
-## 9. Old antibiotics are being revived to fight new threats
+## 9. Exclusive: Race begins to trial Ebola drugs amid current outbreak
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01379-x
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01607-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01379-x
+- 链接：https://www.nature.com/articles/d41586-026-01607-4
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01379-x The last antimicrobial peptide was developed decades ago. Now, drug-resistant bacteria are forcing scientists to take a fresh look at this class of antibiotic.
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01607-4 Clinical trials for treatments against Ebola Bundibugyo virus are ‘in a strong position’ to be launched quickly in the Democratic Republic of the Congo and Uganda.
 
-## 10. Fast and furious: the gaseous outflows of quasars in the early Universe were extreme
+## 10. Birds get a bad rap: why we should look up to our feathered friends
 
 - 期刊：Nature
-- 日期：2026-05-13
-- DOI：10.1038/d41586-026-01485-w
+- 日期：2026-05-18
+- DOI：10.1038/d41586-026-01555-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01485-w
+- 链接：https://www.nature.com/articles/d41586-026-01555-z
 
-摘要精简：Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01485-w Observations from the James Webb Space Telescope reveal that extremely fast, galaxy-scale outflows from luminous objects called quasars were much more frequent, and on average more...
+摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01555-z Many avian species are threatened, but conservation efforts and birds’ high intelligence offer hope.
