@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-19 04:44
+生成时间：2026-05-20 04:48
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. China moves AI brain implants from trials towards real-world use
+## 1. A multi-agent system for automating scientific discovery
 
 - 期刊：Nature
 - 日期：2026-05-19
-- DOI：10.1038/d41586-026-01468-x
+- DOI：10.1038/s41586-026-10652-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01468-x
+- 链接：https://www.nature.com/articles/s41586-026-10652-y
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01468-x Chinese start-up firms are supercharging their efforts to develop algorithms for brain–computer interfaces that help people to walk and talk.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-y A multi-agent system for automating scientific discovery
 
-## 2. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
+## 2. An AI system to help scientists write expert-level empirical software
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/s41586-026-10649-7
+- 日期：2026-05-19
+- DOI：10.1038/s41586-026-10658-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10649-7
+- 链接：https://www.nature.com/articles/s41586-026-10658-6
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7 Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10658-6 An AI system to help scientists write expert-level empirical software
 
-## 3. Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice
+## 3. Accelerating scientific discovery with Co-Scientist
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/s41586-026-10619-z
+- 日期：2026-05-19
+- DOI：10.1038/s41586-026-10644-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10619-z
+- 链接：https://www.nature.com/articles/s41586-026-10644-y
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-z Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10644-y Accelerating scientific discovery with Co-Scientist
 
-## 4. Do you hate or love AI? Take Nature's poll
+## 4. AI might jeopardize the uncertainty required in science
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01563-z
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01605-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01563-z
+- 链接：https://www.nature.com/articles/d41586-026-01605-6
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01563-z The backlash against artificial intelligence is growing. Nature wants to know what its readers think about the impact on science.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01605-6 AI might jeopardize the uncertainty required in science
 
-## 5. A step-by-step guide for scientists who hate conference networking
+## 5. Support academic institutions under attack
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-00525-9
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01603-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00525-9
+- 链接：https://www.nature.com/articles/d41586-026-01603-8
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9 If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8 Support academic institutions under attack
 
-## 6. Criminals are made, not born: how when you live shapes whether you will break the law
+## 6. River oxygen levels are dropping around the world as Earth warms
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01556-y
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01594-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01556-y
+- 链接：https://www.nature.com/articles/d41586-026-01594-6
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-y An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01594-6 Satellite data on more than 20,000 rivers reveals small but widespread decreases in dissolved oxygen.
 
-## 7. Ebola outbreak is a global health emergency: what happens next
+## 7. France’s research-primate project goes against its own ethics panel
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01597-3
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01606-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01597-3
+- 链接：https://www.nature.com/articles/d41586-026-01606-5
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01597-3 The outbreak is only the third caused by the rare Bundibugyo virus, for which there are no approved vaccines or therapeutics.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5 France’s research-primate project goes against its own ethics panel
 
-## 8. Can the ‘steroid Olympics’ show the sporting community how to support athletes better?
+## 8. On the right track in the design of an early typewriter
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01552-2
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01335-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01552-2
+- 链接：https://www.nature.com/articles/d41586-026-01335-9
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01552-2 The Enhanced Games, which permits the use of performance-enhancing drugs, exposes flaws in the sporting world.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01335-9 A beautiful and ingenious machine hit the headlines 150 years ago, and a book explores bird migration in this week’s pick from the Nature archive.
 
-## 9. Exclusive: Race begins to trial Ebola drugs amid current outbreak
+## 9. Airborne DNA can yield insights with the right techniques
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01607-4
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01604-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01607-4
+- 链接：https://www.nature.com/articles/d41586-026-01604-7
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01607-4 Clinical trials for treatments against Ebola Bundibugyo virus are ‘in a strong position’ to be launched quickly in the Democratic Republic of the Congo and Uganda.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7 Airborne DNA can yield insights with the right techniques
 
-## 10. Birds get a bad rap: why we should look up to our feathered friends
+## 10. Teams of AI agents boost speed of research
 
 - 期刊：Nature
-- 日期：2026-05-18
-- DOI：10.1038/d41586-026-01555-z
+- 日期：2026-05-19
+- DOI：10.1038/d41586-026-01596-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01555-z
+- 链接：https://www.nature.com/articles/d41586-026-01596-4
 
-摘要精简：Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01555-z Many avian species are threatened, but conservation efforts and birds’ high intelligence offer hope.
+摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01596-4 Systems can generate hypotheses, interpret data and suggest ways to develop medicines.
