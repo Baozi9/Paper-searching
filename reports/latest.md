@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-20 04:48
+生成时间：2026-05-21 04:54
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A multi-agent system for automating scientific discovery
+## 1. Spinal neuromotor rehabilitation using a portable isokinetic training robot
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/s41586-026-10652-y
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10642-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10652-y
+- 链接：https://www.nature.com/articles/s41586-026-10642-0
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-y A multi-agent system for automating scientific discovery
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10642-0 Spinal neuromotor rehabilitation using a portable isokinetic training robot
 
-## 2. An AI system to help scientists write expert-level empirical software
+## 2. Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/s41586-026-10658-6
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10659-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10658-6
+- 链接：https://www.nature.com/articles/s41586-026-10659-5
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10658-6 An AI system to help scientists write expert-level empirical software
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5 Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice
 
-## 3. Accelerating scientific discovery with Co-Scientist
+## 3. Nearly half of the world’s Nature Index chemistry research is now done in China
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/s41586-026-10644-y
+- 日期：2026-05-20
+- DOI：10.1038/d41586-026-00431-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10644-y
+- 链接：https://www.nature.com/articles/d41586-026-00431-0
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10644-y Accelerating scientific discovery with Co-Scientist
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00431-0 A breakdown of leading countries and institutions highlights China’s dominance in the field.
 
-## 4. AI might jeopardize the uncertainty required in science
+## 4. Red light therapy: the science behind the hype
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01605-6
+- 日期：2026-05-20
+- DOI：10.1038/d41586-026-01643-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01605-6
+- 链接：https://www.nature.com/articles/d41586-026-01643-0
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01605-6 AI might jeopardize the uncertainty required in science
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01643-0 From glowing red face masks to fibre optic needles, we explore the gap between commercial devices and the field of ‘photobiomodulation’.
 
-## 5. Support academic institutions under attack
+## 5. AI ‘scientists’ promise to accelerate research — how do they work?
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01603-8
+- 日期：2026-05-20
+- DOI：10.1038/d41586-026-01627-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01603-8
+- 链接：https://www.nature.com/articles/d41586-026-01627-0
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8 Support academic institutions under attack
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01627-0 Systems generate hypotheses and ways to test them — plus, how mobile phones might one day be able to see around corners.
 
-## 6. River oxygen levels are dropping around the world as Earth warms
+## 6. What China’s rise in chemistry means for the rest of the world
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01594-6
+- 日期：2026-05-20
+- DOI：10.1038/d41586-026-00428-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01594-6
+- 链接：https://www.nature.com/articles/d41586-026-00428-9
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01594-6 Satellite data on more than 20,000 rivers reveals small but widespread decreases in dissolved oxygen.
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00428-9 China now produces more than three times the United States’ chemistry output in the Nature Index, underscoring its rapidly growing influence in the field.
 
-## 7. France’s research-primate project goes against its own ethics panel
+## 7. Cusp-singularity-enhanced Coriolis effect for sensitive chip-scale gyroscopes
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01606-5
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10565-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01606-5
+- 链接：https://www.nature.com/articles/s41586-026-10565-w
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5 France’s research-primate project goes against its own ethics panel
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10565-w By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory...
 
-## 8. On the right track in the design of an early typewriter
+## 8. A pathogen lncRNA secreted into rice sequesters a host miRNA for virulence
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01335-9
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10572-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01335-9
+- 链接：https://www.nature.com/articles/s41586-026-10572-x
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01335-9 A beautiful and ingenious machine hit the headlines 150 years ago, and a book explores bird migration in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10572-x A fungal long non-coding RNA from Magnaporthe oryzae translocates into rice cells to sequester a host microRNA that normally represses PKR1, a negative immunity regulator, thereby...
 
-## 9. Airborne DNA can yield insights with the right techniques
+## 9. De novo design of quasisymmetric two-component protein cages
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01604-7
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10464-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01604-7
+- 链接：https://www.nature.com/articles/s41586-026-10464-0
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7 Airborne DNA can yield insights with the right techniques
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10464-0 Researchers designed two-component proteins forming quasisymmetric cages via geometric frustration, enabling tunable virus-like assemblies for cargo delivery, cellular uptake and studying...
 
-## 10. Teams of AI agents boost speed of research
+## 10. Genetic analysis of circulating metabolic traits in 619,372 individuals
 
 - 期刊：Nature
-- 日期：2026-05-19
-- DOI：10.1038/d41586-026-01596-4
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10532-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01596-4
+- 链接：https://www.nature.com/articles/s41586-026-10532-5
 
-摘要精简：Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01596-4 Systems can generate hypotheses, interpret data and suggest ways to develop medicines.
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10532-5 A genome-wide association study combining data from the Estonian Biobank and the UK Biobank identifies many common and low-frequency locus–metabolic trait associations, enabling the...
