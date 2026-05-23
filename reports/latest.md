@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-22 04:46
+生成时间：2026-05-23 04:26
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. De novo design of miniproteins targeting GPCRs
+## 1. Vanishing tongues and life on Mars: Books in brief
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01655-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01655-w
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01655-w Andrew Robinson reviews five of the best science picks.
+
+## 2. Major Ebola outbreak is escalating: what happens next
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01660-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01660-z
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01660-z Nature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.
+
+## 3. Neuroflix
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01087-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01087-6
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01087-6 It’s just a game — isn’t it?
+
+## 4. AI cracks 80-year-old mathematics challenge — researchers are astonished
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01651-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01651-0
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01651-0 The late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.
+
+## 5. Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01392-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01392-0
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01392-0 Cell biologist and crime novelist Frances Brodsky says writing fiction has taught her perseverance and improved her manuscripts.
+
+## 6. Stress impairs your brain’s ability to link memories — dampening insight
+
+- 期刊：Nature
+- 日期：2026-05-22
+- DOI：10.1038/d41586-026-01644-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01644-z
+
+摘要精简：Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01644-z Imaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.
+
+## 7. Daily briefing: Wearable robot could help kids with neuromuscular disease stand
 
 - 期刊：Nature
 - 日期：2026-05-21
-- DOI：10.1038/s41586-026-10656-8
+- DOI：10.1038/d41586-026-01656-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10656-8
+- 链接：https://www.nature.com/articles/d41586-026-01656-9
 
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/s41586-026-10656-8 De novo design of miniproteins targeting GPCRs
+摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01656-9 A robotic device helps children with spinal muscular atrophy build up strength in their knees. Plus, a tough peer-review process could lead to a more-cited paper and chemists’ mission to...
 
-## 2. Did a boy’s life-saving gene therapy cause his brain tumour?
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01593-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01593-7
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01593-7 Genetic sleuthing uncovers a rare case of cancer caused by a virus administered as part of a child’s treatment for a genetic disorder.
-
-## 3. See the clouds streaming and vanishing around this planet — 690 light years away
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01608-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01608-3
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01608-3 James Webb Space Telescope reveals weather patterns from how planet WASP-94 A b filters the light of its parent star.
-
-## 4. A star gone rogue tears through the Galaxy
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01591-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01591-9
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to ‘hypervelocity’ speed.
-
-## 5. Ebola outbreak spirals out of control: how might it have started?
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01645-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01645-y
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-y Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic.
-
-## 6. Should I get a dog? What to know about pet ownership as a scientist
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-00198-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00198-4
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4 Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being.
-
-## 7. Will this Ebola outbreak be the biggest yet?
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01646-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01646-x
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01646-x The size of the outbreak in its initial days is worrying researchers. The next few weeks will determine how large it grows, they say.
-
-## 8. How we’re using AI tools to improve psychedelic-drug research
-
-- 期刊：Nature
-- 日期：2026-05-21
-- DOI：10.1038/d41586-026-01467-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01467-y
-
-摘要精简：Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.
-
-## 9. Nonlinear atomic tunnelling boosted by bright squeezed vacuum
+## 8. Feature-specific threat coding in lateral septum guides defensive action
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10485-9
+- DOI：10.1038/s41586-026-10520-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10485-9
+- 链接：https://www.nature.com/articles/s41586-026-10520-9
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10485-9 Bright squeezed vacuum light boosts nonlinear atomic tunnelling ionization more than 20-fold compared with coherent light, enabling quantum control of strong-field processes without...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10520-9 The populations of CRHR2-expressing neurons in the lateral septum of mice involved in threat-related behaviour in response to environmental challenges are defined.
 
-## 10. Dopamine drives persistent remodelling of the maternal brain
+## 9. A critical initialization for biological neural networks
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10509-4
+- DOI：10.1038/s41586-026-10528-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10509-4
+- 链接：https://www.nature.com/articles/s41586-026-10528-1
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10509-4 Brain-wide transcriptomic profiling in mice reveals that reproductive experience remodels the maternal brain by altering dopamine dynamics in the dorsal hippocampal formation, causing...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10528-1 Basic properties of symmetric random matrices can explain the emergence of macroscopic patterns in neural networks, suggesting that initialization conditions of connected neural...
+
+## 10. Neural representation of action symbols in primate frontal cortex
+
+- 期刊：Nature
+- 日期：2026-05-20
+- DOI：10.1038/s41586-026-10297-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10297-x
+
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10297-x A drawing-like task designed to study compositional generalization identifies a specific neural population in the ventral premotor cortex in primates that encodes action symbols.
