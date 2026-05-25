@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-24 04:48
+生成时间：2026-05-25 05:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A deep-learning framework reveals whole-body perturbations at cell level
+## 1. High-fidelity identification of guest species in porous materials
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10535-2
+- DOI：10.1038/s41586-026-10527-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10535-2
+- 链接：https://www.nature.com/articles/s41586-026-10527-2
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10535-2 An analysis of diet-induced obesity using MouseMapper—a suite of foundation-model-based deep-learning algorithms—identifies structural alterations of the infraorbital branch of the...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10527-2 A reconstruction method based on Gaussian-apodized single-sideband electron ptychography removes artefacts to enable the high-fidelity identification of guest species in porous materials.
 
-## 2. Advancing solar and wind penetration in China through energy complementarity
+## 2. Monkeys that ‘draw’ reveal a neuronal population that encodes combinable actions
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10570-z
+- DOI：10.1038/d41586-026-00928-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10570-z
+- 链接：https://www.nature.com/articles/d41586-026-00928-8
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10570-z Using high-resolution satellite imagery combined with a deep-learning-based framework to build a national energy inventory enables a data-driven assessment of solar–wind complementarity...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00928-8 When faced with unfamiliar problems, humans and other animals must plan and execute action sequences that they might not have used before. In macaque monkeys, this ability is supported by...
 
-## 3. Imaging hidden objects with consumer LiDAR via motion-induced sampling
+## 3. Becoming a mother leaves long-lasting molecular memories
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10502-x
+- DOI：10.1038/d41586-026-01327-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10502-x
+- 链接：https://www.nature.com/articles/d41586-026-01327-9
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10502-x Researchers enable hidden-object imaging on consumer LiDAR by fusing multiple frames with a motion-based model, achieving three-dimensional reconstruction, tracking and localization using...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01327-9 In mice, motherhood induces transcriptional changes in the brain that endure beyond short-term hormonal shifts. Postpartum stress disrupts these patterns.
 
-## 4. Design of one-component quasisymmetric protein nanocages
+## 4. Why are PFASs so hard to replace?
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10554-z
+- DOI：10.1038/d41586-026-00429-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10554-z
+- 链接：https://www.nature.com/articles/d41586-026-00429-8
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10554-z Quasisymmetry could arise from spontaneous symmetry breaking in a system of strongly interacting building blocks with programmed curvatures, and this principle, coupled with a design...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00429-8 As the toxic legacy of ‘forever chemicals’ grows, researchers are racing to develop safer alternatives.
 
-## 5. Divergent urban storm response to convective, frontal and tropical systems
+## 5. Tough peer-review process? Your paper might end up being more highly cited
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10479-7
+- DOI：10.1038/d41586-026-01615-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10479-7
+- 链接：https://www.nature.com/articles/d41586-026-01615-4
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10479-7 Analysis of five types of warm-season storms in Texas using three-dimensional radar reflectivity data shows that urbanization can influence storm frequency, intensity, or vertical...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01615-4 An AI-led analysis of publicly available peer-review reports links requests for major revisions with papers that end up having high impact.
 
-## 6. Early fossil eukaryotes were benthic aerobes
+## 6. Daily briefing: Bogus citations will get you banned from arXiv
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10533-4
+- DOI：10.1038/d41586-026-01648-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10533-4
+- 链接：https://www.nature.com/articles/d41586-026-01648-9
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10533-4 Integrated palaeontological, sedimentological and geochemical analyses of ancient rocks from Australia show that early eukaryotes were largely restricted to oxygenated benthic habitats,...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01648-9 arXiv’s stance on AI-hallucinated references is a good start, but not tough enough, say some researchers. Plus, the brain’s code seems to be in constant flux and how to learn to love...
 
-## 7. A SAUR gene enhances maize drought resilience by promoting silk elongation
+## 7. The brain’s code seems to be in constant flux. Neuroscientists are baffled
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10566-9
+- DOI：10.1038/d41586-026-01554-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10566-9
+- 链接：https://www.nature.com/articles/d41586-026-01554-0
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10566-9 The Small Auxin Up RNA (SAUR) protein ZmSAUR72 in maize (Zea mays) promotes silk growth via regulation of H+-ATPase activity, and is a key determinant of the anthesis-silking interval and...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?
 
-## 8. Mitochondrial l -2-hydroxyglutarate is a physiological signalling metabolite
+## 8. The CAPTCHA protocol
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10564-x
+- DOI：10.1038/d41586-026-01085-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10564-x
+- 链接：https://www.nature.com/articles/d41586-026-01085-8
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10564-x l-2-Hydroxyglutarate is identified as a legitimate physiological signalling metabolite, and control of its levels is essential for postnatal growth and survival and correct renal...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01085-8 Difficult choices.
 
-## 9. Forest carbon protocols underestimate climate-driven carbon loss risks
+## 9. Cities affect small and large storms differently
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10571-y
+- DOI：10.1038/d41586-026-01323-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10571-y
+- 链接：https://www.nature.com/articles/d41586-026-01323-z
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10571-y The buffer pool designed to compensate for unintended carbon losses from the largest forest climate mitigation programme in the United States is too small when considering the impact of...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01323-z Analysis of a 23-year record of Texan storms reveals how urban landscapes affect storm rainfall — painting a more complex picture than had been realized.
 
-## 10. Astrocyte glucocorticoid receptor signalling restricts neuronal plasticity
+## 10. Wearable robot boosts strength of children with spinal muscular atrophy
 
 - 期刊：Nature
 - 日期：2026-05-20
-- DOI：10.1038/s41586-026-10512-9
+- DOI：10.1038/d41586-026-01573-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10512-9
+- 链接：https://www.nature.com/articles/d41586-026-01573-x
 
-摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10512-9 Combined single-cell transcriptomic and chromatin accessibility sequencing analysis of mouse primary visual cortex across postnatal development reveals that the glucocorticoid receptor...
+摘要精简：Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01573-x The device helps muscle recovery in those receiving gene therapy for the rare neuromuscular condition.
