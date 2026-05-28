@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-27 04:58
+生成时间：2026-05-28 04:52
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene
+## 1. Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/s41586-026-10669-3
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10700-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10669-3
+- 链接：https://www.nature.com/articles/s41586-026-10700-7
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/s41586-026-10669-3 Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10700-7 Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
 
-## 2. Author Correction: In vitro characterization of the human segmentation clock
+## 2. Author Correction: Satellite megaconstellations will threaten space-based astronomy
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/s41586-026-10651-z
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10553-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10651-z
+- 链接：https://www.nature.com/articles/s41586-026-10553-0
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/s41586-026-10651-z Author Correction: In vitro characterization of the human segmentation clock
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10553-0 Author Correction: Satellite megaconstellations will threaten space-based astronomy
 
-## 3. Poland’s economy is thriving, but its science is dying
+## 3. Could a pill prevent the world’s deadliest cancer?
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01664-9
+- 日期：2026-05-27
+- DOI：10.1038/d41586-026-01382-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01664-9
+- 链接：https://www.nature.com/articles/d41586-026-01382-2
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01664-9 Poland’s economy is thriving, but its science is dying
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01382-2 ‘Interception’ drug trials hope to stop lung cancer before it starts.
 
-## 4. Conservation gains should not be at the mercy of political changes
+## 4. Bohmian mechanics remains unchallenged by tunnelling experiment
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01665-8
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10450-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01665-8
+- 链接：https://www.nature.com/articles/s41586-026-10450-6
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01665-8 Conservation gains should not be at the mercy of political changes
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10450-6 Bohmian mechanics remains unchallenged by tunnelling experiment
 
-## 5. A cautious voice on the closure of China’s journal ranking list
+## 5. β-Arrestin condensates regulate G-protein-coupled receptor function
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01663-w
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10539-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01663-w
+- 链接：https://www.nature.com/articles/s41586-026-10539-y
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01663-w A cautious voice on the closure of China’s journal ranking list
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10539-y β-Arrestins, multifunctional adaptor proteins that regulate G-protein-coupled receptors (GPCRs), form phase-separated condensates, suggesting that β-arrestin liquid–liquid phase...
 
-## 6. Should there be a national museum of chemicals?
+## 6. Human haematopoietic stem cells remember inflammatory stress
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01336-8
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10522-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01336-8
+- 链接：https://www.nature.com/articles/s41586-026-10522-7
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01336-8 A proposal to highlight the work of chemists, and reflections on 150 years of London Zoo in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10522-7 Using xenograft inflammation–recovery models and single-cell multiomics, a haematopoietic stem cell population after inflammatory stress is identified.
 
-## 7. Iran’s Internet blackout: a scholar’s month in the dark
+## 7. Darkness and body size shaped end-Cretaceous marine extinction patterns
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01666-7
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10541-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01666-7
+- 链接：https://www.nature.com/articles/s41586-026-10541-4
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01666-7 Iran’s Internet blackout: a scholar’s month in the dark
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4 Trait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the...
 
-## 8. Too dangerous to release: is Mythos the start of the restricted-AI era?
+## 8. Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01617-2
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10537-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01617-2
+- 链接：https://www.nature.com/articles/s41586-026-10537-0
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01617-2 What happens when AI companies produce models that they say the public can’t have — and how should users and governments react?
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10537-0 The hippocampus exhibits a CA3-to-CA1 coding transformation that combines fast learning with an efficient, compressed neural code.
 
-## 9. Hard-to-detect mutations explain how common autoimmune diseases arise
+## 9. Technology mediation in child sexual exploitation and abuse in Africa and Asia
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01415-w
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10525-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01415-w
+- 链接：https://www.nature.com/articles/s41586-026-10525-4
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01415-w An old theory gains fresh support from advanced DNA sequencing, which can detect rare mutations in B cells from people with autoimmune thyroid conditions.
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10525-4 Enabling parental mediation of online activities and children’s knowledge of where to seek help after sexual harassment or assault is associated with higher rates of disclosure of...
 
-## 10. Robots run this laboratory in Japan — and are changing how scientists work
+## 10. αKG-mediated carnitine synthesis drives DNA repair via histone acetylation
 
 - 期刊：Nature
-- 日期：2026-05-26
-- DOI：10.1038/d41586-026-01625-2
+- 日期：2026-05-27
+- DOI：10.1038/s41586-026-10584-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01625-2
+- 链接：https://www.nature.com/articles/s41586-026-10584-7
 
-摘要精简：Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01625-2 Researchers hope to build a facility with thousands of robots capable of performing experiments independently by 2040.
+摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10584-7 The metabolite αKG promotes carnitine synthesis and increases site-specific histone acetylation, thereby promoting homologous recombination-mediated DNA repair, which has potential...
