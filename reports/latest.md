@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-05-29 04:54
+生成时间：2026-05-30 04:36
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Share the highs and lows of your career in science: take Nature ’s global survey
+## 1. Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers
 
 - 期刊：Nature
-- 日期：2026-05-28
-- DOI：10.1038/d41586-026-01589-3
+- 日期：2026-05-29
+- DOI：10.1038/s41586-026-10717-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01589-3
+- 链接：https://www.nature.com/articles/s41586-026-10717-y
 
-摘要精简：Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01589-3 Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10717-y Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers
 
-## 2. Bridget Ogilvie obituary: parasitologist who championed biomedical labs and scientific evidence
+## 2. Author Correction: US oil and gas system emissions from nearly one million aerial site measurements
 
 - 期刊：Nature
-- 日期：2026-05-28
-- DOI：10.1038/d41586-026-01733-z
+- 日期：2026-05-29
+- DOI：10.1038/s41586-026-10605-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01733-z
+- 链接：https://www.nature.com/articles/s41586-026-10605-5
 
-摘要精简：Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01733-z As a director of the Wellcome Trust and charity founder, the labs she built sequenced the human genome and more.
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements
 
-## 3. Gene therapies to fix failing hearts gain steam after years in the doldrums
+## 3. Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant
 
 - 期刊：Nature
-- 日期：2026-05-28
-- DOI：10.1038/d41586-026-01598-2
+- 日期：2026-05-29
+- DOI：10.1038/s41586-026-10665-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01598-2
+- 链接：https://www.nature.com/articles/s41586-026-10665-7
 
-摘要精简：Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2 Treatments aim to bulk up failing hearts to restore their vigour – but can the field move on from past controversy?
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10665-7 Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant
 
-## 4. Four ppm measurement of the antihydrogen ground-state hyperfine splitting
+## 4. Surgeons in imperial China used anaesthetics — in careful doses
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10556-x
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01669-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10556-x
+- 链接：https://www.nature.com/articles/d41586-026-01669-4
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10556-x A measurement of the hyperfine splitting energy of the ground state of antihydrogen at 4 ppm precision reaches a point at which this result is sensitive to the internal structure of the...
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01669-4 Traces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.
 
-## 5. Cellular water-potential sensing through biomolecular condensation
+## 5. Gold keeps glittering courtesy of surface chemistry
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10591-8
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01671-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10591-8
+- 链接：https://www.nature.com/articles/d41586-026-01671-w
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10591-8 Plants sense water deficiency through SAM8 protein condensation, which responds to reduced hydration and triggers stress adaptation by altering RNA export and gene translation.
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01671-w Hexagonal patterns on the surface of gold crystals are an unfavourable environment for reactions.
 
-## 6. Distinct genetic architecture in the tails of complex traits
+## 6. Briefing Chat: When to trust eyewitness memory — according to science
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10516-5
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01736-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10516-5
+- 链接：https://www.nature.com/articles/d41586-026-01736-w
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10516-5 Genome-wide analyses in multiancestry and European cohorts show that in complex traits, rare alleles have disproportionately large effects at the tails of the phenotypic spectrum compared...
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01736-w Nature staff discuss memory in the legal system plus the benefits of Registered Reports.
 
-## 7. Universal transcriptomic hallmarks of mammalian ageing and mortality
+## 7. How common bacteria fasten their armour
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10542-3
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01668-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10542-3
+- 链接：https://www.nature.com/articles/d41586-026-01668-5
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10542-3 Integration of gene expression data from multiple tissues across four mammalian species reveals conserved transcriptomic signatures of mammalian ageing and mortality and uncovers the...
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01668-5 Analysis reveals the enzyme that allows some microorganisms to anchor their outer membrane to their cell wall.
 
-## 8. Substrate selectivity of the human RNA m 5 C methyltransferase NSUN2
+## 8. Bespoke immune cells stave off ravages of cirrhosis
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10582-9
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01670-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10582-9
+- 链接：https://www.nature.com/articles/d41586-026-01670-x
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10582-9 NSUN2 is an enzyme that adds a small chemical mark to RNA molecules and uniquely selects its targets based on specific sequence patterns and structural features.
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01670-x Death and the need for liver transplant were delayed in people with cirrhosis who received macrophage therapy.
 
-## 9. Transcription factor codes patterning neuronal groundplans of the cerebrum
+## 9. Sarcophagus
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10526-3
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01091-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10526-3
+- 链接：https://www.nature.com/articles/d41586-026-01091-w
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10526-3 Researchers mapped how transcription factors define neuron lineages in fruit fly brains, revealing hierarchical genetic programs that shape and specialize circuits controlling motivated...
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01091-w Safety measures.
 
-## 10. Spatiotemporal transcriptome atlas of human embryos after gastrulation
+## 10. What it will take to stop the spiraling Ebola outbreak
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10545-0
+- 日期：2026-05-29
+- DOI：10.1038/d41586-026-01692-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10545-0
+- 链接：https://www.nature.com/articles/d41586-026-01692-5
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10545-0 A spatiotemporal transcriptome atlas of whole-human embryos after gastrulation and previously transcriptionally undescribed stages of human development are reported.
+摘要精简：Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01692-5 Cases in central Africa are rising at an alarming pace, but lessons from past epidemics could help to contain the current spread of infection.
