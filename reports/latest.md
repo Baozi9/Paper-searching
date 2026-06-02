@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-01 05:26
+生成时间：2026-06-02 05:13
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Rising global hail damage potential in a warming world
+## 1. Enantioselective hydrogen atom relay via non-covalent catalyst assembly
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10543-2
+- 日期：2026-06-01
+- DOI：10.1038/s41586-026-10692-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10543-2
+- 链接：https://www.nature.com/articles/s41586-026-10692-4
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10543-2 Hailstone trajectory simulations conducted under historical and future scenarios show a shift towards larger hailstones, resulting in global hailstorm-induced damage potential increasing...
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10692-4 Enantioselective hydrogen atom relay via non-covalent catalyst assembly
 
-## 2. Genetic architecture of sugarcane traits in a polyploid genomics framework
+## 2. Passive heart-rate monitoring during smartphone use in everyday life
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10576-7
+- 日期：2026-06-01
+- DOI：10.1038/s41586-026-10507-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10576-7
+- 链接：https://www.nature.com/articles/s41586-026-10507-6
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10576-7 A fully phased genome assembly of the sugarcane foundational cultivar POJ2878 reveals extensive subgenome recombination and non-homologous chromosomal rearrangements.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6 A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it...
 
-## 3. Metamaterial-enhanced near-field radiative heat transfer
+## 3. Can Polymarket predict the progress of science, or are subject-experts better?
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10595-4
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01688-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10595-4
+- 链接：https://www.nature.com/articles/d41586-026-01688-1
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10595-4 Near-field radiative heat transfer between silicon nitride membranes is enhanced several-fold by using metamaterials, opening opportunities for thermal energy harvesting and infrared...
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.
 
-## 4. Monolithic three-dimensional integration of silicon transistors
+## 4. How long can humans live? We simply don’t know
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10496-6
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01728-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10496-6
+- 链接：https://www.nature.com/articles/d41586-026-01728-w
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10496-6 Uniformly doped, ultrathin single-crystalline silicon nanomembranes can be vertically stacked at low temperature using a roll-transfer-printing process that is scalable to wafer scale and...
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.
 
-## 5. Temporary carbon dioxide removal to offset short-lived climate forcers
+## 5. Science fiction: nine lab-life novels for your holiday reading
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10607-3
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01730-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10607-3
+- 链接：https://www.nature.com/articles/d41586-026-01730-2
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10607-3 Temporary carbon dioxide removal can offset short-lived non-CO2 climate forcers, providing a viable physical approach for crediting temporary carbon dioxide removal activities in...
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2 With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.
 
-## 6. A direct black-hole mass measurement in a little red dot at high redshift
+## 6. Why it’s time to bin recommendation letters in science job applications
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10579-4
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-00507-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10579-4
+- 链接：https://www.nature.com/articles/d41586-026-00507-x
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10579-4 A direct, dynamical black-hole mass measurement in a strongly lensed little red dot at high redshift indicates that it is a massive black-hole seed caught in its earliest accretion phase.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.
 
-## 7. Direct observation of the superallowed α-decay of 104 Te
+## 7. Robust projections of risks to the Amazon rainforest
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/s41586-026-10581-w
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01158-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10581-w
+- 链接：https://www.nature.com/articles/d41586-026-01158-8
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10581-w Enhanced preformation of the α particle, a strongly bound system of two protons and two neutrons, in 104Te causes it to be the fastest ground-state α-emitting nucleus known so far.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8 Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.
 
-## 8. Lung cancer in women emerges as a distinct disease
+## 8. Smartphone camera takes users’ pulse passively during device use
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/d41586-026-01459-y
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01488-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01459-y
+- 链接：https://www.nature.com/articles/d41586-026-01488-7
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01459-y A malignancy that once mainly affected men has broadened its reach. But marked disparities in research, detection and treatment remain.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use....
 
-## 9. Global lung cancer burden shifting to middle-income countries
+## 9. Poor supervision is pushing young researchers out of academia
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/d41586-026-01461-4
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01693-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01461-4
+- 链接：https://www.nature.com/articles/d41586-026-01693-4
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01461-4 High smoking rates and polluted air mean lung cancer cases are rising fastest in places such as China. Africa could soon head in the same direction.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4 A survey finds that academic supervisors can have a huge impact on their students’ mental health.
 
-## 10. Nests in an egg cell: structures of protein-storage units in oocytes
+## 10. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
 
 - 期刊：Nature
-- 日期：2026-05-27
-- DOI：10.1038/d41586-026-01414-x
+- 日期：2026-06-01
+- DOI：10.1038/d41586-026-01729-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01414-x
+- 链接：https://www.nature.com/articles/d41586-026-01729-9
 
-摘要精简：Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01414-x A fertilized egg’s first few divisions rely on proteins stored in fibrous structures. The ordered nature of these structures and clues about their function are revealed.
+摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.
