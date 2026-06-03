@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-02 05:13
+生成时间：2026-06-03 05:28
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Enantioselective hydrogen atom relay via non-covalent catalyst assembly
+## 1. Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/s41586-026-10692-4
+- 日期：2026-06-02
+- DOI：10.1038/s41586-026-10728-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10692-4
+- 链接：https://www.nature.com/articles/s41586-026-10728-9
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10692-4 Enantioselective hydrogen atom relay via non-covalent catalyst assembly
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10728-9 Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord
 
-## 2. Passive heart-rate monitoring during smartphone use in everyday life
+## 2. Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/s41586-026-10507-6
+- 日期：2026-06-02
+- DOI：10.1038/s41586-026-10693-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10507-6
+- 链接：https://www.nature.com/articles/s41586-026-10693-3
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6 A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it...
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10693-3 Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan
 
-## 3. Can Polymarket predict the progress of science, or are subject-experts better?
+## 3. Global plastics treaty must be built on a foundation of monitoring
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01688-1
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01775-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01688-1
+- 链接：https://www.nature.com/articles/d41586-026-01775-3
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01775-3 Global plastics treaty must be built on a foundation of monitoring
 
-## 4. How long can humans live? We simply don’t know
+## 4. Chemicals meant to be eco-friendly accumulate aloft
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01728-w
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01763-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01728-w
+- 链接：https://www.nature.com/articles/d41586-026-01763-7
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01763-7 Large-scale measurements of atmospheric hydrofluoroolefins show that their levels are rising, but the implications are unclear.
 
-## 5. Science fiction: nine lab-life novels for your holiday reading
+## 5. Natural capital accounting needs a way to assess uncertainty
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01730-2
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01778-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01730-2
+- 链接：https://www.nature.com/articles/d41586-026-01778-0
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2 With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01778-0 Natural capital accounting needs a way to assess uncertainty
 
-## 6. Why it’s time to bin recommendation letters in science job applications
+## 6. Remembering inventor and activist Hertha Ayrton
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-00507-x
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01337-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-00507-x
+- 链接：https://www.nature.com/articles/d41586-026-01337-7
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-x If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01337-7 The biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature’s archive.
 
-## 7. Robust projections of risks to the Amazon rainforest
+## 7. Power imbalances in adviser–student relationships need safeguarding
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01158-8
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01776-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01158-8
+- 链接：https://www.nature.com/articles/d41586-026-01776-2
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01158-8 Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01776-2 Power imbalances in adviser–student relationships need safeguarding
 
-## 8. Smartphone camera takes users’ pulse passively during device use
+## 8. Is it time to ‘cap and trade’ credits for research-funding proposals?
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01488-7
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01777-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01488-7
+- 链接：https://www.nature.com/articles/d41586-026-01777-1
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use....
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1 Is it time to ‘cap and trade’ credits for research-funding proposals?
 
-## 9. Poor supervision is pushing young researchers out of academia
+## 9. The future of science communication is not an article like this
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01693-4
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01723-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01693-4
+- 链接：https://www.nature.com/articles/d41586-026-01723-1
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4 A survey finds that academic supervisors can have a huge impact on their students’ mental health.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01723-1 Researchers and science publishers need to seize the opportunity offered by the drastic shifts in the way news is produced — one reason Nature has joined TikTok.
 
-## 10. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
+## 10. Bang! Exploding immune cells splatter potent toxins everywhere
 
 - 期刊：Nature
-- 日期：2026-06-01
-- DOI：10.1038/d41586-026-01729-9
+- 日期：2026-06-02
+- DOI：10.1038/d41586-026-01766-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01729-9
+- 链接：https://www.nature.com/articles/d41586-026-01766-4
 
-摘要精简：Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.
+摘要精简：Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01766-4 Detonation of newly discovered ‘ruptoblasts’, found in flatworms, releases compounds that kill nearby cells in minutes.
