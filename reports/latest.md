@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-04 05:24
+生成时间：2026-06-05 04:59
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. This mysterious lung disease affects millions of people – a drug tested in mice shows promise
+## 1. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
 
 - 期刊：Nature
 - 日期：2026-06-04
-- DOI：10.1038/d41586-026-01789-x
+- DOI：10.1038/s41586-026-10694-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01789-x
+- 链接：https://www.nature.com/articles/s41586-026-10694-2
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.
+摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/s41586-026-10694-2 Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
 
-## 2. AI in science recruitment: friend or foe? Join our free webinar
+## 2. Device could sniff out fusion reactors secretly making material for a nuclear bomb
+
+- 期刊：Nature
+- 日期：2026-06-04
+- DOI：10.1038/d41586-026-01764-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01764-6
+
+摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01764-6 Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology.
+
+## 3. Babies’ birth weight improves with help of payments to parents
+
+- 期刊：Nature
+- 日期：2026-06-04
+- DOI：10.1038/d41586-026-01765-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01765-5
+
+摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01765-5 Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.
+
+## 4. Science with military applications is cited more than civilian-only research
+
+- 期刊：Nature
+- 日期：2026-06-04
+- DOI：10.1038/d41586-026-01770-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01770-8
+
+摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8 Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.
+
+## 5. What’s behind China’s historically high counts of corresponding authors?
+
+- 期刊：Nature
+- 日期：2026-06-04
+- DOI：10.1038/d41586-026-01623-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01623-4
+
+摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4 From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.
+
+## 6. Cold-induced peptide signalling secures pollen resilience and crop yield
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/d41586-026-01774-4
+- DOI：10.1038/s41586-026-10603-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01774-4
+- 链接：https://www.nature.com/articles/s41586-026-10603-7
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01774-4 Discover the strengths, limitations and risks associated with using artificial intelligence in your science job applications.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10603-7 A small-peptide signalling axis involving RGF family members controls resilience to cold stress in tomatoes and rice; modulating this pathway prevents cold-induced yield losses.
 
-## 3. Your phone can use tiny skin-colour changes to measure your heart rate
+## 7. Teosinte alleles enhance nitrogen assimilation and seed protein in maize
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/d41586-026-01793-1
+- DOI：10.1038/s41586-026-10575-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01793-1
+- 链接：https://www.nature.com/articles/s41586-026-10575-8
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01793-1 Passive heart-rate monitoring during regular phone use could provide early warning of health issues — plus, testing Richard Feynman’s solution to the ‘restaurant dilemma’ problem.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10575-8 Teosinte alleles enhance nitrogen assimilation and seed protein without lowering crop yield when expressed in modern maize, providing a powerful strategy for crop improvement to meet...
 
-## 4. Reply to: The size of tropical vegetation gross primary production
+## 8. Cell-type-resolved genetic variation shapes inflammatory bowel disease risk
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10561-0
+- DOI：10.1038/s41586-026-10627-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10561-0
+- 链接：https://www.nature.com/articles/s41586-026-10627-z
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10561-0 Reply to: The size of tropical vegetation gross primary production
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10627-z Single-cell mapping of cis-expression quantitative trait loci in inflammatory bowel disease revealed distal, enhancer-enriched variants detected at the cell-type level more frequently...
 
-## 5. The size of tropical vegetation gross primary production
+## 9. Plastoglobules compartmentalize nitrogen assimilation in maize
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10562-z
+- DOI：10.1038/s41586-026-10610-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10562-z
+- 链接：https://www.nature.com/articles/s41586-026-10610-8
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10562-z The size of tropical vegetation gross primary production
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10610-8 Chloroplast plastoglobules act as nitrogen-assimilation hubs in maize, with key enzymes enhancing nitrogen-use efficiency and offering new strategies for developing high-yield,...
 
-## 6. A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome
+## 10. Analysis of trade-offs of post-sorting plastic packaging
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10589-2
+- DOI：10.1038/s41586-026-10606-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10589-2
+- 链接：https://www.nature.com/articles/s41586-026-10606-4
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10589-2 Improved fractionation strategies can identify antibiotics with previously unseen scaffolds and mechanisms, exemplified by manikomycin from Streptomyces rimosus, which acts by targeting...
-
-## 7. Earth’s east–west albedo symmetry
-
-- 期刊：Nature
-- 日期：2026-06-03
-- DOI：10.1038/s41586-026-10624-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10624-2
-
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2 Analysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction...
-
-## 8. Relativistic electron acceleration at the bow shock of Jupiter and beyond
-
-- 期刊：Nature
-- 日期：2026-06-03
-- DOI：10.1038/s41586-026-10473-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10473-z
-
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10473-z NASA’s Juno observations show relativistic electron acceleration at the bow shock of Jupiter and establish a universal scaling law linking shock size to maximum cosmic ray energy.
-
-## 9. Acquired genetic and cell-state changes in IDH-mutant glioma progression
-
-- 期刊：Nature
-- 日期：2026-06-03
-- DOI：10.1038/s41586-026-10612-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10612-6
-
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10612-6 Longitudinal transcriptomic, chromatin and genomic analyses of the two types of IDH-mutant glioma reveal in detail how disease progression is influenced by interdependent genetic,...
-
-## 10. Mining triggers extensive additional deforestation in sub-Saharan Africa
-
-- 期刊：Nature
-- 日期：2026-06-03
-- DOI：10.1038/s41586-026-10551-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10551-2
-
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10551-2 Extensive mining activity leads to large-scale deforestation of dense tropical forests across sub-Saharan Africa, driven particularly by key energy transition minerals such as cobalt.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10606-4 An analysis of post-sorting plastic packaging shows that target polymer purity is similar across source-separation and post-sorting pathways, but post-sorted plastics contain more...
