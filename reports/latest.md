@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-05 04:59
+生成时间：2026-06-06 04:38
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
+## 1. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
 
 - 期刊：Nature
-- 日期：2026-06-04
-- DOI：10.1038/s41586-026-10694-2
+- 日期：2026-06-05
+- DOI：10.1038/d41586-026-01831-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10694-2
+- 链接：https://www.nature.com/articles/d41586-026-01831-y
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/s41586-026-10694-2 Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
+摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-y Nature staff discuss some of the week’s top science news.
 
-## 2. Device could sniff out fusion reactors secretly making material for a nuclear bomb
+## 2. First precise genome editing of human embryos triggers praise and alarm
 
 - 期刊：Nature
-- 日期：2026-06-04
-- DOI：10.1038/d41586-026-01764-6
+- 日期：2026-06-05
+- DOI：10.1038/d41586-026-01827-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01764-6
+- 链接：https://www.nature.com/articles/d41586-026-01827-8
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01764-6 Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology.
+摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.
 
-## 3. Babies’ birth weight improves with help of payments to parents
+## 3. Europe is ditching US tech — what does this mean for researchers?
 
 - 期刊：Nature
-- 日期：2026-06-04
-- DOI：10.1038/d41586-026-01765-5
+- 日期：2026-06-05
+- DOI：10.1038/d41586-026-01610-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01765-5
+- 链接：https://www.nature.com/articles/d41586-026-01610-9
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01765-5 Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.
+摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9 European governments are choosing European digital tools — and some universities and researchers are doing the same.
 
-## 4. Science with military applications is cited more than civilian-only research
+## 4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
 
 - 期刊：Nature
-- 日期：2026-06-04
-- DOI：10.1038/d41586-026-01770-8
+- 日期：2026-06-05
+- DOI：10.1038/d41586-026-01609-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01770-8
+- 链接：https://www.nature.com/articles/d41586-026-01609-2
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8 Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.
+摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2 The month’s sharpest science shots, selected by Nature’s photo team.
 
-## 5. What’s behind China’s historically high counts of corresponding authors?
+## 5. Electric vehicles cut pollution in China – and prevent 260,000 premature deaths
 
 - 期刊：Nature
-- 日期：2026-06-04
-- DOI：10.1038/d41586-026-01623-4
+- 日期：2026-06-05
+- DOI：10.1038/d41586-026-01781-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01623-4
+- 链接：https://www.nature.com/articles/d41586-026-01781-5
 
-摘要精简：Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4 From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.
+摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5 Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.
 
-## 6. Cold-induced peptide signalling secures pollen resilience and crop yield
-
-- 期刊：Nature
-- 日期：2026-06-03
-- DOI：10.1038/s41586-026-10603-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10603-7
-
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10603-7 A small-peptide signalling axis involving RGF family members controls resilience to cold stress in tomatoes and rice; modulating this pathway prevents cold-induced yield losses.
-
-## 7. Teosinte alleles enhance nitrogen assimilation and seed protein in maize
+## 6. Spermine is an endogenous iron chelator that inhibits ferroptosis
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10575-8
+- DOI：10.1038/s41586-026-10597-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10575-8
+- 链接：https://www.nature.com/articles/s41586-026-10597-2
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10575-8 Teosinte alleles enhance nitrogen assimilation and seed protein without lowering crop yield when expressed in modern maize, providing a powerful strategy for crop improvement to meet...
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10597-2 A non-canonical metabolic route for spermine synthesis mediated by ALDH18A1 limits iron availability and lipid peroxidation in hepatocellular carcinoma.
 
-## 8. Cell-type-resolved genetic variation shapes inflammatory bowel disease risk
+## 7. Chiral superfluorescence from perovskite superlattices at room temperature
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10627-z
+- DOI：10.1038/s41586-026-10637-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10627-z
+- 链接：https://www.nature.com/articles/s41586-026-10637-x
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10627-z Single-cell mapping of cis-expression quantitative trait loci in inflammatory bowel disease revealed distal, enhancer-enriched variants detected at the cell-type level more frequently...
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10637-x Chiral perovskite superlattices exhibit room-temperature circularly polarized superfluorescence, with emission intensity and polarization controllable by weak magnetic fields.
 
-## 9. Plastoglobules compartmentalize nitrogen assimilation in maize
+## 8. Mechanophore cross-linking enhances ballistic energy dissipation of polymers
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10610-8
+- DOI：10.1038/s41586-026-10557-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10610-8
+- 链接：https://www.nature.com/articles/s41586-026-10557-w
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10610-8 Chloroplast plastoglobules act as nitrogen-assimilation hubs in maize, with key enzymes enhancing nitrogen-use efficiency and offering new strategies for developing high-yield,...
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10557-w Embedding a small fraction of force-sensitive mechanophores as cross-links into common polymers enhances ballistic energy dissipation.
 
-## 10. Analysis of trade-offs of post-sorting plastic packaging
+## 9. Commensal-derived acetylcholine enhances mucosal immune education
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10606-4
+- DOI：10.1038/s41586-026-10592-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10606-4
+- 链接：https://www.nature.com/articles/s41586-026-10592-7
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10606-4 An analysis of post-sorting plastic packaging shows that target polymer purity is similar across source-separation and post-sorting pathways, but post-sorted plastics contain more...
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10592-7 A diet–microbiome–host axis strengthens mucosal immune defences and reinforces host–microbiota mutualism.
+
+## 10. Nuclear shell structure governs short-range nucleon pairing
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/s41586-026-10616-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10616-2
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10616-2 The scattering of high-energy electrons from three different nuclei demonstrated that short-range-correlated pairing depends far more on the specific quantum orbitals occupied by...
