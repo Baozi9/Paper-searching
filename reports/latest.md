@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-06 04:38
+生成时间：2026-06-07 05:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
-
-- 期刊：Nature
-- 日期：2026-06-05
-- DOI：10.1038/d41586-026-01831-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01831-y
-
-摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-y Nature staff discuss some of the week’s top science news.
-
-## 2. First precise genome editing of human embryos triggers praise and alarm
-
-- 期刊：Nature
-- 日期：2026-06-05
-- DOI：10.1038/d41586-026-01827-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01827-8
-
-摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.
-
-## 3. Europe is ditching US tech — what does this mean for researchers?
-
-- 期刊：Nature
-- 日期：2026-06-05
-- DOI：10.1038/d41586-026-01610-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01610-9
-
-摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9 European governments are choosing European digital tools — and some universities and researchers are doing the same.
-
-## 4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
-
-- 期刊：Nature
-- 日期：2026-06-05
-- DOI：10.1038/d41586-026-01609-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01609-2
-
-摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2 The month’s sharpest science shots, selected by Nature’s photo team.
-
-## 5. Electric vehicles cut pollution in China – and prevent 260,000 premature deaths
-
-- 期刊：Nature
-- 日期：2026-06-05
-- DOI：10.1038/d41586-026-01781-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01781-5
-
-摘要精简：Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5 Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.
-
-## 6. Spermine is an endogenous iron chelator that inhibits ferroptosis
+## 1. High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10597-2
+- DOI：10.1038/s41586-026-10517-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10597-2
+- 链接：https://www.nature.com/articles/s41586-026-10517-4
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10597-2 A non-canonical metabolic route for spermine synthesis mediated by ALDH18A1 limits iron availability and lipid peroxidation in hepatocellular carcinoma.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10517-4 A Mamyshev oscillator mode-locked laser compactly integrated on a photonic-chip delivers nanojoule, femtosecond pulses.
 
-## 7. Chiral superfluorescence from perovskite superlattices at room temperature
+## 2. LASER couples damage sensing to ESCRT assembly for lysosome repair
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10637-x
+- DOI：10.1038/s41586-026-10604-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10637-x
+- 链接：https://www.nature.com/articles/s41586-026-10604-6
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10637-x Chiral perovskite superlattices exhibit room-temperature circularly polarized superfluorescence, with emission intensity and polarization controllable by weak magnetic fields.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10604-6 ATG8 conjugation on damaged lysosomes triggers rapid assembly of a protein complex containing TFG, which directs lysosomal membrane repair by recruiting ESCRT proteins to sites of damage.
 
-## 8. Mechanophore cross-linking enhances ballistic energy dissipation of polymers
+## 3. Cooperation conflicts with equality when allocating public goods
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10557-w
+- DOI：10.1038/s41586-026-10550-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10557-w
+- 链接：https://www.nature.com/articles/s41586-026-10550-3
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10557-w Embedding a small fraction of force-sensitive mechanophores as cross-links into common polymers enhances ballistic energy dissipation.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10550-3 Uniform sharing of public goods can boost cooperation in social networks, but often concentrates benefits among well-connected individuals, creating inequality despite greater collective...
 
-## 9. Commensal-derived acetylcholine enhances mucosal immune education
+## 4. Enamel nanocrystal misorientation increased with meat-eating and agriculture
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10592-7
+- DOI：10.1038/s41586-026-10583-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10592-7
+- 链接：https://www.nature.com/articles/s41586-026-10583-8
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10592-7 A diet–microbiome–host axis strengthens mucosal immune defences and reinforces host–microbiota mutualism.
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10583-8 An analysis of enamel nanocrystal misorientation in primate and human teeth across three major dietary shifts in human evolution shows that misorientation increased with harder diets,...
 
-## 10. Nuclear shell structure governs short-range nucleon pairing
+## 5. High-fidelity modular skeletons authenticate a Cambrian origin for Bryozoa
 
 - 期刊：Nature
 - 日期：2026-06-03
-- DOI：10.1038/s41586-026-10616-2
+- DOI：10.1038/s41586-026-10590-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10616-2
+- 链接：https://www.nature.com/articles/s41586-026-10590-9
 
-摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10616-2 The scattering of high-energy electrons from three different nuclei demonstrated that short-range-correlated pairing depends far more on the specific quantum orbitals occupied by...
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10590-9 Exquisite early Cambrian fossils of Protomelission gatehousei and Dayingomelission hexaclitia preserve soft-tissue anatomy and skeletal microstructure, confirming that these taxa are...
+
+## 6. Centromeric footprints preserve telomere integrity in ALT cancers
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/s41586-026-10598-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10598-1
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10598-1 Centromeric DNA repeat insertions and CENP-A chromatin assembly are identified as genomic signatures that preserve telomere integrity in ALT cancer cells.
+
+## 7. Queen cell architecture shapes honey bee queen development
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/s41586-026-10534-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10534-3
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10534-3 Worker bee construction behaviour actively engineers a physicochemical niche that is crucial for queen development in honey bees.
+
+## 8. Why a synthetic human genome is still worth building
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/d41586-026-01725-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01725-z
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01725-z A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.
+
+## 9. Book of Cron Job
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/d41586-026-01716-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01716-0
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01716-0 Code of conduct.
+
+## 10. Recovery of plastic from mixed waste boosts recycling rates but affects quality
+
+- 期刊：Nature
+- 日期：2026-06-03
+- DOI：10.1038/d41586-026-01759-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01759-3
+
+摘要精简：Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01759-3 Recovering plastic packaging from mixed domestic waste, as well as collecting plastic waste already sorted by households, increases recycling volumes but raises contamination and safety...
