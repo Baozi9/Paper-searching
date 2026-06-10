@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-09 04:47
+生成时间：2026-06-10 05:02
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. GPR15-guided CD8 + T regulatory cells control intestinal inflammation
+## 1. Author Correction: De novo design of quasisymmetric two-component protein cages
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/s41586-026-10749-4
+- 日期：2026-06-09
+- DOI：10.1038/s41586-026-10763-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10749-4
+- 链接：https://www.nature.com/articles/s41586-026-10763-6
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10749-4 GPR15-guided CD8 + T regulatory cells control intestinal inflammation
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10763-6 Author Correction: De novo design of quasisymmetric two-component protein cages
 
-## 2. Distributed control circuits across a brain-and-cord connectome
+## 2. Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/s41586-026-10735-w
+- 日期：2026-06-09
+- DOI：10.1038/s41586-026-10769-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10735-w
+- 链接：https://www.nature.com/articles/s41586-026-10769-0
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10735-w Distributed control circuits across a brain-and-cord connectome
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10769-0 Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components
 
-## 3. Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding
+## 3. Author Correction: A broadly protective antibody targeting gammaherpesvirus gB
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/s41586-026-10738-7
+- 日期：2026-06-09
+- DOI：10.1038/s41586-026-10745-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10738-7
+- 链接：https://www.nature.com/articles/s41586-026-10745-8
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10738-7 Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10745-8 Author Correction: A broadly protective antibody targeting gammaherpesvirus gB
 
-## 4. Fifty years since a simple equation described the chaos of biology
+## 4. A unicellular relative links aggregative multicellularity to animal origins
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01584-8
+- 日期：2026-06-09
+- DOI：10.1038/s41586-026-10748-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01584-8
+- 链接：https://www.nature.com/articles/s41586-026-10748-5
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01584-8 An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10748-5 A unicellular relative links aggregative multicellularity to animal origins
 
-## 5. How AI is reshaping discovery in maths and physics
+## 5. AI technology must serve human cognitive development, not the other way around
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01820-1
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01848-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01820-1
+- 链接：https://www.nature.com/articles/d41586-026-01848-3
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01820-1 Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01848-3 AI technology must serve human cognitive development, not the other way around
 
-## 6. Why are so many young people getting cancer? What researchers do and don't know
+## 6. A treasure trove of Neolithic necklace beads
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01780-6
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01810-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01780-6
+- 链接：https://www.nature.com/articles/d41586-026-01810-3
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01780-6 Candidates for the trend are emerging, but are likely to vary from one type of tumor to another.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01810-3 Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature’s archive.
 
-## 7. Bots are scraping open data — how should researchers respond?
+## 7. Arson attacks at Ebola hospitals are a cry for regional development
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01689-0
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01846-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01689-0
+- 链接：https://www.nature.com/articles/d41586-026-01846-5
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01689-0 The snowballing ability of artificial intelligence to trawl open data sets has some scientists worried about losing control of their information.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01846-5 Arson attacks at Ebola hospitals are a cry for regional development
 
-## 8. AI is taking on antibiotic resistance — here’s how
+## 8. Science must be seen as a viable profession for the many, not the few
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01818-9
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01849-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01818-9
+- 链接：https://www.nature.com/articles/d41586-026-01849-2
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01818-9 A suite of artificial-intelligence tools is helping to speed up the process of discovering new antibiotics.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01849-2 Science must be seen as a viable profession for the many, not the few
 
-## 9. Nuclear-fusion firm says plant will deliver electricity to grid – but big questions remain
+## 9. Preventing cancer requires more than a list of carcinogens
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01795-z
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01847-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01795-z
+- 链接：https://www.nature.com/articles/d41586-026-01847-4
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01795-z Commonwealth Fusion Systems published several papers detailing the design of its ARC fusion power plant.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01847-4 Preventing cancer requires more than a list of carcinogens
 
-## 10. Sustainability or dystopia? What past patterns tell us about where society is heading
+## 10. Ocean ‘cold blob’ is evidence for a troubling climate trend
 
 - 期刊：Nature
-- 日期：2026-06-08
-- DOI：10.1038/d41586-026-01821-0
+- 日期：2026-06-09
+- DOI：10.1038/d41586-026-01826-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01821-0
+- 链接：https://www.nature.com/articles/d41586-026-01826-9
 
-摘要精简：Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01821-0 A new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today.
+摘要精简：Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01826-9 Weakening of a major ocean-current system is causing temperatures to drop in a patch of the Atlantic Ocean.
