@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-11 05:11
+生成时间：2026-06-12 05:17
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Giant crustacean of the deep sea steals a trick from bacteria
+## 1. Author Correction: Plasticity and language in the anaesthetized human hippocampus
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/s41586-026-10784-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10784-1
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1 Author Correction: Plasticity and language in the anaesthetized human hippocampus
+
+## 2. Whale graveyard discovered 7km under the sea
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01886-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01886-x
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01886-x The treasure trove of fossils and bones has already revealed a new species of extinct whale.
+
+## 3. My diverse academic background is affecting my PhD studies — what do I do?
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01129-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01129-z
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-z A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.
+
+## 4. Tool flags suspicious journals before researchers submit papers
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01707-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01707-1
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.
+
+## 5. ‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01865-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01865-2
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2 As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.
+
+## 6. This World Cup could be the most high-tech yet — the innovations to watch for
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01866-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01866-1
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1 Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.
+
+## 7. Revealed: how Venus flytraps snap shut with astonishing speed
+
+- 期刊：Nature
+- 日期：2026-06-11
+- DOI：10.1038/d41586-026-01857-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01857-2
+
+摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01857-2 Softening of the cells on the outermost suface of the trap lets the plant move at a breakneck pace.
+
+## 8. Efficient and accurate neural-field reconstruction using resistive memory
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/d41586-026-01832-x
+- DOI：10.1038/s41586-026-10646-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01832-x
+- 链接：https://www.nature.com/articles/s41586-026-10646-w
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01832-x Organisms called bathynomids boast a bacterial gene that helps them to regulate their metabolism in the cold depths.
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10646-w A co-optimized AI hardware–software system using resistive-memory computing improves energy efficiency and parallelism for sparse signal reconstruction in imaging and three-dimensional...
 
-## 2. Newly discovered whale graveyard dates back millions of years
+## 9. Gene ancestries reveal diverse microbial associations during eukaryogenesis
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/d41586-026-01864-3
+- DOI：10.1038/s41586-026-10639-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01864-3
+- 链接：https://www.nature.com/articles/s41586-026-10639-9
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01864-3 Submarine dives reveal complex deep-sea ecosystems living on whale remains — plus, a way to turn plant material into nylon.
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10639-9 Phylogenomic reconstruction of the proteome of the last eukaryotic common ancestor sheds light on the origin of eukaryotes, indicating an important role of horizontal transfer of genes...
 
-## 3. Structural basis for chaperone-guided assembly of RNA-induced silencing complex
+## 10. Molecular glue degraders of HuR suppress BRAF-mutant colorectal cancer
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10640-2
+- DOI：10.1038/s41586-026-10613-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10640-2
+- 链接：https://www.nature.com/articles/s41586-026-10613-5
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10640-2 Structures of the AGO maturation complex reveal how chaperones and an RNA duplex drive assembly of the RNA-induced silencing complex.
-
-## 4. SIRT7 regulates dosage compensation and safeguards the female X chromosome
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10645-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10645-x
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10645-x SIRT7 safeguards X-chromosome integrity and dosage balance with autosomes.
-
-## 5. A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10546-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10546-z
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10546-z Researchers uncovered an enormous deep-sea accumulation of whale remains in the southeastern Indian Ocean, showing long-term, specialized ecosystems and an extensive fossil record that...
-
-## 6. Whole-genome duplication shaped cell-type evolution in the vertebrate brain
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10629-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10629-x
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10629-x Analyses of brain single-cell transcriptomes from human, mouse, lizard, lamprey and amphioxus reveal that duplicated genes (ohnologues) played a pivotal part in early vertebrate cell-...
-
-## 7. In situ nanocrystal confinement for efficient blue perovskite LEDs
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10596-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10596-3
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10596-3 Efficient blue perovskite light-emitting diodes with an external quantum efficiency of 21.8% are achieved through in situ polymerization-driven nanocrystal confinement.
-
-## 8. A prognostic human brain network for diffuse midline glioma
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10631-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10631-3
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10631-3 Tumour network mapping of diffuse midline glioma (DMG) defines a conserved and prognostically important brain network in children with DMG, consistent with the hypothesis that DMGs...
-
-## 9. Two-component exciton condensates in an electron–hole bilayer
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10636-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10636-y
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10636-y Macroscopic quantum coherence arises in two-component exciton Bose–Einstein condensates within MoSe2/hBN/WSe2 electron–hole bilayers, exhibiting distinct spin–valley polarized phases,...
-
-## 10. Mutation-dependent responses to sleep and exercise in clonal haematopoiesis
-
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/s41586-026-10634-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10634-0
-
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10634-0 Sleep and exercise can slow clonal haematopoiesis and limit mutant cell-driven atherosclerosis.
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10613-5 Molecular glue degraders of the RNA-binding protein HuR have therapeutic potential for BRAF-mutant cancers.
