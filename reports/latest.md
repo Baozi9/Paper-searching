@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-12 05:17
+生成时间：2026-06-13 05:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Plasticity and language in the anaesthetized human hippocampus
+## 1. Why we seek to fly: Books in brief
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/s41586-026-10784-1
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01911-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10784-1
+- 链接：https://www.nature.com/articles/d41586-026-01911-z
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1 Author Correction: Plasticity and language in the anaesthetized human hippocampus
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z Andrew Robinson reviews five of the best science picks.
 
-## 2. Whale graveyard discovered 7km under the sea
+## 2. Briefing Chat: The epic journey of Stonehenge’s central stone
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01886-x
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01912-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01886-x
+- 链接：https://www.nature.com/articles/d41586-026-01912-y
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01886-x The treasure trove of fossils and bones has already revealed a new species of extinct whale.
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01912-y Nature staff discuss some of the week’s top science news.
 
-## 3. My diverse academic background is affecting my PhD studies — what do I do?
+## 3. I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01129-z
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01876-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01129-z
+- 链接：https://www.nature.com/articles/d41586-026-01876-z
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-z A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.
 
-## 4. Tool flags suspicious journals before researchers submit papers
+## 4. ‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01707-1
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01902-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01707-1
+- 链接：https://www.nature.com/articles/d41586-026-01902-0
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01902-0 Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations.
 
-## 5. ‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport
+## 5. Humans outperform AI at this highly rigorous mathematics test
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01865-2
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01888-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01865-2
+- 链接：https://www.nature.com/articles/d41586-026-01888-9
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2 As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9 A new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise.
 
-## 6. This World Cup could be the most high-tech yet — the innovations to watch for
+## 6. An innovative technology boosts image quality for protein structures
 
 - 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01866-1
+- 日期：2026-06-12
+- DOI：10.1038/d41586-026-01858-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01866-1
+- 链接：https://www.nature.com/articles/d41586-026-01858-1
 
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1 Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.
+摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1 After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range...
 
-## 7. Revealed: how Venus flytraps snap shut with astonishing speed
-
-- 期刊：Nature
-- 日期：2026-06-11
-- DOI：10.1038/d41586-026-01857-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01857-2
-
-摘要精简：Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01857-2 Softening of the cells on the outermost suface of the trap lets the plant move at a breakneck pace.
-
-## 8. Efficient and accurate neural-field reconstruction using resistive memory
+## 7. Light-induced quantum friction of carbon nanotubes in water
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10646-w
+- DOI：10.1038/s41586-026-10632-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10646-w
+- 链接：https://www.nature.com/articles/s41586-026-10632-2
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10646-w A co-optimized AI hardware–software system using resistive-memory computing improves energy efficiency and parallelism for sparse signal reconstruction in imaging and three-dimensional...
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10632-2 Near-infrared fluorescent carbon nanotubes exhibit light-induced quantum friction in water, in which exciton interactions slow nanoscale motion and enable optical control of diffusion...
 
-## 9. Gene ancestries reveal diverse microbial associations during eukaryogenesis
+## 8. Lignin to adipic acid in a high-yield chemical and biological redox process
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10639-9
+- DOI：10.1038/s41586-026-10580-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10639-9
+- 链接：https://www.nature.com/articles/s41586-026-10580-x
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10639-9 Phylogenomic reconstruction of the proteome of the last eukaryotic common ancestor sheds light on the origin of eukaryotes, indicating an important role of horizontal transfer of genes...
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10580-x A chemical and biological redox process that resembles processes in petrochemical refining is used to convert lignin from poplar into a single, valuable bioproduct, adipic acid, in high...
 
-## 10. Molecular glue degraders of HuR suppress BRAF-mutant colorectal cancer
+## 9. Measurement of reactor neutrino oscillation with the first JUNO data
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10613-5
+- DOI：10.1038/s41586-026-10538-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10613-5
+- 链接：https://www.nature.com/articles/s41586-026-10538-z
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10613-5 Molecular glue degraders of the RNA-binding protein HuR have therapeutic potential for BRAF-mutant cancers.
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10538-z The first data of the Jiangmen Underground Neutrino Observatory deliver high-precision neutrino oscillation parameters, improving measurements and demonstrating readiness to determine...
+
+## 10. Mitochondria directly interact with the nuclear pore complex
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/s41586-026-10588-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10588-3
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10588-3 Mitochondria interact directly with the nuclear pore complex via VDAC1–RANBP2 binding to sustain nuclear ATP levels.
