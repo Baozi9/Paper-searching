@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-13 05:07
+生成时间：2026-06-14 05:17
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Why we seek to fly: Books in brief
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01911-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01911-z
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z Andrew Robinson reviews five of the best science picks.
-
-## 2. Briefing Chat: The epic journey of Stonehenge’s central stone
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01912-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01912-y
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01912-y Nature staff discuss some of the week’s top science news.
-
-## 3. I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01876-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01876-z
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.
-
-## 4. ‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01902-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01902-0
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01902-0 Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations.
-
-## 5. Humans outperform AI at this highly rigorous mathematics test
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01888-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01888-9
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9 A new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise.
-
-## 6. An innovative technology boosts image quality for protein structures
-
-- 期刊：Nature
-- 日期：2026-06-12
-- DOI：10.1038/d41586-026-01858-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01858-1
-
-摘要精简：Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1 After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range...
-
-## 7. Light-induced quantum friction of carbon nanotubes in water
+## 1. A thalamus–brainstem attractor network drives history-biased decisions
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10632-2
+- DOI：10.1038/s41586-026-10623-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10632-2
+- 链接：https://www.nature.com/articles/s41586-026-10623-3
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10632-2 Near-infrared fluorescent carbon nanotubes exhibit light-induced quantum friction in water, in which exciton interactions slow nanoscale motion and enable optical control of diffusion...
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10623-3 Whole-brain, cellular-resolution imaging reveals a hierarchical thalamus–brainstem attractor network that encodes recent history and shapes behavioural bias in zebrafish.
 
-## 8. Lignin to adipic acid in a high-yield chemical and biological redox process
+## 2. Improved quantum processor logical error rates via correction and detection
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10580-x
+- DOI：10.1038/s41586-026-10628-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10580-x
+- 链接：https://www.nature.com/articles/s41586-026-10628-y
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10580-x A chemical and biological redox process that resembles processes in petrochemical refining is used to convert lignin from poplar into a single, valuable bioproduct, adipic acid, in high...
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10628-y Experimental demonstration of quantum error-correcting codes combined with error detection and post-selection applied to a trapped-ion quantum processor shows improvements in logical...
 
-## 9. Measurement of reactor neutrino oscillation with the first JUNO data
+## 3. Deep learning four decades of human migration
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10538-z
+- DOI：10.1038/s41586-026-10611-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10538-z
+- 链接：https://www.nature.com/articles/s41586-026-10611-7
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10538-z The first data of the Jiangmen Underground Neutrino Observatory deliver high-precision neutrino oscillation parameters, improving measurements and demonstrating readiness to determine...
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10611-7 A global annual migration-flow dataset (1990–2024) is produced using deep-learning models and diverse sources to estimate movements across 230 countries with improved temporal...
 
-## 10. Mitochondria directly interact with the nuclear pore complex
+## 4. Amplified Arctic iceberg traffic reshapes benthic biodiversity
 
 - 期刊：Nature
 - 日期：2026-06-10
-- DOI：10.1038/s41586-026-10588-3
+- DOI：10.1038/s41586-026-10630-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10588-3
+- 链接：https://www.nature.com/articles/s41586-026-10630-4
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10588-3 Mitochondria interact directly with the nuclear pore complex via VDAC1–RANBP2 binding to sustain nuclear ATP levels.
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10630-4 Accelerated Arctic glacier disintegration and a more dynamic sea ice cover are increasing iceberg-delivered dropstones in the deep ocean, reshaping seafloor habitats and extending...
+
+## 5. Building user-driven climate adaptation products
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/s41586-026-10555-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10555-y
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10555-y A systematic review and analysis shows how user-centred design can be integrated into, and strengthen, co-production approaches for building user-driven climate adaptation products.
+
+## 6. A first-in-class pulsatile FXR agonist for bile-acid-related liver diseases
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/s41586-026-10633-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10633-1
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10633-1 Linafexor is a rapidly cleared FXR agonist designed to mimic natural bile acid signalling, achieving transient receptor activation with strong efficacy and reduced toxicity in...
+
+## 7. Diverse binding poses of agonistic neurotoxins on human Na v 1.6
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/s41586-026-10661-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10661-x
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10661-x Structures of the distinct binding poses of three agonistic peptide toxins—bullet-ant-derived toxin δ-paraponeritoxin-Pc1a, cone snail ι-conotoxin RXIA and the globular β-scorpion toxin...
+
+## 8. Hybrid refinery process turns plant material into industrially important chemical
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/d41586-026-01586-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01586-6
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01586-6 An ingredient of nylon has been made in high yields from lignin — revealing a fresh strategy for turning this complex plant biopolymer into industrial chemicals.
+
+## 9. Confirmation that bryozoan animals were present during the Cambrian explosion
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/d41586-026-01753-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01753-9
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01753-9 Bryozoans are marine invertebrates that live in colonies and have long been considered absent from the Cambrian explosion — a rapid evolutionary event that began around 538 million years...
+
+## 10. The Amazon can be saved — with concerted action inside and outside Brazil
+
+- 期刊：Nature
+- 日期：2026-06-10
+- DOI：10.1038/d41586-026-01824-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01824-x
+
+摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01824-x As deforestation in the Amazon falls, fresh evidence shows that the rainforest can withstand global warming, but only if there is a worldwide effort to stop cutting it down.
