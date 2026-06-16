@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-15 05:39
+生成时间：2026-06-16 06:11
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Bones of Iron Age skeleton were whittled into tools
+## 1. Nanocrystal-tailored recombination for all-perovskite tandem solar modules
 
 - 期刊：Nature
 - 日期：2026-06-15
-- DOI：10.1038/d41586-026-01833-w
+- DOI：10.1038/s41586-026-10768-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01833-w
+- 链接：https://www.nature.com/articles/s41586-026-10768-1
 
-摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-w The female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/s41586-026-10768-1 Nanocrystal-tailored recombination for all-perovskite tandem solar modules
 
-## 2. Huge study hints at risks of switching from tobacco cigarettes to vapes
+## 2. The latest benefit of obesity drugs: boosting testosterone and sperm quality
 
 - 期刊：Nature
-- 日期：2026-06-14
-- DOI：10.1038/d41586-026-01834-9
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01867-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01834-9
+- 链接：https://www.nature.com/articles/d41586-026-01867-0
 
-摘要精简：Nature, Published online: 14 June 2026; doi:10.1038/d41586-026-01834-9 Lung cancer risk was higher in people who took up electronic cigarettes than in those who quit smoking completely.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01867-0 Preliminary study finds that testosterone levels increase or stabilize in people taking GLP-1 medications.
 
-## 3. Human migration has surged since 2000 — these maps reveal where people are going
+## 3. ‘Every box has been opened’: London botanic gardens digitizes 7 million specimens
 
 - 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01796-y
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01917-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01796-y
+- 链接：https://www.nature.com/articles/d41586-026-01917-7
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01796-y Modelling with artificial-intelligence tools has filled gaps in migration data, revealing detailed global population movements from 1990 to 2023.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01917-7 As Kew Botanic Gardens completes a scan of its collections, AI tools could help in the fight against biodiversity loss.
 
-## 4. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
+## 4. Why people should work together to shape the economy
 
 - 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01662-x
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01889-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01662-x
+- 链接：https://www.nature.com/articles/d41586-026-01889-8
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01662-x Japan and South Korea are challenging Western peers in a shifting research landscape.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01889-8 An economist sets out how communities can direct economic decisions and not just endure their consequences.
 
-## 5. Mitochondria tethered to the nucleus secure its energy supply
+## 5. At-home brain implant gives man with motor neuron disease his daily life back
 
 - 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01587-5
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01863-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01587-5
+- 链接：https://www.nature.com/articles/d41586-026-01863-4
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01587-5 Direct interactions between the cell’s powerhouses and nuclear pores might channel energy straight into the nucleus, fuelling cell division and differentiation.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01863-4 The device has helped a man with motor neuron disease communicate and control his computer for nearly two years.
 
-## 6. ‘Hidden hero’ peptides guard crops against sudden cold
+## 6. How AI is revealing the secret lives of animals from hummingbirds to pumas
 
 - 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01754-8
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01887-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01754-8
+- 链接：https://www.nature.com/articles/d41586-026-01887-w
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01754-8 A protein signal remains silent under normal conditions but is activated under cold stress to protect developing pollen. This ‘on-demand’ resilience mechanism could enable the...
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01887-w Advances in machine learning and other technologies are helping researchers to trace the movements, landmarks and social practices of wildlife.
 
-## 7. When drug discovery fails: scientists share their frustrations with the process
+## 7. In the field — and sometimes in the lab — the simplest tool is best
 
 - 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01797-x
+- 日期：2026-06-15
+- DOI：10.1038/d41586-026-01885-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01797-x
+- 链接：https://www.nature.com/articles/d41586-026-01885-y
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01797-x In clinical trials, there are many times (and ways) a therapeutic can come up short.
+摘要精简：Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01885-y Technology has led to unprecedented innovation, but common household items can help make research more reproducible — and accessible.
 
-## 8. Is the peptide craze backed by science? The promise behind the hype
+## 8. A foundation model to help understand the regulatory implications of 3D genome organization
 
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01816-x
+- 期刊：Nature Methods
+- 日期：2026-06-15
+- DOI：10.1038/s41592-026-03098-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01816-x
+- 链接：https://www.nature.com/articles/s41592-026-03098-7
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01816-x Peptide injections are the hottest trend in wellness. Researchers say enthusiasm for these unregulated drugs has got ahead of the science.
+摘要精简：Nature Methods, Published online: 15 June 2026; doi:10.1038/s41592-026-03098-7 We developed a foundation model for 3D genome organization from Hi-C-derived chromatin structure. HiCFoundation supports integrative analysis linking genome architecture to...
 
-## 9. JUNO experiment ushers in next generation of neutrino experiments
+## 9. An image-based framework for the integrated analysis of the epithelial-to-mesenchymal transition
 
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01585-7
+- 期刊：Nature Methods
+- 日期：2026-06-15
+- DOI：10.1038/s41592-026-03103-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01585-7
+- 链接：https://www.nature.com/articles/s41592-026-03103-z
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01585-7 The first measurements from the JUNO experiment demonstrate unprecedented precision and promise exciting results.
+摘要精简：Nature Methods, Published online: 15 June 2026; doi:10.1038/s41592-026-03103-z A quantitative imaging platform enables integrated analysis of the cellular dynamics associated with the epithelial-to-mesenchymal transition (EMT) in human induced pluripotent...
 
-## 10. Chinese detector edges closer to solving the mystery of neutrino mass
+## 10. Search, organize, aggregate and share image data with BioFile Finder (BFF)
 
-- 期刊：Nature
-- 日期：2026-06-10
-- DOI：10.1038/d41586-026-01851-8
+- 期刊：Nature Methods
+- 日期：2026-06-15
+- DOI：10.1038/s41592-026-03130-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01851-8
+- 链接：https://www.nature.com/articles/s41592-026-03130-w
 
-摘要精简：Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01851-8 Physicists hope that the JUNO facility can determine which type of neutrino has the highest mass.
+摘要精简：Nature Methods, Published online: 15 June 2026; doi:10.1038/s41592-026-03130-w Search, organize, aggregate and share image data with BioFile Finder (BFF)
