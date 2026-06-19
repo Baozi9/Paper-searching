@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-18 05:20
+生成时间：2026-06-19 05:35
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Towards Conversational AI for Disease Management
+## 1. Stem cells banish severe autoimmune disease for 15 years
+
+- 期刊：Nature
+- 日期：2026-06-19
+- DOI：10.1038/d41586-026-01925-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01925-7
+
+摘要精简：Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7 Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.
+
+## 2. Clues to the sloth’s sloth found in its genome
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01869-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01869-y
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01869-y Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.
+
+## 3. It slices! It dices! Sashimi-Bot handles seafood with ease
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01871-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01871-4
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01871-4 Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin.
+
+## 4. Is AI ruining our skills? Early results are in — and they’re not good
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01947-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01947-1
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01947-1 Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.
+
+## 5. Brexit tore apart European science — now the research rifts are healing
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01841-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01841-w
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01841-w The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.
+
+## 6. Cell transplant across the tree of life hints at how animals emerged
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01910-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01910-0
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0 Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.
+
+## 7. Daily briefing: The proteins that protect us from deadly mutations
+
+- 期刊：Nature
+- 日期：2026-06-18
+- DOI：10.1038/d41586-026-01960-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01960-4
+
+摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01960-4 Proteins that ‘buffer’ the effects of mutations could help to treat diseases such as cancers. Plus, goats can follow human voices and the battle over a key ocean observatory project in...
+
+## 8. A 98-qubit trapped-ion quantum computer with all-to-all connectivity
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10764-5
+- DOI：10.1038/s41586-026-10676-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10764-5
+- 链接：https://www.nature.com/articles/s41586-026-10676-4
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10764-5 Towards Conversational AI for Disease Management
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities...
 
-## 2. Fiery data hint that controlled forest fires benefit human health
+## 9. Fast formation to reinforce lithium-rich cathodes
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/d41586-026-01868-z
+- DOI：10.1038/s41586-025-09553-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01868-z
+- 链接：https://www.nature.com/articles/s41586-025-09553-3
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-z Analysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution.
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09553-3 Fast formation in lithium-ion batteries outperforms conventional slow formation, lowering costs and improving battery capacity, stability and cycle life, offering broader application to...
 
-## 3. The brain region that could provide a cognitive ‘reservoir’ in old age
+## 10. Revealing competitive interfacial reactions in high-energy Li–S batteries
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/d41586-026-01870-5
+- DOI：10.1038/s41586-025-09473-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01870-5
+- 链接：https://www.nature.com/articles/s41586-025-09473-2
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01870-5 Having a greater tissue volume in some parts of the cerebellum is linked to higher scores on cognitive tests.
-
-## 4. DNA from hunter-gatherer teeth reveals secrets of ancient plague
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/d41586-026-01941-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01941-7
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7 Analysis shows evidence of deadly outbreaks 5,500 years ago — plus, a prototype dark-matter detector.
-
-## 5. Emergent decadal predictability in Antarctic contribution to sea-level rise
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10614-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10614-4
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for...
-
-## 6. A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10586-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10586-5
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5 Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star...
-
-## 7. Probing picometre-scale interlayer deformations via hyperbolic polaritons
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10638-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10638-w
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale...
-
-## 8. Optical fibre gripper for high-performance 3D micromanipulation
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10673-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10673-7
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7 A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and...
-
-## 9. A prototype differential atom interferometer for fundamental physics
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10617-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10617-1
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for...
-
-## 10. Structure of the pre-initiation complex explains CMGE biogenesis
-
-- 期刊：Nature
-- 日期：2026-06-17
-- DOI：10.1038/s41586-026-10657-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10657-7
-
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10657-7 Cryo-electron microscopy and biochemical reconstitution experiments in yeast provide insight into the assembly of the CMGE complex, a helicase that establishes bidirectional DNA...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09473-2 Visualization of concentration-driven phase segregation within high-concentration interfacial layers in the context of high-energy lithium–sulfur batteries using liquid-cell...
