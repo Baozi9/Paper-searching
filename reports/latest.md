@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-20 04:53
+生成时间：2026-06-21 05:27
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
-
-- 期刊：Nature
-- 日期：2026-06-19
-- DOI：10.1038/s41586-026-10812-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10812-0
-
-摘要精简：Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
-
-## 2. A long-lived butterfly’s secret to graceful ageing
-
-- 期刊：Nature
-- 日期：2026-06-19
-- DOI：10.1038/d41586-026-01948-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01948-0
-
-摘要精简：Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01948-0 Species in the Heliconius genus are among the longest-lived butterflies, thanks to a diet of pollen.
-
-## 3. Briefing Chat: Testosterone and sperm might get a boost from obesity drugs
-
-- 期刊：Nature
-- 日期：2026-06-19
-- DOI：10.1038/d41586-026-01963-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01963-1
-
-摘要精简：Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1 Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.
-
-## 4. Daily briefing: The brain builds a sentence neuron by neuron
-
-- 期刊：Nature
-- 日期：2026-06-18
-- DOI：10.1038/d41586-026-01967-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01967-x
-
-摘要精简：Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01967-x Researchers have tracked the electrical activity of individual brain cells during conversation in real time. Plus, the history of GPS and a cross-species transplant that could reveal...
-
-## 5. Molecular basis of polyadenylated RNA fate determination in the nucleus
+## 1. A mosaic of whole-body representations on the human precentral gyrus
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10650-0
+- DOI：10.1038/s41586-026-10653-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10650-0
+- 链接：https://www.nature.com/articles/s41586-026-10653-x
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10650-0 Biochemical, structural and cell biological analyses reveal that UAP56 (DDX39B) assembles with a TREX-2–like module that redirects non-functional polyadenylated RNAs from export to...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10653-x A comprehensive map of the human motor cortex at single-neuron resolution is described.
 
-## 6. Rock weathering can counteract river CO 2 emissions induced by permafrost thaw
+## 2. Spatial distribution of the proteome in the human body and in cancers
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10664-8
+- DOI：10.1038/s41586-026-10660-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10664-8
+- 链接：https://www.nature.com/articles/s41586-026-10660-y
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10664-8 Permafrost thaw on the Qinghai–Tibet Plateau increases rock-weathering rates while reducing river CO2 emissions, suggesting geological carbon fluxes may eventually outpace thaw-driven...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10660-y A spatially resolved map of the human proteome across a variety of healthy tissues and cancers provides wide-ranging insights in developmental biology and oncology, and could aid the...
 
-## 7. Cortical development dynamics across autism spectrum disorder mouse models
+## 3. Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10679-1
+- DOI：10.1038/s41586-026-10540-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10679-1
+- 链接：https://www.nature.com/articles/s41586-026-10540-5
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10679-1 Using single-nucleus multi-omic sequencing, diverse autism spectrum disorder-linked gene mutations converge on transient, stage-specific disruptions in early brain development, and...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10540-5 Analyses of ancient DNA from hunter-gatherers near Lake Baikal in southeast Siberia around 5,500 years ago indicate that highly virulent Yersinia pestis emerged earlier than previously...
 
-## 8. A blastoporal organizer in a ctenophore
+## 4. Mapping the neuronal building blocks of human language with language models
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10643-z
+- DOI：10.1038/s41586-026-10691-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10643-z
+- 链接：https://www.nature.com/articles/s41586-026-10691-5
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10643-z Experiments using the comb jelly Mnemiopsis leidyi and the sea anemone Nematostella vectensis reveal that the emergence of a core signalling pathway may have been a key innovation...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10691-5 Wide-scale recordings reveal neurons in the human brain that encode fundamental components of language such as the grammatical relationships between words, their parts of speech and the...
 
-## 9. Confined migration induces non-lethal DNA damage in developing neurons
+## 5. Towards autonomous medical artificial intelligence agents
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10648-8
+- DOI：10.1038/s41586-026-10675-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10648-8
+- 链接：https://www.nature.com/articles/s41586-026-10675-5
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10648-8 The migration of neurons in developing cerebral and cerebellar cortices is accompanied by massive DNA double-strand breaks due to mechanostress during passage through narrow interstitial...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10675-5 A large language model artificial intelligence agent operating in a sandboxed electronic health record system can autonomously take patient histories, order tests, interpret findings,...
 
-## 10. Analysis of 173,303 exomes and genomes in the Pakistan Genome Resource
+## 6. CHPO coordinates chilling recovery and nitrogen use in rice
 
 - 期刊：Nature
 - 日期：2026-06-17
-- DOI：10.1038/s41586-026-10667-5
+- DOI：10.1038/s41586-026-10682-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10667-5
+- 链接：https://www.nature.com/articles/s41586-026-10682-6
 
-摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10667-5 The Pakistan Genome Resource compiles biobank data from 173,303 individuals with high familial relatedness, broadening the catalogue of human genetic variation and establishing a...
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10682-6 A rice gene, CHPO, links chilling resilience with nitrogen-use efficiency, revealing a domestication-shaped regulatory mechanism that could guide breeding of climate-resilient,...
+
+## 7. Optical metasurfaces for general vision processing on the edge
+
+- 期刊：Nature
+- 日期：2026-06-17
+- DOI：10.1038/s41586-026-10635-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10635-z
+
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10635-z By embedding core computer vision principles into a large-scale optical metasurface, an efficient vision processing system using far fewer parameters is demonstrated to outperform many...
+
+## 8. Visualizing the impact of quenched disorder on 2D electron Wigner solids
+
+- 期刊：Nature
+- 日期：2026-06-17
+- DOI：10.1038/s41586-026-10654-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10654-w
+
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10654-w A technique combining atomically resolved scanning tunnelling microscopy with neural-quantum-state quantum Monte Carlo simulation of disordered 2D electron Wigner solids establishes a...
+
+## 9. Cucurbituril-based anion-conducting membranes with supramolecular nanopores
+
+- 期刊：Nature
+- 日期：2026-06-17
+- DOI：10.1038/s41586-026-10666-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10666-6
+
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10666-6 A supramolecular strategy, in which uniform, dynamic nanopores are constructed, overcomes the limitations of limited structural control, mechanical fragility or demanding synthesis in...
+
+## 10. How the zebrafish brain weaves recent experiences into future decisions
+
+- 期刊：Nature
+- 日期：2026-06-17
+- DOI：10.1038/d41586-026-01756-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01756-6
+
+摘要精简：Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01756-6 Animals often use recent experience to guide future choices. Whole-brain imaging in larval zebrafish (Danio rerio) reveals a dedicated neural circuit that governs history-biased...
