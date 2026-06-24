@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-23 04:42
+生成时间：2026-06-24 04:48
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. C-glycoside synthesis via radical cross-coupling of glycohydrazides
+## 1. Nepal’s new science ministry must strengthen scientific capacity
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/s41586-026-10807-x
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01970-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10807-x
+- 链接：https://www.nature.com/articles/d41586-026-01970-2
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10807-x C-glycoside synthesis via radical cross-coupling of glycohydrazides
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01970-2 Nepal’s new science ministry must strengthen scientific capacity
 
-## 2. Stereoretentive decarbonylative C(sp 3 )-C(sp 3 ) cross-coupling
+## 2. Academic success still assumes uninterrupted careers
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/s41586-026-10800-4
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01971-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10800-4
+- 链接：https://www.nature.com/articles/d41586-026-01971-1
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10800-4 Stereoretentive decarbonylative C(sp 3 )-C(sp 3 ) cross-coupling
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01971-1 Academic success still assumes uninterrupted careers
 
-## 3. Isotopic evidence for a cold and distant origin of 3I/ATLAS
+## 3. The halo effect: how academic hierarchy undermines peer review and enables fraud
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/s41586-026-10771-6
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01969-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10771-6
+- 链接：https://www.nature.com/articles/d41586-026-01969-9
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10771-6 Isotopic evidence for a cold and distant origin of 3I/ATLAS
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01969-9 The halo effect: how academic hierarchy undermines peer review and enables fraud
 
-## 4. A spacecraft is falling to its doom — can NASA save it?
+## 4. Do not leave fungi out of impact assessments
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01949-z
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01972-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01949-z
+- 链接：https://www.nature.com/articles/d41586-026-01972-0
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01949-z A successful rescue of the Swift space observatory could be a good omen for the Hubble Space Telescope.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01972-0 Do not leave fungi out of impact assessments
 
-## 5. The first ticking ‘nuclear clocks’ are here — what can they do?
+## 5. A 1970s patent that changed the course of commercial biotechnology
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01909-7
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01812-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01909-7
+- 链接：https://www.nature.com/articles/d41586-026-01812-1
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7 Two research teams have created a new, long-awaited type of timekeeper.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01812-1 The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature’s archive.
 
-## 6. Will AI spark a scientific renaissance — or a diffuse monoculture?
+## 6. Silicon Valley’s vision for global AI is flawed: each country needs its own blueprint
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01954-2
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01951-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01954-2
+- 链接：https://www.nature.com/articles/d41586-026-01951-5
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01954-2 Artificial intelligence’s ability to enrich science will depend not only on model capability, but also on whether researchers, reviewers and funders reward originality over speed.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01951-5 From energy grids to language performance, emerging economies are exposing the limits of today’s artificial-intelligence strategy as it expands globally.
 
-## 7. Forty years of high-temperature superconductivity
+## 7. Europe as science superpower: what it will take to rival the US and China
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01801-4
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01955-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01801-4
+- 链接：https://www.nature.com/articles/d41586-026-01955-1
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01801-4 The first demonstration of superconductivity at 35 kelvin drove decades of materials research and introduced a puzzle about this strange state of matter.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01955-1 Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain.
 
-## 8. Make science more reliable: study people as they go about their lives
+## 8. How should I respond to race-based exclusion in my lab?
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01957-z
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01130-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01957-z
+- 链接：https://www.nature.com/articles/d41586-026-01130-6
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-z Researchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01130-6 A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?
 
-## 9. Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death
+## 9. Europe must seize the moment to lead on free and open science
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01802-3
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01953-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01802-3
+- 链接：https://www.nature.com/articles/d41586-026-01953-3
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01802-3 The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue damage and cancer.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01953-3 An under-appreciated research powerhouse, Europe has a responsibility to champion democratic science that is accessible to all the world’s research talent.
 
-## 10. Why heritage sites are at risk in a warming world — and how to save them
+## 10. Making samples one billion times bigger lets simple microscopes pinpoint amino acids
 
 - 期刊：Nature
-- 日期：2026-06-22
-- DOI：10.1038/d41586-026-01956-0
+- 日期：2026-06-23
+- DOI：10.1038/d41586-026-01842-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01956-0
+- 链接：https://www.nature.com/articles/d41586-026-01842-9
 
-摘要精简：Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01956-0 As rising seas and intensifying disasters threaten historic sites worldwide, new ways to understand, preserve and adapt these places are needed urgently.
+摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01842-9 Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.
