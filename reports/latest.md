@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-24 04:48
+生成时间：2026-06-25 04:47
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Nepal’s new science ministry must strengthen scientific capacity
+## 1. Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01970-2
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10813-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01970-2
+- 链接：https://www.nature.com/articles/s41586-026-10813-z
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01970-2 Nepal’s new science ministry must strengthen scientific capacity
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10813-z Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate
 
-## 2. Academic success still assumes uninterrupted careers
+## 2. Role of methanesulfonic acid in atmospheric particle nucleation and growth
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01971-1
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10810-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01971-1
+- 链接：https://www.nature.com/articles/s41586-026-10810-2
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01971-1 Academic success still assumes uninterrupted careers
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10810-2 Role of methanesulfonic acid in atmospheric particle nucleation and growth
 
-## 3. The halo effect: how academic hierarchy undermines peer review and enables fraud
+## 3. Reply to: On the robustness of topological gap detection via transport
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01969-9
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10568-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01969-9
+- 链接：https://www.nature.com/articles/s41586-026-10568-7
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01969-9 The halo effect: how academic hierarchy undermines peer review and enables fraud
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10568-7 Reply to: On the robustness of topological gap detection via transport
 
-## 4. Do not leave fungi out of impact assessments
+## 4. Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01972-0
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10767-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01972-0
+- 链接：https://www.nature.com/articles/s41586-026-10767-2
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01972-0 Do not leave fungi out of impact assessments
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10767-2 Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys
 
-## 5. A 1970s patent that changed the course of commercial biotechnology
+## 5. On the robustness of topological gap detection via transport
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01812-1
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10567-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01812-1
+- 链接：https://www.nature.com/articles/s41586-026-10567-8
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01812-1 The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature’s archive.
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10567-8 On the robustness of topological gap detection via transport
 
-## 6. Silicon Valley’s vision for global AI is flawed: each country needs its own blueprint
+## 6. Medical records could be revealed by AI training-data vulnerability
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01951-5
+- 日期：2026-06-24
+- DOI：10.1038/d41586-026-02032-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01951-5
+- 链接：https://www.nature.com/articles/d41586-026-02032-3
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01951-5 From energy grids to language performance, emerging economies are exposing the limits of today’s artificial-intelligence strategy as it expands globally.
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-02032-3 Identification risks are more severe for underrepresented groups in the training data — plus, evidence that the Universe is more uneven than assumed.
 
-## 7. Europe as science superpower: what it will take to rival the US and China
+## 7. AI tool spots antibiotics that fight drug-resistant gonorrhoea
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01955-1
+- 日期：2026-06-24
+- DOI：10.1038/d41586-026-01987-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01955-1
+- 链接：https://www.nature.com/articles/d41586-026-01987-7
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01955-1 Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain.
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01987-7 The bacterium Neisseria gonorrhoeae has evolved resistance to most antibiotics used to treat it, but a machine-learning screen reveals potential therapies.
 
-## 8. How should I respond to race-based exclusion in my lab?
+## 8. Volcanic magma sculpts eerie domes on the sea floor
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01130-6
+- 日期：2026-06-24
+- DOI：10.1038/d41586-026-01986-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01130-6
+- 链接：https://www.nature.com/articles/d41586-026-01986-8
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01130-6 A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01986-8 Carbon dioxide bubbling up from underground material can solidify into formations of up to five metres tall.
 
-## 9. Europe must seize the moment to lead on free and open science
+## 9. The mutational landscape of STING-induced immunity
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01953-3
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10685-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01953-3
+- 链接：https://www.nature.com/articles/s41586-026-10685-3
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01953-3 An under-appreciated research powerhouse, Europe has a responsibility to champion democratic science that is accessible to all the world’s research talent.
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10685-3 A massively parallel assay systematically charts the sequence-function landscape of the STING signalling protein, and the findings define molecular principles that tune STING activity...
 
-## 10. Making samples one billion times bigger lets simple microscopes pinpoint amino acids
+## 10. Genetic technologies to enhance crop nutritional value under climate change
 
 - 期刊：Nature
-- 日期：2026-06-23
-- DOI：10.1038/d41586-026-01842-9
+- 日期：2026-06-24
+- DOI：10.1038/s41586-026-10593-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01842-9
+- 链接：https://www.nature.com/articles/s41586-026-10593-6
 
-摘要精简：Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01842-9 Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.
+摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10593-6 This Review reflects on the joint power of genetic technologies, including untapped CRISPR–Cas techniques to combat hidden hunger and improve crop resilience, and argues in favour of...
