@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-29 05:14
+生成时间：2026-06-30 04:47
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. GW250114 reveals signatures of post-merger black-hole horizon
+## 1. Family of magnetic field-boosted superconductors in rhombohedral graphene
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10696-0
+- 日期：2026-06-29
+- DOI：10.1038/s41586-026-10815-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10696-0
+- 链接：https://www.nature.com/articles/s41586-026-10815-x
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10696-0 The observation of a direct wave after the merger of two black holes reveals signatures associated with the remnant black-hole horizon, establishing an observational channel to directly...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-x Family of magnetic field-boosted superconductors in rhombohedral graphene
 
-## 2. Chiral laser gyroscopes breaking the lock-in limit
+## 2. Audio long read: Is the peptide craze backed by science? The promise behind the hype
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10684-4
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-02063-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10684-4
+- 链接：https://www.nature.com/articles/d41586-026-02063-w
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10684-4 Ring laser gyroscope lock-in has been eliminated using spontaneous symmetry breaking in a He–Ne laser, enabling accurate near-zero rotation sensing without external components, improving...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-w The market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?
 
-## 3. Zero-shot design of drug-binding proteins via neural iterative selection−expansion
+## 3. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10670-w
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-02023-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10670-w
+- 链接：https://www.nature.com/articles/d41586-026-02023-4
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10670-w By pairing two neural networks in an iterative optimization algorithm, small-molecule binding proteins can be designed from scratch with high accuracy, affinity and success rates,...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4 Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.
 
-## 4. Ductile alloys offering 100 MPa tensile strength at 2,400 °C
+## 4. How one US scientist is adapting to life abroad after DOGE cuts
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10708-z
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-01137-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10708-z
+- 链接：https://www.nature.com/articles/d41586-026-01137-z
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10708-z A boron-stabilized oxide-strengthened tantalum alloy combines exceptional room-temperature ductility with record ultrahigh-temperature strength, enabling load-bearing applications above...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01137-z Sarah Weisberg is one of a number of scientists who have made the move to Europe for job security.
 
-## 5. Alternate RNA decoding results in stable and abundant proteins in mammals
+## 5. How AI can crack open the ‘hidden curriculum’ for neurodivergent students
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10678-2
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-01672-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10678-2
+- 链接：https://www.nature.com/articles/d41586-026-01672-9
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10678-2 Alternate RNA decoding, an understudied process, leads to peptide sequence modifications that can have substantial functional effects on protein stability, tissue-specific proteomes and...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9 Marisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.
 
-## 6. A Streptomyces megacluster encodes synergistic biotin-targeting antibiotics
+## 6. What’s the human cost of US research turmoil? A new film finds out
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/s41586-026-10647-9
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-01979-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10647-9
+- 链接：https://www.nature.com/articles/d41586-026-01979-7
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10647-9 In Streptomyces spp., a conserved biosynthetic gene megacluster produces an arsenal of distinct antimicrobials that converge on bacterial biotin biosynthesis as a naturally evolved...
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7 Science is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many.
 
-## 7. Garbage collection
+## 7. Scientists fight back against far-right plans to restrict academic freedom in Germany
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/d41586-026-01720-4
+- 日期：2026-06-29
+- DOI：10.1038/d41586-026-01496-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01720-4
+- 链接：https://www.nature.com/articles/d41586-026-01496-7
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01720-4 A sense of déjà vu.
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01496-7 With the far-right Alternative for Germany leading in polls for national and state elections, institutions are facing up to proposed restrictions on academic freedom.
 
-## 8. Laser light switches on heat flow in ultra-thin structures
+## 8. Daily briefing: Ovaries start a second job after menopause
 
 - 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/d41586-026-01803-2
+- 日期：2026-06-26
+- DOI：10.1038/d41586-026-02065-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01803-2
+- 链接：https://www.nature.com/articles/d41586-026-02065-8
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01803-2 A temperature difference of more than 100 kelvin can be created between stacked layers of 2D material by irradiating them with laser light.
+摘要精简：Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02065-8 The organs might begin a role in the immune system after egg production stops. Plus, precise gene-editing of human embryos and a game to terraform Mars.
 
-## 9. Genomic insights into the population dynamics and demise of Neanderthals
+## 9. Spatio-DARLIN enables robust and efficient in situ lineage tracing in mice at single-cell resolution
 
-- 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/d41586-026-01704-4
+- 期刊：Nature Methods
+- 日期：2026-06-29
+- DOI：10.1038/s41592-026-03151-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01704-4
+- 链接：https://www.nature.com/articles/s41592-026-03151-5
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01704-4 A surge of genetic data from the skeletal remains of Neanderthals disproves some assumptions and generates fresh questions about these ancient hominins.
+摘要精简：Nature Methods, Published online: 29 June 2026; doi:10.1038/s41592-026-03151-5 Spatio-DARLIN combines the DARLIN mouse model with sequencing-based spatial transcriptomics to enable high-resolution spatial lineage tracing in mice.
 
-## 10. Daily briefing: Sperm whales have different dialects
+## 10. A retargeted recombinase for precise insertion of large DNA
 
-- 期刊：Nature
-- 日期：2026-06-24
-- DOI：10.1038/d41586-026-02054-x
+- 期刊：Nature Biotechnology
+- 日期：2026-06-29
+- DOI：10.1038/s41587-026-03198-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02054-x
+- 链接：https://www.nature.com/articles/s41587-026-03198-x
 
-摘要精简：Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-02054-x Whales in different areas of the Mediterranean use varying patterns of clicks and pauses. Plus, a technique to make protein samples one billion times bigger and the science of grief.
+摘要精简：Nature Biotechnology, Published online: 29 June 2026; doi:10.1038/s41587-026-03198-x An approach to retarget the large serine recombinase Bxb1 enables precise integration of large DNA payloads at desired loci.
