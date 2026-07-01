@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-06-30 04:47
+生成时间：2026-07-01 05:08
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Family of magnetic field-boosted superconductors in rhombohedral graphene
+## 1. Vaccination elicits HIV broadly neutralizing antibodies in primates
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/s41586-026-10837-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10837-5
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/s41586-026-10837-5 Vaccination elicits HIV broadly neutralizing antibodies in primates
+
+## 2. Enhanced B cell priming induces broadly neutralizing HIV-1 apex antibodies
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/s41586-026-10838-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10838-4
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/s41586-026-10838-4 Enhanced B cell priming induces broadly neutralizing HIV-1 apex antibodies
+
+## 3. Child online safety needs more than social-media bans
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-02068-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02068-5
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02068-5 Child online safety needs more than social-media bans
+
+## 4. Ebola preparedness must start with ecosystems and before humans show symptoms
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-02070-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02070-x
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02070-x Ebola preparedness must start with ecosystems and before humans show symptoms
+
+## 5. Early television set impresses Nature editors — but will it catch on?
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-01813-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01813-0
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01813-0 Nature reports a demonstration of a ‘televisor’, and the British Government makes a generous endowment, in our weekly dip into the magazine’s archive.
+
+## 6. AI tools can speed up thinking, but evidence still comes from the lab bench
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-02069-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02069-4
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02069-4 AI tools can speed up thinking, but evidence still comes from the lab bench
+
+## 7. Can Rwanda sustain its rise in science and technology? Here’s what can help
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-01980-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01980-0
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01980-0 An ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.
+
+## 8. AI systems devise hypotheses and ways to test them
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-01873-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01873-2
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01873-2 AI agents collaborate to generate biomedical hypotheses and analyse data, moving towards a laboratory discovery cycle with AI involved in every step.
+
+## 9. Coffee is under threat: how scientists are fighting to save it from extinction
+
+- 期刊：Nature
+- 日期：2026-06-30
+- DOI：10.1038/d41586-026-01965-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01965-z
+
+摘要精简：Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01965-z Coffee plants are critically endangered by climate change. Researchers are finding solutions to keep scientists supplied with their favourite discovery fuel.
+
+## 10. Daily briefing: Editing the epigenome with CRISPR to treat disease
 
 - 期刊：Nature
 - 日期：2026-06-29
-- DOI：10.1038/s41586-026-10815-x
+- DOI：10.1038/d41586-026-02075-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10815-x
+- 链接：https://www.nature.com/articles/d41586-026-02075-6
 
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-x Family of magnetic field-boosted superconductors in rhombohedral graphene
-
-## 2. Audio long read: Is the peptide craze backed by science? The promise behind the hype
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-02063-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02063-w
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-w The market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?
-
-## 3. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-02023-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02023-4
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4 Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.
-
-## 4. How one US scientist is adapting to life abroad after DOGE cuts
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-01137-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01137-z
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01137-z Sarah Weisberg is one of a number of scientists who have made the move to Europe for job security.
-
-## 5. How AI can crack open the ‘hidden curriculum’ for neurodivergent students
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-01672-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01672-9
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9 Marisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.
-
-## 6. What’s the human cost of US research turmoil? A new film finds out
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-01979-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01979-7
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7 Science is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many.
-
-## 7. Scientists fight back against far-right plans to restrict academic freedom in Germany
-
-- 期刊：Nature
-- 日期：2026-06-29
-- DOI：10.1038/d41586-026-01496-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01496-7
-
-摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01496-7 With the far-right Alternative for Germany leading in polls for national and state elections, institutions are facing up to proposed restrictions on academic freedom.
-
-## 8. Daily briefing: Ovaries start a second job after menopause
-
-- 期刊：Nature
-- 日期：2026-06-26
-- DOI：10.1038/d41586-026-02065-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02065-8
-
-摘要精简：Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02065-8 The organs might begin a role in the immune system after egg production stops. Plus, precise gene-editing of human embryos and a game to terraform Mars.
-
-## 9. Spatio-DARLIN enables robust and efficient in situ lineage tracing in mice at single-cell resolution
-
-- 期刊：Nature Methods
-- 日期：2026-06-29
-- DOI：10.1038/s41592-026-03151-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03151-5
-
-摘要精简：Nature Methods, Published online: 29 June 2026; doi:10.1038/s41592-026-03151-5 Spatio-DARLIN combines the DARLIN mouse model with sequencing-based spatial transcriptomics to enable high-resolution spatial lineage tracing in mice.
-
-## 10. A retargeted recombinase for precise insertion of large DNA
-
-- 期刊：Nature Biotechnology
-- 日期：2026-06-29
-- DOI：10.1038/s41587-026-03198-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41587-026-03198-x
-
-摘要精简：Nature Biotechnology, Published online: 29 June 2026; doi:10.1038/s41587-026-03198-x An approach to retarget the large serine recombinase Bxb1 enables precise integration of large DNA payloads at desired loci.
+摘要精简：Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02075-6 CRISPR’s next act, the new ‘world’s fastest computer’ and how to triumph in the metaphorical penalty shootout of life.
