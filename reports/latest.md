@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-06 04:54
+生成时间：2026-07-07 04:34
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Why paying peer reviewers works, according to a journal’s editor-in-chief
+## 1. From cloning to gene-editing: the enduring legacy of Dolly the sheep
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01973-z
+- 日期：2026-07-06
+- DOI：10.1038/d41586-026-02096-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01973-z
+- 链接：https://www.nature.com/articles/d41586-026-02096-1
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01973-z A biology journal that paid peer reviewers found that the approach cut the time to a first editorial decision by 85% and maintained high-quality reviews.
+摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02096-1 Dolly’s brush with celebrity could hold lessons for current discussions about reproductive technologies.
 
-## 2. Liver fat steers the outcome of advanced colorectal cancer
+## 2. Universities are relying on AI-detection software to catch cheating. How well do the programs work?
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01747-7
+- 日期：2026-07-06
+- DOI：10.1038/d41586-026-01358-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01747-7
+- 链接：https://www.nature.com/articles/d41586-026-01358-2
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01747-7 In about 50% of people with colorectal cancer, tumour cells spread to distant organs. The ability of these metastases to grow into the liver tissue shapes prognosis. It emerges that...
+摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2 Technology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.
 
-## 3. Mysterious protein sets up a beneficial partnership between bacteria and insects
+## 3. Deep-sea oddities and boatloads of other new species — June’s best science images
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-02007-4
+- 日期：2026-07-06
+- DOI：10.1038/d41586-026-02087-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02007-4
+- 链接：https://www.nature.com/articles/d41586-026-02087-2
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02007-4 Buchnera bacteria that live in the cells of insects known as aphids secrete a protein called SyeA, which is crucial for colonization. The structural similarity of SyeA to proteins...
+摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02087-2 The month’s sharpest science shots — selected by Nature’s photo team.
 
-## 4. RS-232 and other forms of grief
+## 4. The rise of computer chips — and the race to control them
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01936-4
+- 日期：2026-07-06
+- DOI：10.1038/d41586-026-02099-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01936-4
+- 链接：https://www.nature.com/articles/d41586-026-02099-y
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01936-4 A connection to another life.
+摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02099-y An analysis sets out the history of computing beyond software and Californian entrepreneurs.
 
-## 5. Plant membranes shuffle lipids around to stay firm under heat stress
+## 5. Time to give hydration breaks the red card? What science says about keeping cool
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01809-w
+- 日期：2026-07-06
+- DOI：10.1038/d41586-026-02097-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01809-w
+- 链接：https://www.nature.com/articles/d41586-026-02097-0
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01809-w High temperatures make cell membranes weak and leaky. Rice plants rapidly counteract this effect by adjusting membrane lipid content, enabling them to resist heatwaves.
+摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02097-0 Inappropriate use of cooling breaks in sport is undermining trust in heat-health research.
 
-## 6. Paper mill cancer studies get double the number of citations as genuine papers
+## 6. Daily briefing: How cooperation built the world
 
 - 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01908-8
+- 日期：2026-07-03
+- DOI：10.1038/d41586-026-02116-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01908-8
+- 链接：https://www.nature.com/articles/d41586-026-02116-0
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01908-8 Potentially fraudulent papers often cite each other and could be inflating the impact factor of journals in which they are published.
+摘要精简：Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-02116-0 Collaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science.
 
-## 7. The complex truth about trust in science
+## 7. A comprehensive benchmark of sequence-based subcellular localization predictors for human proteins
 
-- 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01974-y
+- 期刊：Nature Methods
+- 日期：2026-07-06
+- DOI：10.1038/s41592-026-03142-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01974-y
+- 链接：https://www.nature.com/articles/s41592-026-03142-6
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01974-y Confidence in science has not collapsed, but scientists have urgent problems to address.
+摘要精简：Nature Methods, Published online: 06 July 2026; doi:10.1038/s41592-026-03142-6 This Registered Report presents the results of a study to evaluate the performance of sequence-based protein localization predictors on a curated test dataset of 3,814 human...
 
-## 8. Six ways to put the public at the heart of science and policy
+## 8. Efficient evidence-based genome annotation with EviAnn
 
-- 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01981-z
+- 期刊：Nature Methods
+- 日期：2026-07-03
+- DOI：10.1038/s41592-026-03156-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01981-z
+- 链接：https://www.nature.com/articles/s41592-026-03156-0
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01981-z Trust in elite institutions is on the wane globally. Building public participation into research and government advice can turn the tide.
+摘要精简：Nature Methods, Published online: 03 July 2026; doi:10.1038/s41592-026-03156-0 EviAnn surpasses existing genome annotation methods by leveraging gene expression and protein sequence homology evidence to achieve higher accuracy and efficiency.
 
-## 9. As transistors get smaller, electrodes must keep shrinking too
+## 9. ClairS: a deep-learning method for long-read tumor–normal pair somatic small variant calling
 
-- 期刊：Nature
+- 期刊：Nature Methods
 - 日期：2026-07-01
-- DOI：10.1038/d41586-026-01807-y
+- DOI：10.1038/s41592-026-03152-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01807-y
+- 链接：https://www.nature.com/articles/s41592-026-03152-4
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01807-y Direct imaging shows that the contacts through which current flows into atomically thin transistors can be scaled down to just a few nanometres in length.
+摘要精简：Nature Methods, Published online: 01 July 2026; doi:10.1038/s41592-026-03152-4 ClairS accurately detects somatic small variants using long-read sequencing data from tumor–normal pair samples.
 
-## 10. Have people stopped trusting science? The data tell a surprising story
+## 10. Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy
 
-- 期刊：Nature
-- 日期：2026-07-01
-- DOI：10.1038/d41586-026-01977-9
+- 期刊：Nature Biotechnology
+- 日期：2026-07-06
+- DOI：10.1038/s41587-026-03247-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01977-9
+- 链接：https://www.nature.com/articles/s41587-026-03247-5
 
-摘要精简：Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01977-9 Some say there’s a global crisis of trust — but research reveals where the real problems lie.
+摘要精简：Nature Biotechnology, Published online: 06 July 2026; doi:10.1038/s41587-026-03247-5 Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy
