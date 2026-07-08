@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-07 04:34
+生成时间：2026-07-08 03:55
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. From cloning to gene-editing: the enduring legacy of Dolly the sheep
+## 1. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
 
 - 期刊：Nature
-- 日期：2026-07-06
-- DOI：10.1038/d41586-026-02096-1
+- 日期：2026-07-07
+- DOI：10.1038/s41586-026-10882-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02096-1
+- 链接：https://www.nature.com/articles/s41586-026-10882-0
 
-摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02096-1 Dolly’s brush with celebrity could hold lessons for current discussions about reproductive technologies.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/s41586-026-10882-0 Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
 
-## 2. Universities are relying on AI-detection software to catch cheating. How well do the programs work?
+## 2. Listen to Gen Z when it comes to AI in education
 
 - 期刊：Nature
-- 日期：2026-07-06
-- DOI：10.1038/d41586-026-01358-2
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02110-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01358-2
+- 链接：https://www.nature.com/articles/d41586-026-02110-6
 
-摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2 Technology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02110-6 Listen to Gen Z when it comes to AI in education
 
-## 3. Deep-sea oddities and boatloads of other new species — June’s best science images
+## 3. Say hello to hard helium
 
 - 期刊：Nature
-- 日期：2026-07-06
-- DOI：10.1038/d41586-026-02087-2
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02101-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02087-2
+- 链接：https://www.nature.com/articles/d41586-026-02101-7
 
-摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02087-2 The month’s sharpest science shots — selected by Nature’s photo team.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02101-7 The first solidification of the second-lightest element, and evidence of an ancient salt-water lake in Peru, in this week’s pick from the Nature archive.
 
-## 4. The rise of computer chips — and the race to control them
+## 4. AI can cause harm: safeguards must catch up
 
 - 期刊：Nature
-- 日期：2026-07-06
-- DOI：10.1038/d41586-026-02099-y
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02109-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02099-y
+- 链接：https://www.nature.com/articles/d41586-026-02109-z
 
-摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02099-y An analysis sets out the history of computing beyond software and Californian entrepreneurs.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02109-z AI can cause harm: safeguards must catch up
 
-## 5. Time to give hydration breaks the red card? What science says about keeping cool
+## 5. How long can humans live? All evidence points to a maximum of 125 years
 
 - 期刊：Nature
-- 日期：2026-07-06
-- DOI：10.1038/d41586-026-02097-0
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02111-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02097-0
+- 链接：https://www.nature.com/articles/d41586-026-02111-5
 
-摘要精简：Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02097-0 Inappropriate use of cooling breaks in sport is undermining trust in heat-health research.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5 How long can humans live? All evidence points to a maximum of 125 years
 
-## 6. Daily briefing: How cooperation built the world
+## 6. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
 
 - 期刊：Nature
-- 日期：2026-07-03
-- DOI：10.1038/d41586-026-02116-0
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02105-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02116-0
+- 链接：https://www.nature.com/articles/d41586-026-02105-3
 
-摘要精简：Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-02116-0 Collaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02105-3 Tool directs text-generation systems to remove constructions associated with artificial intelligence in research papers and grant proposals.
 
-## 7. A comprehensive benchmark of sequence-based subcellular localization predictors for human proteins
+## 7. How to widen access to the critical minerals that the world needs
 
-- 期刊：Nature Methods
-- 日期：2026-07-06
-- DOI：10.1038/s41592-026-03142-6
+- 期刊：Nature
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02100-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03142-6
+- 链接：https://www.nature.com/articles/d41586-026-02100-8
 
-摘要精简：Nature Methods, Published online: 06 July 2026; doi:10.1038/s41592-026-03142-6 This Registered Report presents the results of a study to evaluate the performance of sequence-based protein localization predictors on a curated test dataset of 3,814 human...
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02100-8 A patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.
 
-## 8. Efficient evidence-based genome annotation with EviAnn
+## 8. Body-plan organizer in comb jellies hints at animal ancestry
 
-- 期刊：Nature Methods
-- 日期：2026-07-03
-- DOI：10.1038/s41592-026-03156-0
+- 期刊：Nature
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02040-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03156-0
+- 链接：https://www.nature.com/articles/d41586-026-02040-3
 
-摘要精简：Nature Methods, Published online: 03 July 2026; doi:10.1038/s41592-026-03156-0 EviAnn surpasses existing genome annotation methods by leveraging gene expression and protein sequence homology evidence to achieve higher accuracy and efficiency.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02040-3 Transplantation experiments in evolutionarily distinct animal groups reveal conserved mechanisms underlying tissue organization during development.
 
-## 9. ClairS: a deep-learning method for long-read tumor–normal pair somatic small variant calling
+## 9. Save Hubble: the race to preserve the space telescope kicks off
 
-- 期刊：Nature Methods
-- 日期：2026-07-01
-- DOI：10.1038/s41592-026-03152-4
+- 期刊：Nature
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02000-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03152-4
+- 链接：https://www.nature.com/articles/d41586-026-02000-x
 
-摘要精简：Nature Methods, Published online: 01 July 2026; doi:10.1038/s41592-026-03152-4 ClairS accurately detects somatic small variants using long-read sequencing data from tumor–normal pair samples.
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-x The orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.
 
-## 10. Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy
+## 10. Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag
 
-- 期刊：Nature Biotechnology
-- 日期：2026-07-06
-- DOI：10.1038/s41587-026-03247-5
+- 期刊：Nature
+- 日期：2026-07-07
+- DOI：10.1038/d41586-026-02095-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41587-026-03247-5
+- 链接：https://www.nature.com/articles/d41586-026-02095-2
 
-摘要精简：Nature Biotechnology, Published online: 06 July 2026; doi:10.1038/s41587-026-03247-5 Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy
+摘要精简：Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02095-2 These collaborations are delivering scientific discoveries beyond most astronomers’ dreams.
