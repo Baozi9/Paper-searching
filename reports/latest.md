@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-10 04:35
+生成时间：2026-07-11 03:53
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Found: the toxic killer that caused an ocean catastrophe
+## 1. Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/s41586-026-10853-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10853-5
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/s41586-026-10853-5 Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle
+
+## 2. Alpine crossing took a heavy toll on Hannibal’s elephants and troops
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02113-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02113-3
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02113-3 Pachyderms would have lost substantial amounts of weight traversing the mountains, as would have horses and soldiers.
+
+## 3. Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02185-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02185-1
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created.
+
+## 4. Which ‘AI scientist’ suits your lab? A guide for the perplexed
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02091-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02091-6
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
+
+## 5. Think preprints are unreliable? Analysis of 70,000 studies might change your mind
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02167-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02167-3
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3 Central conclusions rarely change when biomedical preprints go on to be published in journals.
+
+## 6. Lab-grown sperm: scientists inch closer to fertility breakthrough
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02172-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02172-6
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02172-6 Sci-fi procedure creates immature human sperm from stem cells, nurturing them on a mouse’s kidney.
+
+## 7. NSF plans cuts to core science programmes to fund White House initiative
+
+- 期刊：Nature
+- 日期：2026-07-10
+- DOI：10.1038/d41586-026-02135-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02135-x
+
+摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-x A proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog of grant applications.
+
+## 8. Daily briefing: Mutation lets octopuses make proteins with precision
 
 - 期刊：Nature
 - 日期：2026-07-09
-- DOI：10.1038/d41586-026-02112-4
+- DOI：10.1038/d41586-026-02177-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02112-4
+- 链接：https://www.nature.com/articles/d41586-026-02177-1
 
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4 Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals.
+摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02177-1 A break in these octopuses’ protein-making machinery boosts their accuracy. Plus, a Nobel-prizewinner has left the United States for China and the effects of microgravity on the brain.
 
-## 2. Pair of ‘super-puff’ planets are lighter than candy floss
-
-- 期刊：Nature
-- 日期：2026-07-09
-- DOI：10.1038/d41586-026-02114-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02114-2
-
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02114-2 Two gas giants circling the same star are among the least dense planets ever found.
-
-## 3. Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
-
-- 期刊：Nature
-- 日期：2026-07-09
-- DOI：10.1038/d41586-026-01242-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01242-z
-
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
-
-## 4. Whoops! Most arXiv papers contain information never meant to be shared
-
-- 期刊：Nature
-- 日期：2026-07-09
-- DOI：10.1038/d41586-026-02057-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02057-8
-
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02057-8 Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.
-
-## 5. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
-
-- 期刊：Nature
-- 日期：2026-07-09
-- DOI：10.1038/d41586-026-01357-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01357-3
-
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01357-3 After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research.
-
-## 6. Nukes in space? Orbital detector could sniff out warheads
+## 9. Architecture of the 8 MDa Hdr–Vhu–Fwd super-assembly in class I methanogens
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/d41586-026-02141-z
+- DOI：10.1038/s41586-026-10744-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02141-z
+- 链接：https://www.nature.com/articles/s41586-026-10744-9
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02141-z A shoebox-sized detector satellite could identify the telltale signal of a hidden nuclear device — plus, how Indigenous plant knowledge is under threat.
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10744-9 The structure of the Hdr–Vhu–Fwd super-assembly reveals a lineage-specific and modular 8 MDa complex with the ability to adapt to diverse anaerobic niches.
 
-## 7. Observation of Floquet rotational super-radiance
+## 10. Reinforcement learning control of quantum error correction
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10725-y
+- DOI：10.1038/s41586-026-10759-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10725-y
+- 链接：https://www.nature.com/articles/s41586-026-10759-2
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10725-y A Floquet regime of rotational super-radiance has been observed in a spatiotemporally modulated ring network of resonators.
-
-## 8. In vivo feasibility study of humanoid robots in surgery
-
-- 期刊：Nature
-- 日期：2026-07-08
-- DOI：10.1038/s41586-026-10796-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10796-x
-
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-x A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical...
-
-## 9. Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries
-
-- 期刊：Nature
-- 日期：2026-07-08
-- DOI：10.1038/s41586-026-10732-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10732-z
-
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10732-z A targeted ligand anti-solvent is incorporated into an anion-rich ether-based electrolyte and used to achieve lithium metal batteries with a long cycle life, high energy density and high...
-
-## 10. Non-genotoxic transplantation and in vivo selection through epitope editing
-
-- 期刊：Nature
-- 日期：2026-07-08
-- DOI：10.1038/s41586-026-10737-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10737-8
-
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10737-8 Epitope editing of KIT enables antibody-based, non-genotoxic conditioning that selectively enriches therapeutic BCL11A-edited haematopoietic stem/progenitor cells, supports durable...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2 By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced...
