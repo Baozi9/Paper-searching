@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-11 03:53
+生成时间：2026-07-12 04:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/s41586-026-10853-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10853-5
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/s41586-026-10853-5 Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle
-
-## 2. Alpine crossing took a heavy toll on Hannibal’s elephants and troops
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02113-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02113-3
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02113-3 Pachyderms would have lost substantial amounts of weight traversing the mountains, as would have horses and soldiers.
-
-## 3. Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02185-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02185-1
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created.
-
-## 4. Which ‘AI scientist’ suits your lab? A guide for the perplexed
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02091-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02091-6
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
-
-## 5. Think preprints are unreliable? Analysis of 70,000 studies might change your mind
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02167-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02167-3
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3 Central conclusions rarely change when biomedical preprints go on to be published in journals.
-
-## 6. Lab-grown sperm: scientists inch closer to fertility breakthrough
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02172-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02172-6
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02172-6 Sci-fi procedure creates immature human sperm from stem cells, nurturing them on a mouse’s kidney.
-
-## 7. NSF plans cuts to core science programmes to fund White House initiative
-
-- 期刊：Nature
-- 日期：2026-07-10
-- DOI：10.1038/d41586-026-02135-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02135-x
-
-摘要精简：Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-x A proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog of grant applications.
-
-## 8. Daily briefing: Mutation lets octopuses make proteins with precision
-
-- 期刊：Nature
-- 日期：2026-07-09
-- DOI：10.1038/d41586-026-02177-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02177-1
-
-摘要精简：Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02177-1 A break in these octopuses’ protein-making machinery boosts their accuracy. Plus, a Nobel-prizewinner has left the United States for China and the effects of microgravity on the brain.
-
-## 9. Architecture of the 8 MDa Hdr–Vhu–Fwd super-assembly in class I methanogens
+## 1. Large language models can predict the results of social science experiments
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10744-9
+- DOI：10.1038/s41586-026-10742-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10744-9
+- 链接：https://www.nature.com/articles/s41586-026-10742-x
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10744-9 The structure of the Hdr–Vhu–Fwd super-assembly reveals a lineage-specific and modular 8 MDa complex with the ability to adapt to diverse anaerobic niches.
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x Large language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the...
 
-## 10. Reinforcement learning control of quantum error correction
+## 2. Ancient feeding-related neuropeptides regulate alloparenting in ants
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10759-2
+- DOI：10.1038/s41586-026-10747-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10759-2
+- 链接：https://www.nature.com/articles/s41586-026-10747-6
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2 By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6 Pharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state...
+
+## 3. Anatomy of a seafloor spreading event captured by in situ seismogeodesy
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10785-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10785-0
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10785-0 By combining hydroacoustic, direct-path ranging and bottom-pressure measurements, in situ observations of a rifting event at a segment of the Southeast Indian Ridge are reported,...
+
+## 4. Computational approaches and the future of urban crime research
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10622-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10622-4
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10622-4 This Review examines the opportunities and challenges introduced by new datasets and computational techniques in urban crime research, and outlines future directions for leveraging these...
+
+## 5. Reconfigurable mmWave microchips co-integrating hBN switches on GaN
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10761-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10761-8
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10761-8 Radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) were co-integrated on gallium nitride (GaN) microchips to build programmable millimetre-wave...
+
+## 6. Air-permeable hydrogels through viscoelastic phase separation of aerogels
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10712-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10712-3
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10712-3 Viscoelastic phase separation is used to fabricate non-collapsible, air-rich networks in high-water-content hydrogels containing silica aerogel beads, allowing air to permeate through...
+
+## 7. Verification of the Outer Space Treaty with cosmic protons
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10783-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10783-2
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10783-2 By observing the neutrons induced by spallation from protons in the inner Van Allen radiation belts using widely available sensor technologies, the detection of a thermonuclear weapon...
+
+## 8. Aneuploidy selects for the acquisition of driver genes in breast cancer
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10752-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10752-9
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10752-9 Screening of chromosome arm-level aneuploidies uncovers that these alterations select for specific basal-like breast cancer driver genes, including PLGRKT, an oncogene whose tumour-...
+
+## 9. Universal cell embedding provides a foundation model for cell biology
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10689-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10689-z
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10689-z The universal cell embedding foundation model learns to capture the organization and variation of cells by training on 36 million cells from hundreds of experiments, dozens of tissues...
+
+## 10. LARES-2 satellite measures frame-dragging effect around the Earth
+
+- 期刊：Nature
+- 日期：2026-07-08
+- DOI：10.1038/s41586-026-10715-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10715-0
+
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10715-0 Using LARES-2, LAGEOS and GRACE satellites, researchers measured Earth’s frame-dragging with unprecedented precision, strongly confirming general relativity, constraining alternative...
