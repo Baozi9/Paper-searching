@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-12 04:07
+生成时间：2026-07-13 04:10
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Large language models can predict the results of social science experiments
+## 1. Chromatin landscape and epigenetic heterogeneity of acute myeloid leukaemia
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10742-x
+- DOI：10.1038/s41586-026-10703-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10742-x
+- 链接：https://www.nature.com/articles/s41586-026-10703-4
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x Large language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10703-4 An ATAC-seq-based approach is used to classify acute myeloid leukaemia (AML) into 16 epigenomic subgroups, and provides insight into the role of non-genetic mechanisms in determining...
 
-## 2. Ancient feeding-related neuropeptides regulate alloparenting in ants
+## 2. Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10747-6
+- DOI：10.1038/s41586-026-10750-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10747-6
+- 链接：https://www.nature.com/articles/s41586-026-10750-x
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6 Pharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10750-x Diet shapes obesity-associated therapeutic responses to immune checkpoint inhibitors through gut microbial metabolism and host anti-tumour immunity, demonstrated in mouse custom-diet...
 
-## 3. Anatomy of a seafloor spreading event captured by in situ seismogeodesy
+## 3. Intergenerational mobility fosters innovation in Europe
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10785-0
+- DOI：10.1038/s41586-026-10736-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10785-0
+- 链接：https://www.nature.com/articles/s41586-026-10736-9
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10785-0 By combining hydroacoustic, direct-path ranging and bottom-pressure measurements, in situ observations of a rifting event at a segment of the Southeast Indian Ridge are reported,...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10736-9 The EUROPE-IGM-ATLAS reveals spatiotemporal trends that characterize the changing geography of opportunity in Europe and its relationship with regional innovation.
 
-## 4. Computational approaches and the future of urban crime research
+## 4. An intrinsic cytoskeletal oscillator establishes neuronal polarity
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10622-4
+- DOI：10.1038/s41586-026-10755-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10622-4
+- 链接：https://www.nature.com/articles/s41586-026-10755-6
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10622-4 This Review examines the opportunities and challenges introduced by new datasets and computational techniques in urban crime research, and outlines future directions for leveraging these...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10755-6 The ARP2/3 complex works together with actomyosin in an oscillatory program at the soma to govern neuronal polarization.
 
-## 5. Reconfigurable mmWave microchips co-integrating hBN switches on GaN
+## 5. The forest of knowledge under global change
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10761-8
+- DOI：10.1038/s41586-026-10741-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10761-8
+- 链接：https://www.nature.com/articles/s41586-026-10741-y
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10761-8 Radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) were co-integrated on gallium nitride (GaN) microchips to build programmable millimetre-wave...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10741-y The biocultural heritage of the Amazon, its plant species, plant services and cultures are at risk from climate change.
 
-## 6. Air-permeable hydrogels through viscoelastic phase separation of aerogels
+## 6. I want to see a prison-to-PhD pipeline
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10712-3
+- DOI：10.1038/d41586-026-01673-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10712-3
+- 链接：https://www.nature.com/articles/d41586-026-01673-8
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10712-3 Viscoelastic phase separation is used to fabricate non-collapsible, air-rich networks in high-water-content hydrogels containing silica aerogel beads, allowing air to permeate through...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-01673-8 Ryan Rising creates programmes that help people who have been incarcerated to access academic opportunities.
 
-## 7. Verification of the Outer Space Treaty with cosmic protons
+## 7. Regenerating people–nature relationships to counter biocultural erosion in the Amazon
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10783-2
+- DOI：10.1038/d41586-026-01874-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10783-2
+- 链接：https://www.nature.com/articles/d41586-026-01874-1
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10783-2 By observing the neutrons induced by spallation from protons in the inner Van Allen radiation belts using widely available sensor technologies, the detection of a thermonuclear weapon...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-01874-1 Rebuilding the reciprocal care-oriented relationships between Amazonian Indigenous peoples and nature could address the predicted effects of climate change on biodiversity.
 
-## 8. Aneuploidy selects for the acquisition of driver genes in breast cancer
+## 8. Nobel-winning chemist leaves US to direct AI materials lab in China
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10752-9
+- DOI：10.1038/d41586-026-02143-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10752-9
+- 链接：https://www.nature.com/articles/d41586-026-02143-x
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10752-9 Screening of chromosome arm-level aneuploidies uncovers that these alterations select for specific basal-like breast cancer driver genes, including PLGRKT, an oncogene whose tumour-...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02143-x Omar Yaghi’s move comes amid cuts to US science and a campaign in China to recruit top international talent.
 
-## 9. Universal cell embedding provides a foundation model for cell biology
+## 9. Volcanoes and wildfires contributed to increased stratospheric humidification
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10689-z
+- DOI：10.1038/d41586-026-02011-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10689-z
+- 链接：https://www.nature.com/articles/d41586-026-02011-8
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10689-z The universal cell embedding foundation model learns to capture the organization and variation of cells by training on 36 million cells from hundreds of experiments, dozens of tissues...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02011-8 Observations from satellites and climate-model simulations show that moderate volcanic eruptions and extreme wildfires have humidified the stratosphere since 2005. The aerosol-mediated...
 
-## 10. LARES-2 satellite measures frame-dragging effect around the Earth
+## 10. Those who forget
 
 - 期刊：Nature
 - 日期：2026-07-08
-- DOI：10.1038/s41586-026-10715-0
+- DOI：10.1038/d41586-026-01933-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10715-0
+- 链接：https://www.nature.com/articles/d41586-026-01933-7
 
-摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10715-0 Using LARES-2, LAGEOS and GRACE satellites, researchers measured Earth’s frame-dragging with unprecedented precision, strongly confirming general relativity, constraining alternative...
+摘要精简：Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-01933-7 Clarity of thought.
