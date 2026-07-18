@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-17 03:48
+生成时间：2026-07-18 03:42
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Why do astronauts’ bodies waste away? Space-station study points to mitochondria
+## 1. Briefing Chat: Sweet! Elusive sugar molecules found in space
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02263-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02263-4
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4 Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.
+
+## 2. Wearable sensors on the face are invisible to the eye
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02193-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02193-1
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02193-1 Electrodes that measure brain waves and more cannot be seen or felt.
+
+## 3. Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02264-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02264-3
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02264-3 Andrew Robinson reviews five of the best science picks.
+
+## 4. Can giant space mirrors boost green energy on Earth? A start-up aims to find out
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02218-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02218-9
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9 Astronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes.
+
+## 5. Found: a rocky exoplanet with an atmosphere — could it host life?
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02200-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02200-5
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.
+
+## 6. Man’s ability to make sperm restored after testicular tissue transplant: what scientists think
+
+- 期刊：Nature
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02191-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02191-3
+
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02191-3 Testicle sample removed from a ten-year-old before chemotherapy and frozen proves viable 16 years later.
+
+## 7. US politicians push agencies to restrict research collaboration with China
 
 - 期刊：Nature
 - 日期：2026-07-16
-- DOI：10.1038/d41586-026-02089-0
+- DOI：10.1038/d41586-026-02226-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02089-0
+- 链接：https://www.nature.com/articles/d41586-026-02226-9
 
-摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.
+摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
-## 2. AI is set to completely transform cybersecurity — here’s how researchers must prepare
+## 8. CRISPR gets a power boost from AI-designed ‘molecular scissors’
 
 - 期刊：Nature
 - 日期：2026-07-16
-- DOI：10.1038/d41586-026-02214-z
+- DOI：10.1038/d41586-026-02217-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02214-z
+- 链接：https://www.nature.com/articles/d41586-026-02217-w
 
-摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
+摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02217-w Researchers used artificial intelligence to design functional CRISPR enzymes not seen in nature.
 
-## 3. A global capital for AI safety is emerging — and it's not in Silicon Valley
-
-- 期刊：Nature
-- 日期：2026-07-16
-- DOI：10.1038/d41586-026-01389-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01389-9
-
-摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
-
-## 4. Will making ‘replication studies’ easier to find help science self-correct?
-
-- 期刊：Nature
-- 日期：2026-07-16
-- DOI：10.1038/d41586-026-02175-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02175-3
-
-摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02175-3 Project on peer-review platform Pubpeer aims to make replication studies more visible.
-
-## 5. ‘Explosive diarrhoea’ outbreak grips US: how researchers are hunting its source
-
-- 期刊：Nature
-- 日期：2026-07-16
-- DOI：10.1038/d41586-026-02225-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02225-w
-
-摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02225-w Cases have hit record levels, and scientists are racing to pinpoint where the Cyclospora parasite entered the food supply.
-
-## 6. Ammonia pressure controls colloidal metal nitride synthesis in molten salts
+## 9. Metabolite glues as a means of purine sensing and chemotherapeutic response
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10801-3
+- DOI：10.1038/s41586-026-10790-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10801-3
+- 链接：https://www.nature.com/articles/s41586-026-10790-3
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10801-3 A molten salt, high-pressure synthesis method enables solution-based production of diverse refractory metal nitride nanocrystals, expanding access to technologically important nitride...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10790-3 Purines can act as endogenous molecular glues in human cells by anchoring a rate-limiting enzyme in purine biosynthesis to its inhibitor, and modifying this mechanism could provide a way...
 
-## 7. Scalable quasi-pure MOF membranes for energy-efficient gas separations
+## 10. Rising dust pollution across Europe in a changing climate
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10655-9
+- DOI：10.1038/s41586-026-10743-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10655-9
+- 链接：https://www.nature.com/articles/s41586-026-10743-w
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10655-9 Scalable quasi-pure metal–organic framework membranes achieve near-intrinsic separation performance, enabling energy-efficient industrial gas separations with major cost reductions...
-
-## 8. A Bayesian framework for longitudinal EHR and genetic discovery
-
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/s41586-026-10780-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10780-5
-
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10780-5 A Bayesian generative framework that integrates longitudinal electronic health records with genetic data to identify latent disease signatures is presented.
-
-## 9. Programming fracture resistance in metamaterials via elastic instabilities
-
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/s41586-026-10804-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10804-0
-
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10804-0 Elastic instabilities in mechanical metamaterials can be harnessed to programme fracture behaviour, transforming instability from a failure mechanism into a design principle that...
-
-## 10. Regression to the mean can explain saturation of geomagnetic storms
-
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/s41586-026-10757-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10757-4
-
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10757-4 The saturation of geomagnetic activity with solar wind strength can be explained by a regression to the mean effect, suggesting that the impact of extreme geomagnetic storms can be twice...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10743-w A database of daily dust metals in Europe is established and a machine learning model shows that transported dust intrusion events over the past decade are linked to changes in...
