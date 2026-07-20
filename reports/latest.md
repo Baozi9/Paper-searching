@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-19 04:04
+生成时间：2026-07-20 04:23
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Rarely categorical, highly separable representations along the cortical hierarchy
+## 1. Relapse
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10668-4
+- DOI：10.1038/d41586-026-02133-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10668-4
+- 链接：https://www.nature.com/articles/d41586-026-02133-z
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10668-4 Cortical circuits prioritize diversity over categorical structure, supporting a computational regime geared towards high-dimensional, highly separable neural representations.
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02133-z Restore previous version?
 
-## 2. People use fast and flat simulation to reason about new games
+## 2. How to end poverty and protect Earth: inside the debate tearing up economics
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10722-1
+- DOI：10.1038/d41586-026-02216-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10722-1
+- 链接：https://www.nature.com/articles/d41586-026-02216-x
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10722-1 Large-scale behavioural studies show that people approach a new game systematically and adaptively rationally. A cognitive model called the ‘Intuitive Gamer’ offers insights into this...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02216-x The idea of prosperity without growth is gaining traction among researchers. So why are many economists sceptical?
 
-## 3. Cell-type signatures of Alzheimer’s disease shared across population groups
+## 3. Improvements in educational opportunities go hand in hand with innovation
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10793-0
+- DOI：10.1038/d41586-026-02016-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10793-0
+- 链接：https://www.nature.com/articles/d41586-026-02016-3
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10793-0 Single-nucleus RNA-seq and ATAC-seq analyses on post-mortem brain samples from African American, Latin and white individuals identify cell-type-specific molecular signatures that are...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02016-3 The first longitudinal regional atlas of intergenerational educational mobility shows that the subnational regions of Europe in which individuals’ educational opportunities are least...
 
-## 4. Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones
+## 4. Beyond lithium: how sodium-ion batteries could change the world
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10779-y
+- DOI：10.1038/d41586-026-02150-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10779-y
+- 链接：https://www.nature.com/articles/d41586-026-02150-y
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10779-y A combination of different manipulations in mouse models of spontaneous intestinal adenoma formation dissects the roles of systemic and epithelial ketogenesis versus dietary lipids in...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02150-y Batteries based on sodium ions are entering mass production. Some researchers say they could ultimately be a cheaper, safer alternative to lithium in electric cars and other energy...
 
-## 5. Fractional high-Chern insulator in twisted rhombohedral graphene
+## 5. Nucleotides act as ‘molecular glue’ and can sense their own abundance
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10762-7
+- DOI：10.1038/d41586-026-01945-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10762-7
+- 链接：https://www.nature.com/articles/d41586-026-01945-3
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10762-7 A rich variety of both integer and fractional high-Chern insulators are observed in a moiré system composed of Bernal bilayer graphene and rhombohedral tetralayer graphene.
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01945-3 Some nucleotides have been shown to control metabolism by ‘gluing’ proteins together. Could other small molecules made naturally by cells have similar capabilities?
 
-## 6. An encyclopedia of human enhancer–gene regulatory interactions
+## 6. AI avatars are reshaping society in China — the law is trying to catch up
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10781-4
+- DOI：10.1038/d41586-026-01674-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10781-4
+- 链接：https://www.nature.com/articles/d41586-026-01674-7
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10781-4 An encyclopedia of more than 92 million enhancer–gene regulatory interactions created as part of the ENCODE4 project provides a valuable resource for future studies of gene regulation...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01674-7 Digital people are fulfilling roles from running hospitals to giving lectures to offering companionship.
 
-## 7. Magnetic character of the low-energy enhancement in 70 Zn
+## 7. Optical filter sorts light by its ‘quantum statistics’
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10758-3
+- DOI：10.1038/d41586-026-02038-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10758-3
+- 链接：https://www.nature.com/articles/d41586-026-02038-x
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10758-3 The low-energy enhancement in the γ-ray strength function of 70Zn is due to magnetic dipole transitions between nuclear states.
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02038-x A nanostructured gold surface can filter light depending on the tendency of its photons to arrive at a detector in pairs.
 
-## 8. GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma
+## 8. How naked mole rat queens stop rivals reproducing
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10786-z
+- DOI：10.1038/d41586-026-02168-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10786-z
+- 链接：https://www.nature.com/articles/d41586-026-02168-2
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10786-z Chimeric antigen receptor (CAR) T cells for antitumour therapy ‘armoured’ with a dominant-negative TGFβ receptor II show enhanced efficacy and tolerable safety in patients with advanced...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02168-2 The scent of a single chemical, made only by the queen, alters hormone production in other females.
 
-## 9. Catalyst-free, microdroplet-mediated waste plastic conversion to diacids
+## 9. Doctored data sets could trick AI agents
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10746-7
+- DOI：10.1038/d41586-026-02071-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10746-7
+- 链接：https://www.nature.com/articles/d41586-026-02071-w
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10746-7 A catalyst-free upcycling strategy based on in situ generation of hydroxyl radicals at microdroplet interfaces is described for efficient and scalable processing of polymers with minimal...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02071-w Researchers warn that ‘poisoned’ information can undermine the reliability of tools that analyse data autonomously.
 
-## 10. Graphene oxide-polydopamine membranes with controlled interlayer spacing
+## 10. Why there needs to be a global debate on inequality
 
 - 期刊：Nature
 - 日期：2026-07-15
-- DOI：10.1038/s41586-026-10765-4
+- DOI：10.1038/d41586-026-02147-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10765-4
+- 链接：https://www.nature.com/articles/d41586-026-02147-7
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10765-4 Polydopamine-pillared composite graphene oxide membranes with tunable and stable interlayer spacing, featuring controllable interlayer spacing, are capable of sieving hydrated rubidium...
+摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02147-7 Researchers have a responsibility to search for consensus on this crucial issue, both for future generations and the future of our planet.
