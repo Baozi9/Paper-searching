@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-20 04:23
+生成时间：2026-07-21 03:57
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Relapse
+## 1. Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02133-z
+- 日期：2026-07-20
+- DOI：10.1038/d41586-026-02211-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02133-z
+- 链接：https://www.nature.com/articles/d41586-026-02211-2
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02133-z Restore previous version?
+摘要精简：Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
 
-## 2. How to end poverty and protect Earth: inside the debate tearing up economics
+## 2. Smuggling charges against NIH virologists trigger political uproar
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02216-x
+- 日期：2026-07-20
+- DOI：10.1038/d41586-026-01995-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02216-x
+- 链接：https://www.nature.com/articles/d41586-026-01995-7
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02216-x The idea of prosperity without growth is gaining traction among researchers. So why are many economists sceptical?
+摘要精简：Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-01995-7 Other researchers say that non-infectious viral samples in luggage posed no risk, but might have violated import rules.
 
-## 3. Improvements in educational opportunities go hand in hand with innovation
+## 3. The science of foresight: how to future-proof your research
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02016-3
+- 日期：2026-07-20
+- DOI：10.1038/d41586-026-02231-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02016-3
+- 链接：https://www.nature.com/articles/d41586-026-02231-y
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02016-3 The first longitudinal regional atlas of intergenerational educational mobility shows that the subnational regions of Europe in which individuals’ educational opportunities are least...
+摘要精简：Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.
 
-## 4. Beyond lithium: how sodium-ion batteries could change the world
+## 4. Huge study finds first genetic clues for borderline personality disorder
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02150-y
+- 日期：2026-07-20
+- DOI：10.1038/d41586-026-02220-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02150-y
+- 链接：https://www.nature.com/articles/d41586-026-02220-1
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02150-y Batteries based on sodium ions are entering mass production. Some researchers say they could ultimately be a cheaper, safer alternative to lithium in electric cars and other energy...
+摘要精简：Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02220-1 Largest genetic analysis of the condition so far finds 11 linked locations in the human genome.
 
-## 5. Nucleotides act as ‘molecular glue’ and can sense their own abundance
+## 5. My job interviews for industry positions are going nowhere. How do I make myself stand out?
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-01945-3
+- 日期：2026-07-20
+- DOI：10.1038/d41586-026-02234-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01945-3
+- 链接：https://www.nature.com/articles/d41586-026-02234-9
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01945-3 Some nucleotides have been shown to control metabolism by ‘gluing’ proteins together. Could other small molecules made naturally by cells have similar capabilities?
+摘要精简：Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9 A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.
 
-## 6. AI avatars are reshaping society in China — the law is trying to catch up
+## 6. Daily briefing: CRISPR gets an AI-designed upgrade
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-01674-7
+- 日期：2026-07-17
+- DOI：10.1038/d41586-026-02272-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01674-7
+- 链接：https://www.nature.com/articles/d41586-026-02272-3
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01674-7 Digital people are fulfilling roles from running hospitals to giving lectures to offering companionship.
+摘要精简：Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.
 
-## 7. Optical filter sorts light by its ‘quantum statistics’
+## 7. Daily briefing: Naked mole rat queens use a smell to stay on top
 
 - 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02038-x
+- 日期：2026-07-16
+- DOI：10.1038/d41586-026-02261-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02038-x
+- 链接：https://www.nature.com/articles/d41586-026-02261-6
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02038-x A nanostructured gold surface can filter light depending on the tendency of its photons to arrive at a detector in pairs.
+摘要精简：Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02261-6 Just one chemical is enough to maintain the status quo in naked mole rat colonies. Plus, the hunt for the origins of a cyclosporidia outbreak and whether it’s possible to end poverty...
 
-## 8. How naked mole rat queens stop rivals reproducing
+## 8. Exploring the human brain, from molecules to networks, using siibra
 
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02168-2
+- 期刊：Nature Methods
+- 日期：2026-07-20
+- DOI：10.1038/s41592-026-03160-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02168-2
+- 链接：https://www.nature.com/articles/s41592-026-03160-4
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02168-2 The scent of a single chemical, made only by the queen, alters hormone production in other females.
+摘要精简：Nature Methods, Published online: 20 July 2026; doi:10.1038/s41592-026-03160-4 Original data describing the complexity of the human brain are challenging to work with, as they can be large, heterogeneous and deposited in different repositories. We present...
 
-## 9. Doctored data sets could trick AI agents
+## 9. Siibra: a software tool suite for realizing a Multilevel Human Brain Atlas from complex data resources
 
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02071-w
+- 期刊：Nature Methods
+- 日期：2026-07-20
+- DOI：10.1038/s41592-026-03159-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02071-w
+- 链接：https://www.nature.com/articles/s41592-026-03159-x
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02071-w Researchers warn that ‘poisoned’ information can undermine the reliability of tools that analyse data autonomously.
+摘要精简：Nature Methods, Published online: 20 July 2026; doi:10.1038/s41592-026-03159-x Siibra is a software suite for working with diverse human brain atlases. It links data acquired with different modalities and at different resolution, thereby creating a...
 
-## 10. Why there needs to be a global debate on inequality
+## 10. Spatio-DARLIN maps cell state and clonal history in intact mouse tissues
 
-- 期刊：Nature
-- 日期：2026-07-15
-- DOI：10.1038/d41586-026-02147-7
+- 期刊：Nature Methods
+- 日期：2026-07-17
+- DOI：10.1038/s41592-026-03157-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02147-7
+- 链接：https://www.nature.com/articles/s41592-026-03157-z
 
-摘要精简：Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02147-7 Researchers have a responsibility to search for consensus on this crucial issue, both for future generations and the future of our planet.
+摘要精简：Nature Methods, Published online: 17 July 2026; doi:10.1038/s41592-026-03157-z Spatio-DARLIN combines high-diversity genetic lineage tracing with spatial transcriptomics to record cell lineage, gene expression and location in the same tissue section. This...
