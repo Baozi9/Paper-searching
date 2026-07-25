@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-24 03:55
+生成时间：2026-07-25 03:49
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. What The Odyssey reveals about ancient science — from botany to psychiatry
+## 1. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+
+- 期刊：Nature
+- 日期：2026-07-24
+- DOI：10.1038/s41586-026-10911-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10911-y
+
+摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+
+## 2. Personalized gene therapy relieves severe epilepsy in two boys
+
+- 期刊：Nature
+- 日期：2026-07-24
+- DOI：10.1038/d41586-026-02267-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02267-0
+
+摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0 Switching off one copy of a gene also enabled one of the children to walk independently for the first time.
+
+## 3. Briefing Chat: Baby T. rex were killers from birth, suggest new fossils
+
+- 期刊：Nature
+- 日期：2026-07-24
+- DOI：10.1038/d41586-026-02338-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02338-2
+
+摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.
+
+## 4. Bizarre CRISPR enzyme kills cancer cells by shredding their DNA
+
+- 期刊：Nature
+- 日期：2026-07-24
+- DOI：10.1038/d41586-026-02268-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02268-z
+
+摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.
+
+## 5. White House rolls out AI funding — and signals a new era for US science
+
+- 期刊：Nature
+- 日期：2026-07-24
+- DOI：10.1038/d41586-026-02332-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02332-8
+
+摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
+
+## 6. Daily briefing: Orcas smash sunfish to smithereens
 
 - 期刊：Nature
 - 日期：2026-07-23
-- DOI：10.1038/d41586-026-02275-0
+- DOI：10.1038/d41586-026-02307-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02275-0
+- 链接：https://www.nature.com/articles/d41586-026-02307-9
 
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.
+摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02307-9 The dolphins might be helping their young eat, or just having fun. Plus, the beauty and skill of scientific illustration and a crash course in quantum computing.
 
-## 2. International PhD students to face strict limits on time in the US
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02280-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02280-3
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3 Trump administration takes action to address ‘forever students’.
-
-## 3. Breathalyser can tell if you are burning fat from a single exhalation
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02295-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02295-w
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.
-
-## 4. How does Make America Healthy Again hold up against scientific scrutiny?
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02024-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02024-3
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.
-
-## 5. Humanity spoke thousands of languages at the dawn of farming — now many of them are lost
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02279-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02279-w
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02279-w A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly.
-
-## 6. This El Niño is set to be the largest on record by a ‘mind-blowing margin’
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02293-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02293-y
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02293-y Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.
-
-## 7. Rising stars of mathematics awarded prestigious 2026 Fields Medal
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02169-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02169-1
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.
-
-## 8. Insulator-free topological photonic multi-lane highways
+## 7. A vector-based strategy for olfactory navigation in Drosophila
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10817-9
+- DOI：10.1038/s41586-026-10827-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10817-9
+- 链接：https://www.nature.com/articles/s41586-026-10827-7
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10817-9 An insulator-free topological waveguide architecture comprising four inequivalent photonic valley half-semimetals arranged in a parallel, cyclic configuration and stacked very close to...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10827-7 Using a virtual reality system, experiments in Drosophila show that flies use memory mechanisms to navigate along the boundary of an odour plume and track the source of a smell.
 
-## 9. Planetary-mass exosatellite detected around the substellar companion of a star
+## 8. Precise DNA base editing using AlphaFold3-based contact modelling
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10751-w
+- DOI：10.1038/s41586-026-10794-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10751-w
+- 链接：https://www.nature.com/articles/s41586-026-10794-z
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10751-w Radial velocity measurements provide evidence for a Jupiter-mass exosatellite orbiting the brown dwarf companion CD-35 2722 B, a promising detection of an exomoon-like object.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10794-z ContactSeek is an AlphaFold3-driven model that can improve the precision of genome-editing tools.
 
-## 10. Tertiary lymphoid structures harbour stem-like tumour-specific T cells
+## 9. AI-redesigned starting points and outcomes enhance protein evolution
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10808-w
+- DOI：10.1038/s41586-026-10820-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10808-w
+- 链接：https://www.nature.com/articles/s41586-026-10820-0
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10808-w Renal cell carcinoma tumours containing tertiary lymphoid structures (TLSs) are enriched for exhausted CD8+ T cells, including tumour-specific clonotypes with stem-like progenitor...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10820-0 A workflow using artificial intelligence-redesigned starting points to evolve enzymes with improved properties compared with those evolved from natural proteins is established.
+
+## 10. The planktonic microbiome of the Great Barrier Reef
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10778-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10778-z
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10778-z The Great Barrier Reef Microbial Genomes Database compiles prokaryotic, viral and eukaryotic genomes from seawater collected from the Great Barrier Reef, providing a rich resource for...
