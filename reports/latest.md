@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-25 03:49
+生成时间：2026-07-26 04:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
-
-- 期刊：Nature
-- 日期：2026-07-24
-- DOI：10.1038/s41586-026-10911-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10911-y
-
-摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y Author Correction: Feature-specific threat coding in lateral septum guides defensive action
-
-## 2. Personalized gene therapy relieves severe epilepsy in two boys
-
-- 期刊：Nature
-- 日期：2026-07-24
-- DOI：10.1038/d41586-026-02267-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02267-0
-
-摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0 Switching off one copy of a gene also enabled one of the children to walk independently for the first time.
-
-## 3. Briefing Chat: Baby T. rex were killers from birth, suggest new fossils
-
-- 期刊：Nature
-- 日期：2026-07-24
-- DOI：10.1038/d41586-026-02338-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02338-2
-
-摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.
-
-## 4. Bizarre CRISPR enzyme kills cancer cells by shredding their DNA
-
-- 期刊：Nature
-- 日期：2026-07-24
-- DOI：10.1038/d41586-026-02268-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02268-z
-
-摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.
-
-## 5. White House rolls out AI funding — and signals a new era for US science
-
-- 期刊：Nature
-- 日期：2026-07-24
-- DOI：10.1038/d41586-026-02332-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02332-8
-
-摘要精简：Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
-
-## 6. Daily briefing: Orcas smash sunfish to smithereens
-
-- 期刊：Nature
-- 日期：2026-07-23
-- DOI：10.1038/d41586-026-02307-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02307-9
-
-摘要精简：Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02307-9 The dolphins might be helping their young eat, or just having fun. Plus, the beauty and skill of scientific illustration and a crash course in quantum computing.
-
-## 7. A vector-based strategy for olfactory navigation in Drosophila
+## 1. A global molecular code for birth order and neuronal identity in Drosophila
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10827-7
+- DOI：10.1038/s41586-026-10797-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10827-7
+- 链接：https://www.nature.com/articles/s41586-026-10797-w
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10827-7 Using a virtual reality system, experiments in Drosophila show that flies use memory mechanisms to navigate along the boundary of an odour plume and track the source of a smell.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10797-w A high-resolution developmental transcriptional atlas of the Drosophila melanogaster nerve cord identifies a shared transcriptional code that records neuronal birth order and organizes...
 
-## 8. Precise DNA base editing using AlphaFold3-based contact modelling
+## 2. Subnuclear genome compartmentalization controls bivalent chromatin activity
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10794-z
+- DOI：10.1038/s41586-026-10832-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10794-z
+- 链接：https://www.nature.com/articles/s41586-026-10832-w
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10794-z ContactSeek is an AlphaFold3-driven model that can improve the precision of genome-editing tools.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10832-w Knowledge of the spatial location of a gene is necessary to understand its epigenomic regulation.
 
-## 9. AI-redesigned starting points and outcomes enhance protein evolution
+## 3. Non-Gaussian statistics of the order parameter across a phase transition
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10820-0
+- DOI：10.1038/s41586-026-10811-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10820-0
+- 链接：https://www.nature.com/articles/s41586-026-10811-1
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10820-0 A workflow using artificial intelligence-redesigned starting points to evolve enzymes with improved properties compared with those evolved from natural proteins is established.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10811-1 Single-atom measurements show non-Gaussian order-parameter fluctuations and critical scaling across a continuous phase transition, highlighting the importance of full statistical...
 
-## 10. The planktonic microbiome of the Great Barrier Reef
+## 4. Imaging of nanoscale polar textures in quantum paraelectric SrTiO 3
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10778-z
+- DOI：10.1038/s41586-026-10823-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10778-z
+- 链接：https://www.nature.com/articles/s41586-026-10823-x
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10778-z The Great Barrier Reef Microbial Genomes Database compiles prokaryotic, viral and eukaryotic genomes from seawater collected from the Great Barrier Reef, providing a rich resource for...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10823-x Cryo-STEM reveals that SrTiO3 forms periodic polar nanodomains below 105 K, but these fragment below 40 K, linking quantum paraelectricity to nanoscale polar ordering and disordering.
+
+## 5. Exceptional brain and ecological diversity in the earliest snakes
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10809-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10809-9
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10809-9 A well-preserved fossil snake from the Late Cretaceous of Brazil shows early ecological and brain shape disparity in the group.
+
+## 6. Brown bullhead catfish melanoma represents a novel transmissible cancer
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10828-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10828-6
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10828-6 Whole-genome sequencing analysis of tumour and matched non-tumour host tissues of the brown bullhead catfish reveals a type of naturally occurring transmissible cancer.
+
+## 7. Semiconducting and magnetic lanthanide MXenes from intercalated halides
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10802-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10802-2
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10802-2 A bottom-up synthesis strategy creates lanthanide MXenes (Ln2CT2) that combine semiconducting behaviour with ferromagnetism, offering a promising new class of two-dimensional materials...
+
+## 8. Efficient and precise programmable DNA knock-in without double-strand breaks
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10819-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10819-7
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10819-7 Kilobase-scale nickase-targeting (KNIT) editing enables single-nick-based DNA insertion across genomic loci and cell types, supporting insertion of DNA fragments exceeding 10 kb, with...
+
+## 9. Mapping drivers of life expectancy change in Asia from 1990 to 2023
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10739-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10739-6
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10739-6 Using the Global Burden of Disease Study data across Asian countries and territories, life expectancy trends and the effects of cause-specific mortality and risk factors on changes in...
+
+## 10. Genetic background sets the trajectory of experimental cancer evolution
+
+- 期刊：Nature
+- 日期：2026-07-22
+- DOI：10.1038/s41586-026-10821-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10821-z
+
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10821-z Experimentally replaying tumour evolution in divergent mouse strains reveals the importance of interactions between genetic ancestry and acquired cancer-driving mutations in shaping the...
