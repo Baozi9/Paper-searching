@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-26 04:07
+生成时间：2026-07-27 04:23
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A global molecular code for birth order and neuronal identity in Drosophila
+## 1. A radical approach to making C-glycoside molecules
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10797-w
+- DOI：10.1038/d41586-026-02237-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10797-w
+- 链接：https://www.nature.com/articles/d41586-026-02237-6
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10797-w A high-resolution developmental transcriptional atlas of the Drosophila melanogaster nerve cord identifies a shared transcriptional code that records neuronal birth order and organizes...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02237-6 A platform for synthesizing highly desirable C-glycoside molecules from sugar has been developed that uses glycosyl sulfonyl hydrazides as readily accessible free-radical precursors. The...
 
-## 2. Subnuclear genome compartmentalization controls bivalent chromatin activity
+## 2. Eyes upturned towards infinity
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10832-w
+- DOI：10.1038/d41586-026-02256-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10832-w
+- 链接：https://www.nature.com/articles/d41586-026-02256-3
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10832-w Knowledge of the spatial location of a gene is necessary to understand its epigenomic regulation.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02256-3 Stars in our eyes.
 
-## 3. Non-Gaussian statistics of the order parameter across a phase transition
+## 3. Here’s what’s next for the Artemis II astronauts
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10811-1
+- DOI：10.1038/d41586-026-02020-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10811-1
+- 链接：https://www.nature.com/articles/d41586-026-02020-7
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10811-1 Single-atom measurements show non-Gaussian order-parameter fluctuations and critical scaling across a continuous phase transition, highlighting the importance of full statistical...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02020-7 Newfound fame has proved to be stellar for some astronauts but harder for others. Will NASA’s popular crew need some space?
 
-## 4. Imaging of nanoscale polar textures in quantum paraelectric SrTiO 3
+## 4. How to use AI to make a graphical abstract in minutes
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10823-x
+- DOI：10.1038/d41586-026-02072-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10823-x
+- 链接：https://www.nature.com/articles/d41586-026-02072-9
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10823-x Cryo-STEM reveals that SrTiO3 forms periodic polar nanodomains below 105 K, but these fragment below 40 K, linking quantum paraelectricity to nanoscale polar ordering and disordering.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02072-9 Artificial intelligence is a democratizing force for those without graphic-design experience, as long as it is used conscientiously.
 
-## 5. Exceptional brain and ecological diversity in the earliest snakes
+## 5. ‘Good design takes mastery’: scientific illustrators sketch out AI’s future
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10809-9
+- DOI：10.1038/d41586-026-02230-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10809-9
+- 链接：https://www.nature.com/articles/d41586-026-02230-z
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10809-9 A well-preserved fossil snake from the Late Cretaceous of Brazil shows early ecological and brain shape disparity in the group.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02230-z Nature talks to five artists about their approaches to communicating science visually.
 
-## 6. Brown bullhead catfish melanoma represents a novel transmissible cancer
+## 6. AI identifies interactions in CRISPR complexes to improve specificity of DNA editing
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10828-6
+- DOI：10.1038/d41586-026-02042-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10828-6
+- 链接：https://www.nature.com/articles/d41586-026-02042-1
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10828-6 Whole-genome sequencing analysis of tumour and matched non-tumour host tissues of the brown bullhead catfish reveals a type of naturally occurring transmissible cancer.
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02042-1 AlphaFold3 predictions of the molecular contacts made by a genome-editing enzyme have been used to improve the enzyme’s selectivity for target DNA sequences.
 
-## 7. Semiconducting and magnetic lanthanide MXenes from intercalated halides
+## 7. Background genetics and new mutations interact to direct cancer evolution
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10802-2
+- DOI：10.1038/d41586-026-02155-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10802-2
+- 链接：https://www.nature.com/articles/d41586-026-02155-7
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10802-2 A bottom-up synthesis strategy creates lanthanide MXenes (Ln2CT2) that combine semiconducting behaviour with ferromagnetism, offering a promising new class of two-dimensional materials...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02155-7 Rerunning tumour evolution in mice shows how cancer develops after DNA damage and reveals that background genetics and acquired mutations interact to shape genome stability and...
 
-## 8. Efficient and precise programmable DNA knock-in without double-strand breaks
+## 8. Air conditioning is not enough to keep people cool — can scientists find an alternative?
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10819-7
+- DOI：10.1038/d41586-026-02273-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10819-7
+- 链接：https://www.nature.com/articles/d41586-026-02273-2
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10819-7 Kilobase-scale nickase-targeting (KNIT) editing enables single-nick-based DNA insertion across genomic loci and cell types, supporting insertion of DNA fragments exceeding 10 kb, with...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02273-2 Advances in materials allow buildings to be cooled as temperatures rise.
 
-## 9. Mapping drivers of life expectancy change in Asia from 1990 to 2023
+## 9. Three tips to avoid AI image mistakes in science
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10739-6
+- DOI：10.1038/d41586-026-02233-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10739-6
+- 链接：https://www.nature.com/articles/d41586-026-02233-w
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10739-6 Using the Global Burden of Disease Study data across Asian countries and territories, life expectancy trends and the effects of cause-specific mortality and risk factors on changes in...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02233-w Artificial-intelligence tools can be useful for brainstorming and creating graphics, but they can introduce errors. If you’re going to use them, here’s how to avoid problems.
 
-## 10. Genetic background sets the trajectory of experimental cancer evolution
+## 10. Fly neurons carry a molecular ‘timestamp’ that encodes their birth order
 
 - 期刊：Nature
 - 日期：2026-07-22
-- DOI：10.1038/s41586-026-10821-z
+- DOI：10.1038/d41586-026-02240-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10821-z
+- 链接：https://www.nature.com/articles/d41586-026-02240-x
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10821-z Experimentally replaying tumour evolution in divergent mouse strains reveals the importance of interactions between genetic ancestry and acquired cancer-driving mutations in shaping the...
+摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02240-x A single-cell gene-expression atlas of the fly nerve cord mapped onto its wiring diagram has uncovered a simple shared gene-expression code. The code enables neurons to carry a molecular...
