@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-27 04:23
+生成时间：2026-07-28 03:47
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A radical approach to making C-glycoside molecules
+## 1. Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02237-6
+- 日期：2026-07-27
+- DOI：10.1038/s41586-026-10930-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02237-6
+- 链接：https://www.nature.com/articles/s41586-026-10930-9
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02237-6 A platform for synthesizing highly desirable C-glycoside molecules from sugar has been developed that uses glycosyl sulfonyl hydrazides as readily accessible free-radical precursors. The...
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10930-9 Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings
 
-## 2. Eyes upturned towards infinity
+## 2. Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02256-3
+- 日期：2026-07-27
+- DOI：10.1038/s41586-026-10929-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02256-3
+- 链接：https://www.nature.com/articles/s41586-026-10929-2
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02256-3 Stars in our eyes.
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10929-2 Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics
 
-## 3. Here’s what’s next for the Artemis II astronauts
+## 3. The existential choice facing UK physics facilities: commercialize or close
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02020-7
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02171-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02020-7
+- 链接：https://www.nature.com/articles/d41586-026-02171-7
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02020-7 Newfound fame has proved to be stellar for some astronauts but harder for others. Will NASA’s popular crew need some space?
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7 The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.
 
-## 4. How to use AI to make a graphical abstract in minutes
+## 4. ‘Timer’ in the brain tracks sleep — and predicts awakening
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02072-9
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02294-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02072-9
+- 链接：https://www.nature.com/articles/d41586-026-02294-x
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02072-9 Artificial intelligence is a democratizing force for those without graphic-design experience, as long as it is used conscientiously.
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02294-x Chemical tags on proteins could provide a biomarker for sleep deprivation, mouse studies suggest.
 
-## 5. ‘Good design takes mastery’: scientific illustrators sketch out AI’s future
+## 5. When should you treat a fever? Evolution holds the answer
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02230-z
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02313-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02230-z
+- 链接：https://www.nature.com/articles/d41586-026-02313-x
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02230-z Nature talks to five artists about their approaches to communicating science visually.
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02313-x Understanding natural selection can improve medical treatments, social policies and crop yields.
 
-## 6. AI identifies interactions in CRISPR complexes to improve specificity of DNA editing
+## 6. How to prevent AI from harming mathematics
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02042-1
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02309-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02042-1
+- 链接：https://www.nature.com/articles/d41586-026-02309-7
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02042-1 AlphaFold3 predictions of the molecular contacts made by a genome-editing enzyme have been used to improve the enzyme’s selectivity for target DNA sequences.
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7 Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.
 
-## 7. Background genetics and new mutations interact to direct cancer evolution
+## 7. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02155-7
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02316-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02155-7
+- 链接：https://www.nature.com/articles/d41586-026-02316-8
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02155-7 Rerunning tumour evolution in mice shows how cancer develops after DNA damage and reveals that background genetics and acquired mutations interact to shape genome stability and...
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8 People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.
 
-## 8. Air conditioning is not enough to keep people cool — can scientists find an alternative?
+## 8. A fever dream of jellies and slugs
 
 - 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02273-2
+- 日期：2026-07-27
+- DOI：10.1038/d41586-026-02314-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02273-2
+- 链接：https://www.nature.com/articles/d41586-026-02314-w
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02273-2 Advances in materials allow buildings to be cooled as temperatures rise.
+摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02314-w A celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.
 
-## 9. Three tips to avoid AI image mistakes in science
+## 9. Composing a science life with music
 
-- 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02233-w
+- 期刊：Nature Methods
+- 日期：2026-07-27
+- DOI：10.1038/s41592-026-03170-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02233-w
+- 链接：https://www.nature.com/articles/s41592-026-03170-2
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02233-w Artificial-intelligence tools can be useful for brainstorming and creating graphics, but they can introduce errors. If you’re going to use them, here’s how to avoid problems.
+摘要精简：Nature Methods, Published online: 27 July 2026; doi:10.1038/s41592-026-03170-2 Two scientists blend their love of music and science in different ways.
 
-## 10. Fly neurons carry a molecular ‘timestamp’ that encodes their birth order
+## 10. What’s your name, immune cell?
 
-- 期刊：Nature
-- 日期：2026-07-22
-- DOI：10.1038/d41586-026-02240-x
+- 期刊：Nature Methods
+- 日期：2026-07-27
+- DOI：10.1038/s41592-026-03171-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02240-x
+- 链接：https://www.nature.com/articles/s41592-026-03171-1
 
-摘要精简：Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02240-x A single-cell gene-expression atlas of the fly nerve cord mapped onto its wiring diagram has uncovered a simple shared gene-expression code. The code enables neurons to carry a molecular...
+摘要精简：Nature Methods, Published online: 27 July 2026; doi:10.1038/s41592-026-03171-1 Groups of immunologists are advancing recommendations to address nomenclature challenges in their subfields.
