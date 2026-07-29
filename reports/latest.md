@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-28 03:47
+生成时间：2026-07-29 03:51
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings
+## 1. Entangled dual-site migration via boracycle rearrangement
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/s41586-026-10930-9
+- 日期：2026-07-28
+- DOI：10.1038/s41586-026-10931-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10930-9
+- 链接：https://www.nature.com/articles/s41586-026-10931-8
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10930-9 Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/s41586-026-10931-8 Entangled dual-site migration via boracycle rearrangement
 
-## 2. Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics
+## 2. Values in science go beyond politics
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/s41586-026-10929-2
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02346-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10929-2
+- 链接：https://www.nature.com/articles/d41586-026-02346-2
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10929-2 Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02346-2 Values in science go beyond politics
 
-## 3. The existential choice facing UK physics facilities: commercialize or close
+## 3. Deserts face unprecedented flash flooding
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02171-7
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02349-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02171-7
+- 链接：https://www.nature.com/articles/d41586-026-02349-z
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7 The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02349-z Deserts face unprecedented flash flooding
 
-## 4. ‘Timer’ in the brain tracks sleep — and predicts awakening
+## 4. It’ll grow on you: live fungi formed into sustainable fashion
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02294-x
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02304-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02294-x
+- 链接：https://www.nature.com/articles/d41586-026-02304-y
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02294-x Chemical tags on proteins could provide a biomarker for sleep deprivation, mouse studies suggest.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02304-y Textile made from fungal filaments can repair itself and is biodegradable.
 
-## 5. When should you treat a fever? Evolution holds the answer
+## 5. Use AI, but don’t mask it
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02313-x
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02347-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02313-x
+- 链接：https://www.nature.com/articles/d41586-026-02347-1
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02313-x Understanding natural selection can improve medical treatments, social policies and crop yields.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02347-1 Use AI, but don’t mask it
 
-## 6. How to prevent AI from harming mathematics
+## 6. Why some wool is wavy
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02309-7
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02104-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02309-7
+- 链接：https://www.nature.com/articles/d41586-026-02104-4
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7 Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02104-4 How crimps form in the coats of sheep, and the history of the word ‘ionosphere’, in this week’s pick from the Nature archive.
 
-## 7. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
+## 7. Wildfires rampaged across Europe in the dying days of the Triassic
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02316-8
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02333-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02316-8
+- 链接：https://www.nature.com/articles/d41586-026-02333-7
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8 People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7 Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.
 
-## 8. A fever dream of jellies and slugs
+## 8. Conversational AI: align commercial incentives with public interests
 
 - 期刊：Nature
-- 日期：2026-07-27
-- DOI：10.1038/d41586-026-02314-w
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02348-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02314-w
+- 链接：https://www.nature.com/articles/d41586-026-02348-0
 
-摘要精简：Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02314-w A celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02348-0 Conversational AI: align commercial incentives with public interests
 
-## 9. Composing a science life with music
+## 9. Fertility clinics are offering young mitochondria in controversial fertility technique
 
-- 期刊：Nature Methods
-- 日期：2026-07-27
-- DOI：10.1038/s41592-026-03170-2
+- 期刊：Nature
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-01935-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03170-2
+- 链接：https://www.nature.com/articles/d41586-026-01935-5
 
-摘要精简：Nature Methods, Published online: 27 July 2026; doi:10.1038/s41592-026-03170-2 Two scientists blend their love of music and science in different ways.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-01935-5 Researchers are alarmed that the procedure, which has not been rigorously studied, is advertised by clinics around the world.
 
-## 10. What’s your name, immune cell?
+## 10. Skin cancer spreads between catfish in a freshwater lake
 
-- 期刊：Nature Methods
-- 日期：2026-07-27
-- DOI：10.1038/s41592-026-03171-1
+- 期刊：Nature
+- 日期：2026-07-28
+- DOI：10.1038/d41586-026-02287-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03171-1
+- 链接：https://www.nature.com/articles/d41586-026-02287-w
 
-摘要精简：Nature Methods, Published online: 27 July 2026; doi:10.1038/s41592-026-03171-1 Groups of immunologists are advancing recommendations to address nomenclature challenges in their subfields.
+摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02287-w The discovery of a transmissible melanoma in a freshwater catfish raises questions about the disease’s origin, mode of transmission and broader impact on the species.
