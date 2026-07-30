@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-29 03:51
+生成时间：2026-07-30 03:42
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Entangled dual-site migration via boracycle rearrangement
+## 1. Author Correction: A ductile solid electrolyte interphase for solid-state batteries
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/s41586-026-10931-8
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10945-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10931-8
+- 链接：https://www.nature.com/articles/s41586-026-10945-2
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/s41586-026-10931-8 Entangled dual-site migration via boracycle rearrangement
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10945-2 Author Correction: A ductile solid electrolyte interphase for solid-state batteries
 
-## 2. Values in science go beyond politics
+## 2. Earthworks spotted in the Amazon hint at huge ancient civilization
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02346-2
+- 日期：2026-07-29
+- DOI：10.1038/d41586-026-02367-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02346-2
+- 链接：https://www.nature.com/articles/d41586-026-02367-x
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02346-2 Values in science go beyond politics
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-x Discovery of almost 400 structures may help to redefine the true scale of the Aquiry civilization — plus, tiny fossils of the earliest fossil squid ancestor.
 
-## 3. Deserts face unprecedented flash flooding
+## 3. Why tomorrow’s nanotechnologies need support today
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02349-z
+- 日期：2026-07-29
+- DOI：10.1038/d41586-026-02179-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02349-z
+- 链接：https://www.nature.com/articles/d41586-026-02179-z
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02349-z Deserts face unprecedented flash flooding
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02179-z The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential.
 
-## 4. It’ll grow on you: live fungi formed into sustainable fashion
+## 4. Was art key to ancient humans' success? The secrets of Hohle Fels cave
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02304-y
+- 日期：2026-07-29
+- DOI：10.1038/d41586-026-02359-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02304-y
+- 链接：https://www.nature.com/articles/d41586-026-02359-x
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02304-y Textile made from fungal filaments can repair itself and is biodegradable.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02359-x New discoveries at famous archeological site add to mystery of ancient human culture.
 
-## 5. Use AI, but don’t mask it
+## 5. The piezochiral effect
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02347-1
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10845-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02347-1
+- 链接：https://www.nature.com/articles/s41586-026-10845-5
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02347-1 Use AI, but don’t mask it
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5 The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality...
 
-## 6. Why some wool is wavy
+## 6. Diverse bacterial pattern recognition receptors sense the core phage proteome
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02104-4
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10852-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02104-4
+- 链接：https://www.nature.com/articles/s41586-026-10852-6
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02104-4 How crimps form in the coats of sheep, and the history of the word ‘ionosphere’, in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6 Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and...
 
-## 7. Wildfires rampaged across Europe in the dying days of the Triassic
+## 7. Mitochondrial metabolism and epigenetic crosstalk drive SASP
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02333-7
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10791-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02333-7
+- 链接：https://www.nature.com/articles/s41586-026-10791-2
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7 Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10791-2 In senescent cells, mitochondria-derived acetyl-CoA promotes histone acetylation and increases chromatin accessibility at inflammatory gene loci. Inhibition of SLC25A1 attenuates these...
 
-## 8. Conversational AI: align commercial incentives with public interests
+## 8. Alternating CO 2 and bicycloalkane copolymerization to circular polyesters
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02348-0
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10848-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02348-0
+- 链接：https://www.nature.com/articles/s41586-026-10848-2
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02348-0 Conversational AI: align commercial incentives with public interests
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10848-2 A simple organic catalyst enables direct alternating copolymerization of CO2 with bicycloalkanes to produce high-performance polyesters that can be selectively depolymerized and recycled...
 
-## 9. Fertility clinics are offering young mitochondria in controversial fertility technique
+## 9. Avalanche-like intercalation and intraparticle correlations in graphite
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-01935-5
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10862-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01935-5
+- 链接：https://www.nature.com/articles/s41586-026-10862-4
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-01935-5 Researchers are alarmed that the procedure, which has not been rigorously studied, is advertised by clinics around the world.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10862-4 Operando optical microscopy shows avalanche-like lithium deintercalation (intercalation) processes as the dilute stages of graphite are emptied (filled), showing how local disorder...
 
-## 10. Skin cancer spreads between catfish in a freshwater lake
+## 10. Sequential reading of a stepwise-shortened peptide immobilized on nanopore
 
 - 期刊：Nature
-- 日期：2026-07-28
-- DOI：10.1038/d41586-026-02287-w
+- 日期：2026-07-29
+- DOI：10.1038/s41586-026-10881-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02287-w
+- 链接：https://www.nature.com/articles/s41586-026-10881-1
 
-摘要精简：Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02287-w The discovery of a transmissible melanoma in a freshwater catfish raises questions about the disease’s origin, mode of transmission and broader impact on the species.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10881-1 A nanopore-based ‘chop and measure’ method sequences peptides at single-amino-acid resolution by using enzymatic digestion to progressively shorten the N terminus one residue at a time,...
