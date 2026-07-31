@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-30 03:42
+生成时间：2026-07-31 04:02
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: A ductile solid electrolyte interphase for solid-state batteries
+## 1. Somatic mutations reveal the ontogeny of microglia in human aging
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/s41586-026-10939-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10939-0
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging
+
+## 2. Author Correction: Sleep chart of biological ageing clocks in middle and late life
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/s41586-026-10920-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10920-x
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life
+
+## 3. Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/d41586-026-01843-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-01843-8
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.
+
+## 4. Demand for lithium is surging: here’s how to make mining more sustainable
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/d41586-026-02195-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02195-z
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-z Researchers are looking for ways to extract the metal from underground reservoirs that use less water.
+
+## 5. Fires in Europe are breaking records: here’s what the future holds
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/d41586-026-02361-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02361-3
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.
+
+## 6. How I use statistics and my law degree to fight human-rights abuses
+
+- 期刊：Nature
+- 日期：2026-07-30
+- DOI：10.1038/d41586-026-02079-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02079-2
+
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02079-2 Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner.
+
+## 7. Perpendicular switching of polarization in layered ferroelectrics
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10945-2
+- DOI：10.1038/s41586-026-10839-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10945-2
+- 链接：https://www.nature.com/articles/s41586-026-10839-3
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10945-2 Author Correction: A ductile solid electrolyte interphase for solid-state batteries
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10839-3 Perpendicular switching of the polarization state in the layered ferroelectric Bi4Ti3O12 is demonstrated by means of trilinear coupling, allowing manipulation of the in-plane...
 
-## 2. Earthworks spotted in the Amazon hint at huge ancient civilization
+## 8. New-deal mortgage programmes benefited white borrowers disproportionately
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/d41586-026-02367-x
+- DOI：10.1038/s41586-026-10850-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02367-x
+- 链接：https://www.nature.com/articles/s41586-026-10850-8
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-x Discovery of almost 400 structures may help to redefine the true scale of the Aquiry civilization — plus, tiny fossils of the earliest fossil squid ancestor.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10850-8 New data on homebuying loan records around the Second World War in the USA, linked to race and immigration status, show that Black borrowers were disproportionally excluded from mortgage...
 
-## 3. Why tomorrow’s nanotechnologies need support today
+## 9. Weight-four parity checks in a spin-shuttling architecture
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/d41586-026-02179-z
+- DOI：10.1038/s41586-026-10766-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02179-z
+- 链接：https://www.nature.com/articles/s41586-026-10766-3
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02179-z The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10766-3 A silicon spin-qubit device comprising a shuttling bus for transporting qubits is used to achieve parity checks up to weight four, highlighting the feasibility and benefits of...
 
-## 4. Was art key to ancient humans' success? The secrets of Hohle Fels cave
+## 10. Enzymatic glycosylation and amidation reshapes polyene bioactivity
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/d41586-026-02359-x
+- DOI：10.1038/s41586-026-10834-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02359-x
+- 链接：https://www.nature.com/articles/s41586-026-10834-8
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02359-x New discoveries at famous archeological site add to mystery of ancient human culture.
-
-## 5. The piezochiral effect
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10845-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10845-5
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5 The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality...
-
-## 6. Diverse bacterial pattern recognition receptors sense the core phage proteome
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10852-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10852-6
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6 Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and...
-
-## 7. Mitochondrial metabolism and epigenetic crosstalk drive SASP
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10791-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10791-2
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10791-2 In senescent cells, mitochondria-derived acetyl-CoA promotes histone acetylation and increases chromatin accessibility at inflammatory gene loci. Inhibition of SLC25A1 attenuates these...
-
-## 8. Alternating CO 2 and bicycloalkane copolymerization to circular polyesters
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10848-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10848-2
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10848-2 A simple organic catalyst enables direct alternating copolymerization of CO2 with bicycloalkanes to produce high-performance polyesters that can be selectively depolymerized and recycled...
-
-## 9. Avalanche-like intercalation and intraparticle correlations in graphite
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10862-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10862-4
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10862-4 Operando optical microscopy shows avalanche-like lithium deintercalation (intercalation) processes as the dilute stages of graphite are emptied (filled), showing how local disorder...
-
-## 10. Sequential reading of a stepwise-shortened peptide immobilized on nanopore
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10881-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10881-1
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10881-1 A nanopore-based ‘chop and measure’ method sequences peptides at single-amino-acid resolution by using enzymatic digestion to progressively shorten the N terminus one residue at a time,...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10834-8 Pathways to previously undescribed polyenes, including unusual enzymes that introduce more sugars onto polyene scaffolds, are discovered, and their accessibility through clean and...
