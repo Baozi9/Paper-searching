@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-07-31 04:02
+生成时间：2026-08-01 04:02
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Somatic mutations reveal the ontogeny of microglia in human aging
+## 1. Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/s41586-026-10921-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10921-w
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores
+
+## 2. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02419-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02419-2
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2 Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.
+
+## 3. The physics of fizz: why some bubbles are louder than others
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02334-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02334-6
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02334-6 A high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles.
+
+## 4. The power of ignorance and peering into the Milky Way: Books in brief
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02371-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02371-1
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02371-1 Andrew Robinson reviews five of the best science picks.
+
+## 5. Meat allergy is on the rise — what scientists want to know
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02362-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02362-2
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.
+
+## 6. The forensic traces that can help catch poachers — July’s best science images
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02274-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02274-1
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02274-1 The month’s sharpest science shots, selected by Nature’s photo team.
+
+## 7. How smallpox reached the Americas: first genomic evidence points to Europeans
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02366-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02366-y
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.
+
+## 8. Scientists using LLMs will ‘do more, less well’, modelling study predicts
+
+- 期刊：Nature
+- 日期：2026-07-31
+- DOI：10.1038/d41586-026-02397-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02397-5
+
+摘要精简：Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5 Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.
+
+## 9. Daily briefing: ‘Raygun’ AI can shrink or supersize proteins
 
 - 期刊：Nature
 - 日期：2026-07-30
-- DOI：10.1038/s41586-026-10939-0
+- DOI：10.1038/d41586-026-02420-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10939-0
+- 链接：https://www.nature.com/articles/d41586-026-02420-9
 
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging
+摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02420-9 The tool can add, remove or swap protein subunits using similar steps to natural evolution. Plus, spin qubits are back in the quantum race and the drugs that could prevent long COVID.
 
-## 2. Author Correction: Sleep chart of biological ageing clocks in middle and late life
-
-- 期刊：Nature
-- 日期：2026-07-30
-- DOI：10.1038/s41586-026-10920-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10920-x
-
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life
-
-## 3. Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?
-
-- 期刊：Nature
-- 日期：2026-07-30
-- DOI：10.1038/d41586-026-01843-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01843-8
-
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.
-
-## 4. Demand for lithium is surging: here’s how to make mining more sustainable
-
-- 期刊：Nature
-- 日期：2026-07-30
-- DOI：10.1038/d41586-026-02195-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02195-z
-
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-z Researchers are looking for ways to extract the metal from underground reservoirs that use less water.
-
-## 5. Fires in Europe are breaking records: here’s what the future holds
-
-- 期刊：Nature
-- 日期：2026-07-30
-- DOI：10.1038/d41586-026-02361-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02361-3
-
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.
-
-## 6. How I use statistics and my law degree to fight human-rights abuses
-
-- 期刊：Nature
-- 日期：2026-07-30
-- DOI：10.1038/d41586-026-02079-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02079-2
-
-摘要精简：Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02079-2 Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner.
-
-## 7. Perpendicular switching of polarization in layered ferroelectrics
+## 10. A digitally controlled silicon quantum processing unit
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10839-3
+- DOI：10.1038/s41586-026-10754-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10839-3
+- 链接：https://www.nature.com/articles/s41586-026-10754-7
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10839-3 Perpendicular switching of the polarization state in the layered ferroelectric Bi4Ti3O12 is demonstrated by means of trilinear coupling, allowing manipulation of the in-plane...
-
-## 8. New-deal mortgage programmes benefited white borrowers disproportionately
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10850-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10850-8
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10850-8 New data on homebuying loan records around the Second World War in the USA, linked to race and immigration status, show that Black borrowers were disproportionally excluded from mortgage...
-
-## 9. Weight-four parity checks in a spin-shuttling architecture
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10766-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10766-3
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10766-3 A silicon spin-qubit device comprising a shuttling bus for transporting qubits is used to achieve parity checks up to weight four, highlighting the feasibility and benefits of...
-
-## 10. Enzymatic glycosylation and amidation reshapes polyene bioactivity
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10834-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10834-8
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10834-8 Pathways to previously undescribed polyenes, including unusual enzymes that introduce more sugars onto polyene scaffolds, are discovered, and their accessibility through clean and...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10754-7 A silicon quantum processing unit executes high-fidelity multiqubit circuits, with all time-varying control signals generated by a digitally programmed cryogenic complementary...
