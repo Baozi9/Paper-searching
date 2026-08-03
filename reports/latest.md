@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-02 04:05
+生成时间：2026-08-03 04:08
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A global view of human centromere variation and evolution
+## 1. Sickle-cell disease linked to prematurely aged stem cells in mice
+
+- 期刊：Nature
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02339-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02339-1
+
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02339-1 A combination of drugs restores stem-cell function in mouse models of the blood disorder.
+
+## 2. Miniaturizing and modifying natural proteins with Raygun
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10841-9
+- DOI：10.1038/s41586-026-10842-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10841-9
+- 链接：https://www.nature.com/articles/s41586-026-10842-8
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10841-9 Complete sequencing of more than 2,000 centromeres from diverse humans reveals structures and elevated mutation rates that shape the evolution of these critically important regions.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10842-8 Probabilistic sequence encoding from language model embeddings within a generative AI framework enables protein miniaturization, modification and augmentation while maintaining native...
 
-## 2. Rational design of disordered proteins for sequence–function investigation
+## 3. Cretaceous zhelestid mammals are zalambdalestoids
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10849-1
+- DOI：10.1038/s41586-026-10861-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10849-1
+- 链接：https://www.nature.com/articles/s41586-026-10861-5
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10849-1 GOOSE enables the design and testing of thousands of disordered protein region sequences to reveal distinct sequence-to-function relationships.
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10861-5 New Mongolian fossil evidence shows zhelestids were not placental-like herbivore relatives, but a dental variant within Zalambdalestoidea, with distinctive molars alongside...
 
-## 3. In situ structure of the poxvirus portal complex
+## 4. Intestinal stem cells count self-renewal divisions to switch multipotency
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10856-2
+- DOI：10.1038/s41586-026-10814-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10856-2
+- 链接：https://www.nature.com/articles/s41586-026-10814-y
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10856-2 Cryo-electron tomography uncovers the structure of a conserved hexameric ‘portal complex’ that spans the core wall in vaccinia virus, and shows how it is associated with viral functions...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10814-y In Drosophila, cell fate switching in adult intestinal stem cells is determined through an epigenetic mechanism in which these cells count divisions, switching from producing enterocytes...
 
-## 4. Plasmonic metamaterial time crystal
+## 5. The past and future impact of climate change on childhood malaria in Africa
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10825-9
+- DOI：10.1038/s41586-026-10840-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10825-9
+- 链接：https://www.nature.com/articles/s41586-026-10840-w
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10825-9 A plasmonic metamaterial driven at terahertz frequencies achieves strong, ultrafast temporal modulation and shows a transition to the photonic time crystal regime with reduced plasmonic...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-w Climate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.
 
-## 5. Earliest siphuncle-bearing cephalopod from the early Cambrian
+## 6. How silicon-chip technology is being re-engineered for quantum computing
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10868-y
+- DOI：10.1038/d41586-026-02124-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10868-y
+- 链接：https://www.nature.com/articles/d41586-026-02124-0
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10868-y Early Cambrian Eoceras shaanxiense gen. et sp. nov. preserves septa and a segmented tube resembling a primordial siphuncle, extending cephalopod origins and revealing early assembly of...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02124-0 Two demonstrations of silicon-based quantum processors tackle the engineering challenges of building scalable quantum computers.
 
-## 6. Octahedral-coordinated Co 3 O 4 for water electrolysis in acid
+## 7. Quantum meets capitalism: how to pair long-term bets on technology with commercial speed
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10851-7
+- DOI：10.1038/d41586-026-02310-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10851-7
+- 链接：https://www.nature.com/articles/d41586-026-02310-0
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10851-7 A new trigonal-phase Co3O4 manufactured using a vacuum-mediated molten-alkali mechanochemical method is described, demonstrating edge-shared octahedral coordination and achieving lower...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02310-0 Quantum computing exists because governments funded risky bets. Capitalism can carry it the rest of the way — if quantum scientists are supported.
 
-## 7. In situ structures of plant photosystem supercomplexes
+## 8. Papers with open peer-review reports are less likely to be retracted
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10847-3
+- DOI：10.1038/d41586-026-02282-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10847-3
+- 链接：https://www.nature.com/articles/d41586-026-02282-1
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10847-3 The cryo‑EM structure of the Oryza sativa photosystem II–light harvesting complex II supercomplex in its native membrane reveals the intact plant photosystem architecture, retaining...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02282-1 Researchers say that transparent publishing practices could be associated with research quality, but more evidence is needed.
 
-## 8. Photocatalytic water splitting by 2D polymer with out-of-plane carrier flow
+## 9. A guide to the Nature Index
 
 - 期刊：Nature
 - 日期：2026-07-29
-- DOI：10.1038/s41586-026-10866-0
+- DOI：10.1038/d41586-026-02183-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10866-0
+- 链接：https://www.nature.com/articles/d41586-026-02183-3
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10866-0 A strategy using polymeric carbon nitride crystals induces out-of-plane carrier migration by means of internal electric fields applied on facet-selective nanofilms placed on polymer...
+摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02183-3 A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.
 
-## 9. Climate benefit and ecological cost trade-offs for ocean iron fertilization
+## 10. Getting over ANOVA: estimation graphics for multi-group comparisons
 
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10795-y
+- 期刊：Nature Methods
+- 日期：2026-07-31
+- DOI：10.1038/s41592-026-03187-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10795-y
+- 链接：https://www.nature.com/articles/s41592-026-03187-7
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10795-y A process-rich global biogeochemical model is used to determine the trade-offs between carbon dioxide removal efficiency and ecosystem impacts in ten ocean ocean biomes following ocean...
-
-## 10. Over 20,000 precolonial earthworks in the Southwest Amazonia
-
-- 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10835-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10835-7
-
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10835-7 Using canopy-penetrating LiDAR data, the northern part of southwestern Amazonia appears to contain as many earthworks as previously estimated for the whole of Amazonia.
+摘要精简：Nature Methods, Published online: 31 July 2026; doi:10.1038/s41592-026-03187-7 Getting over ANOVA: estimation graphics for multi-group comparisons
