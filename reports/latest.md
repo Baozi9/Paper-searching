@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-03 04:08
+生成时间：2026-08-04 03:49
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Sickle-cell disease linked to prematurely aged stem cells in mice
+## 1. Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis
 
 - 期刊：Nature
 - 日期：2026-08-03
-- DOI：10.1038/d41586-026-02339-1
+- DOI：10.1038/s41586-026-10957-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02339-1
+- 链接：https://www.nature.com/articles/s41586-026-10957-y
 
-摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02339-1 A combination of drugs restores stem-cell function in mouse models of the blood disorder.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10957-y Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis
 
-## 2. Miniaturizing and modifying natural proteins with Raygun
+## 2. Author Correction: Maturation and circuit integration of transplanted human cortical organoids
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10842-8
+- 日期：2026-08-03
+- DOI：10.1038/s41586-026-10943-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10842-8
+- 链接：https://www.nature.com/articles/s41586-026-10943-4
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10842-8 Probabilistic sequence encoding from language model embeddings within a generative AI framework enables protein miniaturization, modification and augmentation while maintaining native...
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10943-4 Author Correction: Maturation and circuit integration of transplanted human cortical organoids
 
-## 3. Cretaceous zhelestid mammals are zalambdalestoids
+## 3. Venus’s rift valleys could be its secret to staying active
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10861-5
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02372-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10861-5
+- 链接：https://www.nature.com/articles/d41586-026-02372-0
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10861-5 New Mongolian fossil evidence shows zhelestids were not placental-like herbivore relatives, but a dental variant within Zalambdalestoidea, with distinctive molars alongside...
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02372-0 The nature of geological dynamics on Venus are fiercely debated — the planet’s steep rift valleys could be evidence of ongoing tectonic activity.
 
-## 4. Intestinal stem cells count self-renewal divisions to switch multipotency
+## 4. Plans for nuclear-powered merchant ships must confront risks
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10814-y
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02388-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10814-y
+- 链接：https://www.nature.com/articles/d41586-026-02388-6
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10814-y In Drosophila, cell fate switching in adult intestinal stem cells is determined through an epigenetic mechanism in which these cells count divisions, switching from producing enterocytes...
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02388-6 Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations.
 
-## 5. The past and future impact of climate change on childhood malaria in Africa
+## 5. Cancer-fighting antibodies with a one-two punch take aim at tumours
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/s41586-026-10840-w
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02398-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10840-w
+- 链接：https://www.nature.com/articles/d41586-026-02398-4
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-w Climate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02398-4 Bispecific antibodies, which bind to two targets, are sweeping into the clinic and are prompting even more elaborate versions.
 
-## 6. How silicon-chip technology is being re-engineered for quantum computing
+## 6. Science-backed tips on how to avoid distractions
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/d41586-026-02124-0
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-01850-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02124-0
+- 链接：https://www.nature.com/articles/d41586-026-01850-9
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02124-0 Two demonstrations of silicon-based quantum processors tackle the engineering challenges of building scalable quantum computers.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01850-9 Struggling to stay focused in the lab? Attention researchers offer some advice.
 
-## 7. Quantum meets capitalism: how to pair long-term bets on technology with commercial speed
+## 7. ‘A waste of time for all of us’: caught in the crossfire of the peer-review wars
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/d41586-026-02310-0
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-01360-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02310-0
+- 链接：https://www.nature.com/articles/d41586-026-01360-8
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02310-0 Quantum computing exists because governments funded risky bets. Capitalism can carry it the rest of the way — if quantum scientists are supported.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01360-8 Review mills — researchers who write fake referee reports with coercive citation requests — are setting off a war in academic publishing. What happens to those caught in the middle?
 
-## 8. Papers with open peer-review reports are less likely to be retracted
+## 8. Controversial White House plan to overhaul US science funding faces Senate opposition
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/d41586-026-02282-1
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02436-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02282-1
+- 链接：https://www.nature.com/articles/d41586-026-02436-1
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02282-1 Researchers say that transparent publishing practices could be associated with research quality, but more evidence is needed.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02436-1 Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.
 
-## 9. A guide to the Nature Index
+## 9. The secret relationships that govern life on Earth
 
 - 期刊：Nature
-- 日期：2026-07-29
-- DOI：10.1038/d41586-026-02183-3
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02387-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02183-3
+- 链接：https://www.nature.com/articles/d41586-026-02387-7
 
-摘要精简：Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02183-3 A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02387-7 Books on parasitism and symbiosis inspire wonder at the strange ways in which species’ lives intertwine.
 
-## 10. Getting over ANOVA: estimation graphics for multi-group comparisons
+## 10. Want to get more from AI? Treat every prompt like an experiment
 
-- 期刊：Nature Methods
-- 日期：2026-07-31
-- DOI：10.1038/s41592-026-03187-7
+- 期刊：Nature
+- 日期：2026-08-03
+- DOI：10.1038/d41586-026-02083-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03187-7
+- 链接：https://www.nature.com/articles/d41586-026-02083-6
 
-摘要精简：Nature Methods, Published online: 31 July 2026; doi:10.1038/s41592-026-03187-7 Getting over ANOVA: estimation graphics for multi-group comparisons
+摘要精简：Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6 Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.
