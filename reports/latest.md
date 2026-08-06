@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-05 03:45
+生成时间：2026-08-06 03:51
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer
+## 1. Pumas are drivers’ guardian angels
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/s41586-026-10958-x
+- 日期：2026-08-06
+- DOI：10.1038/d41586-026-02429-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10958-x
+- 链接：https://www.nature.com/articles/d41586-026-02429-0
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-x Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer
+摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0 Vehicles are less likely to smash into deer on the road where the big cats are on patrol.
 
-## 2. Put health systems at the centre of European heatwave plans
+## 2. Thermally evaporated perovskite/silicon tandems via formamidinium eutectic
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02426-3
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10970-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02426-3
+- 链接：https://www.nature.com/articles/s41586-026-10970-1
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3 Put health systems at the centre of European heatwave plans
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10970-1 Thermally evaporated perovskite/silicon tandems via formamidinium eutectic
 
-## 3. ‘Television’? The word will never catch on!
+## 3. Publisher Correction: Progressive plasticity during colorectal cancer metastasis
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02379-7
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10963-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02379-7
+- 链接：https://www.nature.com/articles/s41586-026-10963-0
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02379-7 One reader proposes an alternative to the word ‘television’, and another is enthralled by a meteor, in our weekly dip into Nature’s archive.
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10963-0 Publisher Correction: Progressive plasticity during colorectal cancer metastasis
 
-## 4. Scientists don’t need more trust, they need public allies
+## 4. Junk plastic turns into high-value commodity with chemistry trick
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02424-5
+- 日期：2026-08-05
+- DOI：10.1038/d41586-026-02445-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02424-5
+- 链接：https://www.nature.com/articles/d41586-026-02445-0
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02424-5 Scientists don’t need more trust, they need public allies
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0 Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug.
 
-## 5. Lab leaders should follow football’s lead and have coaching qualifications
+## 5. An expanded codebook of human transcription factor DNA-binding specificity
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02427-2
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10798-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02427-2
+- 链接：https://www.nature.com/articles/s41586-026-10798-9
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02427-2 Lab leaders should follow football’s lead and have coaching qualifications
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9 Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription...
 
-## 6. How scientists can tackle the paradox of political polarization
+## 6. Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02425-4
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10871-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02425-4
+- 链接：https://www.nature.com/articles/s41586-026-10871-3
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02425-4 How scientists can tackle the paradox of political polarization
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10871-3 High-spatial-resolution observations of the solar photosphere reveal a far more complex and dynamic solar scene than previously observed and show that ubiquitous Kelvin–Helmholtz...
 
-## 7. Engineered yeast that make cancer drugs could spare a rare flower
+## 7. ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02428-1
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10890-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02428-1
+- 链接：https://www.nature.com/articles/s41586-026-10890-0
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1 Modified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10890-0 The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.
 
-## 8. Tiny patch of Amazon probably holds 40,000 insect species — many new to science
+## 8. In situ particle-to-fibre transformation of hydrogels for 3D printing
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02350-6
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10883-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02350-6
+- 链接：https://www.nature.com/articles/s41586-026-10883-z
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6 Megaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10883-z A three-dimensional printing method transforms hydrogel particles into aligned microfibres during extrusion, creating structural anisotropy to accelerate muscle tissue regeneration.
 
-## 9. Why the need for the WHO has never been greater
+## 9. Amygdala astrocyte primary cilium mechanisms contribute to stress behaviours
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02358-y
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10874-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02358-y
+- 链接：https://www.nature.com/articles/s41586-026-10874-0
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02358-y Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10874-0 Amygdala astrocyte primary cilia are disrupted during stress, and their restoration leads to improvements in stress-related behaviour in mice.
 
-## 10. What’s missing from the White House plan for the future of US science
+## 10. A dependency map enhanced with next-generation 3D cancer models
 
 - 期刊：Nature
-- 日期：2026-08-04
-- DOI：10.1038/d41586-026-02384-w
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10843-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02384-w
+- 链接：https://www.nature.com/articles/s41586-026-10843-7
 
-摘要精简：Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10843-7 Integration of genome-scale CRISPR screening data from traditional cell lines and next-generation cancer models expands the representation of tumour subtypes and genomic alterations in...
