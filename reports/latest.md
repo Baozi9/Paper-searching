@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-07 03:31
+生成时间：2026-08-08 02:28
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Operational Tropical Cyclone Forecasting with AI
+## 1. Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints
 
 - 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/s41586-026-10953-2
+- 日期：2026-08-07
+- DOI：10.1038/d41586-026-02488-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10953-2
+- 链接：https://www.nature.com/articles/d41586-026-02488-3
 
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI
+摘要精简：Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.
 
-## 2. How a steady drip-drip can erode the hardest stone
+## 2. Universal vaccine for pneumococcal disease moves closer to reality
 
 - 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/d41586-026-02360-4
+- 日期：2026-08-07
+- DOI：10.1038/d41586-026-02462-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02360-4
+- 链接：https://www.nature.com/articles/d41586-026-02462-z
 
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02360-4 Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power.
+摘要精简：Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02462-z Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.
 
-## 3. Levitating sensor for magnetic fields could detect ultrafaint brain activity
-
-- 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/d41586-026-02458-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02458-9
-
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.
-
-## 4. Heat waves have killed millions. Here’s how scientists tally lives lost
-
-- 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/d41586-026-02430-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02430-7
-
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.
-
-## 5. AI agents are checking the scientific literature — and spotting decades-old errors
-
-- 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/d41586-026-02235-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02235-8
-
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.
-
-## 6. Scientists up in arms about cuts to UK physics and astronomy
-
-- 期刊：Nature
-- 日期：2026-08-06
-- DOI：10.1038/d41586-026-02460-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02460-1
-
-摘要精简：Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.
-
-## 7. Upcycling of polyvinyl chloride into polyalphaolefin lubricants
+## 3. A compendium of next-generation patient-derived models for diverse cancers
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10867-z
+- DOI：10.1038/s41586-026-10806-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10867-z
+- 链接：https://www.nature.com/articles/s41586-026-10806-y
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10806-y The international collaboration of the Human Cancer Models Initiative presents a comprehensive resource of next-generation cancer models from 2,780 donors with 25 cancer types and...
 
-## 8. An entangling gate for dual-rail erasure qubits
+## 4. Antigen presentation by CD40 + MHC-II + astrocytes promotes CNS autoimmunity
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10822-y
+- DOI：10.1038/s41586-026-10860-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10822-y
+- 链接：https://www.nature.com/articles/s41586-026-10860-6
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10822-y A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10860-6 Astrocytes promote central nervous system (CNS) immunity through antigen presentation and activation of CD40 in astrocytes by CD40L expressed by CD4+ T cells in a model of experimental...
 
-## 9. Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits
+## 5. The Virtual Tissues foundation model resolves spatial proteomics across scales
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10865-1
+- DOI：10.1038/s41586-026-10884-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10865-1
+- 链接：https://www.nature.com/articles/s41586-026-10884-y
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10865-1 An ‘encapsulation epitaxy’ mechanism is used to grow air-stable, two-dimensional superconducting films at the interface of a 2D–3D hybrid substrate, holding promise for use in...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10884-y Virtual Tissues (VirTues), a foundation model for spatial proteomics that captures tissue organization across scales, supports marker reconstruction, cell segmentation and typing,...
 
-## 10. Stimulation modulates gene-linked cell assemblies in the human brain
+## 6. Virus reactivation in acute and long COVID-19
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10879-9
+- DOI：10.1038/s41586-026-10740-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10879-9
+- 链接：https://www.nature.com/articles/s41586-026-10740-z
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10879-9 Stimulation of human cortex reorganizes neural assemblies and induces cell-type-specific gene regulatory programs, establishing an ex vivo framework that links stimulation parameters...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10740-z Chronic reactivation of distinct herpesviruses and anelloviruses occur during acute and long COVID-19, and track with disease severity, inflammation and outcomes, revealing immune...
+
+## 7. Uncovering the mechanism of female restitution in sugarcane hybrids
+
+- 期刊：Nature
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10863-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10863-3
+
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10863-3 Female restitution in interspecific sugarcane hybrids between Saccharum officinarum and Saccharum spontaneum arises from second division restitution, as haplotype-resolved F1 genomes...
+
+## 8. Pseudogap in a Fermi–Hubbard quantum simulator
+
+- 期刊：Nature
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10875-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10875-z
+
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10875-z A cold-atom quantum simulator reveals the pseudogap metallic state in the Hubbard model, mapping its phase diagram and advancing understanding of doped Mott insulators and high-...
+
+## 9. Membranolytic peptide programs immunogenic cell death for cancer therapy
+
+- 期刊：Nature
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10899-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10899-5
+
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10899-5 The synthetic-acid-responsive membranolytic peptide aMPC16-CA50 induces immunogenic membranolytic cell death in tumour cells, robustly potentiating immune checkpoint blockade therapy.
+
+## 10. A tumour-derived organoid biobank maps cancer gene dependencies
+
+- 期刊：Nature
+- 日期：2026-08-05
+- DOI：10.1038/s41586-026-10830-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10830-y
+
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10830-y A clinically annotated multi-omic organoid resource with matched tumour samples from 256 patients across 5 cancers maps gene dependencies, reveals subtype-specific vulnerabilities and...
