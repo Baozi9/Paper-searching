@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-09 02:35
+生成时间：2026-08-10 02:41
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. DCAF11-dependent molecular glue degrader activated by glutathionylation
+## 1. First poo transplant to treat food allergy in people has ‘exciting’ results
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10873-1
+- DOI：10.1038/d41586-026-02440-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10873-1
+- 链接：https://www.nature.com/articles/d41586-026-02440-5
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10873-1 M12 is a metabolically activated molecular glue that recruits diverse proteins to DCAF11 for ubiquitin-mediated degradation, revealing a glutathione-dependent mechanism that broadens...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02440-5 Existing treatments for food allergy are limited.
 
-## 2. A cholinergic hub in the nucleus accumbens gates opioid-reward learning
+## 2. COVID can wake up a slew of dormant viruses inside you
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10887-9
+- DOI：10.1038/d41586-026-02443-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10887-9
+- 链接：https://www.nature.com/articles/d41586-026-02443-2
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10887-9 Cell-type-specific opioid blockade in accumbal cholinergic interneurons abolishes morphine-reward learning without impairing analgesia and decouples morphine-evoked dopamine elevations...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02443-2 Reactivation of typically harmless anelloviruses, in particular, seems to be linked with developing long COVID, study finds.
 
-## 3. Vacuum birefringence and the polarized X-ray emission from a radio magnetar
+## 3. Switching off the FNIP1 gene protects against metabolic disease
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10859-z
+- DOI：10.1038/d41586-026-02391-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10859-z
+- 链接：https://www.nature.com/articles/d41586-026-02391-x
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10859-z Polarization measurements of the magnetar 1E 1547.0−5408 provide strong evidence that vacuum birefringence shapes X-ray propagation, offering an important observational test of quantum...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02391-x A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and a roughly 60% lower risk of...
 
-## 4. An ancient mitochondrial program tunes translation to haem availability
+## 4. The recovered notes of Professor Alborough
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10885-x
+- DOI：10.1038/d41586-026-02252-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10885-x
+- 链接：https://www.nature.com/articles/d41586-026-02252-7
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10885-x An evolutionarily conserved mitochondrial haem-sensing mechanism that predates the emergence of haemoglobin-based oxygen transport could have therapeutic value in iron deficiency...
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02252-7 Time for a break.
 
-## 5. FNIP1 variants are associated with favourable metabolism in 1 million humans
+## 5. Neanderthal gene makes some modern humans taller and more muscular
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/s41586-026-10864-2
+- DOI：10.1038/d41586-026-02439-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10864-2
+- 链接：https://www.nature.com/articles/d41586-026-02439-y
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10864-2 The FNIP1 pathway has a role in human energy metabolism, and its inhibition is a potential therapeutic strategy in cardiometabolic disease.
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02439-y The ancient genetic variant is most common in people of South and East Asian ancestry.
 
-## 6. James Bond, not Bond James: why scientific publishing must respect name order
+## 6. Why science must reinforce its social contract
 
 - 期刊：Nature
 - 日期：2026-08-05
-- DOI：10.1038/d41586-026-01772-6
+- DOI：10.1038/d41586-026-02444-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01772-6
+- 链接：https://www.nature.com/articles/d41586-026-02444-1
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-01772-6 Databases and submission systems are often inflexible. Can’t publishers do more on author names?
+摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02444-1 Questions of public trust can be addressed only through better communication and research that meets society’s interests.
 
-## 7. Can empty space interact with light — and even change its properties?
+## 7. Neuronal recordings with DNA origami
 
-- 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02289-8
+- 期刊：Nature Methods
+- 日期：2026-08-06
+- DOI：10.1038/s41592-026-03189-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02289-8
+- 链接：https://www.nature.com/articles/s41592-026-03189-5
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02289-8 Observations of a magnetized stellar core indicate that in an ultra-strong magnetic field, empty space can polarize light.
+摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03189-5 Neuronal recordings with DNA origami
 
-## 8. Maps of chromosomal regions crucial for cell division reveal high diversity
+## 8. A human blood–retina barrier-on-a-chip
 
-- 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02327-5
+- 期刊：Nature Methods
+- 日期：2026-08-06
+- DOI：10.1038/s41592-026-03191-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02327-5
+- 链接：https://www.nature.com/articles/s41592-026-03191-x
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02327-5 Centromeres are regions of chromosomes that are required for cell division. Complete sequence characterization of centromeres from a diverse group of 65 individuals reveals dynamic and...
+摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03191-x A human blood–retina barrier-on-a-chip
 
-## 9. Exclusive: the science papers that patents cite the most
+## 9. Inference of tumor spatial habitats
 
-- 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02386-8
+- 期刊：Nature Methods
+- 日期：2026-08-06
+- DOI：10.1038/s41592-026-03192-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02386-8
+- 链接：https://www.nature.com/articles/s41592-026-03192-w
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02386-8 Nature reveals the studies that are mentioned most often in patent filings — and why.
+摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03192-w Inference of tumor spatial habitats
 
-## 10. More muscle, less belly fat: mutations to a gene are linked to wide-ranging benefits
+## 10. AI-designed antibodies with Germinal
 
-- 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02438-z
+- 期刊：Nature Methods
+- 日期：2026-08-06
+- DOI：10.1038/s41592-026-03190-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02438-z
+- 链接：https://www.nature.com/articles/s41592-026-03190-y
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02438-z Analysis of one million diverse genomes yields mutations associated with lower risk of diabetes, heart disease and other ‘cardiometabolic’ conditions.
+摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03190-y AI-designed antibodies with Germinal
