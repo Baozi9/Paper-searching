@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-10 02:41
+生成时间：2026-08-11 02:35
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. First poo transplant to treat food allergy in people has ‘exciting’ results
+## 1. Author Correction: Durable all-inorganic perovskite tandem photovoltaics
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02440-5
+- 日期：2026-08-10
+- DOI：10.1038/s41586-026-10984-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02440-5
+- 链接：https://www.nature.com/articles/s41586-026-10984-9
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02440-5 Existing treatments for food allergy are limited.
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10984-9 Author Correction: Durable all-inorganic perovskite tandem photovoltaics
 
-## 2. COVID can wake up a slew of dormant viruses inside you
+## 2. Author Correction: Cooperation conflicts with equality when allocating public goods
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02443-2
+- 日期：2026-08-10
+- DOI：10.1038/s41586-026-10973-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02443-2
+- 链接：https://www.nature.com/articles/s41586-026-10973-y
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02443-2 Reactivation of typically harmless anelloviruses, in particular, seems to be linked with developing long COVID, study finds.
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y Author Correction: Cooperation conflicts with equality when allocating public goods
 
-## 3. Switching off the FNIP1 gene protects against metabolic disease
+## 3. Learning millisecond protein dynamics from what is missing in NMR spectra
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02391-x
+- 日期：2026-08-10
+- DOI：10.1038/s41586-026-10989-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02391-x
+- 链接：https://www.nature.com/articles/s41586-026-10989-4
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02391-x A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and a roughly 60% lower risk of...
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10989-4 Learning millisecond protein dynamics from what is missing in NMR spectra
 
-## 4. The recovered notes of Professor Alborough
+## 4. Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02252-7
+- 日期：2026-08-10
+- DOI：10.1038/s41586-026-10978-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02252-7
+- 链接：https://www.nature.com/articles/s41586-026-10978-7
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02252-7 Time for a break.
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10978-7 Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance
 
-## 5. Neanderthal gene makes some modern humans taller and more muscular
+## 5. How and when to use artificial intelligence in your science job application
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02439-y
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-02435-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02439-y
+- 链接：https://www.nature.com/articles/d41586-026-02435-2
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02439-y The ancient genetic variant is most common in people of South and East Asian ancestry.
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2 A webinar offers advice to hiring managers and jobseekers.
 
-## 6. Why science must reinforce its social contract
+## 6. Where are you ticklish? Researchers map the sensation across cultures
 
 - 期刊：Nature
-- 日期：2026-08-05
-- DOI：10.1038/d41586-026-02444-1
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-02493-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02444-1
+- 链接：https://www.nature.com/articles/d41586-026-02493-6
 
-摘要精简：Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02444-1 Questions of public trust can be addressed only through better communication and research that meets society’s interests.
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6 People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.
 
-## 7. Neuronal recordings with DNA origami
+## 7. I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out
 
-- 期刊：Nature Methods
-- 日期：2026-08-06
-- DOI：10.1038/s41592-026-03189-5
+- 期刊：Nature
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-02447-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03189-5
+- 链接：https://www.nature.com/articles/d41586-026-02447-y
 
-摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03189-5 Neuronal recordings with DNA origami
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02447-y Without strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education.
 
-## 8. A human blood–retina barrier-on-a-chip
+## 8. What to do when you have too many PhD projects on the go
 
-- 期刊：Nature Methods
-- 日期：2026-08-06
-- DOI：10.1038/s41592-026-03191-x
+- 期刊：Nature
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-01681-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03191-x
+- 链接：https://www.nature.com/articles/d41586-026-01681-8
 
-摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03191-x A human blood–retina barrier-on-a-chip
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-01681-8 By ruthlessly narrowing down his priorities, Zachary Sentell managed to publish several papers in the final year of his PhD and graduate on time.
 
-## 9. Inference of tumor spatial habitats
+## 9. Why environmental treaties must also address mental health
 
-- 期刊：Nature Methods
-- 日期：2026-08-06
-- DOI：10.1038/s41592-026-03192-w
+- 期刊：Nature
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-02450-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03192-w
+- 链接：https://www.nature.com/articles/d41586-026-02450-3
 
-摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03192-w Inference of tumor spatial habitats
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02450-3 Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.
 
-## 10. AI-designed antibodies with Germinal
+## 10. This AI tool claims to pick the top 1% of preprints. Should researchers trust it?
 
-- 期刊：Nature Methods
-- 日期：2026-08-06
-- DOI：10.1038/s41592-026-03190-y
+- 期刊：Nature
+- 日期：2026-08-10
+- DOI：10.1038/d41586-026-02276-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03190-y
+- 链接：https://www.nature.com/articles/d41586-026-02276-z
 
-摘要精简：Nature Methods, Published online: 06 August 2026; doi:10.1038/s41592-026-03190-y AI-designed antibodies with Germinal
+摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.
