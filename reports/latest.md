@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-11 02:35
+生成时间：2026-08-12 03:05
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Durable all-inorganic perovskite tandem photovoltaics
+## 1. Phosphine-mediated azine C–H couplings with water and ammonia
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/s41586-026-10984-9
+- 日期：2026-08-11
+- DOI：10.1038/s41586-026-10991-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10984-9
+- 链接：https://www.nature.com/articles/s41586-026-10991-w
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10984-9 Author Correction: Durable all-inorganic perovskite tandem photovoltaics
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-w Phosphine-mediated azine C–H couplings with water and ammonia
 
-## 2. Author Correction: Cooperation conflicts with equality when allocating public goods
+## 2. Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/s41586-026-10973-y
+- 日期：2026-08-11
+- DOI：10.1038/s41586-026-10947-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10973-y
+- 链接：https://www.nature.com/articles/s41586-026-10947-0
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y Author Correction: Cooperation conflicts with equality when allocating public goods
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma
 
-## 3. Learning millisecond protein dynamics from what is missing in NMR spectra
+## 3. Funders should look beyond strict age criteria
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/s41586-026-10989-4
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02492-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10989-4
+- 链接：https://www.nature.com/articles/d41586-026-02492-7
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10989-4 Learning millisecond protein dynamics from what is missing in NMR spectra
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02492-7 Funders should look beyond strict age criteria
 
-## 4. Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance
+## 4. The case for responsible scientific activism
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/s41586-026-10978-7
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02464-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10978-7
+- 链接：https://www.nature.com/articles/d41586-026-02464-x
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10978-7 Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02464-x The case for responsible scientific activism
 
-## 5. How and when to use artificial intelligence in your science job application
+## 5. Shipping on rivers packs a surprisingly large climate punch
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-02435-2
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02431-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02435-2
+- 链接：https://www.nature.com/articles/d41586-026-02431-6
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2 A webinar offers advice to hiring managers and jobseekers.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02431-6 Growing traffic on inland waterways could offer an opportunity for cutting emissions.
 
-## 6. Where are you ticklish? Researchers map the sensation across cultures
+## 6. AI tools speed up analysis, but scientific truths must be grounded in reality
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-02493-6
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02490-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02493-6
+- 链接：https://www.nature.com/articles/d41586-026-02490-9
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6 People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality
 
-## 7. I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out
+## 7. How escalating costs scuppered a radio telescope at Joddrell Bank
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-02447-y
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02380-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02447-y
+- 链接：https://www.nature.com/articles/d41586-026-02380-0
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02447-y Without strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02380-0 Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive.
 
-## 8. What to do when you have too many PhD projects on the go
+## 8. Will AI make our dreams all look the same?
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-01681-8
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02491-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01681-8
+- 链接：https://www.nature.com/articles/d41586-026-02491-8
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-01681-8 By ruthlessly narrowing down his priorities, Zachary Sentell managed to publish several papers in the final year of his PhD and graduate on time.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?
 
-## 9. Why environmental treaties must also address mental health
+## 9. The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-02450-3
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02454-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02450-3
+- 链接：https://www.nature.com/articles/d41586-026-02454-z
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02450-3 Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02454-z It is shameful that half the country’s population continues to be overlooked by the international community.
 
-## 10. This AI tool claims to pick the top 1% of preprints. Should researchers trust it?
+## 10. HIV vaccines guide rare immune cells to make broadly neutralizing antibodies
 
 - 期刊：Nature
-- 日期：2026-08-10
-- DOI：10.1038/d41586-026-02276-z
+- 日期：2026-08-11
+- DOI：10.1038/d41586-026-02374-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02276-z
+- 链接：https://www.nature.com/articles/d41586-026-02374-y
 
-摘要精简：Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.
+摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02374-y Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.
