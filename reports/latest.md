@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-12 03:05
+生成时间：2026-08-13 03:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Phosphine-mediated azine C–H couplings with water and ammonia
+## 1. Lead carboxylates passivation for meter-scale perovskite solar modules
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/s41586-026-10991-w
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10994-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10991-w
+- 链接：https://www.nature.com/articles/s41586-026-10994-7
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-w Phosphine-mediated azine C–H couplings with water and ammonia
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7 Lead carboxylates passivation for meter-scale perovskite solar modules
 
-## 2. Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma
+## 2. Reply to: Pre-clinical data interpretation requires clinical context
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/s41586-026-10947-0
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10773-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10947-0
+- 链接：https://www.nature.com/articles/s41586-026-10773-4
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context
 
-## 3. Funders should look beyond strict age criteria
+## 3. Pre-clinical data interpretation requires clinical context
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02492-7
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10774-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02492-7
+- 链接：https://www.nature.com/articles/s41586-026-10774-3
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02492-7 Funders should look beyond strict age criteria
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3 Pre-clinical data interpretation requires clinical context
 
-## 4. The case for responsible scientific activism
+## 4. Giant balloon gives rise to new view of the Milky Way’s centre
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02464-x
+- 日期：2026-08-12
+- DOI：10.1038/d41586-026-02463-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02464-x
+- 链接：https://www.nature.com/articles/d41586-026-02463-y
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02464-x The case for responsible scientific activism
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.
 
-## 5. Shipping on rivers packs a surprisingly large climate punch
+## 5. Rattlesnakes’ own anti-venom could protect humans too
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02431-6
+- 日期：2026-08-12
+- DOI：10.1038/d41586-026-02461-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02431-6
+- 链接：https://www.nature.com/articles/d41586-026-02461-0
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02431-6 Growing traffic on inland waterways could offer an opportunity for cutting emissions.
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02461-0 A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom.
 
-## 6. AI tools speed up analysis, but scientific truths must be grounded in reality
+## 6. The probiotic bacteria engineered to treat diabetes
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02490-9
+- 日期：2026-08-12
+- DOI：10.1038/d41586-026-02521-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02490-9
+- 链接：https://www.nature.com/articles/d41586-026-02521-5
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02521-5 Genetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely.
 
-## 7. How escalating costs scuppered a radio telescope at Joddrell Bank
+## 7. Dataset artefacts can partially drive the measured decline in disruption
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02380-0
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10787-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02380-0
+- 链接：https://www.nature.com/articles/s41586-026-10787-y
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02380-0 Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10787-y Dataset artefacts can partially drive the measured decline in disruption
 
-## 8. Will AI make our dreams all look the same?
+## 8. Reply to: Dataset artefacts can partially drive the measured decline in disruption
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02491-8
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10788-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02491-8
+- 链接：https://www.nature.com/articles/s41586-026-10788-x
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10788-x Reply to: Dataset artefacts can partially drive the measured decline in disruption
 
-## 9. The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?
+## 9. Agentic profiles for effective AI governance
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02454-z
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10805-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02454-z
+- 链接：https://www.nature.com/articles/s41586-026-10805-z
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02454-z It is shameful that half the country’s population continues to be overlooked by the international community.
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for...
 
-## 10. HIV vaccines guide rare immune cells to make broadly neutralizing antibodies
+## 10. Glucose-responsive probiotics for glycaemic modulation in mice and monkeys
 
 - 期刊：Nature
-- 日期：2026-08-11
-- DOI：10.1038/d41586-026-02374-y
+- 日期：2026-08-12
+- DOI：10.1038/s41586-026-10909-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02374-y
+- 链接：https://www.nature.com/articles/s41586-026-10909-6
 
-摘要精简：Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02374-y Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.
+摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10909-6 Engineered probiotics equipped with a synthetic glucose-responsive circuit transiently colonize the gut and secrete therapeutic factors when glucose levels increase, enabling safe,...
