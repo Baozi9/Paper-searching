@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-17 02:05
+生成时间：2026-08-18 01:59
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Superconducting 2D cuprate with a single CuO 2 plane
+## 1. Positional isomerisation of pyridine via nitrogen transposition
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/s41586-026-10857-1
+- 日期：2026-08-17
+- DOI：10.1038/s41586-026-11006-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10857-1
+- 链接：https://www.nature.com/articles/s41586-026-11006-4
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10857-1 A high-quality, pristine monolayer cuprate superconductor with a single CuO2 plane is fabricated and used to identify two quantum critical phenomena emerging between the Mott...
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4 Positional isomerisation of pyridine via nitrogen transposition
 
-## 2. In vivo genome-wide CRISPR screens of human T cells in solid tumours
+## 2. Programmable remodelling of carbon–nitrogen connectivity in amines
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/s41586-026-10906-9
+- 日期：2026-08-17
+- DOI：10.1038/s41586-026-11009-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10906-9
+- 链接：https://www.nature.com/articles/s41586-026-11009-1
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10906-9 An in vivo model that is able to recover human T cells from solid tumours can identify targets to help improve CAR T cell antitumour activity.
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines
 
-## 3. Biomarkers of nivolumab benefit in resectable non-small cell lung cancer
+## 3. Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/s41586-026-10925-6
+- 日期：2026-08-17
+- DOI：10.1038/s41586-026-10995-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10925-6
+- 链接：https://www.nature.com/articles/s41586-026-10995-6
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10925-6 Potential predictive biomarkers of perioperative nivolumab therapy benefit in non-small cell lung cancer are identified from evaluable participants in the CheckMate 77T trial.
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6 Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer
 
-## 4. How the human brain can pursue two goals at the same time
+## 4. Defect passivation and optical management of triple-junction solar cells
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02395-7
+- 日期：2026-08-17
+- DOI：10.1038/s41586-026-11010-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02395-7
+- 链接：https://www.nature.com/articles/s41586-026-11010-8
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02395-7 In the natural world, an animal can blend strategies so it can advance towards several goals at the same time. An engineering approach called control theory was used to infer people’s...
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11010-8 Defect passivation and optical management of triple-junction solar cells
 
-## 5. Daily briefing: The first archaeological evidence of death by trebuchet
+## 5. Too hot to sleep? How heatwaves at night affect our health
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02546-w
+- 日期：2026-08-17
+- DOI：10.1038/d41586-026-02532-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02546-w
+- 链接：https://www.nature.com/articles/d41586-026-02532-2
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02546-w More than 160 fractures are evidence of a fast, grisly cause of death. Plus, the health risks of the mummy trade and a controversial new type of surgery for Alzheimer’s disease.
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2 As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.
 
-## 6. Human brain stimulation engages different gene programs in different cell types
+## 6. How the story of life and our planet unfolded — together
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02473-w
+- 日期：2026-08-17
+- DOI：10.1038/d41586-026-02530-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02473-w
+- 链接：https://www.nature.com/articles/d41586-026-02530-4
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02473-w Electrical stimulation of the human brain is a promising strategy for slowing cognitive decline. The discovery of cell-type-specific gene programs that are induced in tandem with the...
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4 Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.
 
-## 7. Ultrafast temporal engineering of optical properties using terahertz light
+## 7. Universities must stop protecting bullies — or more people will leave science
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02478-5
+- 日期：2026-08-17
+- DOI：10.1038/d41586-026-02526-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02478-5
+- 链接：https://www.nature.com/articles/d41586-026-02526-0
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02478-5 A photonic time crystal is an optical system of which properties such as its refractive index are modulated strongly and rapidly over time. One has now been obtained all-optically by...
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0 Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.
 
-## 8. Intraspecific variation in tropical trees can drive resistance to drought
+## 8. First-of-its-kind narcolepsy drug opens door to new therapies for the brain
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02292-z
+- 日期：2026-08-17
+- DOI：10.1038/d41586-026-02552-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02292-z
+- 链接：https://www.nature.com/articles/d41586-026-02552-y
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02292-z Different tropical tree species can vary in their ability to withstand drought — and so too, it seems, can distinct populations of the same tree species.
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02552-y The drug, called Orzeyful, takes aim at the root cause of the sleep disorder rather than at its symptoms.
 
-## 9. A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know
+## 9. Why AI systems are most useful as designers of new scientific tools
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02448-x
+- 日期：2026-08-17
+- DOI：10.1038/d41586-026-02529-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02448-x
+- 链接：https://www.nature.com/articles/d41586-026-02529-x
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02448-x Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.
+摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-x History shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.
 
-## 10. System lag
+## 10. Daily briefing: Ancient rise in CO 2 hints at what could happen today
 
 - 期刊：Nature
-- 日期：2026-08-12
-- DOI：10.1038/d41586-026-02408-5
+- 日期：2026-08-14
+- DOI：10.1038/d41586-026-02581-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02408-5
+- 链接：https://www.nature.com/articles/d41586-026-02581-7
 
-摘要精简：Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02408-5 Out of place.
+摘要精简：Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02581-7 A sharp rise in carbon dioxide around 56 million years ago was catastrophic for forests. Plus, mRNA-based flu vaccines have been approved in the United States and Anthropic is to...
