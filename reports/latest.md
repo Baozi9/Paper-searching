@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-18 01:59
+生成时间：2026-08-19 02:03
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Positional isomerisation of pyridine via nitrogen transposition
+## 1. Heatwaves expose weak links in food systems
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/s41586-026-11006-4
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02577-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11006-4
+- 链接：https://www.nature.com/articles/d41586-026-02577-3
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4 Positional isomerisation of pyridine via nitrogen transposition
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02577-3 Heatwaves expose weak links in food systems
 
-## 2. Programmable remodelling of carbon–nitrogen connectivity in amines
+## 2. Scientific expedition makes the best of bad weather
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/s41586-026-11009-1
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02381-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11009-1
+- 链接：https://www.nature.com/articles/d41586-026-02381-z
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02381-z Researchers grapple with the causes of evolution, and a sea voyage is blighted by storms, in our weekly dip into Nature’s archive.
 
-## 3. Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer
+## 3. Treat biological databases as infrastructure, not projects
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/s41586-026-10995-6
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02575-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10995-6
+- 链接：https://www.nature.com/articles/d41586-026-02575-5
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6 Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02575-5 Treat biological databases as infrastructure, not projects
 
-## 4. Defect passivation and optical management of triple-junction solar cells
+## 4. Europe must adapt to live with megafires
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/s41586-026-11010-8
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02578-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11010-8
+- 链接：https://www.nature.com/articles/d41586-026-02578-2
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11010-8 Defect passivation and optical management of triple-junction solar cells
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2 Europe must adapt to live with megafires
 
-## 5. Too hot to sleep? How heatwaves at night affect our health
+## 5. Asia’s longevity gains must be translated into better health
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/d41586-026-02532-2
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02576-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02532-2
+- 链接：https://www.nature.com/articles/d41586-026-02576-4
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2 As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4 Asia’s longevity gains must be translated into better health
 
-## 6. How the story of life and our planet unfolded — together
+## 6. How to get the most out of an informational interview
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/d41586-026-02530-4
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-01932-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02530-4
+- 链接：https://www.nature.com/articles/d41586-026-01932-8
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4 Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-01932-8 These informal meetings can help you to explore new career opportunities, but there is a knack to getting them right.
 
-## 7. Universities must stop protecting bullies — or more people will leave science
+## 7. Will you be wearing an exoskeleton in ten years? The tech that could change how we move
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/d41586-026-02526-0
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02527-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02526-0
+- 链接：https://www.nature.com/articles/d41586-026-02527-z
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0 Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02527-z Robotic supports were once designed for clinical use, but researchers are now developing cheaper, smaller devices aimed at everyone — from people with ageing knees to 20-somethings...
 
-## 8. First-of-its-kind narcolepsy drug opens door to new therapies for the brain
+## 8. Mathematics holds the secret to ‘ladder-proof’ knitting
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/d41586-026-02552-y
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02466-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02552-y
+- 链接：https://www.nature.com/articles/d41586-026-02466-9
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02552-y The drug, called Orzeyful, takes aim at the root cause of the sleep disorder rather than at its symptoms.
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02466-9 A topological description of ‘knittability’ can be used to design yarn patterns that are resistant to unravelling.
 
-## 9. Why AI systems are most useful as designers of new scientific tools
+## 9. NIH proposes major revamp of how it scores research grant proposals
 
 - 期刊：Nature
-- 日期：2026-08-17
-- DOI：10.1038/d41586-026-02529-x
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02584-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02529-x
+- 链接：https://www.nature.com/articles/d41586-026-02584-4
 
-摘要精简：Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-x History shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02584-4 Proponents argue that the current system creates a false sense of precision, but critics fear that the change could increase political interference.
 
-## 10. Daily briefing: Ancient rise in CO 2 hints at what could happen today
+## 10. Five ways 3D printing is improving lab work
 
 - 期刊：Nature
-- 日期：2026-08-14
-- DOI：10.1038/d41586-026-02581-7
+- 日期：2026-08-18
+- DOI：10.1038/d41586-026-02535-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02581-7
+- 链接：https://www.nature.com/articles/d41586-026-02535-z
 
-摘要精简：Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02581-7 A sharp rise in carbon dioxide around 56 million years ago was catastrophic for forests. Plus, mRNA-based flu vaccines have been approved in the United States and Anthropic is to...
+摘要精简：Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02535-z As 3D printers become cheaper and easier to work with, researchers are finding new ways to incorporate the technology in their studies.
