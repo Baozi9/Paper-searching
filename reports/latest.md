@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-20 02:02
+生成时间：2026-08-21 02:08
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. These trees are making air quality in cities worse
+## 1. Dialkyl ether synthesis through heteroatom homolytic substitution
 
 - 期刊：Nature
 - 日期：2026-08-20
-- DOI：10.1038/d41586-026-02586-2
+- DOI：10.1038/s41586-026-11043-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02586-2
+- 链接：https://www.nature.com/articles/s41586-026-11043-z
 
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-z Dialkyl ether synthesis through heteroatom homolytic substitution
 
-## 2. Evidence for vacuum-enhanced superconductivity in NbSe 2
+## 2. Hidden volcanoes hint at Moon’s turbulent past
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02555-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02555-9
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9 A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.
+
+## 3. To shield the fetus, link a protein to these drugs
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02553-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02553-x
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.
+
+## 4. Astronaut vest cuts radiation exposure in half
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02556-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02556-8
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.
+
+## 5. Exclusive: NSF set to issue lowest number of new grants in four decades
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02574-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02574-6
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02574-6 The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.
+
+## 6. Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02612-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02612-3
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.
+
+## 7. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02549-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02549-7
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.
+
+## 8. Staggering 90% of biomedical papers now show signs of AI help
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02551-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02551-z
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed
+
+## 9. Researcher, heal thyself: meet the scientists studying their own diseases
+
+- 期刊：Nature
+- 日期：2026-08-20
+- DOI：10.1038/d41586-026-02455-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02455-y
+
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02455-y Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.
+
+## 10. A global atmospheric methane record from a tropical ice core
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-11037-x
+- DOI：10.1038/s41586-026-10938-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11037-x
+- 链接：https://www.nature.com/articles/s41586-026-10938-1
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-11037-x Evidence for vacuum-enhanced superconductivity in NbSe 2
-
-## 3. Too much mate choice overwhelms frogs
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02554-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02554-w
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-w Female treefrogs select less carefully when hearing a chorus of males.
-
-## 4. A black hole's spin could finally be measured by a high-speed star
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02607-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02607-0
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02607-0 Star orbiting close to Sagittarius A* could reveal its spin — plus, how exoskeletons might change the way humans move.
-
-## 5. Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10776-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10776-1
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1 Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies
-
-## 6. Artefacts in single-cell mtDNA analyses misinform phylogenies
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10777-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10777-0
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0 Artefacts in single-cell mtDNA analyses misinform phylogenies
-
-## 7. Functional role of skull lymphoid structures in CNS immunosurveillance
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10951-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10951-4
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4 Functional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease.
-
-## 8. Observation of conformal field theory spectra in a quantum simulator
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10904-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10904-x
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10904-x Measurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field...
-
-## 9. Wake-activated neuronal populations that regulate sleep drive
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10928-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10928-3
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10928-3 Whole-brain activity mapping, targeted cell manipulations and electrophysiology in mice identify wake-activated neuronal populations that are crucial for sleep drive and can...
-
-## 10. Increasing CO 2 levels fertilize C 4 grass production
-
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/s41586-026-10935-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10935-4
-
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10935-4 By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10938-1 A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model...
