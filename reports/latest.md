@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-21 02:08
+生成时间：2026-08-22 02:00
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Dialkyl ether synthesis through heteroatom homolytic substitution
+## 1. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
+
+- 期刊：Nature
+- 日期：2026-08-21
+- DOI：10.1038/d41586-026-02626-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02626-x
+
+摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.
+
+## 2. Earth-shaking thunder probes underground geology
+
+- 期刊：Nature
+- 日期：2026-08-21
+- DOI：10.1038/d41586-026-02596-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02596-0
+
+摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.
+
+## 3. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
+
+- 期刊：Nature
+- 日期：2026-08-21
+- DOI：10.1038/d41586-026-02566-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02566-6
+
+摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6 Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.
+
+## 4. Sleuth identifies dozens of studies that used the wrong antibody
+
+- 期刊：Nature
+- 日期：2026-08-21
+- DOI：10.1038/d41586-026-02352-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02352-4
+
+摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.
+
+## 5. Daily briefing: People older than 100 have more cancer-killing cells
 
 - 期刊：Nature
 - 日期：2026-08-20
-- DOI：10.1038/s41586-026-11043-z
+- DOI：10.1038/d41586-026-02617-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11043-z
+- 链接：https://www.nature.com/articles/d41586-026-02617-y
 
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-z Dialkyl ether synthesis through heteroatom homolytic substitution
+摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.
 
-## 2. Hidden volcanoes hint at Moon’s turbulent past
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02555-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02555-9
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9 A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.
-
-## 3. To shield the fetus, link a protein to these drugs
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02553-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02553-x
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.
-
-## 4. Astronaut vest cuts radiation exposure in half
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02556-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02556-8
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.
-
-## 5. Exclusive: NSF set to issue lowest number of new grants in four decades
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02574-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02574-6
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02574-6 The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.
-
-## 6. Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02612-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02612-3
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.
-
-## 7. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02549-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02549-7
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.
-
-## 8. Staggering 90% of biomedical papers now show signs of AI help
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02551-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02551-z
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed
-
-## 9. Researcher, heal thyself: meet the scientists studying their own diseases
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02455-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02455-y
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02455-y Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.
-
-## 10. A global atmospheric methane record from a tropical ice core
+## 6. Family genetic designs in MoBa provide insights into health and functioning
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10938-1
+- DOI：10.1038/s41586-026-10926-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10938-1
+- 链接：https://www.nature.com/articles/s41586-026-10926-5
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10938-1 A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10926-5 The Norwegian Mother, Father and Child Cohort Study demonstrates how family-based genomic data can disentangle direct genetic effects from confounding, improving studies of health and...
+
+## 7. Asymmetric prefrontal representations for leader–follower dynamics
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10900-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10900-1
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10900-1 Mice spontaneously form leader and follower roles during cooperation, and the medial prefrontal cortex encodes these role dynamics and an egocentric social value map of the partner’s...
+
+## 8. Atomic-scale double-slit interferometry with a focused electron probe
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10914-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10914-9
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10914-9 Double-slit interferometry at the atomic scale is demonstrated using scanning transmission electron microscopy to provide evidence of interference fringes generated with a focused...
+
+## 9. Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10933-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10933-6
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10933-6 A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model...
+
+## 10. Human brain organoids record the passage of time over multiple years
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10877-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10877-x
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10877-x Human brain organoids were developed for over five years in culture to demonstrate that brain cells can continue to mature and record the passage of time, following human-specific...
