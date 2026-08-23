@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-22 02:00
+生成时间：2026-08-23 02:10
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
-
-- 期刊：Nature
-- 日期：2026-08-21
-- DOI：10.1038/d41586-026-02626-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02626-x
-
-摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.
-
-## 2. Earth-shaking thunder probes underground geology
-
-- 期刊：Nature
-- 日期：2026-08-21
-- DOI：10.1038/d41586-026-02596-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02596-0
-
-摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.
-
-## 3. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
-
-- 期刊：Nature
-- 日期：2026-08-21
-- DOI：10.1038/d41586-026-02566-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02566-6
-
-摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6 Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.
-
-## 4. Sleuth identifies dozens of studies that used the wrong antibody
-
-- 期刊：Nature
-- 日期：2026-08-21
-- DOI：10.1038/d41586-026-02352-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02352-4
-
-摘要精简：Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.
-
-## 5. Daily briefing: People older than 100 have more cancer-killing cells
-
-- 期刊：Nature
-- 日期：2026-08-20
-- DOI：10.1038/d41586-026-02617-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02617-y
-
-摘要精简：Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.
-
-## 6. Family genetic designs in MoBa provide insights into health and functioning
+## 1. Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10926-5
+- DOI：10.1038/s41586-026-10912-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10926-5
+- 链接：https://www.nature.com/articles/s41586-026-10912-x
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10926-5 The Norwegian Mother, Father and Child Cohort Study demonstrates how family-based genomic data can disentangle direct genetic effects from confounding, improving studies of health and...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10912-x Recent Antarctic ice mass gain was linked to a recurrent atmospheric teleconnection, but this recurs about once per decade in observations and historical simulations so does not yet...
 
-## 7. Asymmetric prefrontal representations for leader–follower dynamics
+## 2. The HydroGym reinforcement learning platform for fluid dynamics
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10900-1
+- DOI：10.1038/s41586-026-10917-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10900-1
+- 链接：https://www.nature.com/articles/s41586-026-10917-6
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10900-1 Mice spontaneously form leader and follower roles during cooperation, and the medial prefrontal cortex encodes these role dynamics and an egocentric social value map of the partner’s...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10917-6 HydroGym offers over 60 standardized reinforcement-learning flow-control environments and demonstrates zero-shot transfer to a 3D wing, cutting local skin friction by 38% and...
 
-## 8. Atomic-scale double-slit interferometry with a focused electron probe
+## 3. An Icelandic pangenome reference
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10914-9
+- DOI：10.1038/s41586-026-10924-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10914-9
+- 链接：https://www.nature.com/articles/s41586-026-10924-7
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10914-9 Double-slit interferometry at the atomic scale is demonstrated using scanning transmission electron microscopy to provide evidence of interference fringes generated with a focused...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10924-7 Newly developed methods enable construction of Icelandic haplotypes and mapping of population-scale short reads to a pangenome by reducing reference bias and improving discovery in...
 
-## 9. Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit
+## 4. Psychedelics align brain activity with context
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10933-6
+- DOI：10.1038/s41586-026-10910-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10933-6
+- 链接：https://www.nature.com/articles/s41586-026-10910-z
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10933-6 A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10910-z The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a neural basis for the felt...
 
-## 10. Human brain organoids record the passage of time over multiple years
+## 5. Discovery of a star sensitive to the spin of Sagittarius A*
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10877-x
+- DOI：10.1038/s41586-026-10894-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10877-x
+- 链接：https://www.nature.com/articles/s41586-026-10894-w
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10877-x Human brain organoids were developed for over five years in culture to demonstrate that brain cells can continue to mature and record the passage of time, following human-specific...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10894-w The discovery of the fast-orbiting star S301 near Sagittarius A* offers a promising new probe of the central black hole spin of the Milky Way through relativistic orbit measurements.
+
+## 6. Safety and security of large language models in healthcare
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10687-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10687-1
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10687-1 The Review examines rapid LLM adoption in clinical care, outlining emerging security and safety risks across development stages, key protective layers, clinically relevant threats and...
+
+## 7. Pervasive phosphorylation by phage T7 kinase disarms bacterial defences
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10934-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10934-5
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10934-5 The T7 bacteriophage deactivates bacterial defence systems through T7K phosphorylation of nearly all host and phage proteins during infection.
+
+## 8. A biased allosteric modulator is a molecular glue for β 2 AR dimerization
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/s41586-026-10892-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10892-y
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10892-y AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β2-adrenergic receptor (β2AR), functions as a molecular glue to stabilize β2AR...
+
+## 9. Twenty-two easy ways to power up your lab meetings
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/d41586-026-02037-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02037-y
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02037-y Scientists share help and advice on how they got their research discussions flowing.
+
+## 10. Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences
+
+- 期刊：Nature
+- 日期：2026-08-19
+- DOI：10.1038/d41586-026-02537-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02537-x
+
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02537-x Viruses that infect bacteria must either evade or counter the defence systems of their host. The viral kinase enzyme T7K has been found to phosphorylate nearly all bacterial proteins,...
