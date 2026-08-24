@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-23 02:10
+生成时间：2026-08-24 02:08
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss
+## 1. South Africa’s scientists must register with official body or risk prison, according to draft law
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10912-x
+- DOI：10.1038/d41586-026-02516-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10912-x
+- 链接：https://www.nature.com/articles/d41586-026-02516-2
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10912-x Recent Antarctic ice mass gain was linked to a recurrent atmospheric teleconnection, but this recurs about once per decade in observations and historical simulations so does not yet...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02516-2 Many researchers are unaware of an upcoming law that will require them to register with a regulatory body, as is the case for engineers and health-care professionals.
 
-## 2. The HydroGym reinforcement learning platform for fluid dynamics
+## 2. How do people live beyond 110? Abundance of cancer-killing cells might be key
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10917-6
+- DOI：10.1038/d41586-026-02587-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10917-6
+- 链接：https://www.nature.com/articles/d41586-026-02587-1
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10917-6 HydroGym offers over 60 standardized reinforcement-learning flow-control environments and demonstrates zero-shot transfer to a 3D wing, cutting local skin friction by 38% and...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02587-1 Research on people 110 years and older reveals an immune system that continues to adapt.
 
-## 3. An Icelandic pangenome reference
+## 3. Psychedelics tune the brain to the environment
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10924-7
+- DOI：10.1038/d41586-026-02377-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10924-7
+- 链接：https://www.nature.com/articles/d41586-026-02377-9
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10924-7 Newly developed methods enable construction of Icelandic haplotypes and mapping of population-scale short reads to a pangenome by reducing reference bias and improving discovery in...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02377-9 Rather than just scrambling neural activity, the psychedelic substance psilocybin also reorganizes brain dynamics so as to align with a person’s context and experiences.
 
-## 4. Psychedelics align brain activity with context
+## 4. Screening babies’ genomes could save lives. Here’s how it would work
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10910-z
+- DOI：10.1038/d41586-026-02528-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10910-z
+- 链接：https://www.nature.com/articles/d41586-026-02528-y
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10910-z The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a neural basis for the felt...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.
 
-## 5. Discovery of a star sensitive to the spin of Sagittarius A*
+## 5. Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10894-w
+- DOI：10.1038/d41586-026-02610-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10894-w
+- 链接：https://www.nature.com/articles/d41586-026-02610-5
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10894-w The discovery of the fast-orbiting star S301 near Sagittarius A* offers a promising new probe of the central black hole spin of the Milky Way through relativistic orbit measurements.
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02610-5 His calculations explain the efficiency of batteries and solar cells.
 
-## 6. Safety and security of large language models in healthcare
+## 6. AI tool lets researchers ‘vibe code’ in the quantum realm
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10687-1
+- DOI：10.1038/d41586-026-02495-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10687-1
+- 链接：https://www.nature.com/articles/d41586-026-02495-4
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10687-1 The Review examines rapid LLM adoption in clinical care, outlining emerging security and safety risks across development stages, key protective layers, clinically relevant threats and...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02495-4 An autonomous AI agent can write and execute quantum computing code, but it sometimes needs a human touch.
 
-## 7. Pervasive phosphorylation by phage T7 kinase disarms bacterial defences
+## 7. Computational ‘gym’ trains AI models to control turbulence
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10934-5
+- DOI：10.1038/d41586-026-02375-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10934-5
+- 链接：https://www.nature.com/articles/d41586-026-02375-x
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10934-5 The T7 bacteriophage deactivates bacterial defence systems through T7K phosphorylation of nearly all host and phage proteins during infection.
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02375-x The HydroGym computational environment teaches agents strategies for fluid-flow control that can be applied to scenarios they have not encountered before.
 
-## 8. A biased allosteric modulator is a molecular glue for β 2 AR dimerization
+## 8. Delisted
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/s41586-026-10892-y
+- DOI：10.1038/d41586-026-02410-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10892-y
+- 链接：https://www.nature.com/articles/d41586-026-02410-x
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10892-y AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β2-adrenergic receptor (β2AR), functions as a molecular glue to stabilize β2AR...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02410-x Called to account.
 
-## 9. Twenty-two easy ways to power up your lab meetings
+## 9. Human organoids that mimic brain development grown for years in lab
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/d41586-026-02037-y
+- DOI：10.1038/d41586-026-02585-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02037-y
+- 链接：https://www.nature.com/articles/d41586-026-02585-3
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02037-y Scientists share help and advice on how they got their research discussions flowing.
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02585-3 Models of how the brain changes over time could help researchers to understand how diseases affect the organ later in life.
 
-## 10. Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences
+## 10. Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel
 
 - 期刊：Nature
 - 日期：2026-08-19
-- DOI：10.1038/d41586-026-02537-x
+- DOI：10.1038/d41586-026-02373-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02537-x
+- 链接：https://www.nature.com/articles/d41586-026-02373-z
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02537-x Viruses that infect bacteria must either evade or counter the defence systems of their host. The viral kinase enzyme T7K has been found to phosphorylate nearly all bacterial proteins,...
+摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02373-z Engineering of polymer crystals has vastly increased the activity of these materials as catalysts for producing hydrogen fuel from water, using only sunlight.
