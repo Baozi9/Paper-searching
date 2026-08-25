@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-24 02:08
+生成时间：2026-08-25 02:04
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. South Africa’s scientists must register with official body or risk prison, according to draft law
+## 1. The exoskeletons are coming (to a store near you)
 
 - 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02516-2
+- 日期：2026-08-24
+- DOI：10.1038/d41586-026-02641-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02516-2
+- 链接：https://www.nature.com/articles/d41586-026-02641-y
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02516-2 Many researchers are unaware of an upcoming law that will require them to register with a regulatory body, as is the case for engineers and health-care professionals.
+摘要精简：Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.
 
-## 2. How do people live beyond 110? Abundance of cancer-killing cells might be key
+## 2. Frontier-technology markets are too narrow — here’s how to widen them
 
 - 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02587-1
+- 日期：2026-08-24
+- DOI：10.1038/d41586-026-02572-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02587-1
+- 链接：https://www.nature.com/articles/d41586-026-02572-8
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02587-1 Research on people 110 years and older reveals an immune system that continues to adapt.
+摘要精简：Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.
 
-## 3. Psychedelics tune the brain to the environment
+## 3. Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons
 
 - 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02377-9
+- 日期：2026-08-24
+- DOI：10.1038/d41586-026-02620-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02377-9
+- 链接：https://www.nature.com/articles/d41586-026-02620-3
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02377-9 Rather than just scrambling neural activity, the psychedelic substance psilocybin also reorganizes brain dynamics so as to align with a person’s context and experiences.
+摘要精简：Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02620-3 Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.
 
-## 4. Screening babies’ genomes could save lives. Here’s how it would work
+## 4. Patient’s own mitochondria injected into eyes in attempt to restore vision
 
 - 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02528-y
+- 日期：2026-08-24
+- DOI：10.1038/d41586-026-02616-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02528-y
+- 链接：https://www.nature.com/articles/d41586-026-02616-z
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.
+摘要精简：Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.
 
-## 5. Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules
+## 5. Can AI ever be conscious? The question stems from a misconception
 
 - 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02610-5
+- 日期：2026-08-24
+- DOI：10.1038/d41586-026-02571-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02610-5
+- 链接：https://www.nature.com/articles/d41586-026-02571-9
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02610-5 His calculations explain the efficiency of batteries and solar cells.
+摘要精简：Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9 A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.
 
-## 6. AI tool lets researchers ‘vibe code’ in the quantum realm
+## 6. Benchmark pitfalls expose need for expert-guided spatial clustering
 
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02495-4
+- 期刊：Nature Methods
+- 日期：2026-08-24
+- DOI：10.1038/s41592-026-03193-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02495-4
+- 链接：https://www.nature.com/articles/s41592-026-03193-9
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02495-4 An autonomous AI agent can write and execute quantum computing code, but it sometimes needs a human touch.
+摘要精简：Nature Methods, Published online: 24 August 2026; doi:10.1038/s41592-026-03193-9 Benchmarking computational tools for cutting-edge technologies such as spatially resolved transcriptomics is challenging owing to the lack of reproducibility, of data and of...
 
-## 7. Computational ‘gym’ trains AI models to control turbulence
+## 7. Beyond benchmarking: an expert-guided consensus approach to spatially aware clustering
 
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02375-x
+- 期刊：Nature Methods
+- 日期：2026-08-24
+- DOI：10.1038/s41592-026-03194-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02375-x
+- 链接：https://www.nature.com/articles/s41592-026-03194-8
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02375-x The HydroGym computational environment teaches agents strategies for fluid-flow control that can be applied to scenarios they have not encountered before.
+摘要精简：Nature Methods, Published online: 24 August 2026; doi:10.1038/s41592-026-03194-8 Benchmarking spatially aware clustering is challenging. SACCELERATOR is an open-source, extensible framework that formalizes expert-guided spatial clustering analysis.
 
-## 8. Delisted
+## 8. Overcoming air–water interface-induced artifacts in cryo-EM with protein nanocrates
 
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02410-x
+- 期刊：Nature Methods
+- 日期：2026-08-24
+- DOI：10.1038/s41592-026-03184-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02410-x
+- 链接：https://www.nature.com/articles/s41592-026-03184-w
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02410-x Called to account.
+摘要精简：Nature Methods, Published online: 24 August 2026; doi:10.1038/s41592-026-03184-w MS2 bacteriophage-derived protein shells called ‘nanocrates’ help address the air–water interface-induced artifacts in cryo-EM structure determination by encapsulating target...
 
-## 9. Human organoids that mimic brain development grown for years in lab
+## 9. The physics of sculpting a living creature
 
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02585-3
+- 期刊：Nature Methods
+- 日期：2026-08-21
+- DOI：10.1038/s41592-026-03208-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02585-3
+- 链接：https://www.nature.com/articles/s41592-026-03208-5
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02585-3 Models of how the brain changes over time could help researchers to understand how diseases affect the organ later in life.
+摘要精简：Nature Methods, Published online: 21 August 2026; doi:10.1038/s41592-026-03208-5 Cell biologists have long known that mechanical forces, such as tension and compression, influence tissue differentiation. Now, advanced methods are letting them observe and...
 
-## 10. Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel
+## 10. Adaptive model-guided protein evolution with sparse data optimizes compact eukaryotic genome editors
 
-- 期刊：Nature
-- 日期：2026-08-19
-- DOI：10.1038/d41586-026-02373-z
+- 期刊：Nature Biotechnology
+- 日期：2026-08-24
+- DOI：10.1038/s41587-026-03272-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02373-z
+- 链接：https://www.nature.com/articles/s41587-026-03272-4
 
-摘要精简：Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02373-z Engineering of polymer crystals has vastly increased the activity of these materials as catalysts for producing hydrogen fuel from water, using only sunlight.
+摘要精简：Nature Biotechnology, Published online: 24 August 2026; doi:10.1038/s41587-026-03272-4 Computational protein evolution with sparse data generates efficient small RNA-guided nucleases.
