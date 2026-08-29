@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-28 12:04
+生成时间：2026-08-29 07:18
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Mysteries of the deep and AI friendship: Books in brief
+## 1. Briefing Chat: How Dolly Parton left her mark on science
 
 - 期刊：Nature
 - 日期：2026-08-28
-- DOI：10.1038/d41586-026-02725-9
+- DOI：10.1038/d41586-026-02732-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02725-9
+- 链接：https://www.nature.com/articles/d41586-026-02732-w
 
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.
+摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.
 
-## 2. What employers are looking for in the age of AI — and four ways to provide it
+## 2. The Moderna cancer vaccine offers hope — now we must speed up personalized therapies
 
 - 期刊：Nature
 - 日期：2026-08-28
-- DOI：10.1038/d41586-026-01913-x
+- DOI：10.1038/d41586-026-02680-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01913-x
+- 链接：https://www.nature.com/articles/d41586-026-02680-5
 
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.
+摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.
 
-## 3. A solution to the mystery of the missing neutrinos
+## 3. Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities
 
 - 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02628-9
+- 日期：2026-08-28
+- DOI：10.1038/d41586-026-02688-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02628-9
+- 链接：https://www.nature.com/articles/d41586-026-02688-x
 
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02628-9 Lecture preparations prompt a scientist to poke holes in the ‘gallium anomaly’.
+摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.
 
-## 4. Animal-microbe partnerships date back to the dawn of complex life
+## 4. Will Meta’s deal make social media safe for kids? Researchers are dubious
 
 - 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02629-8
+- 日期：2026-08-28
+- DOI：10.1038/d41586-026-02733-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02629-8
+- 链接：https://www.nature.com/articles/d41586-026-02733-9
 
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02629-8 Geochemical clues hint that worm-like creatures in the Ediacaran period benefited from symbiosis with bacteria.
+摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.
 
-## 5. ‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain
-
-- 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02713-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02713-z
-
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02713-z Humanoid robots broke records at sporting events such as sprints, but struggled at practical tasks such as hammering nails.
-
-## 6. Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?
-
-- 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02716-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02716-w
-
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02716-w Global warming is making high-altitude regions unstable, and could trigger more frequent landslides and floods.
-
-## 7. Women face bans on research underground — here’s how to modernize the system
-
-- 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02679-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02679-y
-
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02679-y In many countries, female engineers are barred from entering deep mines to carry out studies. Differentiating risks can increase access while protecting safety.
-
-## 8. The Roman telescope is about to take planet-hunting to the next level
-
-- 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02662-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02662-7
-
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds as have been detected so far.
-
-## 9. Why are El Niños getting stronger? 1000-year-coral record points to climate change
-
-- 期刊：Nature
-- 日期：2026-08-27
-- DOI：10.1038/d41586-026-02717-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02717-9
-
-摘要精简：Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9 A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.
-
-## 10. Synergistic degradation of fucoidans in the ocean
+## 5. A binding-to-release strategy for targeted anticancer drug delivery
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10980-z
+- DOI：10.1038/s41586-026-10971-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10980-z
+- 链接：https://www.nature.com/articles/s41586-026-10971-0
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10980-z Efficient degradation of fucoidans depends on complementary bacterial guilds that cooperatively break backbone and side-chain sugars, revealing a conserved, globally relevant mechanism...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10971-0 A binding-to-release drug conjugate strategy enables targeted payload release without cellular internalization, improving tumour specificity, efficacy and expanding therapeutic targets...
+
+## 6. Critical zone processes limit alkalinity export from natural basaltic systems
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/s41586-026-10936-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10936-3
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10936-3 Observations from natural volcanic watersheds demonstrate attenuation of alkalinity fluxes along the complete reactive pathways from soil to river that lead to reductions in exported...
+
+## 7. Aberrant excitatory neuronal ERBB4 promotes Alzheimer’s disease pathology
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/s41586-026-10964-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10964-z
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10964-z Neuroinflammation alone may be dispensable for early synapse loss in Alzheimer’s disease.
+
+## 8. Video reconstruction of variable VLBI observations with neural fields
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/s41586-026-10988-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10988-5
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10988-5 The kine neural reconstruction algorithm produces high-resolution, time-continuous very long baseline interferometry videos, enabling direct measurement of instantaneous plasma...
+
+## 9. Endocannabinoids facilitate reward engagement through retrograde gain control
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/s41586-026-10967-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10967-w
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10967-w A key role for retrograde neuromodulatory signalling in motivated behaviour is shown through dynamic endocannabinoid release within a thalamostriatal circuit that regulates behavioural...
+
+## 10. Primate-specific regulation of the human glycosphingolipid gatekeeper UGCG
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/s41586-026-10927-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10927-4
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10927-4 Cryogenic electron microscopy structures of full-length human UGCG, the gatekeeper that dictates the scale and composition of glycosphingolipid diversity, are reported, showing that it...
