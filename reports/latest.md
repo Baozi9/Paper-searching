@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-29 07:18
+生成时间：2026-08-30 05:42
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing Chat: How Dolly Parton left her mark on science
-
-- 期刊：Nature
-- 日期：2026-08-28
-- DOI：10.1038/d41586-026-02732-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02732-w
-
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.
-
-## 2. The Moderna cancer vaccine offers hope — now we must speed up personalized therapies
-
-- 期刊：Nature
-- 日期：2026-08-28
-- DOI：10.1038/d41586-026-02680-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02680-5
-
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.
-
-## 3. Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities
-
-- 期刊：Nature
-- 日期：2026-08-28
-- DOI：10.1038/d41586-026-02688-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02688-x
-
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.
-
-## 4. Will Meta’s deal make social media safe for kids? Researchers are dubious
-
-- 期刊：Nature
-- 日期：2026-08-28
-- DOI：10.1038/d41586-026-02733-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02733-9
-
-摘要精简：Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.
-
-## 5. A binding-to-release strategy for targeted anticancer drug delivery
+## 1. Granule cells reorient cortical trajectories to separate contexts
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10971-0
+- DOI：10.1038/s41586-026-10946-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10971-0
+- 链接：https://www.nature.com/articles/s41586-026-10946-1
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10971-0 A binding-to-release drug conjugate strategy enables targeted payload release without cellular internalization, improving tumour specificity, efficacy and expanding therapeutic targets...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10946-1 Simultaneous imaging of premotor cortex and cerebellar granule cells in mice learning two skills in parallel shows that trajectories generalize in cortex but coherently reorient apart...
 
-## 6. Critical zone processes limit alkalinity export from natural basaltic systems
+## 2. Long-read sequencing reveals pre-meiotic gene conversion in sperm
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10936-3
+- DOI：10.1038/s41586-026-10901-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10936-3
+- 链接：https://www.nature.com/articles/s41586-026-10901-0
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10936-3 Observations from natural volcanic watersheds demonstrate attenuation of alkalinity fluxes along the complete reactive pathways from soil to river that lead to reductions in exported...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10901-0 Single-molecule long-read sequencing of human sperm reveals variation in recombination across donors and that a substantial fraction of non-crossover gene conversions arises before...
 
-## 7. Aberrant excitatory neuronal ERBB4 promotes Alzheimer’s disease pathology
+## 3. Infrared absorption spectroscopy of a single polyatomic molecular ion
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10964-z
+- DOI：10.1038/s41586-026-10915-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10964-z
+- 链接：https://www.nature.com/articles/s41586-026-10915-8
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10964-z Neuroinflammation alone may be dispensable for early synapse loss in Alzheimer’s disease.
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10915-8 Non-destructive single-molecule absorption spectroscopy is achieved by detecting photon recoil from a trapped molecular ion, enabling single-photon-sensitive measurements of molecular...
 
-## 8. Video reconstruction of variable VLBI observations with neural fields
+## 4. Spontaneously charged water drops induce corrosion
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10988-5
+- DOI：10.1038/s41586-026-10941-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10988-5
+- 链接：https://www.nature.com/articles/s41586-026-10941-6
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10988-5 The kine neural reconstruction algorithm produces high-resolution, time-continuous very long baseline interferometry videos, enabling direct measurement of instantaneous plasma...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10941-6 Experiments have shown that spontaneously charged water drops can damage coatings on metal surfaces, leading to corrosion of the metal.
 
-## 9. Endocannabinoids facilitate reward engagement through retrograde gain control
+## 5. Plasma-jet movie is astronomy’s summer blockbuster
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10967-w
+- DOI：10.1038/d41586-026-02522-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10967-w
+- 链接：https://www.nature.com/articles/d41586-026-02522-4
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10967-w A key role for retrograde neuromodulatory signalling in motivated behaviour is shown through dynamic endocannabinoid release within a thalamostriatal circuit that regulates behavioural...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02522-4 Just 116 images exist of the active galaxy 3C 345 — but an AI-driven algorithm has created a highly detailed video of the plasma jets blasted from its centre.
 
-## 10. Primate-specific regulation of the human glycosphingolipid gatekeeper UGCG
+## 6. Can nuclear reactors hit the road?
 
 - 期刊：Nature
 - 日期：2026-08-26
-- DOI：10.1038/s41586-026-10927-4
+- DOI：10.1038/d41586-026-02510-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10927-4
+- 链接：https://www.nature.com/articles/d41586-026-02510-8
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10927-4 Cryogenic electron microscopy structures of full-length human UGCG, the gatekeeper that dictates the scale and composition of glycosphingolipid diversity, are reported, showing that it...
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02510-8 Fission facilities that fit in a truck could provide portable power where it’s needed — but some people question whether it’s worth the cost, safety compromises and the risk of sending...
+
+## 7. A practical recycling strategy for making thiophosphate molecules with enzymes
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/d41586-026-02482-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02482-9
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02482-9 An enzymatic platform for constructing the thiophosphate molecular motif without relying on large amounts of expensive reagents has been developed. The method lays the foundation for...
+
+## 8. Smaller reactors bring nuclear power closer to fulfilling its promise
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/d41586-026-02506-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02506-4
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02506-4 Shadowed by past disasters, nuclear engineers are developing different types of reactor, fuel, coolant and material that could help to make fission the zero-carbon energy technology of...
+
+## 9. Dolly Parton dies aged 80 — researchers celebrate her contributions to science
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/d41586-026-02676-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02676-1
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02676-1 The country singer was an advocate for vaccines, public health, literacy and marginalized communities.
+
+## 10. The 46 companies scrambling to commercialize fusion for energy
+
+- 期刊：Nature
+- 日期：2026-08-26
+- DOI：10.1038/d41586-026-02513-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02513-5
+
+摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02513-5 Whether the billions of dollars of investment will lead to an inexhaustible source of clean electrical power is not yet known.
