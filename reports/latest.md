@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-08-31 05:59
+生成时间：2026-09-01 05:31
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?
+## 1. Scale of snakebites estimated globally
 
 - 期刊：Nature
-- 日期：2026-08-30
-- DOI：10.1038/d41586-026-02684-1
+- 日期：2026-08-31
+- DOI：10.1038/d41586-026-02642-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02684-1
+- 链接：https://www.nature.com/articles/d41586-026-02642-x
 
-摘要精简：Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02684-1 Spread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.
+摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02642-x Using available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern.
 
-## 2. Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries
+## 2. What’s your lab’s archetype? The answer could inform how you use AI
 
 - 期刊：Nature
-- 日期：2026-08-30
-- DOI：10.1038/d41586-026-02727-7
+- 日期：2026-08-31
+- DOI：10.1038/d41586-026-02543-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02727-7
+- 链接：https://www.nature.com/articles/d41586-026-02543-z
 
-摘要精简：Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02727-7 The space observatory will have an expansive view of the Universe as well as sharp resolution.
+摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02543-z A white paper gives research groups four priority models, each of which uses artificial intelligence differently.
 
-## 3. This pulsating muscle graft mimics benefits of exercise
+## 3. Order from disorder: do we need a new law of physics?
 
 - 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02664-5
+- 日期：2026-08-31
+- DOI：10.1038/d41586-026-02685-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02664-5
+- 链接：https://www.nature.com/articles/d41586-026-02685-0
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02664-5 Mice with the surgical implant developed more muscle mass, strength and bone density.
+摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02685-0 A radical proposal that evolutionary pressures apply to atoms as much as animals should provoke scientific debate.
 
-## 4. Savannah grass growth in dry conditions is boosted by increased CO 2 levels
+## 4. The leap second is dead. Long live the leap hour?
 
 - 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02480-x
+- 日期：2026-08-31
+- DOI：10.1038/d41586-026-02669-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02480-x
+- 链接：https://www.nature.com/articles/d41586-026-02669-0
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02480-x Analysis of 70 experiments and 32 years of field observations shows that increasing the amount of carbon dioxide enhances the growth of the C4 group of grasses when water is limited....
+摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02669-0 Fear of a possible ‘negative’ leap second is accelerating plans to abolish the practice.
 
-## 5. Are pro-nuclear politics a threat to public safety?
+## 5. Why are rich people so pessimistic? What the numbers say
 
 - 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02509-1
+- 日期：2026-08-31
+- DOI：10.1038/d41586-026-02687-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02509-1
+- 链接：https://www.nature.com/articles/d41586-026-02687-y
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02509-1 Oversight agencies suddenly face pressure to rapidly assess a range of relatively untested reactor designs.
+摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.
 
-## 6. South Africa’s ‘registration law’ for scientists could be a template for the world — if the nation gets it right
+## 6. Polarized detection sharpens optical live-cell fluorescence imaging
 
-- 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02568-4
+- 期刊：Nature Methods
+- 日期：2026-08-31
+- DOI：10.1038/s41592-026-03195-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02568-4
+- 链接：https://www.nature.com/articles/s41592-026-03195-7
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02568-4 The plan to force some scientists to register with a professional body could protect people and the environment, but the current version lacks clarity.
+摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03195-7 A multichannel microscopy method that exploits the polarization of fluorescent molecules reconstructs super-resolved images from a single camera frame. The approach not only...
 
-## 7. Vaporization trick enables ‘tandem’ solar cells to be made at lower temperatures
+## 7. Confounders of lncRNA screens: sources, consequences and possible solutions
 
-- 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02469-6
+- 期刊：Nature Methods
+- 日期：2026-08-31
+- DOI：10.1038/s41592-026-03226-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02469-6
+- 链接：https://www.nature.com/articles/s41592-026-03226-3
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02469-6 A clever approach for evaporating a compound used to make perovskite semiconductors tackles a vexing challenge in scaling up next-generation solar cells.
+摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03226-3 Re-analysis of published long non-coding RNA (lncRNA) screens has revealed unexpectedly high false-positive rates in some reports, indicating that high-throughput genetic...
 
-## 8. The baffling science of SSRIs: how do they really work?
+## 8. SPIFFI enables single-shot super-resolution and multidimensional imaging
 
-- 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02570-w
+- 期刊：Nature Methods
+- 日期：2026-08-31
+- DOI：10.1038/s41592-026-03196-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02570-w
+- 链接：https://www.nature.com/articles/s41592-026-03196-6
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02570-w The world’s most popular antidepressant drugs are under fire. But are they really harder to quit than heroin?
+摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03196-6 Using a polarimetric approach, SPIFFI enables real-time super-resolution imaging of live-cell samples.
 
-## 9. A raft of start-up firms is betting on nuclear fusion
+## 9. Go figure: transparency in neuroscience images preserves context and clarifies interpretation
 
-- 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02511-7
+- 期刊：Nature Methods
+- 日期：2026-08-31
+- DOI：10.1038/s41592-026-03206-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02511-7
+- 链接：https://www.nature.com/articles/s41592-026-03206-7
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02511-7 The phenomenon that makes stars shine and hydrogen bombs explode has yet to be reliably tamed for energy generation. But that isn’t stopping companies from trying.
+摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03206-7 This Perspective highlights the need for transparent thresholding rather than only showing results beyond fixed P values, to avoid the loss of valuable information and to...
 
-## 10. Like coffee and ice cream: an interview with Sam and Eli Morten
+## 10. A FAIR road to a bioAFM databank
 
-- 期刊：Nature
-- 日期：2026-08-26
-- DOI：10.1038/d41586-026-02412-9
+- 期刊：Nature Methods
+- 日期：2026-08-28
+- DOI：10.1038/s41592-026-03214-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02412-9
+- 链接：https://www.nature.com/articles/s41592-026-03214-7
 
-摘要精简：Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02412-9 Joint operation.
+摘要精简：Nature Methods, Published online: 28 August 2026; doi:10.1038/s41592-026-03214-7 In this Comment, we direct attention to initial efforts to establish a high-quality databank of atomic force microscopy (AFM) data: bioAFM-DB. We outline the state of this...
