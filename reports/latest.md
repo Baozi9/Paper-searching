@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-01 05:31
+生成时间：2026-09-02 04:57
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Scale of snakebites estimated globally
+## 1. UN finally admits global warming will shoot past 1.5 ºC climate limit
 
 - 期刊：Nature
-- 日期：2026-08-31
-- DOI：10.1038/d41586-026-02642-x
+- 日期：2026-09-02
+- DOI：10.1038/d41586-026-02753-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02642-x
+- 链接：https://www.nature.com/articles/d41586-026-02753-5
 
-摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02642-x Using available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02753-5 Earth will breach a long-standing target before the end of the decade, report says.
 
-## 2. What’s your lab’s archetype? The answer could inform how you use AI
+## 2. Author Correction: Plasticity and language in the anaesthetized human hippocampus
 
 - 期刊：Nature
-- 日期：2026-08-31
-- DOI：10.1038/d41586-026-02543-z
+- 日期：2026-09-01
+- DOI：10.1038/s41586-026-11071-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02543-z
+- 链接：https://www.nature.com/articles/s41586-026-11071-9
 
-摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02543-z A white paper gives research groups four priority models, each of which uses artificial intelligence differently.
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/s41586-026-11071-9 Author Correction: Plasticity and language in the anaesthetized human hippocampus
 
-## 3. Order from disorder: do we need a new law of physics?
+## 3. Charmed by comets
 
 - 期刊：Nature
-- 日期：2026-08-31
-- DOI：10.1038/d41586-026-02685-0
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02383-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02685-0
+- 链接：https://www.nature.com/articles/d41586-026-02383-x
 
-摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02685-0 A radical proposal that evolutionary pressures apply to atoms as much as animals should provoke scientific debate.
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02383-x Astronomy that has long gripped people’s imagination, and a celebration of the health benefits of sunshine and the open air in this week’s pick from the Nature archive.
 
-## 4. The leap second is dead. Long live the leap hour?
+## 4. These greenhouse-gas sources have trotters and snouts
 
 - 期刊：Nature
-- 日期：2026-08-31
-- DOI：10.1038/d41586-026-02669-0
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02734-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02669-0
+- 链接：https://www.nature.com/articles/d41586-026-02734-8
 
-摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02669-0 Fear of a possible ‘negative’ leap second is accelerating plans to abolish the practice.
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02734-8 Emissions linked to global warming are higher at sites where feral pigs disturb the soil.
 
-## 5. Why are rich people so pessimistic? What the numbers say
+## 5. China’s regulatory innovation for new biomedical technologies
 
 - 期刊：Nature
-- 日期：2026-08-31
-- DOI：10.1038/d41586-026-02687-y
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02737-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02687-y
+- 链接：https://www.nature.com/articles/d41586-026-02737-5
 
-摘要精简：Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02737-5 China’s regulatory innovation for new biomedical technologies
 
-## 6. Polarized detection sharpens optical live-cell fluorescence imaging
+## 6. When AI does science, who is accountable for mistakes?
 
-- 期刊：Nature Methods
-- 日期：2026-08-31
-- DOI：10.1038/s41592-026-03195-7
+- 期刊：Nature
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02735-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03195-7
+- 链接：https://www.nature.com/articles/d41586-026-02735-7
 
-摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03195-7 A multichannel microscopy method that exploits the polarization of fluorescent molecules reconstructs super-resolved images from a single camera frame. The approach not only...
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When AI does science, who is accountable for mistakes?
 
-## 7. Confounders of lncRNA screens: sources, consequences and possible solutions
+## 7. The global plastics treaty must account for conflict-driven energy insecurity
 
-- 期刊：Nature Methods
-- 日期：2026-08-31
-- DOI：10.1038/s41592-026-03226-3
+- 期刊：Nature
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02738-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03226-3
+- 链接：https://www.nature.com/articles/d41586-026-02738-4
 
-摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03226-3 Re-analysis of published long non-coding RNA (lncRNA) screens has revealed unexpectedly high false-positive rates in some reports, indicating that high-throughput genetic...
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02738-4 The global plastics treaty must account for conflict-driven energy insecurity
 
-## 8. SPIFFI enables single-shot super-resolution and multidimensional imaging
+## 8. Europe should adapt, not copy, China’s practical PhD
 
-- 期刊：Nature Methods
-- 日期：2026-08-31
-- DOI：10.1038/s41592-026-03196-6
+- 期刊：Nature
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02736-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03196-6
+- 链接：https://www.nature.com/articles/d41586-026-02736-6
 
-摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03196-6 Using a polarimetric approach, SPIFFI enables real-time super-resolution imaging of live-cell samples.
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD
 
-## 9. Go figure: transparency in neuroscience images preserves context and clarifies interpretation
+## 9. Is this the first glimpse of dark matter? Data point excites physicists
 
-- 期刊：Nature Methods
-- 日期：2026-08-31
-- DOI：10.1038/s41592-026-03206-7
+- 期刊：Nature
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-01985-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03206-7
+- 链接：https://www.nature.com/articles/d41586-026-01985-9
 
-摘要精简：Nature Methods, Published online: 31 August 2026; doi:10.1038/s41592-026-03206-7 This Perspective highlights the need for transparent thresholding rather than only showing results beyond fixed P values, to avoid the loss of valuable information and to...
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-01985-9 An experiment spots an energy flash similar to that of the long-sought weakly interacting massive particle, or WIMP.
 
-## 10. A FAIR road to a bioAFM databank
+## 10. India has an ambitious plan to lure scientists back — will it work?
 
-- 期刊：Nature Methods
-- 日期：2026-08-28
-- DOI：10.1038/s41592-026-03214-7
+- 期刊：Nature
+- 日期：2026-09-01
+- DOI：10.1038/d41586-026-02636-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03214-7
+- 链接：https://www.nature.com/articles/d41586-026-02636-9
 
-摘要精简：Nature Methods, Published online: 28 August 2026; doi:10.1038/s41592-026-03214-7 In this Comment, we direct attention to initial efforts to establish a high-quality databank of atomic force microscopy (AFM) data: bioAFM-DB. We outline the state of this...
+摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9 Initiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say.
