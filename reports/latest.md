@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-02 04:57
+生成时间：2026-09-03 04:54
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. UN finally admits global warming will shoot past 1.5 ºC climate limit
+## 1. Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/d41586-026-02753-5
+- DOI：10.1038/s41586-026-11104-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02753-5
+- 链接：https://www.nature.com/articles/s41586-026-11104-3
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02753-5 Earth will breach a long-standing target before the end of the decade, report says.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11104-3 Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control
 
-## 2. Author Correction: Plasticity and language in the anaesthetized human hippocampus
+## 2. Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/s41586-026-11071-9
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-11080-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11071-9
+- 链接：https://www.nature.com/articles/s41586-026-11080-8
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/s41586-026-11071-9 Author Correction: Plasticity and language in the anaesthetized human hippocampus
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11080-8 Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia
 
-## 3. Charmed by comets
+## 3. Audio long read: Could mending damaged DNA prolong life?
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02383-x
+- 日期：2026-09-02
+- DOI：10.1038/d41586-026-02762-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02383-x
+- 链接：https://www.nature.com/articles/d41586-026-02762-4
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02383-x Astronomy that has long gripped people’s imagination, and a celebration of the health benefits of sunshine and the open air in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4 Researchers are hunting for ways to enhance DNA repair with the hopes that this will keep people healthier for longer.
 
-## 4. These greenhouse-gas sources have trotters and snouts
+## 4. Functional chimeric mRNAs encode proteins in mammalian immunity
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02734-8
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10982-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02734-8
+- 链接：https://www.nature.com/articles/s41586-026-10982-x
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02734-8 Emissions linked to global warming are higher at sites where feral pigs disturb the soil.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x Inflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically...
 
-## 5. China’s regulatory innovation for new biomedical technologies
+## 5. 3D epigenome of glial cell types in developing human cortex
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02737-5
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10987-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02737-5
+- 链接：https://www.nature.com/articles/s41586-026-10987-6
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02737-5 China’s regulatory innovation for new biomedical technologies
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10987-6 Integrative 3D epigenomic profiling of four glial cell types from the mid-gestation human cortex reveals cell-type-specific regulatory elements and chromatin interactions that...
 
-## 6. When AI does science, who is accountable for mistakes?
+## 6. Connectome analysis of a cerebellum-like circuit for sensory prediction
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02735-7
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10690-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02735-7
+- 链接：https://www.nature.com/articles/s41586-026-10690-6
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When AI does science, who is accountable for mistakes?
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10690-6 Connectomics, electrophysiology and modelling of electric fish neural circuits shows how distributed synaptic plasticity across multiple network layers cooperates to enable fast,...
 
-## 7. The global plastics treaty must account for conflict-driven energy insecurity
+## 7. Designing physics experiments with artificial intelligence
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02738-4
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10898-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02738-4
+- 链接：https://www.nature.com/articles/s41586-026-10898-6
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02738-4 The global plastics treaty must account for conflict-driven energy insecurity
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10898-6 Artificial intelligence in physics experimental design is explored on the basis of searching for optima over a vast space of hardware configurations and proposing entirely new...
 
-## 8. Europe should adapt, not copy, China’s practical PhD
+## 8. Creating bottom-up RNA transfer vehicles from synthetic protein assemblies
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02736-6
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10952-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02736-6
+- 链接：https://www.nature.com/articles/s41586-026-10952-3
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10952-3 Synthetic virus-like protein architectures designed by artificial intelligence show superior ability to deliver RNA into cells, compared with their naturally occurring counterparts,...
 
-## 9. Is this the first glimpse of dark matter? Data point excites physicists
+## 9. Late-life semaglutide treatment slows ageing and extends lifespan in female mice
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-01985-9
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10940-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-01985-9
+- 链接：https://www.nature.com/articles/s41586-026-10940-7
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-01985-9 An experiment spots an energy flash similar to that of the long-sought weakly interacting massive particle, or WIMP.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10940-7 Semaglutide treatment for 3 months in female mice improved physiological function, attenuated hallmarks of ageing and modulated nutrient sensors and conserved genetic regulators of...
 
-## 10. India has an ambitious plan to lure scientists back — will it work?
+## 10. Robust inference and correlates from genetic associations with personality
 
 - 期刊：Nature
-- 日期：2026-09-01
-- DOI：10.1038/d41586-026-02636-9
+- 日期：2026-09-02
+- DOI：10.1038/s41586-026-10992-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02636-9
+- 链接：https://www.nature.com/articles/s41586-026-10992-9
 
-摘要精简：Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9 Initiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10992-9 The genetic architecture of personality is robustly generalizable, minimally confounded and widely relevant to human experience.
