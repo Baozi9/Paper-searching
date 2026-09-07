@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-06 04:59
+生成时间：2026-09-07 05:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. The nutritional value of invertebrate aquatic foods
+## 1. Peruvian ice has preserved a global methane record
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/s41586-026-10908-7
+- DOI：10.1038/d41586-026-02695-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10908-7
+- 链接：https://www.nature.com/articles/d41586-026-02695-y
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10908-7 Aquatic invertebrates are exceptionally nutrient dense, supplying the equivalent annual vitamin B12 and selenium requirements for over 5 billion people.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02695-y The first record of global methane in the tropics, collected from the summit of the mountain Nevado Huascarán in Peru, fills a crucial gap in historical methane data sets. It...
 
-## 2. Intracellular complement factor H protects neurons during CNS inflammation
+## 2. Anxious or outgoing? Huge study links ‘Big Five’ personality traits to genetic variants
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/s41586-026-10981-y
+- DOI：10.1038/d41586-026-02761-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10981-y
+- 链接：https://www.nature.com/articles/d41586-026-02761-5
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10981-y CFH is a key mediator of neuronal resilience across the central nervous system in mice and humans.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02761-5 Researchers identify more than 1,200 personality-linked genetic variants, with effects largely independent of family background.
 
-## 3. Probing far-from-equilibrium dynamics of electrical double layers
+## 3. Can GLP-1 drugs slow ageing? Mouse study shows promise
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/s41586-026-10986-7
+- DOI：10.1038/d41586-026-02757-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10986-7
+- 链接：https://www.nature.com/articles/d41586-026-02757-1
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10986-7 A new framework combining experimental and computational methods to track ions and water present at an electrode interface allows the molecular structure and evolution of electrical...
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02757-1 Older female mice given an anti-obesity medication lived longer and in better health than did mice not taking one.
 
-## 4. Structure and operating principles of a monkeypox virus replisome
+## 4. The death of Jason Arday must prompt deep reflection
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/s41586-026-10937-2
+- DOI：10.1038/d41586-026-02677-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10937-2
+- 链接：https://www.nature.com/articles/d41586-026-02677-0
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10937-2 During replisome assembly of monkeypox virus, the hexameric helicase–primase E5 undergoes large-scale conformational changes that allow two of its primase domains to interact with...
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02677-0 Universities and media organizations need to scrutinize their roles in the events that led to this tragedy.
 
-## 5. Satellite images before Nepal disaster showed warning signs
+## 5. Landmark pancreatic cancer drug shows potential against lung cancer too
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/d41586-026-02746-4
+- DOI：10.1038/d41586-026-02745-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02746-4
+- 链接：https://www.nature.com/articles/d41586-026-02745-5
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02746-4 Images revealed the accelerated movement of a glacier–rock mass just days before it collapsed and triggered a deadly flash flood.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02745-5 Results bolster hopes that the drug daraxonrasib could prove effective against a variety of tumours.
 
-## 6. Blood cells replace the immune cells of the ageing human brain
+## 6. Antimatter ‘tag’ used to detect elusive particle decay
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/d41586-026-02694-z
+- DOI：10.1038/d41586-026-02123-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02694-z
+- 链接：https://www.nature.com/articles/d41586-026-02123-1
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02694-z At birth, the brain contains its own immune cells, called microglia, that are thought to persist throughout life without being replaced by cells from outside the brain. Studies that...
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02123-1 A long-underexplored test of particle-physics theory has been revived. This method uses quantum entanglement to infer the presence of undetectable particles.
 
-## 7. Weight-loss drug slows ageing in female mice
+## 7. NASA’s Roman telescope holds promise far beyond mapping the invisible Universe
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/d41586-026-02468-7
+- DOI：10.1038/d41586-026-02764-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02468-7
+- 链接：https://www.nature.com/articles/d41586-026-02764-2
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02468-7 In one inbred strain of laboratory mice, late-life treatment with a GLP-1 drug extends lifespan. This effect might be more than just a consequence of calorie restriction.
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02764-2 Discovery flourishes when instruments, ideas and people come together in unpredictable ways.
 
-## 8. Aquatic invertebrates contribute substantially to global nutrient supplies
+## 8. Self-driving cars make mistakes, and now users can see why
 
 - 期刊：Nature
 - 日期：2026-09-02
-- DOI：10.1038/d41586-026-02541-1
+- DOI：10.1038/d41586-026-02467-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02541-1
+- 链接：https://www.nature.com/articles/d41586-026-02467-8
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02541-1 An analysis of the nutritional content of aquatic invertebrate species suggests that their global production is a rich source of nutrients that are crucial for human health. The...
+摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02467-8 An autonomous-vehicle system that directly explains its decisions in a way that can be interpreted by humans could improve driving safety.
 
-## 9. City of slop
+## 9. A viral ORFeome
 
-- 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02414-7
+- 期刊：Nature Methods
+- 日期：2026-09-04
+- DOI：10.1038/s41592-026-03231-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02414-7
+- 链接：https://www.nature.com/articles/s41592-026-03231-6
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02414-7 Home is where you end up.
+摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03231-6 A viral ORFeome
 
-## 10. When do infections lead to long COVID? Scientists close in on triggers and treatments for post-viral syndromes
+## 10. Protein nanocages empower RNA profiling
 
-- 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02683-2
+- 期刊：Nature Methods
+- 日期：2026-09-04
+- DOI：10.1038/s41592-026-03232-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02683-2
+- 链接：https://www.nature.com/articles/s41592-026-03232-5
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02683-2 Hundreds of millions of people have long-term conditions as a result of an infection. Researchers are working out how to help them.
+摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03232-5 Protein nanocages empower RNA profiling
