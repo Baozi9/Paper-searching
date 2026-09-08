@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-07 05:07
+生成时间：2026-09-08 05:05
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Peruvian ice has preserved a global methane record
+## 1. Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02695-y
+- 日期：2026-09-07
+- DOI：10.1038/s41586-026-11103-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02695-y
+- 链接：https://www.nature.com/articles/s41586-026-11103-4
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02695-y The first record of global methane in the tropics, collected from the summit of the mountain Nevado Huascarán in Peru, fills a crucial gap in historical methane data sets. It...
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch
 
-## 2. Anxious or outgoing? Huge study links ‘Big Five’ personality traits to genetic variants
+## 2. Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02761-5
+- 日期：2026-09-07
+- DOI：10.1038/s41586-026-11094-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02761-5
+- 链接：https://www.nature.com/articles/s41586-026-11094-2
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02761-5 Researchers identify more than 1,200 personality-linked genetic variants, with effects largely independent of family background.
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11094-2 Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution
 
-## 3. Can GLP-1 drugs slow ageing? Mouse study shows promise
+## 3. Probing the proteome at cellular scale
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02757-1
+- 日期：2026-09-07
+- DOI：10.1038/d41586-026-02805-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02757-1
+- 链接：https://www.nature.com/articles/d41586-026-02805-w
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02757-1 Older female mice given an anti-obesity medication lived longer and in better health than did mice not taking one.
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02805-w Rapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease.
 
-## 4. The death of Jason Arday must prompt deep reflection
+## 4. The secret life of a cell-cycle gatekeeper of breast cancer
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02677-0
+- 日期：2026-09-07
+- DOI：10.1038/d41586-026-02470-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02677-0
+- 链接：https://www.nature.com/articles/d41586-026-02470-z
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02677-0 Universities and media organizations need to scrutinize their roles in the events that led to this tragedy.
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-z A newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer.
 
-## 5. Landmark pancreatic cancer drug shows potential against lung cancer too
+## 5. Isaac Newton’s remarkable year — and the plagiarism accusations that followed
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02745-5
+- 日期：2026-09-07
+- DOI：10.1038/d41586-026-02808-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02745-5
+- 链接：https://www.nature.com/articles/d41586-026-02808-7
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02745-5 Results bolster hopes that the drug daraxonrasib could prove effective against a variety of tumours.
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02808-7 A deep dive into Newton’s major work, Principia Mathematica, reveals his hate of hypotheses and a habit of courting controversy.
 
-## 6. Antimatter ‘tag’ used to detect elusive particle decay
+## 6. Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days
 
 - 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02123-1
+- 日期：2026-09-07
+- DOI：10.1038/d41586-026-02822-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02123-1
+- 链接：https://www.nature.com/articles/d41586-026-02822-9
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02123-1 A long-underexplored test of particle-physics theory has been revived. This method uses quantum entanglement to infer the presence of undetectable particles.
+摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9 Claude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.
 
-## 7. NASA’s Roman telescope holds promise far beyond mapping the invisible Universe
+## 7. Rapid robust high-fidelity 3D neuronal extraction from multiview calcium imaging datasets
 
-- 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02764-2
+- 期刊：Nature Methods
+- 日期：2026-09-07
+- DOI：10.1038/s41592-026-03215-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02764-2
+- 链接：https://www.nature.com/articles/s41592-026-03215-6
 
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02764-2 Discovery flourishes when instruments, ideas and people come together in unpredictable ways.
+摘要精简：Nature Methods, Published online: 07 September 2026; doi:10.1038/s41592-026-03215-6 DeepWonder3D is a pipeline for neuronal extraction from volumetric calcium imaging data acquired with a variety of one-photon or two-photon microscopy modalities.
 
-## 8. Self-driving cars make mistakes, and now users can see why
-
-- 期刊：Nature
-- 日期：2026-09-02
-- DOI：10.1038/d41586-026-02467-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02467-8
-
-摘要精简：Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02467-8 An autonomous-vehicle system that directly explains its decisions in a way that can be interpreted by humans could improve driving safety.
-
-## 9. A viral ORFeome
+## 8. Precise DNA base editing using ContactSeek
 
 - 期刊：Nature Methods
 - 日期：2026-09-04
-- DOI：10.1038/s41592-026-03231-6
+- DOI：10.1038/s41592-026-03230-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03231-6
+- 链接：https://www.nature.com/articles/s41592-026-03230-7
 
-摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03231-6 A viral ORFeome
+摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03230-7 Precise DNA base editing using ContactSeek
 
-## 10. Protein nanocages empower RNA profiling
+## 9. Designer binding for multiplexed molecular imaging
 
 - 期刊：Nature Methods
 - 日期：2026-09-04
-- DOI：10.1038/s41592-026-03232-5
+- DOI：10.1038/s41592-026-03233-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03232-5
+- 链接：https://www.nature.com/articles/s41592-026-03233-4
 
-摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03232-5 Protein nanocages empower RNA profiling
+摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03233-4 Designer binding for multiplexed molecular imaging
+
+## 10. Consequences of missing data
+
+- 期刊：Nature Methods
+- 日期：2026-09-04
+- DOI：10.1038/s41592-026-03203-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41592-026-03203-w
+
+摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03203-w Either I’ve been missing something or nothing has been going on. —Karen Elizabeth Gordon
