@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-08 05:05
+生成时间：2026-09-09 05:04
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch
+## 1. Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/s41586-026-11103-4
+- 日期：2026-09-08
+- DOI：10.1038/s41586-026-11081-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11103-4
+- 链接：https://www.nature.com/articles/s41586-026-11081-7
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7 Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia
 
-## 2. Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution
+## 2. Put patients at the centre of medical AI governance
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/s41586-026-11094-2
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02796-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11094-2
+- 链接：https://www.nature.com/articles/d41586-026-02796-8
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11094-2 Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8 Put patients at the centre of medical AI governance
 
-## 3. Probing the proteome at cellular scale
+## 3. Nepal disaster is a wake-up call to take compound climate risks seriously
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/d41586-026-02805-w
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02794-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02805-w
+- 链接：https://www.nature.com/articles/d41586-026-02794-w
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02805-w Rapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease.
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-w Nepal disaster is a wake-up call to take compound climate risks seriously
 
-## 4. The secret life of a cell-cycle gatekeeper of breast cancer
+## 4. Sideline vested interests to reform China’s research
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/d41586-026-02470-z
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02797-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02470-z
+- 链接：https://www.nature.com/articles/d41586-026-02797-7
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-z A newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer.
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research
 
-## 5. Isaac Newton’s remarkable year — and the plagiarism accusations that followed
+## 5. Limit bets on clinical-trial outcomes being placed on prediction markets
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/d41586-026-02808-7
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02795-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02808-7
+- 链接：https://www.nature.com/articles/d41586-026-02795-9
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02808-7 A deep dive into Newton’s major work, Principia Mathematica, reveals his hate of hypotheses and a habit of courting controversy.
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02795-9 Limit bets on clinical-trial outcomes being placed on prediction markets
 
-## 6. Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days
+## 6. The Kelvin scale’s creator William Thomson made many scientific advances
 
 - 期刊：Nature
-- 日期：2026-09-07
-- DOI：10.1038/d41586-026-02822-9
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02722-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02822-9
+- 链接：https://www.nature.com/articles/d41586-026-02722-y
 
-摘要精简：Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9 Claude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02722-y A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week’s pick from the Nature archive.
 
-## 7. Rapid robust high-fidelity 3D neuronal extraction from multiview calcium imaging datasets
+## 7. The World Bank is right to prioritize reproducibility
 
-- 期刊：Nature Methods
-- 日期：2026-09-07
-- DOI：10.1038/s41592-026-03215-6
+- 期刊：Nature
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02678-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03215-6
+- 链接：https://www.nature.com/articles/d41586-026-02678-z
 
-摘要精简：Nature Methods, Published online: 07 September 2026; doi:10.1038/s41592-026-03215-6 DeepWonder3D is a pipeline for neuronal extraction from volumetric calcium imaging data acquired with a variety of one-photon or two-photon microscopy modalities.
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02678-z The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same.
 
-## 8. Precise DNA base editing using ContactSeek
+## 8. China’s fast-track clinical trials are in the spotlight after child deaths
 
-- 期刊：Nature Methods
-- 日期：2026-09-04
-- DOI：10.1038/s41592-026-03230-7
+- 期刊：Nature
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02407-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03230-7
+- 链接：https://www.nature.com/articles/d41586-026-02407-6
 
-摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03230-7 Precise DNA base editing using ContactSeek
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.
 
-## 9. Designer binding for multiplexed molecular imaging
+## 9. Two children died from gene therapies in China: where the field goes next
 
-- 期刊：Nature Methods
-- 日期：2026-09-04
-- DOI：10.1038/s41592-026-03233-4
+- 期刊：Nature
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02497-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03233-4
+- 链接：https://www.nature.com/articles/d41586-026-02497-2
 
-摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03233-4 Designer binding for multiplexed molecular imaging
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02497-2 Strengthened laws should help to ensure future deaths are quickly disclosed to the public, but China’s reputation for such research is at risk.
 
-## 10. Consequences of missing data
+## 10. Why this neuroscientist is taking the plunge into science advocacy
 
-- 期刊：Nature Methods
-- 日期：2026-09-04
-- DOI：10.1038/s41592-026-03203-w
+- 期刊：Nature
+- 日期：2026-09-08
+- DOI：10.1038/d41586-026-02457-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03203-w
+- 链接：https://www.nature.com/articles/d41586-026-02457-w
 
-摘要精简：Nature Methods, Published online: 04 September 2026; doi:10.1038/s41592-026-03203-w Either I’ve been missing something or nothing has been going on. —Karen Elizabeth Gordon
+摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02457-w As funding cuts reshape the US research landscape, Stefano Cataldi is turning towards policy and advocacy work to defend science.
