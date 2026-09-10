@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-09 05:04
+生成时间：2026-09-10 05:06
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia
+## 1. Distant sensors announced a fearsome tsunami’s birth
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/s41586-026-11081-7
+- 日期：2026-09-10
+- DOI：10.1038/d41586-026-02809-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11081-7
+- 链接：https://www.nature.com/articles/d41586-026-02809-6
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7 Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia
+摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6 Seismic data pinpoint the collapse of an underwater volcano, and reveal how the eruption triggered a destructive tsunami.
 
-## 2. Put patients at the centre of medical AI governance
+## 2. Highly efficient base editing at PCSK9 and normal human embryo development
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02796-8
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-11118-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02796-8
+- 链接：https://www.nature.com/articles/s41586-026-11118-x
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8 Put patients at the centre of medical AI governance
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-x Highly efficient base editing at PCSK9 and normal human embryo development
 
-## 3. Nepal disaster is a wake-up call to take compound climate risks seriously
+## 3. Phone tutoring boosts math scores when schools are forced to close
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02794-w
+- 日期：2026-09-09
+- DOI：10.1038/d41586-026-02843-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02794-w
+- 链接：https://www.nature.com/articles/d41586-026-02843-4
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-w Nepal disaster is a wake-up call to take compound climate risks seriously
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4 Evidence suggests that regular calls can keep kids learning when schooling is disrupted — plus, why a familiar world map may be about to change.
 
-## 4. Sideline vested interests to reform China’s research
+## 4. How AI is changing PhD programmes: join our free webinar
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02797-7
+- 日期：2026-09-09
+- DOI：10.1038/d41586-026-02751-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02797-7
+- 链接：https://www.nature.com/articles/d41586-026-02751-7
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.
 
-## 5. Limit bets on clinical-trial outcomes being placed on prediction markets
+## 5. Bacteria recruited to treat cancer
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02795-9
+- 日期：2026-09-09
+- DOI：10.1038/d41586-026-02823-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02795-9
+- 链接：https://www.nature.com/articles/d41586-026-02823-8
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02795-9 Limit bets on clinical-trial outcomes being placed on prediction markets
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8 Anticancer drugs could be manufactured and delivered by modified microorganisms.
 
-## 6. The Kelvin scale’s creator William Thomson made many scientific advances
+## 6. Breaking timescales with generative sampling of conformational transitions
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02722-y
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-11025-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02722-y
+- 链接：https://www.nature.com/articles/s41586-026-11025-1
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02722-y A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11025-1 A generative committor-guided path-sampling framework reconstructs rare biomolecular transition pathways and reveals the underlying thermodynamics and kinetics without using...
 
-## 7. The World Bank is right to prioritize reproducibility
+## 7. Within-family effect of ancestry on complex traits in a Mexican population
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02678-z
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-11039-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02678-z
+- 链接：https://www.nature.com/articles/s41586-026-11039-9
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02678-z The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11039-9 This study uses a within-family design to identify significant ancestry differences in complex traits such as height and type 2 diabetes in a genetically diverse population from...
 
-## 8. China’s fast-track clinical trials are in the spotlight after child deaths
+## 8. Neocortical long-range inhibition promotes cortical synchrony and sleep
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02407-6
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-10876-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02407-6
+- 链接：https://www.nature.com/articles/s41586-026-10876-y
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10876-y In mice, a sparse population of sleep-active long-range inhibitory neurons in the neocortex promote widespread cortical synchronization and sleep, revealing a cortical mechanism...
 
-## 9. Two children died from gene therapies in China: where the field goes next
+## 9. An operational perturbation proteomics-based virtual cell model
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02497-2
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-11001-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02497-2
+- 链接：https://www.nature.com/articles/s41586-026-11001-9
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02497-2 Strengthened laws should help to ensure future deaths are quickly disclosed to the public, but China’s reputation for such research is at risk.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11001-9 Temporal protein-abundance measurements from systematically perturbed breast cancer cell lines were generated to develop ProteinTalks, a virtual cell model that functions as an...
 
-## 10. Why this neuroscientist is taking the plunge into science advocacy
+## 10. PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity
 
 - 期刊：Nature
-- 日期：2026-09-08
-- DOI：10.1038/d41586-026-02457-w
+- 日期：2026-09-09
+- DOI：10.1038/s41586-026-10954-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02457-w
+- 链接：https://www.nature.com/articles/s41586-026-10954-1
 
-摘要精简：Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02457-w As funding cuts reshape the US research landscape, Stefano Cataldi is turning towards policy and advocacy work to defend science.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10954-1 A specific population of macrophages that express high levels of the enzyme PLA2G2D in tumour-draining lymph nodes is associated with poor prognosis in patients, and inhibiting...
