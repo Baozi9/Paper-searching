@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-11 05:04
+生成时间：2026-09-12 04:54
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: The molecular basis of force selectivity by PIEZO2
+## 1. Briefing Chat: The Bunsen burner myth that turns out to be just hot air
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02893-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02893-8
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.
+
+## 2. NSF moves to overhaul funding approach in line with White House priorities
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02892-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02892-9
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.
+
+## 3. People trust scientists seen to be 'on their side', UK study find
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02883-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02883-w
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report
+
+## 4. El Niño goes viral — and scientists learn what makes people care about the climate
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02763-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02763-3
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.
+
+## 5. Successful early-career scientists rely on network of mentors
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02827-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02827-4
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups.
+
+## 6. Osteoporosis affects millions: could modified cells rebuild their bones?
+
+- 期刊：Nature
+- 日期：2026-09-11
+- DOI：10.1038/d41586-026-02828-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02828-3
+
+摘要精简：Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.
+
+## 7. Rivers deliver unexpectedly high loads of microplastics to the sea
 
 - 期刊：Nature
 - 日期：2026-09-10
-- DOI：10.1038/s41586-026-11079-1
+- DOI：10.1038/d41586-026-02866-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11079-1
+- 链接：https://www.nature.com/articles/d41586-026-02866-x
 
-摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/s41586-026-11079-1 Author Correction: The molecular basis of force selectivity by PIEZO2
+摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02866-x Intense rains coupled with poor waste management cause big spikes in pollution.
 
-## 2. The neurons that can put a brake on a nervous-system cancer
+## 8. Daily briefing: Text-message tutoring keeps kids learning when schools close
 
 - 期刊：Nature
 - 日期：2026-09-10
-- DOI：10.1038/d41586-026-02834-5
+- DOI：10.1038/d41586-026-02888-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02834-5
+- 链接：https://www.nature.com/articles/d41586-026-02888-5
 
-摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02834-5 Drugs that imitate the effect of GABAergic neurons slow the growth of tumours called gliomas in mice.
+摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02888-5 Twenty-minute phone calls from tutors improved children’s maths learning during emergency school closures. Plus, Denisovans made excellent deer hunters and Beatles puns are here,...
 
-## 3. AI researchers reckon with the $1.5 million ‘academia tax’
-
-- 期刊：Nature
-- 日期：2026-09-10
-- DOI：10.1038/d41586-026-02026-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02026-1
-
-摘要精简：Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02026-1 Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both...
-
-## 4. Ruins of ancient Asian city show engineering prowess and organization
+## 9. Predicting genome-wide functional constraints with GPN-Star
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/d41586-026-02821-w
+- DOI：10.1038/s41586-026-11005-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02821-w
+- 链接：https://www.nature.com/articles/s41586-026-11005-5
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02821-w The 5,000-year-old city of Liangzhu has mounds, dams and city walls built in a challenging waterlogged site.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11005-5 GPN-Star, a genomic language model with a phylogeny-aware architecture for whole-genome alignment data, is shown to be a scalable and flexible tool for genetic variant effect...
 
-## 5. Foaming photopolymers as a high-resolution biomimetic printing platform
+## 10. Imaging cellular activity across all organs reveals body-wide circuits
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-10968-9
+- DOI：10.1038/s41586-026-10979-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10968-9
+- 链接：https://www.nature.com/articles/s41586-026-10979-6
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10968-9 Deep-foam photolithography uses light-controlled polymer foaming to create high-resolution, multifunctional microstructures with tunable optical, wetting and fluid-handling...
-
-## 6. Advancing conflict research and response through satellite-derived data
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/s41586-026-11004-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11004-6
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11004-6 Integrating satellite-derived war-damage data with text-based fatality records through improvement, enrichment and fusion mitigates limitations inherent in each source, revealing...
-
-## 7. Denisovans from southwestern China and their subsistence strategies
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/s41586-026-10997-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10997-4
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10997-4 Evidence from Bianfu Cave shows specialized hunting, expedient stone-tool production and extensive bone use of Denisovans, providing new insights into their ecology, behaviour and...
-
-## 8. A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/s41586-026-11002-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11002-8
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11002-8 SERPINE1 and SERPINB2-driven fibrin-rich niches locally programme immunosuppressive macrophages and exclude T cells, enabling spatially organized immune evasion in pancreatic ductal...
-
-## 9. Mobile education builds resilience during shocks in five countries
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/s41586-026-10990-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10990-x
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10990-x Remote phone-based targeted tutoring in five countries produced large, cost-effective learning gains during school closures, outperforming text messaging and working effectively...
-
-## 10. Ancient proteins identify various Denisovan remains from Southwest China
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/s41586-026-10976-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10976-9
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10976-9 Identification and proteomic analysis of bone fragments and teeth from an excavation in Southwest China provide insight into the evolution and phenotype of Denisovans and fill a...
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10979-6 An imaging system developed to record cellular activity throughout the whole body of zebrafish captures cellular organ dynamics and identifies multiple distributed circuits.
