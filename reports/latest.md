@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-13 05:16
+生成时间：2026-09-14 05:21
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. TRI-611, a selective, brain-penetrant molecular glue degrader of ALK
+## 1. The super El Niño is already wreaking havoc: here’s what’s in store
+
+- 期刊：Nature
+- 日期：2026-09-13
+- DOI：10.1038/d41586-026-02826-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02826-5
+
+摘要精简：Nature, Published online: 13 September 2026; doi:10.1038/d41586-026-02826-5 The extreme weather of this year’s mega El Niño could look different from past events.
+
+## 2. Popular open-science platform to stop hosting data and code amid funding concerns
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-10998-3
+- DOI：10.1038/d41586-026-02598-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10998-3
+- 链接：https://www.nature.com/articles/d41586-026-02598-y
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10998-3 TRI-611 induces the degradation of ALK fusion proteins via a previously undescribed CRBN recruitment motif, and its preclinical anti-tumour activity highlights TRI-611 as a...
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02598-y Changes to the Open Science Framework’s policies will come into effect in November, forcing researchers to reconsider their workflows.
 
-## 2. Anodic Pd membrane H 2 extraction enhances thermochemical dehydrogenation
+## 3. Special delivery: bacterial couriers are smuggling drugs into cancers
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-11008-2
+- DOI：10.1038/d41586-026-02657-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11008-2
+- 链接：https://www.nature.com/articles/d41586-026-02657-4
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11008-2 An electrochemical cell with molten hydroxide and a Pd membrane actively extracts H2 and thereby boosts ammonia and methylcyclohexane conversion, while also delivering purified H2...
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02657-4 Microorganisms that deliver treatments to tumours could make chemotherapy, radiotherapy and immunotherapy safer and more effective.
 
-## 3. Integrated signatures define mutational processes in prostate cancer
+## 4. Daily briefing: OpenAI claims a huge maths breakthrough
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-10468-w
+- DOI：10.1038/d41586-026-02867-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10468-w
+- 链接：https://www.nature.com/articles/d41586-026-02867-w
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10468-w Eight integrated mutational footprints collectively explain the mutational processes in 85% of primary prostate cancer genomes.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02867-w The AI giant claims to have solved one of maths’ trickiest problems, but questions swirl over should get the credit. Plus, an atlas of every single DNA letter mutation in humans and...
 
-## 4. TM184C is a GPCR-like regulator of intercellular exchange and autophagy
+## 5. Uniform film formation helps tandem solar cells work better for longer
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-10993-8
+- DOI：10.1038/d41586-026-02709-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10993-8
+- 链接：https://www.nature.com/articles/d41586-026-02709-9
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-10993-8 TM184C—an ancient G-protein-coupled receptor-like superdark protein involved in regulation of autophagy, intercellular connectivity and material exchange—underscores the promise of...
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02709-9 When making mixed-halide perovskite films for use in solar cells, bromide-rich domains crystallize faster than iodide-rich ones do, leading to defects. Adding a molecule tuned to...
 
-## 5. Proximity-guided graph learning reveals tumour-associated proximity antigens
+## 6. Use AI as a sparring partner, not an oracle
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/s41586-026-11003-7
+- DOI：10.1038/d41586-026-02846-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11003-7
+- 链接：https://www.nature.com/articles/d41586-026-02846-1
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11003-7 A proximity-mapping atlas defines tumour-associated proximity antigens, revealing disease-associated membrane spatial communities, and identifies EGFR–CDCP1 as a co-target pair that...
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02846-1 As artificial-intelligence tools become crucial collaborators in science, universities must teach students to challenge such systems and assess their ability to do so.
 
-## 6. In the basement of miniaturized relics
+## 7. Who were the Denisovans? Rich trove of fossils and tools paints new picture
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/d41586-026-02416-5
+- DOI：10.1038/d41586-026-02810-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02416-5
+- 链接：https://www.nature.com/articles/d41586-026-02810-z
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02416-5 Thinking small.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02810-z Objects found in a cave in southwestern China suggest that these enigmatic ancient humans were accomplished hunters.
 
-## 7. AI model predicts which breast-cancer drugs work best
+## 8. Combined satellite and news data capture unseen aspects of war
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/d41586-026-02845-2
+- DOI：10.1038/d41586-026-02523-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02845-2
+- 链接：https://www.nature.com/articles/d41586-026-02523-3
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02845-2 Model trained on millions of protein measurements can gauge drug effectiveness in tissue samples taken from people with triple-negative breast cancer.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02523-3 Records of war extracted from news reports have shaped what researchers know about violence. Satellite images could transform that understanding — if access stays open.
 
-## 8. Why the super-fun Ig Nobel prizes bring serious value to science
+## 9. Drug-delivering particles aim to breach the blood–brain barrier
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/d41586-026-02793-x
+- DOI：10.1038/d41586-026-02655-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02793-x
+- 链接：https://www.nature.com/articles/d41586-026-02655-6
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02793-x Awards that celebrate humour, curiosity and irreverence are a balm in hard times.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02655-6 The inability to get drugs into the brain has impeded the treatment of cancer and neurodegenerative diseases for decades. Techniques based on nanoparticles and exosomes are vying to...
 
-## 9. These six advances could change how drugs are delivered
+## 10. Phone-based tutoring improves learning during school closures
 
 - 期刊：Nature
 - 日期：2026-09-09
-- DOI：10.1038/d41586-026-02654-7
+- DOI：10.1038/d41586-026-02471-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02654-7
+- 链接：https://www.nature.com/articles/d41586-026-02471-y
 
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02654-7 Medication triggered by your circadian clock, self-assembling delivery systems based on DNA and other highlights from studies and trials.
-
-## 10. DNA-editing ‘pencils’ probe early human development
-
-- 期刊：Nature
-- 日期：2026-09-09
-- DOI：10.1038/d41586-026-02840-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02840-7
-
-摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02840-7 A genome-rewriting approach known as adenine base editing offers a precise way to investigate gene function in early human embryos.
+摘要精简：Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02471-y One-to-one phone sessions substantially increased students’ numeracy test scores in low- and middle-income countries that experience emergencies that disrupt schooling.
