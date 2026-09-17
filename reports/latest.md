@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-16 05:07
+生成时间：2026-09-17 05:12
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Quality control of glycogen through direct ubiquitylation by RNF213
+## 1. Inflection points and transitions in Alzheimer’s disease
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/s41586-026-11139-6
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11110-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11139-6
+- 链接：https://www.nature.com/articles/s41586-026-11110-5
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5 Inflection points and transitions in Alzheimer’s disease
 
-## 2. Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance
+## 2. Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/s41586-026-11137-8
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11123-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11137-8
+- 链接：https://www.nature.com/articles/s41586-026-11123-0
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0 Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors
 
-## 3. A wake-up call: diversify global research funding
+## 3. Why most stars don’t have outbursts like our Sun’s
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02904-8
+- 日期：2026-09-16
+- DOI：10.1038/d41586-026-02833-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02904-8
+- 链接：https://www.nature.com/articles/d41586-026-02833-6
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02904-8 A wake-up call: diversify global research funding
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6 A strong magnetic field can disrupt a star’s ability to produce the fountains of matter called coronal mass ejections.
 
-## 4. Why Nepal floods resulted in a disaster even after satellites spotted danger
+## 4. Transplanted human brain-tissue takes root in mice without a cortex
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02907-5
+- 日期：2026-09-16
+- DOI：10.1038/d41586-026-02927-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02907-5
+- 链接：https://www.nature.com/articles/d41586-026-02927-1
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02907-5 Why Nepal floods resulted in a disaster even after satellites spotted danger
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1 Extensive cellular integration might provide platform for in vivo testing of new therapies — plus, the AI tool that turns papers into ‘virtual corresponding authors’.
 
-## 5. The geometric genius of René Descartes
+## 5. Development of a random background to understand ligand optimization
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02723-x
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11013-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02723-x
+- 链接：https://www.nature.com/articles/s41586-026-11013-5
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02723-x The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11013-5 An approach to improve efficiency and establish a background expectation for ligand potency optimization is described.
 
-## 6. Make AI traceable before it shapes global climate assessments
+## 6. Developmental xenocortication using human-derived organoids in mice
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02905-7
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11032-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02905-7
+- 链接：https://www.nature.com/articles/s41586-026-11032-2
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7 Make AI traceable before it shapes global climate assessments
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11032-2 Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.
 
-## 7. Why the NIH must resist the metrics trap
+## 7. Mitochondrial fission factor senses and governs ferroptosis
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02906-6
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11020-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02906-6
+- 链接：https://www.nature.com/articles/s41586-026-11020-6
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6 Why the NIH must resist the metrics trap
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11020-6 The mitochondrial–peroxisomal fission adaptor MFF is identified as a selective pro-ferroptotic mediator, and the newly developed MFF–SPARK sensor enables high-content screening of...
 
-## 8. Global inequality panel is a chance for research to change lives
+## 8. Reimagining research papers as interactive and reliable AI agents
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02885-8
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11044-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02885-8
+- 链接：https://www.nature.com/articles/s41586-026-11044-y
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02885-8 The scientific panel is welcomed. It must now invite all interested researchers to participate.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11044-y Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems...
 
-## 9. CRISPR crops are coming to Europe — why bolder would be better
+## 9. Electroluminescent photoresists extending lithographic scaling to OLEDs
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02848-z
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11042-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02848-z
+- 链接：https://www.nature.com/articles/s41586-026-11042-0
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02848-z For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11042-0 Electroluminescent photoresists synthesized via atom transfer radical polymerization can be directly patterned by ultraviolet and electron-beam lithography, and used to fabricate...
 
-## 10. Underground hydrogen could spur a green-energy revolution — if companies can find it
+## 10. Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus
 
 - 期刊：Nature
-- 日期：2026-09-15
-- DOI：10.1038/d41586-026-02850-5
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11011-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02850-5
+- 链接：https://www.nature.com/articles/s41586-026-11011-7
 
-摘要精简：Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02850-5 Firms are racing to drill for hydrogen in hopes of finding a dirt-cheap green-energy source.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11011-7 Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly...
