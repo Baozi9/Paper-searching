@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-18 05:04
+生成时间：2026-09-19 04:55
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Cognitive resilience helps to predict Alzheimer’s dementia
+## 1. Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb
 
 - 期刊：Nature
 - 日期：2026-09-18
-- DOI：10.1038/d41586-026-02897-4
+- DOI：10.1038/d41586-026-02984-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02897-4
+- 链接：https://www.nature.com/articles/d41586-026-02984-6
 
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.
 
-## 2. Chinese companies doubled down on science after US tech restrictions
+## 2. Europe pushes for space independence amid geopolitical rifts
 
 - 期刊：Nature
 - 日期：2026-09-18
-- DOI：10.1038/d41586-026-02946-y
+- DOI：10.1038/d41586-026-02919-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02946-y
+- 链接：https://www.nature.com/articles/d41586-026-02919-1
 
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-y Affected Chinese companies adjusted their sources of knowledge to stay competitive.
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.
 
-## 3. Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer
+## 3. How research funding took me out of the lab and into leadership
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/s41586-026-11134-x
+- 日期：2026-09-18
+- DOI：10.1038/d41586-026-02184-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11134-x
+- 链接：https://www.nature.com/articles/d41586-026-02184-2
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-x Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.
 
-## 4. Mercury is shrinking with age — faster than thought
+## 4. First for RNA therapy: man with rare motor-neuron disease improves after treatment
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02898-3
+- 日期：2026-09-18
+- DOI：10.1038/d41586-026-02945-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02898-3
+- 链接：https://www.nature.com/articles/d41586-026-02945-z
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02898-3 Impacts by space objects have obscured some of the evidence of the planet’s contraction over the past 4.5 billion years.
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).
 
-## 5. Schoolhouse meals serve up an income bump
+## 5. How to make a brain: new experiments challenge existing picture
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02896-5
+- 日期：2026-09-18
+- DOI：10.1038/d41586-026-02943-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02896-5
+- 链接：https://www.nature.com/articles/d41586-026-02943-1
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5 Modelling shows a link between feeding programmes and higher potential earning in five African nations.
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.
 
-## 6. How fast are you ageing? Ask AI
+## 6. AI cracked the Navier–Stokes challenge. What does that mean for physics?
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02913-7
+- 日期：2026-09-18
+- DOI：10.1038/d41586-026-02922-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02913-7
+- 链接：https://www.nature.com/articles/d41586-026-02922-6
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7 A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.
+摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.
 
-## 7. Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb
+## 7. Mutational constraints on RSV F and its neutralization by antibodies
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02621-2
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11030-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02621-2
+- 链接：https://www.nature.com/articles/s41586-026-11030-4
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11030-4 How respiratory syncytial virus mutations affect antibody neutralization is defined, and a biophysical model of the mechanism is provided, to show how Fab potency and epitope...
 
-## 8. Take a risk or play it safe? Neuronal tug-of-war helps the brain decide
+## 8. Evolution and heterogeneity of lethal metastatic bladder cancer subtypes
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02911-9
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11035-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02911-9
+- 链接：https://www.nature.com/articles/s41586-026-11035-z
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11035-z A rapid autopsy programme provides valuable resources to enable detailed molecular and genetic analyses of the temporal evolution of aggressive histological subtypes and therapy...
 
-## 9. How a team of AIs discovered a promising lung-cancer drug
+## 9. Topographic structure and function of locus coeruleus noradrenaline neurons
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02954-y
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11026-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02954-y
+- 链接：https://www.nature.com/articles/s41586-026-11026-0
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02954-y Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11026-0 Dorsal and ventral noradrenergic neurons in the locus coeruleus form topographic subpopulations whose projection patterns and activity encode choice switching, reward-prediction...
 
-## 10. Who gets credit in the AI era? OpenAI maths bombshell sparks debate
+## 10. Overmassive black holes and little red dots naturally form in simulations
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02910-w
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-10985-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02910-w
+- 链接：https://www.nature.com/articles/s41586-026-10985-8
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10985-8 Observations from the JWST reveal an unexpectedly abundant population of little red dots and overmassive black holes in the early Universe, which are confirmed by their formation in...
