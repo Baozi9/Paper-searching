@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-19 04:55
+生成时间：2026-09-20 05:17
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02984-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02984-6
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.
-
-## 2. Europe pushes for space independence amid geopolitical rifts
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02919-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02919-1
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.
-
-## 3. How research funding took me out of the lab and into leadership
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02184-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02184-2
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.
-
-## 4. First for RNA therapy: man with rare motor-neuron disease improves after treatment
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02945-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02945-z
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).
-
-## 5. How to make a brain: new experiments challenge existing picture
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02943-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02943-1
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.
-
-## 6. AI cracked the Navier–Stokes challenge. What does that mean for physics?
-
-- 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02922-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02922-6
-
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.
-
-## 7. Mutational constraints on RSV F and its neutralization by antibodies
+## 1. A retinoic acid autoregulatory loop governing prefrontal–motor arealization
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11030-4
+- DOI：10.1038/s41586-026-11014-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11030-4
+- 链接：https://www.nature.com/articles/s41586-026-11014-4
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11030-4 How respiratory syncytial virus mutations affect antibody neutralization is defined, and a biophysical model of the mechanism is provided, to show how Fab potency and epitope...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11014-4 MEIS2, encoding a transcription factor linked to intellectual disability and autism spectrum disorder, is a key hub of a retinoic-acid-associated gene regulatory network.
 
-## 8. Evolution and heterogeneity of lethal metastatic bladder cancer subtypes
+## 2. Road transport of trapped antiprotons
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11035-z
+- DOI：10.1038/s41586-026-11019-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11035-z
+- 链接：https://www.nature.com/articles/s41586-026-11019-z
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11035-z A rapid autopsy programme provides valuable resources to enable detailed molecular and genetic analyses of the temporal evolution of aggressive histological subtypes and therapy...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11019-z Researchers demonstrate successful road transport of trapped antiprotons, establishing a practical method for moving antimatter to quieter laboratories and substantially improving...
 
-## 9. Topographic structure and function of locus coeruleus noradrenaline neurons
+## 3. Transcriptional activation of plant immunity by salicylic acid
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11026-0
+- DOI：10.1038/s41586-026-11021-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11026-0
+- 链接：https://www.nature.com/articles/s41586-026-11021-5
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11026-0 Dorsal and ventral noradrenergic neurons in the locus coeruleus form topographic subpopulations whose projection patterns and activity encode choice switching, reward-prediction...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11021-5 A mechanistic basis for how the hormone salicylic acid promotes transcriptional activation during plant immune responses is described.
 
-## 10. Overmassive black holes and little red dots naturally form in simulations
+## 4. Rapid patient-specific neural networks for X-ray to volume registration
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-10985-8
+- DOI：10.1038/s41586-026-11045-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10985-8
+- 链接：https://www.nature.com/articles/s41586-026-11045-x
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10985-8 Observations from the JWST reveal an unexpectedly abundant population of little red dots and overmassive black holes in the early Universe, which are confirmed by their formation in...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11045-x xvr makes pan-anatomical 2D/3D rigid registration accessible to broad clinical and research communities.
+
+## 5. Heterogeneous photonic integration of single-crystalline nanomembranes
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11000-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11000-w
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11000-w A framework consisting of advanced epitaxy and layer lift-off techniques uses heterogeneous photonic integration of single-crystalline nanomembranes to infuse desired...
+
+## 6. Molecular-level observation of the self-assembly of a virus-like particle
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-10948-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10948-z
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10948-z Using mass photometry combined with a single-molecule trapping method allows real-time monitoring of the assembly of individual virus-like particles with molecular resolution,...
+
+## 7. Targeted genomic integration and rearrangement using prime assembly
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11024-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11024-2
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11024-2 Prime assembly enables RNA-guided integration of medium-to-large DNA sequences in human cells without requiring double-strand breaks or cell cycle progression, and supports exon...
+
+## 8. Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11057-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11057-7
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11057-7 Rhynchospora tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis.
+
+## 9. Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11012-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11012-6
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11012-6 Delphy makes near-real-time and scalable Bayesian phylogenetics possible for growing viral outbreaks, enabling public health bodies anywhere to analyse and react to their own data...
+
+## 10. Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations
+
+- 期刊：Nature
+- 日期：2026-09-16
+- DOI：10.1038/s41586-026-11135-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11135-w
+
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11135-w Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations
