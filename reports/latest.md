@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-20 05:17
+生成时间：2026-09-21 05:20
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. A retinoic acid autoregulatory loop governing prefrontal–motor arealization
+## 1. Electrically controllable superconducting memory effect in UTe 2
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11014-4
+- DOI：10.1038/s41586-026-11015-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11014-4
+- 链接：https://www.nature.com/articles/s41586-026-11015-3
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11014-4 MEIS2, encoding a transcription factor linked to intellectual disability and autism spectrum disorder, is a key hub of a retinoic-acid-associated gene regulatory network.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11015-3 Observations of a memory effect in the p-wave superconductor candidate UTe2, which can be controlled by varying the strength and duration of the electrically applied stimuli, are...
 
-## 2. Road transport of trapped antiprotons
+## 2. Cohesin reshapes replication fork contacts to aid fork slowing and reversal
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11019-z
+- DOI：10.1038/s41586-026-11034-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11019-z
+- 链接：https://www.nature.com/articles/s41586-026-11034-0
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11019-z Researchers demonstrate successful road transport of trapped antiprotons, establishing a practical method for moving antimatter to quieter laboratories and substantially improving...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11034-0 Cohesin-mediated loop extrusion limits sister-fork coupling and tethers nearby replication forks under replication stress, promoting fork reversal and slowing fork progression to...
 
-## 3. Transcriptional activation of plant immunity by salicylic acid
+## 3. Assessing biological degradation of non-hydrolysable synthetic polymers
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11021-5
+- DOI：10.1038/s41586-026-10918-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11021-5
+- 链接：https://www.nature.com/articles/s41586-026-10918-5
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11021-5 A mechanistic basis for how the hormone salicylic acid promotes transcriptional activation during plant immune responses is described.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10918-5 The evidence for biological degradation of non-hydrolysable synthetic polymers is critically evaluated to propose best-practice principles for experimental design that should...
 
-## 4. Rapid patient-specific neural networks for X-ray to volume registration
+## 4. Identification of broadly tumour-reactive γδ TCRs from multiple myeloma
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11045-x
+- DOI：10.1038/s41586-026-11055-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11045-x
+- 链接：https://www.nature.com/articles/s41586-026-11055-9
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11045-x xvr makes pan-anatomical 2D/3D rigid registration accessible to broad clinical and research communities.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11055-9 A machine-learning algorithm, PreGame, is developed to identify tumour-reactive γδ T cells from single-cell CITE sequencing data, and expansion of this cell population can be used...
 
-## 5. Heterogeneous photonic integration of single-crystalline nanomembranes
+## 5. Predictors and prevalence of support for white nationalism in the United States
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11000-w
+- DOI：10.1038/s41586-026-11018-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11000-w
+- 链接：https://www.nature.com/articles/s41586-026-11018-0
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11000-w A framework consisting of advanced epitaxy and layer lift-off techniques uses heterogeneous photonic integration of single-crystalline nanomembranes to infuse desired...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11018-0 Explicit support for white nationalism is uncommon overall, but higher among young white men, disadvantaged and politically disaffected white people, conservatives, Republicans, and...
 
-## 6. Molecular-level observation of the self-assembly of a virus-like particle
+## 6. A thermodynamically favoured molecular computer
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-10948-z
+- DOI：10.1038/s41586-026-10996-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10948-z
+- 链接：https://www.nature.com/articles/s41586-026-10996-5
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10948-z Using mass photometry combined with a single-molecule trapping method allows real-time monitoring of the assembly of individual virus-like particles with molecular resolution,...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-10996-5 Scaffolded DNA Computer performs diverse computations while thermodynamically relaxing towards equilibrium, demonstrating simplicity, reusability, speed, robustness and scalability...
 
-## 7. Targeted genomic integration and rearrangement using prime assembly
+## 7. Marine bacteria cooperate to break down complex algal carbohydrates
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11024-2
+- DOI：10.1038/d41586-026-02873-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11024-2
+- 链接：https://www.nature.com/articles/d41586-026-02873-y
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11024-2 Prime assembly enables RNA-guided integration of medium-to-large DNA sequences in human cells without requiring double-strand breaks or cell cycle progression, and supports exon...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02873-y Marine algae produce sulfated carbohydrates called fucoidans that are chemically too complex for any bacteria to digest alone. Instead, marine bacteria split the task between them...
 
-## 8. Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis
+## 8. Antimatter: coming soon to a lab near you?
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11057-7
+- DOI：10.1038/d41586-026-02647-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11057-7
+- 链接：https://www.nature.com/articles/d41586-026-02647-6
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11057-7 Rhynchospora tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis.
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02647-6 Antiprotons have been transported by road at CERN. This advance might one day enable laboratories outside the site to use antimatter in their experiments.
 
-## 9. Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy
+## 9. Molecular computation that rolls energetically downhill
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11012-6
+- DOI：10.1038/d41586-026-02878-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11012-6
+- 链接：https://www.nature.com/articles/d41586-026-02878-7
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11012-6 Delphy makes near-real-time and scalable Bayesian phylogenetics possible for growing viral outbreaks, enabling public health bodies anywhere to analyse and react to their own data...
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02878-7 A DNA-based computer that operates by relaxing to thermodynamic equilibrium has been demonstrated on ten molecular programs, which completed computations in as little as one minute....
 
-## 10. Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations
+## 10. Daily briefing: Asgards — the microorganisms that might have begat us all
 
 - 期刊：Nature
 - 日期：2026-09-16
-- DOI：10.1038/s41586-026-11135-w
+- DOI：10.1038/d41586-026-02951-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11135-w
+- 链接：https://www.nature.com/articles/d41586-026-02951-1
 
-摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11135-w Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations
+摘要精简：Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02951-1 Explore the origins of all complex life, boggle at award-winning microscopy and learn that stomach bugs send protective immune cells rushing from gut to brain.
