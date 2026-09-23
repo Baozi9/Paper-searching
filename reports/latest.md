@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-22 05:17
+生成时间：2026-09-23 05:03
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Chemist-aligned retrosynthesis by ensembling diverse inductive bias models
+## 1. Biosecurity must protect human functional capacity
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/s41586-026-11160-9
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02996-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11160-9
+- 链接：https://www.nature.com/articles/d41586-026-02996-2
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/s41586-026-11160-9 Chemist-aligned retrosynthesis by ensembling diverse inductive bias models
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity
 
-## 2. Six principles for supporting academic freedom in universities
+## 2. Why insects need their own protected areas
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02932-4
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02997-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02932-4
+- 链接：https://www.nature.com/articles/d41586-026-02997-1
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02932-4 Many academics are concerned about threats to independent enquiry in higher education. Here’s how it can be protected while taking legitimate concerns into account.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas
 
-## 3. Losing your way of life to climate change matters — and we need a way to measure it
+## 3. A global safety net for climate-risk intelligence is urgently needed
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02928-0
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02995-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02928-0
+- 链接：https://www.nature.com/articles/d41586-026-02995-3
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02928-0 Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02995-3 A global safety net for climate-risk intelligence is urgently needed
 
-## 4. Edible batteries power medical devices in the body
+## 4. What happens in Vegas: one lecturer’s hunt for a projector
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02987-3
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02724-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02987-3
+- 链接：https://www.nature.com/articles/d41586-026-02724-w
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02987-3 The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02724-w Misadventures at a scientific meeting in Nevada, and ponderings on the idea that physical objects exist only as perceptual phenomena, in our weekly dip into Nature’s archive.
 
-## 5. China punishes prominent academics exposed by research sleuth
+## 5. Dust in the wind is on the decline
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02890-x
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02979-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02890-x
+- 链接：https://www.nature.com/articles/d41586-026-02979-3
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02890-x Several scientists investigated for research-integrity violations by video-blogger ‘Student Geng’ have now faced disciplinary measures. The penalties are part of a misconduct...
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02979-3 The global decrease in atmospheric dust might be affecting Earth’s temperature.
 
-## 6. AI co-scientists are revolutionizing how research is done
+## 6. About to give your first lecture? Read this first
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02931-5
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02369-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02931-5
+- 链接：https://www.nature.com/articles/d41586-026-02369-9
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02931-5 Artificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02369-9 Ten researchers and faculty members share what surprised them when they began teaching — and what they wish they had known before walking into the room.
 
-## 7. How do I change labs gracefully during my PhD?
+## 7. Watch scientists decipher burnt scrolls without unrolling them
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02441-4
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02920-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02441-4
+- 链接：https://www.nature.com/articles/d41586-026-02920-8
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationships.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02920-8 By making and burning their own papyrus, researchers have come up with a method that might help to read glowing text from unopened scrolls from Herculaneum.
 
-## 8. 'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus
+## 8. This super-cold microscope could spur a quantum revolution
 
 - 期刊：Nature
-- 日期：2026-09-21
-- DOI：10.1038/d41586-026-02981-9
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02942-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02981-9
+- 链接：https://www.nature.com/articles/d41586-026-02942-2
 
-摘要精简：Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02981-9 Technique uses chemical tags to shut down viral DNA lurking in host’s genome.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02942-2 The instrument, which operates near absolute zero for hours, will soon ship to a few labs. Researchers are thrilled.
 
-## 9. Daily briefing: How to turn a paper into an AI agent
+## 9. Why AI companies can’t be trusted to self-regulate
 
 - 期刊：Nature
-- 日期：2026-09-18
-- DOI：10.1038/d41586-026-02994-4
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-03014-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02994-4
+- 链接：https://www.nature.com/articles/d41586-026-03014-1
 
-摘要精简：Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02994-4 A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-...
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-03014-1 From aviation to banking, high-risk industries are subject to independent oversight and meaningful penalties. AI companies should be no exception.
 
-## 10. Daily briefing: Fresh evidence for hidden chambers at Tutankhamun’s tomb
+## 10. Hundreds of ‘free’ academic journals have started charging fees
 
 - 期刊：Nature
-- 日期：2026-09-17
-- DOI：10.1038/d41586-026-02955-x
+- 日期：2026-09-22
+- DOI：10.1038/d41586-026-02818-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02955-x
+- 链接：https://www.nature.com/articles/d41586-026-02818-5
 
-摘要精简：Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02955-x Scans support the idea that as-yet-unexplored chambers might hold the remains of the Egyptian queen Nefertiti. Plus, mathematical controversy and beautiful ctenophores.
+摘要精简：Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02818-5 A study tracking diamond open-access journals has found an increase in titles switching to other publishing models — especially over the past few years.
