@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-26 05:21
+生成时间：2026-09-27 05:37
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing Chat: Why scientists made papyrus scrolls, then burnt them
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03041-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03041-y
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.
-
-## 2. Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03032-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03032-z
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.
-
-## 3. Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03039-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03039-6
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.
-
-## 4. Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03023-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03023-0
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.
-
-## 5. Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03016-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03016-z
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.
-
-## 6. Exclusive: Sham scientific societies are misleading star researchers
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-02980-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02980-w
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-02980-w A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices.
-
-## 7. OpenAI's research chief talks of ‘cultural reset’ after wild few weeks
-
-- 期刊：Nature
-- 日期：2026-09-25
-- DOI：10.1038/d41586-026-03028-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03028-9
-
-摘要精简：Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03028-9 Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety — and giving AI models a sense of 'taste'.
-
-## 8. Daily briefing: Will AI really be the death of us all?
-
-- 期刊：Nature
-- 日期：2026-09-24
-- DOI：10.1038/d41586-026-03029-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03029-8
-
-摘要精简：Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03029-8 Nature unpacks why AI companies are calling for a slowdown. Plus, the best clock ever and a new, unusual phase of boron.
-
-## 9. A design approach for bitopic kinase inhibitors
+## 1. Reference genomes and fossils revise bat family phylogeny and biogeography
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11056-8
+- DOI：10.1038/s41586-026-11007-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11056-8
+- 链接：https://www.nature.com/articles/s41586-026-11007-3
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11056-8 Detailed analyses of ligand choice, linkage vector and linker length enabled the development of bitopic inhibitors of ABL1 and EGFR kinases, including an ABL1 inhibitor with...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11007-3 An updated phylogeny of bats is presented, based on new genome assemblies and many ancient fossils and including all known bat families.
 
-## 10. A methanogen hydrolase reveals the structure of archaeal peptidoglycan
+## 2. mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11028-y
+- DOI：10.1038/s41586-026-11054-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11028-y
+- 链接：https://www.nature.com/articles/s41586-026-11054-w
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11028-y ArmA from Methanobrevibacter smithii, a dominant member of the human gut microbiome, is identified and characterized as a glycosyl hydrolase specific for cleaving the cell wall of...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11054-w Reactive astrocytes emerge as a primary consequence of TSC2 loss in tuberous sclerosis complex, implicating glial dysfunction as a primary driver of pathogenesis and highlighting...
+
+## 3. Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11059-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11059-5
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11059-5 ZMYND8 suppresses IL-2R–STAT5 signalling by inhibiting p300-mediated transcriptional activation of Il2ra to enforce CD8+ T cell terminal exhaustion, and its deletion boosts...
+
+## 4. Anomalous metal and superconducting phases in rhombohedral graphene
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11033-1
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11033-1
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11033-1 Observations of rhombohedral graphene on a WSe2 substrate at varying temperature, magnetic field and current indicate the presence of regions of gate space with zero-resistance...
+
+## 5. Lifespan single-cell transcriptomic atlas of the human prefrontal cortex
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-10271-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-10271-7
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-10271-7 The dorsolateral prefrontal cortex exhibits non-linear, cell-type-specific transcriptional trajectories characterized by dynamic remodelling during development, relative stability...
+
+## 6. Agricultural liming is a carbon sink in the Mississippi River Basin
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11040-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11040-2
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11040-2 Century-scale records of agricultural liming and anthropogenic acidity inputs for the Mississippi River Basin show that agricultural liming has acted as a net carbon sink over the...
+
+## 7. Stacking-induced direct band gap in CVD-grown 1H MoS 2 bilayers
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11069-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11069-3
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11069-3 Atomically aligned 1H bilayer MoS2 exhibits a direct band gap, enhanced excitonic emission and stronger valley polarization, establishing its potential for advanced optoelectronic...
+
+## 8. TRAM promotes Toll-like-receptor-free myddosome signal transduction
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11052-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11052-y
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11052-y TRAM is a regulator of myddosome assembly through dissociating MyD88 from the TLR–TIRAP complex to enable myddosome maturation and durable downstream signal transduction.
+
+## 9. Lsp2 links mTORC1 to TOP mRNA translation and lifespan in Drosophila
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11029-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11029-x
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11029-x In Drosophila, the protein Lsp2, which is induced by dietary essential amino acids, is a key physiological effector of mTORC1, and mutant flies that lack the Lsp2 gene exhibit...
+
+## 10. Lsp2 links early-life diet to adult translation and lifespan in Drosophila
+
+- 期刊：Nature
+- 日期：2026-09-23
+- DOI：10.1038/s41586-026-11031-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11031-3
+
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11031-3 Isotope tracing is used to determine the fate of larval dietary amino acids in adult flies, and identifies Lsp2 as a key regulator of translation and lifespan that forms the...
