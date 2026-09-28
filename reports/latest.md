@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-27 05:37
+生成时间：2026-09-28 05:45
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Reference genomes and fossils revise bat family phylogeny and biogeography
+## 1. The lipidomic architecture of the mouse brain
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11007-3
+- DOI：10.1038/s41586-026-11050-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11007-3
+- 链接：https://www.nature.com/articles/s41586-026-11050-0
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11007-3 An updated phylogeny of bats is presented, based on new genome assemblies and many ancient fossils and including all known bat families.
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11050-0 A spatial lipidomic atlas of the mouse brain reveals more than 500 biochemical territories that mirror cell types and connectivity, capture oligodendrocyte heterogeneity and...
 
-## 2. mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
+## 2. Single-cell atlas of transcriptomic vulnerability across brain disorders
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11054-w
+- DOI：10.1038/s41586-025-09573-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11054-w
+- 链接：https://www.nature.com/articles/s41586-025-09573-z
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11054-w Reactive astrocytes emerge as a primary consequence of TSC2 loss in tuberous sclerosis complex, implicating glial dysfunction as a primary driver of pathogenesis and highlighting...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-025-09573-z A population-scale single-cell transcriptomic atlas of the human dorsolateral prefrontal cortex provides a perspective of the transcriptomic landscape in neurodegenerative and...
 
-## 3. Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion
+## 3. MMEJ repair of breaks at TA repeats maintains ecDNA and cancer fitness
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11059-5
+- DOI：10.1038/s41586-026-11048-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11059-5
+- 链接：https://www.nature.com/articles/s41586-026-11048-8
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11059-5 ZMYND8 suppresses IL-2R–STAT5 signalling by inhibiting p300-mediated transcriptional activation of Il2ra to enforce CD8+ T cell terminal exhaustion, and its deletion boosts...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11048-8 Stability of extrachromosomal DNA (ecDNA) relies on microhomology-mediated end joining at fragile TA-rich sites, with FANCM suppressing break formation, suggesting that Polθ...
 
-## 4. Anomalous metal and superconducting phases in rhombohedral graphene
+## 4. A quadruped robot designed to complete a marathon on a single battery charge
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11033-1
+- DOI：10.1038/s41586-026-11102-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11033-1
+- 链接：https://www.nature.com/articles/s41586-026-11102-5
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11033-1 Observations of rhombohedral graphene on a WSe2 substrate at varying temperature, magnetic field and current indicate the presence of regions of gate space with zero-resistance...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11102-5 RAIBO2, an energy-efficient quadruped robot, completed a full marathon in 4 hours, 19 minutes and 52 seconds on a single battery charge, achieving a total cost of transport of 0.25...
 
-## 5. Lifespan single-cell transcriptomic atlas of the human prefrontal cortex
+## 5. Neuronal detection of social actions directs collective escape behaviour
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-10271-7
+- DOI：10.1038/s41586-026-11041-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10271-7
+- 链接：https://www.nature.com/articles/s41586-026-11041-1
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-10271-7 The dorsolateral prefrontal cortex exhibits non-linear, cell-type-specific transcriptional trajectories characterized by dynamic remodelling during development, relative stability...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11041-1 Collective escape in Danionella cerebrum arises from visual detection of rapid, biologically realistic motion of other fish, with midbrain and thalamic neurons encoding social...
 
-## 6. Agricultural liming is a carbon sink in the Mississippi River Basin
+## 6. Organic two-dimensional van der Waals heterostructures
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11040-2
+- DOI：10.1038/s41586-026-11074-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11040-2
+- 链接：https://www.nature.com/articles/s41586-026-11074-6
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11040-2 Century-scale records of agricultural liming and anthropogenic acidity inputs for the Mississippi River Basin show that agricultural liming has acted as a net carbon sink over the...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11074-6 Sequential on-water-surface assembly enables layer-by-layer stacking of two-dimensional polymers to create both lattice-matched and controlled lattice-mismatched van der Waals...
 
-## 7. Stacking-induced direct band gap in CVD-grown 1H MoS 2 bilayers
+## 7. The mutational dynamics of the Arabidopsis centromeres
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11069-3
+- DOI：10.1038/s41586-026-11046-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11069-3
+- 链接：https://www.nature.com/articles/s41586-026-11046-w
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11069-3 Atomically aligned 1H bilayer MoS2 exhibits a direct band gap, enhanced excitonic emission and stronger valley polarization, establishing its potential for advanced optoelectronic...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11046-w Centromeres in Arabidopsis thaliana evolve through frequent insertions and deletions of repeat units and increased rates of point mutations driven by homology-directed repair, a...
 
-## 8. TRAM promotes Toll-like-receptor-free myddosome signal transduction
+## 8. Brain lipids are organized into zones — and reorganized during pregnancy
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11052-y
+- DOI：10.1038/d41586-026-02772-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11052-y
+- 链接：https://www.nature.com/articles/d41586-026-02772-2
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11052-y TRAM is a regulator of myddosome assembly through dissociating MyD88 from the TLR–TIRAP complex to enable myddosome maturation and durable downstream signal transduction.
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02772-2 A map of fats across the whole mouse brain reveals a spatial architecture that differs from that seen in gene-expression and protein atlases.
 
-## 9. Lsp2 links mTORC1 to TOP mRNA translation and lifespan in Drosophila
+## 9. Efficient yet stable large perovskite solar modules made using surface treatment
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11029-x
+- DOI：10.1038/d41586-026-02937-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11029-x
+- 链接：https://www.nature.com/articles/d41586-026-02937-z
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11029-x In Drosophila, the protein Lsp2, which is induced by dietary essential amino acids, is a key physiological effector of mTORC1, and mutant flies that lack the Lsp2 gene exhibit...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02937-z Non-uniformities in the layer of passivator molecules, which are used to fix defects and protect the surface of perovskite material in solar cells, can limit the durability of the...
 
-## 10. Lsp2 links early-life diet to adult translation and lifespan in Drosophila
+## 10. Lack of female researchers and participants in regenerative-medicine research holds everyone back
 
 - 期刊：Nature
 - 日期：2026-09-23
-- DOI：10.1038/s41586-026-11031-3
+- DOI：10.1038/d41586-026-02857-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11031-3
+- 链接：https://www.nature.com/articles/d41586-026-02857-y
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11031-3 Isotope tracing is used to determine the fate of larval dietary amino acids in adult flies, and identifies Lsp2 as a key regulator of translation and lifespan that forms the...
+摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02857-y The field will not reach its potential using data sets in which women and non-binary people are not fully represented.
