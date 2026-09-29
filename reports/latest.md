@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-28 05:45
+生成时间：2026-09-29 06:03
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. The lipidomic architecture of the mouse brain
+## 1. China now leads the world in trials for next-gen CAR-T therapies
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11050-0
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-03004-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11050-0
+- 链接：https://www.nature.com/articles/d41586-026-03004-3
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11050-0 A spatial lipidomic atlas of the mouse brain reveals more than 500 biochemical territories that mirror cell types and connectivity, capture oligodendrocyte heterogeneity and...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3 China tests these therapies faster than the rest of the world but regulatory changes could slow them down.
 
-## 2. Single-cell atlas of transcriptomic vulnerability across brain disorders
+## 2. Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-025-09573-z
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-02959-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-025-09573-z
+- 链接：https://www.nature.com/articles/d41586-026-02959-7
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-025-09573-z A population-scale single-cell transcriptomic atlas of the human dorsolateral prefrontal cortex provides a perspective of the transcriptomic landscape in neurodegenerative and...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7 An elegant account of the physicist’s unusual life story highlights the relationships that inspired him.
 
-## 3. MMEJ repair of breaks at TA repeats maintains ecDNA and cancer fitness
+## 3. Bigger than CRISPR? A guide to the latest genome editors
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11048-8
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-02964-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11048-8
+- 链接：https://www.nature.com/articles/d41586-026-02964-w
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11048-8 Stability of extrachromosomal DNA (ecDNA) relies on microhomology-mediated end joining at fragile TA-rich sites, with FANCM suppressing break formation, suggesting that Polθ...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02964-w Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.
 
-## 4. A quadruped robot designed to complete a marathon on a single battery charge
+## 4. Vaping in childhood has bigger health risks than we’d thought
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11102-5
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-02962-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11102-5
+- 链接：https://www.nature.com/articles/d41586-026-02962-y
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11102-5 RAIBO2, an energy-efficient quadruped robot, completed a full marathon in 4 hours, 19 minutes and 52 seconds on a single battery charge, achieving a total cost of transport of 0.25...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-y Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.
 
-## 5. Neuronal detection of social actions directs collective escape behaviour
+## 5. Old hearts age backwards: transplanted organs adjust to host's biological age
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11041-1
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-03043-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11041-1
+- 链接：https://www.nature.com/articles/d41586-026-03043-w
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11041-1 Collective escape in Danionella cerebrum arises from visual detection of rapid, biologically realistic motion of other fish, with midbrain and thalamic neurons encoding social...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.
 
-## 6. Organic two-dimensional van der Waals heterostructures
+## 6. Paid to peer review: firms are paying researchers to assess manuscripts for journals
 
 - 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11074-6
+- 日期：2026-09-28
+- DOI：10.1038/d41586-026-02277-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11074-6
+- 链接：https://www.nature.com/articles/d41586-026-02277-y
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11074-6 Sequential on-water-surface assembly enables layer-by-layer stacking of two-dimensional polymers to create both lattice-matched and controlled lattice-mismatched van der Waals...
+摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02277-y Freelance peer-review jobs through third-party companies raise practical and ethical questions.
 
-## 7. The mutational dynamics of the Arabidopsis centromeres
+## 7. Spatially resolved chromatin architectures in mammalian brain tissues
 
-- 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/s41586-026-11046-w
+- 期刊：Nature Methods
+- 日期：2026-09-25
+- DOI：10.1038/s41592-026-03218-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11046-w
+- 链接：https://www.nature.com/articles/s41592-026-03218-3
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11046-w Centromeres in Arabidopsis thaliana evolve through frequent insertions and deletions of repeat units and increased rates of point mutations driven by homology-directed repair, a...
+摘要精简：Nature Methods, Published online: 25 September 2026; doi:10.1038/s41592-026-03218-3 Spatial Hi-C allows the study of chromatin organization in a spatially resolved manner. This approach shows regional and cell-type-specific differences in the adult and...
 
-## 8. Brain lipids are organized into zones — and reorganized during pregnancy
+## 8. Control of ice thickness in cryo-EM via confinement
 
-- 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/d41586-026-02772-2
+- 期刊：Nature Methods
+- 日期：2026-09-25
+- DOI：10.1038/s41592-026-03244-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02772-2
+- 链接：https://www.nature.com/articles/s41592-026-03244-1
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02772-2 A map of fats across the whole mouse brain reveals a spatial architecture that differs from that seen in gene-expression and protein atlases.
+摘要精简：Nature Methods, Published online: 25 September 2026; doi:10.1038/s41592-026-03244-1 This study explores the use of graphene reservoirs formed over perforated supporting films as a method to precisely control ice thickness during cryo-EM sample preparation.
 
-## 9. Efficient yet stable large perovskite solar modules made using surface treatment
+## 9. ResolVI: addressing noise and bias in spatial transcriptomics
 
-- 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/d41586-026-02937-z
+- 期刊：Nature Methods
+- 日期：2026-09-24
+- DOI：10.1038/s41592-026-03212-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02937-z
+- 链接：https://www.nature.com/articles/s41592-026-03212-9
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02937-z Non-uniformities in the layer of passivator molecules, which are used to fix defects and protect the surface of perovskite material in solar cells, can limit the durability of the...
+摘要精简：Nature Methods, Published online: 24 September 2026; doi:10.1038/s41592-026-03212-9 Segmentation and quantification of spatial transcriptomics data is plagued by specific noise and bias. ResolVI tackles this challenge by generating error- and batch-...
 
-## 10. Lack of female researchers and participants in regenerative-medicine research holds everyone back
+## 10. Solid-state nanopore sensing: the next workhorse of biophysical characterization
 
-- 期刊：Nature
-- 日期：2026-09-23
-- DOI：10.1038/d41586-026-02857-y
+- 期刊：Nature Methods
+- 日期：2026-09-24
+- DOI：10.1038/s41592-026-03222-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02857-y
+- 链接：https://www.nature.com/articles/s41592-026-03222-7
 
-摘要精简：Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02857-y The field will not reach its potential using data sets in which women and non-binary people are not fully represented.
+摘要精简：Nature Methods, Published online: 24 September 2026; doi:10.1038/s41592-026-03222-7 This Perspective discusses opportunities and challenges of using solid-state nanopores for broader biophysical characterization.
