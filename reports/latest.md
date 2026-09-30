@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-09-29 06:03
+生成时间：2026-09-30 05:52
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. China now leads the world in trials for next-gen CAR-T therapies
+## 1. Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-03004-3
+- 日期：2026-09-29
+- DOI：10.1038/s41586-026-11083-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03004-3
+- 链接：https://www.nature.com/articles/s41586-026-11083-5
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3 China tests these therapies faster than the rest of the world but regulatory changes could slow them down.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/s41586-026-11083-5 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion
 
-## 2. Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’
+## 2. Strange and beautiful creatures spotted on the Challenger expedition
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-02959-7
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-02972-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02959-7
+- 链接：https://www.nature.com/articles/d41586-026-02972-w
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7 An elegant account of the physicist’s unusual life story highlights the relationships that inspired him.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02972-w A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.
 
-## 3. Bigger than CRISPR? A guide to the latest genome editors
+## 3. PhD training should encourage ethical dissent
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-02964-w
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03053-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02964-w
+- 链接：https://www.nature.com/articles/d41586-026-03053-8
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02964-w Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03053-8 PhD training should encourage ethical dissent
 
-## 4. Vaping in childhood has bigger health risks than we’d thought
+## 4. Biodiversity protection must include language preservation
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-02962-y
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03056-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02962-y
+- 链接：https://www.nature.com/articles/d41586-026-03056-5
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-y Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03056-5 Biodiversity protection must include language preservation
 
-## 5. Old hearts age backwards: transplanted organs adjust to host's biological age
+## 5. Emissions after the Paris accord made Europe’s heatwaves more severe
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-03043-w
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03035-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03043-w
+- 链接：https://www.nature.com/articles/d41586-026-03035-w
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03035-w A heatwave in 2025 would have been one-third of a degree cooler without the greenhouse gases released since 2015.
 
-## 6. Paid to peer review: firms are paying researchers to assess manuscripts for journals
+## 6. Patents alone won’t unlock critical-mineral supply chains
 
 - 期刊：Nature
-- 日期：2026-09-28
-- DOI：10.1038/d41586-026-02277-y
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03054-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02277-y
+- 链接：https://www.nature.com/articles/d41586-026-03054-7
 
-摘要精简：Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02277-y Freelance peer-review jobs through third-party companies raise practical and ethical questions.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03054-7 Patents alone won’t unlock critical-mineral supply chains
 
-## 7. Spatially resolved chromatin architectures in mammalian brain tissues
+## 7. The cost of lost labour on a warming planet
 
-- 期刊：Nature Methods
-- 日期：2026-09-25
-- DOI：10.1038/s41592-026-03218-3
+- 期刊：Nature
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-02971-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03218-3
+- 链接：https://www.nature.com/articles/d41586-026-02971-x
 
-摘要精简：Nature Methods, Published online: 25 September 2026; doi:10.1038/s41592-026-03218-3 Spatial Hi-C allows the study of chromatin organization in a spatially resolved manner. This approach shows regional and cell-type-specific differences in the adult and...
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02971-x Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.
 
-## 8. Control of ice thickness in cryo-EM via confinement
+## 8. Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced
 
-- 期刊：Nature Methods
-- 日期：2026-09-25
-- DOI：10.1038/s41592-026-03244-1
+- 期刊：Nature
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03055-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03244-1
+- 链接：https://www.nature.com/articles/d41586-026-03055-6
 
-摘要精简：Nature Methods, Published online: 25 September 2026; doi:10.1038/s41592-026-03244-1 This study explores the use of graphene reservoirs formed over perforated supporting films as a method to precisely control ice thickness during cryo-EM sample preparation.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03055-6 Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced
 
-## 9. ResolVI: addressing noise and bias in spatial transcriptomics
+## 9. AI-powered medical devices must be tested in real-world settings
 
-- 期刊：Nature Methods
-- 日期：2026-09-24
-- DOI：10.1038/s41592-026-03212-9
+- 期刊：Nature
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-03046-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03212-9
+- 链接：https://www.nature.com/articles/d41586-026-03046-7
 
-摘要精简：Nature Methods, Published online: 24 September 2026; doi:10.1038/s41592-026-03212-9 Segmentation and quantification of spatial transcriptomics data is plagued by specific noise and bias. ResolVI tackles this challenge by generating error- and batch-...
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03046-7 Tools that inform clinical decision-making require rigorous assessments equivalent to processes used to approve drugs and self-driving cars.
 
-## 10. Solid-state nanopore sensing: the next workhorse of biophysical characterization
+## 10. AI can widen science — but only if institutions stop rewarding the already measurable
 
-- 期刊：Nature Methods
-- 日期：2026-09-24
-- DOI：10.1038/s41592-026-03222-7
+- 期刊：Nature
+- 日期：2026-09-29
+- DOI：10.1038/d41586-026-02961-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03222-7
+- 链接：https://www.nature.com/articles/d41586-026-02961-z
 
-摘要精简：Nature Methods, Published online: 24 September 2026; doi:10.1038/s41592-026-03222-7 This Perspective discusses opportunities and challenges of using solid-state nanopores for broader biophysical characterization.
+摘要精简：Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02961-z Funders, journals and universities must reward the creation of new scientific terrain, not just the efficient mining of old ground.
