@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-01 06:26
+生成时间：2026-10-02 06:04
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. The 'missed disease' that affects 190 million: endometriosis drug shows early promise
+## 1. A black hole’s jets have a halo effect
 
 - 期刊：Nature
 - 日期：2026-10-01
-- DOI：10.1038/d41586-026-03042-x
+- DOI：10.1038/d41586-026-03036-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03042-x
+- 链接：https://www.nature.com/articles/d41586-026-03036-9
 
-摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition's tell-tale lesions.
+摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9 Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.
 
-## 2. These optical illusions are why butterflies are so hard to catch
+## 2. Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes
+
+- 期刊：Nature
+- 日期：2026-10-01
+- DOI：10.1038/d41586-026-03119-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03119-7
+
+摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7 With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.
+
+## 3. Sign of the times: AI lingo muscles into esteemed dictionary
+
+- 期刊：Nature
+- 日期：2026-10-01
+- DOI：10.1038/d41586-026-03044-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03044-9
+
+摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9 ‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to Merriam-Webster’s online catalogue.
+
+## 4. Gaze into the cosmos and through the eyes of a bee — September’s best science images
+
+- 期刊：Nature
+- 日期：2026-10-01
+- DOI：10.1038/d41586-026-03101-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03101-3
+
+摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03101-3 The month’s sharpest science shots, selected by Nature’s photo team.
+
+## 5. Battle of the Anthropocene: allegations re-ignite row over proposed geologic epoch
+
+- 期刊：Nature
+- 日期：2026-10-01
+- DOI：10.1038/d41586-026-03118-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03118-8
+
+摘要精简：Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03118-8 Researchers say that a vote to reject the epoch violated procedure and call for transparency.
+
+## 6. Daily briefing: How to save corals from the El Niño
 
 - 期刊：Nature
 - 日期：2026-09-30
-- DOI：10.1038/d41586-026-03124-w
+- DOI：10.1038/d41586-026-03138-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03124-w
+- 链接：https://www.nature.com/articles/d41586-026-03138-4
 
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03124-w High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to catch.
+摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03138-4 Scientists are trying to help coral reefs survive record ocean temperatures. Plus, the aftermath of a deadly attack on Ukraine’s National Academy of Sciences and whether it’s OK to...
 
-## 3. Who’s the loudest of them all? The bare-throated bellbird vies for the prize
+## 7. How did Earth get its water? Inside the extreme machine seeking answers
 
 - 期刊：Nature
 - 日期：2026-09-30
-- DOI：10.1038/d41586-026-03038-7
+- DOI：10.1038/d41586-026-02978-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03038-7
+- 链接：https://www.nature.com/articles/d41586-026-02978-4
 
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03038-7 The bellbird’s extra-large gape helps it to achieve pneumatic-drill-level volume.
+摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02978-4 The Z machine in New Mexico generates shockwaves that can simulate conditions deep inside our planet.
 
-## 4. Is exposomics the key to making personalized medicine a reality?
+## 8. Harmful tau spreads like self-propagating prion proteins
 
 - 期刊：Nature
 - 日期：2026-09-30
-- DOI：10.1038/d41586-026-02958-8
+- DOI：10.1038/d41586-026-02778-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02958-8
+- 链接：https://www.nature.com/articles/d41586-026-02778-w
 
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02958-8 Scientists say tailored disease treatments require a comprehensive assessment of a person’s lifelong environmental exposures.
+摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02778-w Structural studies support the idea that fibrillized tau protein, a feature of neurodegenerative disorders, acts as a prion-like template to induce misfolding in healthy tau.
 
-## 5. The super El Niño is cooking coral reefs — can lullabies and probiotics save them?
+## 9. Beware sham scientific societies: the research community must be more vigilant
 
 - 期刊：Nature
 - 日期：2026-09-30
-- DOI：10.1038/d41586-026-02965-9
+- DOI：10.1038/d41586-026-03047-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02965-9
+- 链接：https://www.nature.com/articles/d41586-026-03047-6
 
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02965-9 Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.
+摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03047-6 As AI content makes bad actors harder to spot, scrutiny of organizations must increase without reducing trust.
 
-## 6. This award-winning microscopy image used AI — igniting controversy in a prestigious competition
+## 10. AI ‘speech clock’ assesses how fast you’re ageing from your voice
 
 - 期刊：Nature
 - 日期：2026-09-30
-- DOI：10.1038/d41586-026-03086-z
+- DOI：10.1038/d41586-026-03106-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03086-z
+- 链接：https://www.nature.com/articles/d41586-026-03106-y
 
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03086-z Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.
-
-## 7. 2D semiconductor aims to turbocharge development of high-performance electronics
-
-- 期刊：Nature
-- 日期：2026-09-30
-- DOI：10.1038/d41586-026-02777-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02777-x
-
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02777-x An ultrathin semiconductor that conducts electricity using positively charged ‘holes’ might clear the way for next-generation electronic devices.
-
-## 8. Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature
-
-- 期刊：Nature
-- 日期：2026-09-30
-- DOI：10.1038/d41586-026-02991-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02991-7
-
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02991-7 The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.
-
-## 9. Tuberculosis treatment has advanced — now we need to stop drug resistance dragging us backwards
-
-- 期刊：Nature
-- 日期：2026-09-30
-- DOI：10.1038/d41586-026-02963-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02963-x
-
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02963-x The next major advancement in TB might not be a new drug, but a better understanding of how and why resistance to medicines emerges.
-
-## 10. Sugar amplifies antibiotic disruption of gut microbes
-
-- 期刊：Nature
-- 日期：2026-09-30
-- DOI：10.1038/d41586-026-02782-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02782-0
-
-摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02782-0 People who underwent stem-cell transplantation and ate sugar-rich food had disrupted communities of gut microorganisms during antibiotic treatment.
+摘要精简：Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03106-y The pitch and emotional content of your speech are important predictors of accelerated ageing, researchers find.
