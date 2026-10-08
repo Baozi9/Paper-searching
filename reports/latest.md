@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-07 06:21
+生成时间：2026-10-08 06:32
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: Anodic Pd membrane H 2 extraction enhances thermochemical dehydrogenation
+## 1. Woody ‘blankets’ deployed on Arctic permafrost to reduce carbon emissions
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/s41586-026-11244-6
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03045-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11244-6
+- 链接：https://www.nature.com/articles/d41586-026-03045-8
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/s41586-026-11244-6 Author Correction: Anodic Pd membrane H 2 extraction enhances thermochemical dehydrogenation
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.
 
-## 2. Maintaining global science collaboration during conflict requires fairer rules
+## 2. A guide to Nature Index tables
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03176-y
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02999-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03176-y
+- 链接：https://www.nature.com/articles/d41586-026-02999-z
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03176-y Maintaining global science collaboration during conflict requires fairer rules
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02999-z Information on the methodology used in the ranking for the 2026 Nature Spotlight: Infectious diseases.
 
-## 3. The Solar System could die one billion times earlier than thought
+## 3. Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03155-3
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03208-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03155-3
+- 链接：https://www.nature.com/articles/d41586-026-03208-7
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03155-3 Modelling suggests that the planets’ orbits will become destabilized inside one billion years once the Sun starts to shed mass.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7 Nature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.
 
-## 4. The Great Barrier Reef requires special attention in the developing super El Niño
+## 4. NASA releases trove of Moon data from historic Artemis II flight
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03174-0
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03197-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03174-0
+- 链接：https://www.nature.com/articles/d41586-026-03197-7
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03174-0 The Great Barrier Reef requires special attention in the developing super El Niño
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7 Annotated images and more collected by the four astronauts could inform missions to the lunar surface.
 
-## 5. Scientists take a radiometer for a spin in a hot-air balloon
+## 5. How we ditched presentations and embraced silence in our lab meetings
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-02973-9
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02836-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02973-9
+- 链接：https://www.nature.com/articles/d41586-026-02836-3
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02973-9 A satisfying congruence between genetics and cell-biology findings, and experiments at altitude with a rotating device that measures radiant energy, in this week’s peek at Nature’s...
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02836-3 Swapping to a system in which lab members read memos quietly before team discussions helped to create an open culture.
 
-## 6. Preprints must not leak sensitive research information
+## 6. Blend
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03177-x
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02864-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03177-x
+- 链接：https://www.nature.com/articles/d41586-026-02864-z
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03177-x Preprints must not leak sensitive research information
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02864-z Identity crisis.
 
-## 7. Unprecedented hole opened up in Antarctic winter sea ice
+## 7. Semiconductors pushed into insulator territory
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03160-6
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02968-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03160-6
+- 链接：https://www.nature.com/articles/d41586-026-02968-6
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03160-6 ‘Rivers in the sky’ helped to keep an expanse of water roughly as big as Portugal ice-free.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02968-6 A material that was previously assumed to be an electrical insulator has been shown to be a semiconductor, with potential uses in electronics and optics.
 
-## 8. AI could undermine scientific independence in subtle ways
+## 8. Genome accessibility reveals disease risk that gene expression misses
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03175-z
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03072-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03175-z
+- 链接：https://www.nature.com/articles/d41586-026-03072-5
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03175-z AI could undermine scientific independence in subtle ways
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5 Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene...
 
-## 9. Astronomy’s ‘adrenaline junkies’: Nobel prize captures the thrill of neutrino physics
+## 9. Nuclear clocks tick for the first time
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-03095-y
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03060-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03095-y
+- 链接：https://www.nature.com/articles/d41586-026-03060-9
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03095-y Nature reporter Davide Castelvecchi reflects on covering the fast-moving field of astronomy honoured by the Nobel physics award.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03060-9 Ultraprecise clocks that use transitions in atomic nuclei to keep time show promise as a next-generation time standard and for probing fundamental physics.
 
-## 10. Rising numbers of Asian and African PhD students choose to study in China
+## 10. Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’
 
 - 期刊：Nature
-- 日期：2026-10-06
-- DOI：10.1038/d41586-026-02798-6
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03059-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02798-6
+- 链接：https://www.nature.com/articles/d41586-026-03059-2
 
-摘要精简：Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02798-6 International students explain the advantages and challenges that come with pursuing a doctoral degree in China.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03059-2 Most LLMs cannot reliably evaluate text on the level of individual letters. A technique called byteification retrofits existing models to enable it.
