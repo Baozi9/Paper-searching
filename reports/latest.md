@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-08 06:32
+生成时间：2026-10-09 06:33
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Woody ‘blankets’ deployed on Arctic permafrost to reduce carbon emissions
+## 1. Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity
 
 - 期刊：Nature
 - 日期：2026-10-08
-- DOI：10.1038/d41586-026-03045-8
+- DOI：10.1038/s41586-026-11266-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03045-8
+- 链接：https://www.nature.com/articles/s41586-026-11266-0
 
-摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11266-0 Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity
 
-## 2. A guide to Nature Index tables
+## 2. Women are talking about menopause — health systems must listen
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03218-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03218-5
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03218-5 In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help.
+
+## 3. US proposes $100,000 charge for international students to do post-graduate work
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-02921-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02921-7
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-02921-7 Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say
+
+## 4. How to build a mouse: embryo development captured in stunning detail
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03193-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03193-x
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03193-x Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo.
+
+## 5. Will AI scoop your science? Some researchers see a gloomy future
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03128-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03128-6
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03128-6 Scientists worry that increasingly capable large language models will beat them to discoveries.
+
+## 6. Plague scare: what scientists know — and what Russia won’t say
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03215-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03215-8
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03215-8 Unverified rumours swirl around the death of a Siberian laboratory technician. Nature talks to a biosecurity specialist to unpack the fallout
+
+## 7. Big dogs age faster than little ones — rogue ‘jumping genes’ might be to blame
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03199-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03199-5
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03199-5 Study of almost 900 dogs from roughly 120 breeds finds that rapid ageing of large canines is linked to changes in the epigenome.
+
+## 8. UAE completes Arab world's first solo space probe – and sets course for an asteroid
+
+- 期刊：Nature
+- 日期：2026-10-08
+- DOI：10.1038/d41586-026-03154-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03154-4
+
+摘要精简：Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03154-4 The device will be launched on a joint UAE-US-built craft. Some researchers say it could be the last mission constructed with outside help.
+
+## 9. Why sound, strong science alone isn’t enough in pandemic preparedness
 
 - 期刊：Nature
 - 日期：2026-10-07
-- DOI：10.1038/d41586-026-02999-z
+- DOI：10.1038/d41586-026-02985-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02999-z
+- 链接：https://www.nature.com/articles/d41586-026-02985-5
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02999-z Information on the methodology used in the ranking for the 2026 Nature Spotlight: Infectious diseases.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02985-5 Comparable data are key to protecting the world from the next epidemic, says bioengineer Polina Brangel.
 
-## 3. Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'
+## 10. ‘When prevention disappears, infections rise’: can the world still end AIDS?
 
 - 期刊：Nature
 - 日期：2026-10-07
-- DOI：10.1038/d41586-026-03208-7
+- DOI：10.1038/d41586-026-03127-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03208-7
+- 链接：https://www.nature.com/articles/d41586-026-03127-7
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7 Nature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.
-
-## 4. NASA releases trove of Moon data from historic Artemis II flight
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-03197-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03197-7
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7 Annotated images and more collected by the four astronauts could inform missions to the lunar surface.
-
-## 5. How we ditched presentations and embraced silence in our lab meetings
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-02836-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02836-3
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02836-3 Swapping to a system in which lab members read memos quietly before team discussions helped to create an open culture.
-
-## 6. Blend
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-02864-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02864-z
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02864-z Identity crisis.
-
-## 7. Semiconductors pushed into insulator territory
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-02968-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02968-6
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02968-6 A material that was previously assumed to be an electrical insulator has been shown to be a semiconductor, with potential uses in electronics and optics.
-
-## 8. Genome accessibility reveals disease risk that gene expression misses
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-03072-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03072-5
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5 Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene...
-
-## 9. Nuclear clocks tick for the first time
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-03060-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03060-9
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03060-9 Ultraprecise clocks that use transitions in atomic nuclei to keep time show promise as a next-generation time standard and for probing fundamental physics.
-
-## 10. Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’
-
-- 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/d41586-026-03059-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03059-2
-
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03059-2 Most LLMs cannot reliably evaluate text on the level of individual letters. A technique called byteification retrofits existing models to enable it.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03127-7 The United Nations’ deadline for eliminating HIV/AIDS as a public-health threat is unlikely to be met. But medical, political and social advances have raised hopes that longer-term...
