@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-10 06:17
+生成时间：2026-10-11 06:17
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Breaking down nerve-cell scaffold relieves chronic pain in mice
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03159-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03159-z
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03159-z Results could help researchers to develop painkillers that are safer and more effective than existing treatments.
-
-## 2. Briefing Chat: Top researchers are being misled by sham academic societies
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03216-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03216-7
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03216-7 Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.
-
-## 3. Chimp and gorilla brains resist weight loss with age — unlike human brains
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03158-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03158-0
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03158-0 The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life
-
-## 4. The life of Darwin and the science of clouds: Books in brief
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03217-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03217-6
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03217-6 Andrew Robinson reviews five of the best science picks.
-
-## 5. Watch this invisible tattoo appear under UV light
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03210-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03210-z
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03210-z The ink could be useful for medical tattooing, but more tests are needed before it is widely available.
-
-## 6. An experiment to glimpse the future Amazon — in pictures
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-02909-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02909-3
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-02909-3 David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?
-
-## 7. Publisher Correction: Sleep chart of biological ageing clocks in middle and late life
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/s41586-026-11273-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11273-1
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/s41586-026-11273-1 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life
-
-## 8. Five movements from the edge of the singularity
-
-- 期刊：Nature
-- 日期：2026-10-09
-- DOI：10.1038/d41586-026-03116-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03116-w
-
-摘要精简：Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03116-w Change is in the air.
-
-## 9. The science of superintelligence and why AI is still a useful word
+## 1. An early predecessor to mammals could swim, suckle and swallow
 
 - 期刊：Nature
 - 日期：2026-10-07
-- DOI：10.1038/d41586-026-03198-6
+- DOI：10.1038/d41586-026-03069-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03198-6
+- 链接：https://www.nature.com/articles/d41586-026-03069-0
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03198-6 President Donald Trump wants to replace ‘artificial intelligence’ with ‘Super Intelligence’ — but there are questions about whether we’re there yet.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03069-0 A fossil of an early ancestor of mammals from the Jurassic period reveals a mammal-like throat passage (pharynx) and throat bones (hyoids). It fills a gap in our knowledge about...
 
-## 10. Gut microbes that trace ancient human journeys
+## 2. Daily briefing: Chemistry Nobel goes to mirror-molecule researchers
 
 - 期刊：Nature
 - 日期：2026-10-07
-- DOI：10.1038/d41586-026-02969-5
+- DOI：10.1038/d41586-026-03212-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02969-5
+- 链接：https://www.nature.com/articles/d41586-026-03212-x
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02969-5 The Indigenous African Hadza and South American Tsimane share gut microorganisms that shed light on human dispersals and microbial losses in industrialized societies.
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03212-x Henri Kagan and Kenso Soai have won the Nobel Prize in Chemistry. Plus, the biggest success stories in cancer survival and one of the biggest debates in neuroscience.
+
+## 3. Can your brain grow new neurons? How researchers are solving a century-old puzzle
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03132-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03132-w
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03132-w Scientists have debated for decades whether the human brain sprouts new neurons throughout life. What would it mean if it could — and how much evidence is enough?
+
+## 4. Australia’s bush fires got worse after British colonization — this is why
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03184-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03184-y
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03184-y The suppression of Indigenous burning practices probably spurred the growth of flammable forests.
+
+## 5. Why we must advocate for proper care on the frontlines of the Ebola outbreak
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02983-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02983-7
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02983-7 As the Bundibugyo virus public-health crisis continues to evolve, physician Richard Kojan is finding ways to care for people with the infection and helping relatives to visit loved...
+
+## 6. Revealed: how this common gut microbe protects against heart disease
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03189-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03189-7
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03189-7 Intestinal bacterium secretes a molecule that reduces cholesterol production, according to a mouse study.
+
+## 7. OpenAI posts 700 maths preprints online: mathematicians are up in arms
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03196-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03196-8
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03196-8 The firm used an unreleased model to tackle hundreds of high-profile problems.
+
+## 8. How to control where semiconductor crystals start growing
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-02934-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02934-2
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02934-2 Semiconductor crystals grow from tiny nuclei, but the position of these nuclei is difficult to control precisely and can affect the crystal’s properties. An approach using ‘etching...
+
+## 9. Chemistry Nobel awarded for solving mystery of how ‘handed’ organic molecules can emerge
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/d41586-026-03093-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03093-0
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03093-0 Prize goes to two chemists who probed why life favours one mirror-image molecule over another.
+
+## 10. Observation of relativistic bond weakening in seaborgium hexacarbonyl
+
+- 期刊：Nature
+- 日期：2026-10-07
+- DOI：10.1038/s41586-026-11105-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11105-2
+
+摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11105-2 Gas chromatography analysis of compounds formed by the superheavy element seaborgium shows that the hexacarbonyl complex Sg(CO)6 exhibits lower first bond dissociation energy than the...
