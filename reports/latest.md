@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-12 06:23
+生成时间：2026-10-13 07:01
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. RNA catalysis emerges from dynamic structural ensembles
+## 1. Award-winning microscopy image disqualified over AI use
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11140-z
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03240-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11140-z
+- 链接：https://www.nature.com/articles/d41586-026-03240-7
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11140-z RNase P RNA forms shifting active and inactive conformers whose catalytic activity depends on Mg2+-driven tertiary-interaction dynamics, which are modulated by binding of accessory...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.
 
-## 2. A thorium-229 optical nuclear clock with feedback loop
+## 2. Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11084-4
+- 日期：2026-10-12
+- DOI：10.1038/s41586-026-11253-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11084-4
+- 链接：https://www.nature.com/articles/s41586-026-11253-5
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11084-4 A thorium-229 nuclear clock is realized by stabilizing a continuous-wave laser to the 148-nm nuclear excitation with a rapid feedback loop based on absorption spectroscopy.
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11253-5 Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
 
-## 3. Structural basis for regulating lipopolysaccharide transmembrane transport
+## 3. Keep medical doctors in academia — without them, health-care research will suffer
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11129-8
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03225-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11129-8
+- 链接：https://www.nature.com/articles/d41586-026-03225-6
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11129-8 Structures of the protein machinery in Gram-negative bacteria that transports lipopolysaccharide (LPS) from the cytoplasmic membrane to the outer leaflet of the outer membrane reveal...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.
 
-## 4. A nuclear clock synchronized to 229 Th
+## 4. Economics Nobel awarded for work on stabilizing economies in crisis
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11122-1
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03251-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11122-1
+- 链接：https://www.nature.com/articles/d41586-026-03251-4
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11122-1 A nuclear clock synchronized to 229Th establishes laser-addressed nuclei as operational clock references and 229Th:CaF2 as a stable, reproducible solid-state platform for compact...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03251-4 Laureates share award that builds on the theories that contributed to governments intervening during the COVID-19 pandemic.
 
-## 5. Hydrogen bonding in water under extreme confinement
+## 5. Beyond the solvent fog: watching molecules dance in the crowd
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-10858-0
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-02970-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10858-0
+- 链接：https://www.nature.com/articles/d41586-026-02970-y
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-10858-0 A new technique allows direct nanoscale observations of the vibrational response of water confined inside carbon nanotubes, revealing that high degrees of confinement disrupt the...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02970-y A technique called time-resolved X-ray liquidography has been used to shed precision light on the steps involved in a classic chemical reaction.
 
-## 6. Alveolar stem cells transdifferentiate to drive bronchiolar regeneration
+## 6. What does a PhD pay? Data reveal huge gaps across Europe
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11127-w
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03181-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11127-w
+- 链接：https://www.nature.com/articles/d41586-026-03181-1
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11127-w Identification of a cross-compartmental cellular mechanism for bronchiolar epithelial repair informs therapeutic strategies for airway injury.
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03181-1 Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.
 
-## 7. Experimental observation of critical topology
+## 7. Hidden signals in sleep can predict future health
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11099-x
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03207-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11099-x
+- 链接：https://www.nature.com/articles/d41586-026-03207-8
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11099-x Experimental evidence indicating that critical gapless topological states can be characterized by the entanglement spectrum and wavefunctions is presented, demonstrating persistence...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03207-8 From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.
 
-## 8. Prehistoric global migration of vanishing gut microbes with humans
+## 8. I told ChatGPT to ‘continue’ — it went too far
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11106-1
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-02714-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11106-1
+- 链接：https://www.nature.com/articles/d41586-026-02714-y
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11106-1 Microbial species disappearing from industrialized populations have evolved with humans over millennia and migrated worldwide with them—this may have consequences for human health.
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02714-y An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.
 
-## 9. A preinvasive regulatory T cell axis for lung cancer interception
+## 9. Does the decline of book reading mark the end of rational thinking?
 
 - 期刊：Nature
-- 日期：2026-10-07
-- DOI：10.1038/s41586-026-11066-6
+- 日期：2026-10-12
+- DOI：10.1038/d41586-026-03224-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11066-6
+- 链接：https://www.nature.com/articles/d41586-026-03224-7
 
-摘要精简：Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11066-6 An effector regulatory T cell circuit is identified that can be monitored in blood samples to track the development of lung cancer, and blockade of this immune network in the...
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03224-7 Smartphones and artificial intelligence are undermining our ability to follow a complex argument, with grave consequences.
 
-## 10. An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging
+## 10. Antiviral immunity via telomerase-like reverse transcription in bacteria
 
-- 期刊：Nature Methods
-- 日期：2026-10-09
-- DOI：10.1038/s41592-026-03265-w
+- 期刊：Nature
+- 日期：2026-10-12
+- DOI：10.1038/s41586-026-11250-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03265-w
+- 链接：https://www.nature.com/articles/s41586-026-11250-8
 
-摘要精简：Nature Methods, Published online: 09 October 2026; doi:10.1038/s41592-026-03265-w An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging
+摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11250-8 Antiviral immunity via telomerase-like reverse transcription in bacteria
