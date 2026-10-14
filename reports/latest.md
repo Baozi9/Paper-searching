@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-13 07:01
+生成时间：2026-10-14 05:16
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Award-winning microscopy image disqualified over AI use
+## 1. China’s AI research is booming. Where is it headed?
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03240-7
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03223-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03240-7
+- 链接：https://www.nature.com/articles/d41586-026-03223-8
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.
 
-## 2. Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
+## 2. China’s extraordinary rise in science and how it will change the world
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/s41586-026-11253-5
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03222-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11253-5
+- 链接：https://www.nature.com/articles/d41586-026-03222-9
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11253-5 Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power.
 
-## 3. Keep medical doctors in academia — without them, health-care research will suffer
+## 3. Preserve research data for tomorrow’s AI-enabled integrity checks
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03225-6
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-03244-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03225-6
+- 链接：https://www.nature.com/articles/d41586-026-03244-3
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow’s AI-enabled integrity checks
 
-## 4. Economics Nobel awarded for work on stabilizing economies in crisis
+## 4. Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03251-4
+- 日期：2026-10-13
+- DOI：10.1038/s41586-026-11257-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03251-4
+- 链接：https://www.nature.com/articles/s41586-026-11257-1
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03251-4 Laureates share award that builds on the theories that contributed to governments intervening during the COVID-19 pandemic.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11257-1 Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling
 
-## 5. Beyond the solvent fog: watching molecules dance in the crowd
+## 5. Decentralized AI needs more evidence on energy use
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-02970-y
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-03245-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02970-y
+- 链接：https://www.nature.com/articles/d41586-026-03245-2
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02970-y A technique called time-resolved X-ray liquidography has been used to shed precision light on the steps involved in a classic chemical reaction.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use
 
-## 6. What does a PhD pay? Data reveal huge gaps across Europe
+## 6. Selective, Catalytic Oxidation of Polyethylene Surfaces
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03181-1
+- 日期：2026-10-13
+- DOI：10.1038/s41586-026-11255-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03181-1
+- 链接：https://www.nature.com/articles/s41586-026-11255-3
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03181-1 Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11255-3 Selective, Catalytic Oxidation of Polyethylene Surfaces
 
-## 7. Hidden signals in sleep can predict future health
+## 7. Lead-tainted teeth reveal medieval mines’ unequal toll
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03207-8
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-03236-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03207-8
+- 链接：https://www.nature.com/articles/d41586-026-03236-3
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03207-8 From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
 
-## 8. I told ChatGPT to ‘continue’ — it went too far
+## 8. When microbes degrade plastic, where does it go?
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-02714-y
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-03246-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02714-y
+- 链接：https://www.nature.com/articles/d41586-026-03246-1
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02714-y An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03246-1 When microbes degrade plastic, where does it go?
 
-## 9. Does the decline of book reading mark the end of rational thinking?
+## 9. A mysterious jelly seems to be left behind by toads
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/d41586-026-03224-7
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-02974-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03224-7
+- 链接：https://www.nature.com/articles/d41586-026-02974-8
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03224-7 Smartphones and artificial intelligence are undermining our ability to follow a complex argument, with grave consequences.
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-02974-8 A scientist puzzles over the origins of a curious gelatinous substance, and the complexities of measuring time, in our weekly dip into Nature’s archive.
 
-## 10. Antiviral immunity via telomerase-like reverse transcription in bacteria
+## 10. Why not every global problem can be tackled by an IPCC-like organization
 
 - 期刊：Nature
-- 日期：2026-10-12
-- DOI：10.1038/s41586-026-11250-8
+- 日期：2026-10-13
+- DOI：10.1038/d41586-026-03234-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11250-8
+- 链接：https://www.nature.com/articles/d41586-026-03234-5
 
-摘要精简：Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11250-8 Antiviral immunity via telomerase-like reverse transcription in bacteria
+摘要精简：Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03234-5 Why not every global problem can be tackled by an IPCC-like organization
