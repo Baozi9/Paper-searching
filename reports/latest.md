@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-17 04:53
+生成时间：2026-10-18 05:00
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Briefing Chat: An invisible tattoo that appears under UV light – and then disappears
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03341-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03341-3
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.
-
-## 2. The pianist who never played
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03112-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03112-0
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.
-
-## 3. IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03308-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03308-4
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4 Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.
-
-## 4. Memory stays strong in old age when this brain enzyme is active
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03303-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03303-9
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.
-
-## 5. Unprecedented atlas explores mitochondria across the tree of life
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03195-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03195-9
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03195-9 The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.
-
-## 6. PhD students who write dissertation with AI less likely to stay in academia
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03253-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03253-2
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03253-2 US PhD graduates who used artificial intelligence were more likely to work in industry.
-
-## 7. History’s long-secret codes are being cracked by amateurs using AI
-
-- 期刊：Nature
-- 日期：2026-10-16
-- DOI：10.1038/d41586-026-03338-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03338-y
-
-摘要精简：Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-y Cryptographers’ inboxes are being flooded with requests to validate cipher solutions.
-
-## 8. Daily briefing: Bleached corals revived by healthy neighbour’s touch
-
-- 期刊：Nature
-- 日期：2026-10-15
-- DOI：10.1038/d41586-026-03336-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03336-0
-
-摘要精简：Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03336-0 Ghostly white corals are fully restored in eight weeks by contact with a healthy counterpart. Plus, arXiv is capping submissions per researcher and four good news stories to brighten...
-
-## 9. Large blind test of methane-detecting satellites lends credibility to emissions data
+## 1. Protecting nature means valuing biodiversity
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03075-2
+- DOI：10.1038/d41586-026-03219-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03075-2
+- 链接：https://www.nature.com/articles/d41586-026-03219-4
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03075-2 Twelve methane-sensing satellites were tested for their accuracy in measuring controlled-release events in the Arizona desert over a year-long blind test. Many were found to detect...
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03219-4 Appeals for extra money are failing. Fundamental changes are needed to safeguard the planet for future generations.
 
-## 10. Daily briefing: China’s extraordinary rise in science
+## 2. ‘Incredible’: bleached corals thrive within days when touching healthy neighbour
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03322-6
+- DOI：10.1038/d41586-026-03266-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03322-6
+- 链接：https://www.nature.com/articles/d41586-026-03266-x
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03322-6 Explore China’s efforts to grow its scientific and technological might. Plus, how butterflies trick the eye and what could be the oldest shipwreck ever found.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03266-x A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.
+
+## 3. Alveolar stem cells go beyond making gas-exchange cells to repair damaged airways
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03085-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03085-0
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03085-0 Alveolar type 2 (AT2) cells are the stem cells of the lung’s air sacs and are responsible for maintaining alveolar structure and gas exchange. A study that tracked AT2 cells shows...
+
+## 4. Hydrogels and MRI: meet three biomedical engineers reshaping health care
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03205-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03205-w
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03205-w Researchers are making great advances across medical disciplines, using a wide range of tools and processes.
+
+## 5. How early tetrapods got their neck
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03061-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03061-8
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03061-8 As fish evolved into four-limbed creatures, their skull separated from their shoulders to form a neck. Now we learn that this early neck was surprisingly rigid.
+
+## 6. Structural basis of ligand recognition and gating in mosquito IRs
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/s41586-026-11239-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11239-3
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11239-3 Structural basis of ligand recognition and gating in mosquito IRs
+
+## 7. Overlooked brown fat in our bodies linked to wide range of health benefits
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03302-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03302-w
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03302-w Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.
+
+## 8. Smartwatch health data are piling up. How can doctors keep pace?
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/d41586-026-03203-y
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03203-y
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03203-y To harness the full value of wearable devices for monitoring and diagnosing medical conditions, protocols must be established.
+
+## 9. Evidence for multi-Li + clustering in lithium-ion battery electrolytes
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/s41586-026-11138-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11138-7
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11138-7 Machine-learning-enabled atomistic simulations, spectroscopy, electrochemical data and quantum-chemical calculations reveal previously unstudied multi-lithium-ion complexes without...
+
+## 10. Global conservation area coverage substantially exceeds current estimates
+
+- 期刊：Nature
+- 日期：2026-10-14
+- DOI：10.1038/s41586-026-11157-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11157-4
+
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11157-4 A globally representative sample of 25 countries and territories indicates that conservation areas cover 26.81% of the land, much closer to the 30% by 2030 target than officially...
