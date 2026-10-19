@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-18 05:00
+生成时间：2026-10-19 05:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Protecting nature means valuing biodiversity
+## 1. Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03219-4
+- DOI：10.1038/s41586-026-11176-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03219-4
+- 链接：https://www.nature.com/articles/s41586-026-11176-1
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03219-4 Appeals for extra money are failing. Fundamental changes are needed to safeguard the planet for future generations.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11176-1 A tetravalent nanobody-based myeloid-selective IL-10 receptor agonist recapitulates IL-10’s potent suppression of monocytes, macrophages and dendritic cells while avoiding stimulation...
 
-## 2. ‘Incredible’: bleached corals thrive within days when touching healthy neighbour
+## 2. Elp1 is required for myeloid differentiation and brain repopulation
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03266-x
+- DOI：10.1038/s41586-026-11112-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03266-x
+- 链接：https://www.nature.com/articles/s41586-026-11112-3
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03266-x A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11112-3 Primary cultured haematopoietic stem and progenitor cells are used to analyse the molecular mechanisms of brain myeloid differentiation, and this platform enabled the identification...
 
-## 3. Alveolar stem cells go beyond making gas-exchange cells to repair damaged airways
+## 3. Modelling mouse embryogenesis from chemically induced totipotent stem cells
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03085-0
+- DOI：10.1038/s41586-026-11164-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03085-0
+- 链接：https://www.nature.com/articles/s41586-026-11164-5
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03085-0 Alveolar type 2 (AT2) cells are the stem cells of the lung’s air sacs and are responsible for maintaining alveolar structure and gas exchange. A study that tracked AT2 cells shows...
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11164-5 A mouse embryo model derived from chemically induced totipotent-like stem cells progresses through key developmental milestones, including gastrulation, embryonic axis formation,...
 
-## 4. Hydrogels and MRI: meet three biomedical engineers reshaping health care
+## 4. Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03205-w
+- DOI：10.1038/s41586-026-11065-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03205-w
+- 链接：https://www.nature.com/articles/s41586-026-11065-7
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03205-w Researchers are making great advances across medical disciplines, using a wide range of tools and processes.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11065-7 The mechanical properties of medium-entropy alloys at 20 K show a plateau in tensile yield strength and fracture toughness as a function of temperature, with no apparent ductile-to-...
 
-## 5. How early tetrapods got their neck
+## 5. Parity-dependent coupling of molecular spin chains to a superconductor
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03061-8
+- DOI：10.1038/s41586-026-11117-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03061-8
+- 链接：https://www.nature.com/articles/s41586-026-11117-y
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03061-8 As fish evolved into four-limbed creatures, their skull separated from their shoulders to form a neck. Now we learn that this early neck was surprisingly rigid.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11117-y Scanning tunnelling spectroscopy shows that the fractional spin-1/2 end states of molecular Haldane chains couple differently to a superconducting condensate depending on whether the...
 
-## 6. Structural basis of ligand recognition and gating in mosquito IRs
+## 6. Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/s41586-026-11239-3
+- DOI：10.1038/s41586-026-11171-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11239-3
+- 链接：https://www.nature.com/articles/s41586-026-11171-6
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11239-3 Structural basis of ligand recognition and gating in mosquito IRs
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11171-6 R(+)2501 reverses capillary no-reflow by relaxing pericytes, restoring microvascular perfusion and improving survival in animal models of myocardial infarction and acute kidney injury.
 
-## 7. Overlooked brown fat in our bodies linked to wide range of health benefits
+## 7. Evaluating space-based methane detection through a one-year blind test
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03302-w
+- DOI：10.1038/s41586-026-11115-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03302-w
+- 链接：https://www.nature.com/articles/s41586-026-11115-0
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03302-w Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11115-0 A year-long single-blind study shows that multiple satellites can accurately detect and quantify methane point-source emissions.
 
-## 8. Smartwatch health data are piling up. How can doctors keep pace?
+## 8. De novo design of cysteine proteases
 
 - 期刊：Nature
 - 日期：2026-10-14
-- DOI：10.1038/d41586-026-03203-y
+- DOI：10.1038/s41586-026-11143-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03203-y
+- 链接：https://www.nature.com/articles/s41586-026-11143-w
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03203-y To harness the full value of wearable devices for monitoring and diagnosing medical conditions, protocols must be established.
+摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11143-w De novo-designed enzymes use an activated cysteine nucleophile to hydrolyse polypeptide backbones in a sequence-dependent manner.
 
-## 9. Evidence for multi-Li + clustering in lithium-ion battery electrolytes
+## 9. Recent developments of fluorescent proteins and biosensors driven by cross-disciplinary insights
 
-- 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11138-7
+- 期刊：Nature Methods
+- 日期：2026-10-16
+- DOI：10.1038/s41592-026-03268-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11138-7
+- 链接：https://www.nature.com/articles/s41592-026-03268-7
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11138-7 Machine-learning-enabled atomistic simulations, spectroscopy, electrochemical data and quantum-chemical calculations reveal previously unstudied multi-lithium-ion complexes without...
+摘要精简：Nature Methods, Published online: 16 October 2026; doi:10.1038/s41592-026-03268-7 This Review summarizes recent developments in fluorescent protein technology, including the engineering of fluorescent biosensors.
 
-## 10. Global conservation area coverage substantially exceeds current estimates
+## 10. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes
 
-- 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11157-4
+- 期刊：Nature Methods
+- 日期：2026-10-16
+- DOI：10.1038/s41592-026-03264-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11157-4
+- 链接：https://www.nature.com/articles/s41592-026-03264-x
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11157-4 A globally representative sample of 25 countries and territories indicates that conservation areas cover 26.81% of the land, much closer to the 30% by 2030 target than officially...
+摘要精简：Nature Methods, Published online: 16 October 2026; doi:10.1038/s41592-026-03264-x AmpliconSuite is a toolkit that enables the analysis of focal amplifications from cancer whole-genome sequencing data.
