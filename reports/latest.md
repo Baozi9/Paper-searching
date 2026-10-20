@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-19 05:09
+生成时间：2026-10-20 05:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism
+## 1. Toxic chemicals in fentanyl revealed by speedy technique
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11176-1
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03317-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11176-1
+- 链接：https://www.nature.com/articles/d41586-026-03317-3
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11176-1 A tetravalent nanobody-based myeloid-selective IL-10 receptor agonist recapitulates IL-10’s potent suppression of monocytes, macrophages and dendritic cells while avoiding stimulation...
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.
 
-## 2. Elp1 is required for myeloid differentiation and brain repopulation
+## 2. Light and mirrors move large quantum computers closer to reality
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11112-3
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03237-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11112-3
+- 链接：https://www.nature.com/articles/d41586-026-03237-2
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11112-3 Primary cultured haematopoietic stem and progenitor cells are used to analyse the molecular mechanisms of brain myeloid differentiation, and this platform enabled the identification...
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2 Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.
 
-## 3. Modelling mouse embryogenesis from chemically induced totipotent stem cells
+## 3. Audio long read: How to stay smart in the age of AI — the science of critical thinking
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11164-5
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03228-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11164-5
+- 链接：https://www.nature.com/articles/d41586-026-03228-3
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11164-5 A mouse embryo model derived from chemically induced totipotent-like stem cells progresses through key developmental milestones, including gastrulation, embryonic axis formation,...
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.
 
-## 4. Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K
+## 4. US government probe into postdoc visas worries scientists
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11065-7
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03345-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11065-7
+- 链接：https://www.nature.com/articles/d41586-026-03345-z
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11065-7 The mechanical properties of medium-entropy alloys at 20 K show a plateau in tensile yield strength and fracture toughness as a function of temperature, with no apparent ductile-to-...
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03345-z The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international...
 
-## 5. Parity-dependent coupling of molecular spin chains to a superconductor
+## 5. Microdosing LSD shows some cognitive benefits — but only for women
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11117-y
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03265-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11117-y
+- 链接：https://www.nature.com/articles/d41586-026-03265-y
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11117-y Scanning tunnelling spectroscopy shows that the fractional spin-1/2 end states of molecular Haldane chains couple differently to a superconducting condensate depending on whether the...
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-y Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation.
 
-## 6. Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades
+## 6. How pregnancy reshapes the brain throughout life
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11171-6
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03312-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11171-6
+- 链接：https://www.nature.com/articles/d41586-026-03312-8
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11171-6 R(+)2501 reverses capillary no-reflow by relaxing pericytes, restoring microvascular perfusion and improving survival in animal models of myocardial infarction and acute kidney injury.
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03312-8 Neuroscience is mapping changes in the brain during pregnancy. What they mean for future health is yet to be pinned down.
 
-## 7. Evaluating space-based methane detection through a one-year blind test
+## 7. Climate scientists face deluge of public-records requests about fossil-fuel studies
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11115-0
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03275-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11115-0
+- 链接：https://www.nature.com/articles/d41586-026-03275-w
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11115-0 A year-long single-blind study shows that multiple satellites can accurately detect and quantify methane point-source emissions.
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-w A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science.
 
-## 8. De novo design of cysteine proteases
+## 8. ‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts
 
 - 期刊：Nature
-- 日期：2026-10-14
-- DOI：10.1038/s41586-026-11143-w
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03315-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11143-w
+- 链接：https://www.nature.com/articles/d41586-026-03315-5
 
-摘要精简：Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11143-w De novo-designed enzymes use an activated cysteine nucleophile to hydrolyse polypeptide backbones in a sequence-dependent manner.
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03315-5 Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going.
 
-## 9. Recent developments of fluorescent proteins and biosensors driven by cross-disciplinary insights
+## 9. Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last
 
-- 期刊：Nature Methods
-- 日期：2026-10-16
-- DOI：10.1038/s41592-026-03268-7
+- 期刊：Nature
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03339-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03268-7
+- 链接：https://www.nature.com/articles/d41586-026-03339-x
 
-摘要精简：Nature Methods, Published online: 16 October 2026; doi:10.1038/s41592-026-03268-7 This Review summarizes recent developments in fluorescent protein technology, including the engineering of fluorescent biosensors.
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03339-x Researchers have found a link between a scientist’s experience and and whether their ideas have a lasting influence.
 
-## 10. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes
+## 10. Three reasons why AI is not conscious and perhaps never will be
 
-- 期刊：Nature Methods
-- 日期：2026-10-16
-- DOI：10.1038/s41592-026-03264-x
+- 期刊：Nature
+- 日期：2026-10-19
+- DOI：10.1038/d41586-026-03313-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03264-x
+- 链接：https://www.nature.com/articles/d41586-026-03313-7
 
-摘要精简：Nature Methods, Published online: 16 October 2026; doi:10.1038/s41592-026-03264-x AmpliconSuite is a toolkit that enables the analysis of focal amplifications from cancer whole-genome sequencing data.
+摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03313-7 Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.
