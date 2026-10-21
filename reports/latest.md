@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-20 05:09
+生成时间：2026-10-21 05:11
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Toxic chemicals in fentanyl revealed by speedy technique
+## 1. Is it ‘moon-stroke’, or a chill?
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03317-3
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-02975-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03317-3
+- 链接：https://www.nature.com/articles/d41586-026-02975-7
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-02975-7 An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.
 
-## 2. Light and mirrors move large quantum computers closer to reality
+## 2. Bundle water safeguards into critical-mineral licences
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03237-2
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03353-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03237-2
+- 链接：https://www.nature.com/articles/d41586-026-03353-z
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2 Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z Bundle water safeguards into critical-mineral licences
 
-## 3. Audio long read: How to stay smart in the age of AI — the science of critical thinking
+## 3. Nobel-prizewinning breakthroughs can emerge from neglected organisms
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03228-3
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03351-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03228-3
+- 链接：https://www.nature.com/articles/d41586-026-03351-1
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03351-1 Nobel-prizewinning breakthroughs can emerge from neglected organisms
 
-## 4. US government probe into postdoc visas worries scientists
+## 4. Conservation planning should follow animal clocks
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03345-z
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03354-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03345-z
+- 链接：https://www.nature.com/articles/d41586-026-03354-y
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03345-z The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international...
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03354-y Conservation planning should follow animal clocks
 
-## 5. Microdosing LSD shows some cognitive benefits — but only for women
+## 5. Europe and the rest of the world must come up with an answer to US science strategy
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03265-y
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03352-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03265-y
+- 链接：https://www.nature.com/articles/d41586-026-03352-0
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-y Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03352-0 Europe and the rest of the world must come up with an answer to US science strategy
 
-## 6. How pregnancy reshapes the brain throughout life
+## 6. Butterfly wing patterns make motion hard to read
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03312-8
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03062-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03312-8
+- 链接：https://www.nature.com/articles/d41586-026-03062-7
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03312-8 Neuroscience is mapping changes in the brain during pregnancy. What they mean for future health is yet to be pinned down.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7 Movement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.
 
-## 7. Climate scientists face deluge of public-records requests about fossil-fuel studies
+## 7. Nature ’s job-satisfaction survey highlights the changing geography of science
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03275-w
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03327-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03275-w
+- 链接：https://www.nature.com/articles/d41586-026-03327-1
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-w A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1 A higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.
 
-## 8. ‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts
+## 8. Will this sleep-disorder drug be the next big blockbuster?
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03315-5
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03310-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03315-5
+- 链接：https://www.nature.com/articles/d41586-026-03310-w
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03315-5 Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w Orexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.
 
-## 9. Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last
+## 9. Can a human survive in a whale’s belly? The science behind the thriller Whalefall
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03339-x
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03358-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03339-x
+- 链接：https://www.nature.com/articles/d41586-026-03358-8
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03339-x Researchers have found a link between a scientist’s experience and and whether their ideas have a lasting influence.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8 Nature spoke to marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.
 
-## 10. Three reasons why AI is not conscious and perhaps never will be
+## 10. It’s time to teach peer review as a core research skill
 
 - 期刊：Nature
-- 日期：2026-10-19
-- DOI：10.1038/d41586-026-03313-7
+- 日期：2026-10-20
+- DOI：10.1038/d41586-026-03200-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03313-7
+- 链接：https://www.nature.com/articles/d41586-026-03200-1
 
-摘要精简：Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03313-7 Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.
+摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03200-1 Preprint journal clubs offer a scalable way to make peer-review training a routine part of scientific education.
