@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-21 05:11
+生成时间：2026-10-22 05:15
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Is it ‘moon-stroke’, or a chill?
+## 1. De novo design of enantioselective artificial metalloenzyme photocatalysts
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-02975-7
+- 日期：2026-10-21
+- DOI：10.1038/s41586-026-11317-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02975-7
+- 链接：https://www.nature.com/articles/s41586-026-11317-6
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-02975-7 An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6 De novo design of enantioselective artificial metalloenzyme photocatalysts
 
-## 2. Bundle water safeguards into critical-mineral licences
+## 2. Scientists put a salt marsh in a giant wave-machine: here's what they learned
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03353-z
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03376-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03353-z
+- 链接：https://www.nature.com/articles/d41586-026-03376-6
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z Bundle water safeguards into critical-mineral licences
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6 Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.
 
-## 3. Nobel-prizewinning breakthroughs can emerge from neglected organisms
+## 3. Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03351-1
+- 日期：2026-10-21
+- DOI：10.1038/s41586-026-11252-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03351-1
+- 链接：https://www.nature.com/articles/s41586-026-11252-6
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03351-1 Nobel-prizewinning breakthroughs can emerge from neglected organisms
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids
 
-## 4. Conservation planning should follow animal clocks
+## 4. Surprise! White dwarf stars come in a rainbow of colours
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03354-y
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03319-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03354-y
+- 链接：https://www.nature.com/articles/d41586-026-03319-1
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03354-y Conservation planning should follow animal clocks
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.
 
-## 5. Europe and the rest of the world must come up with an answer to US science strategy
+## 5. To heal sick cities, scientists and residents must work together
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03352-0
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03161-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03352-0
+- 链接：https://www.nature.com/articles/d41586-026-03161-5
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03352-0 Europe and the rest of the world must come up with an answer to US science strategy
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03161-5 Tolullah Oni has developed a platform to transfer the intellectual capital of African diaspora scholars back to the continent.
 
-## 6. Butterfly wing patterns make motion hard to read
+## 6. An AI tool improves weather forecasts up to a month ahead
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03062-7
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03077-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03062-7
+- 链接：https://www.nature.com/articles/d41586-026-03077-0
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7 Movement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03077-0 An innovative artificial-intelligence application enhances weather forecasting in the difficult subseasonal range, providing accurate forecasts of precipitation, temperature and...
 
-## 7. Nature ’s job-satisfaction survey highlights the changing geography of science
+## 7. Teen depression and anxiety predicted by childhood brain development
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03327-1
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03357-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03327-1
+- 链接：https://www.nature.com/articles/d41586-026-03357-9
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1 A higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.
 
-## 8. Will this sleep-disorder drug be the next big blockbuster?
+## 8. Using AI to offer personalized health advice
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03310-w
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03065-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03310-w
+- 链接：https://www.nature.com/articles/d41586-026-03065-4
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w Orexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03065-4 The use of artificial-intelligence tools in medicine is increasing. What types of technology might be on the horizon and how can such health-advice tools be tested?
 
-## 9. Can a human survive in a whale’s belly? The science behind the thriller Whalefall
+## 9. Global emissions slow — but world hurtles towards 2 °C of warming
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03358-8
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03355-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03358-8
+- 链接：https://www.nature.com/articles/d41586-026-03355-x
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8 Nature spoke to marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach.
 
-## 10. It’s time to teach peer review as a core research skill
+## 10. Huge mapping study reveals how your brain tracks what your body is feeling
 
 - 期刊：Nature
-- 日期：2026-10-20
-- DOI：10.1038/d41586-026-03200-1
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03334-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03200-1
+- 链接：https://www.nature.com/articles/d41586-026-03334-2
 
-摘要精简：Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03200-1 Preprint journal clubs offer a scalable way to make peer-review training a routine part of scientific education.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03334-2 Signals in the insula region, deep in the brain, can make people feel hot, tingly and nauseous.
