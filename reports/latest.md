@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-24 04:56
+生成时间：2026-10-25 05:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells
+## 1. AI doctors’ orders come with a sky-high bill
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/s41586-026-11303-y
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03320-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11303-y
+- 链接：https://www.nature.com/articles/d41586-026-03320-8
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03320-8 Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care.
 
-## 2. Elusive snow leopards and evasive particles: Books in brief
+## 2. Daily briefing: How tech billionaires are changing science funding
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03395-3
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03400-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03395-3
+- 链接：https://www.nature.com/articles/d41586-026-03400-9
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03400-9 Ultra-rich philanthropists are disrupting biomedical science. Plus, why physicists have kept an antimatter particle caged for months and whether it’s really possible to be swallowed...
 
-## 3. Sleep declines in rural communities after electricity arrives
+## 3. Large-scale single crystals printed layer by layer
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03318-2
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03257-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03318-2
+- 链接：https://www.nature.com/articles/d41586-026-03257-y
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03257-y A 3D-printing method has made single crystals of metals and alloys in complex shapes and up to one metre in length, as needed for advanced technological applications.
 
-## 4. Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent
+## 4. A single antimatter particle in a cage opens door to ‘revolutionary’ physics
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03418-z
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03342-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03418-z
+- 链接：https://www.nature.com/articles/d41586-026-03342-2
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03342-2 Physicists trap and cool down positron for months to measure its ‘magnetic moment’ with extraordinary precision.
 
-## 5. First person infected with rare Shamonda virus: what we know
+## 5. Robert Williamson obituary: geneticist who mapped genes for muscular dystrophy and cystic fibrosis
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03416-1
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03375-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03416-1
+- 链接：https://www.nature.com/articles/d41586-026-03375-7
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03375-7 Researcher and policy adviser who championed tests and treatments for genetic diseases.
 
-## 6. Elizabeth Holmes film enthralls — but her legacy haunts science
+## 6. Fabric user interface can be worn on your sleeve — and machine-washed
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03383-7
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03064-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03383-7
+- 链接：https://www.nature.com/articles/d41586-026-03064-5
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 You Can See Everything brings blood-testing start-ups back into the public eye. They persevere in Theranos’s shadow.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03064-5 Touch-sensitive, light-emitting yarn can turn everyday clothing into washable, bendable user interfaces with dynamic graphics and versatile computing functions.
 
-## 7. Rebody
+## 7. How tech billionaires are disrupting biomedical science
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03108-w
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03311-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03108-w
+- 链接：https://www.nature.com/articles/d41586-026-03311-9
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w Fighting fit.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03311-9 Money from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?
 
-## 8. Moderna mRNA vaccine almost halves the risk of skin cancer returning
+## 8. How a new wave of science philanthropists can have the greatest impact
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-03417-0
+- 日期：2026-10-21
+- DOI：10.1038/d41586-026-03326-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03417-0
+- 链接：https://www.nature.com/articles/d41586-026-03326-2
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03326-2 Tech entrepreneurs are bringing an engineer’s eye to research funding. They must be open about their findings to reap maximum benefit.
 
-## 9. I’m expected to work excessive hours in the lab. Should I speak up about my disability?
+## 9. Multimodal precision diagnostics in clinical xenotransplantation
 
 - 期刊：Nature
-- 日期：2026-10-23
-- DOI：10.1038/d41586-026-02582-6
+- 日期：2026-10-21
+- DOI：10.1038/s41586-026-11096-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02582-6
+- 链接：https://www.nature.com/articles/s41586-026-11096-0
 
-摘要精简：Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-02582-6 What can a researcher in an overworked laboratory do to take care of themselves and their lab-mates, and how should they navigate medical disclosure?
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11096-0 Now that hyperacute rejection of pig xenografts can be reliably prevented, subtler immune-mediated graft injuries have emerged that conventional diagnostics often miss; a multimodal...
 
-## 10. Daily briefing: The tell-tale features of a Denisovan
+## 10. The contribution of salt marshes to wave attenuation during extreme storms
 
 - 期刊：Nature
-- 日期：2026-10-22
-- DOI：10.1038/d41586-026-03438-9
+- 日期：2026-10-21
+- DOI：10.1038/s41586-026-11145-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03438-9
+- 链接：https://www.nature.com/articles/s41586-026-11145-8
 
-摘要精简：Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03438-9 See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11145-8 Salt marsh platforms resist erosion under extreme waves, but vegetation damage reduces wave attenuation; substantial wave attenuation by vegetation is mainly limited to low-energy...
