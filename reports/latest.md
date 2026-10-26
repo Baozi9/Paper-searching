@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-25 05:09
+生成时间：2026-10-26 05:11
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. AI doctors’ orders come with a sky-high bill
+## 1. ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2
+
+- 期刊：Nature
+- 日期：2026-10-25
+- DOI：10.1038/s41586-026-11328-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11328-3
+
+摘要精简：Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2
+
+## 2. Zeolite-catalysed olefin carbonylation based on tuning spatial confinement
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03320-8
+- DOI：10.1038/s41586-026-11183-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03320-8
+- 链接：https://www.nature.com/articles/s41586-026-11183-2
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03320-8 Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11183-2 The use of zeolites with an appropriate pore structure combined with a high CO/olefin ratio is shown to catalyse olefin carbonylation and produce primary and secondary carboxylic...
 
-## 2. Daily briefing: How tech billionaires are changing science funding
+## 3. Cold activates a BH2 metabolic network promoting longevity and proteostasis
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03400-9
+- DOI：10.1038/s41586-026-11152-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03400-9
+- 链接：https://www.nature.com/articles/s41586-026-11152-9
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03400-9 Ultra-rich philanthropists are disrupting biomedical science. Plus, why physicists have kept an antimatter particle caged for months and whether it’s really possible to be swallowed...
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11152-9 A multi-tissue signalling system links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans.
 
-## 3. Large-scale single crystals printed layer by layer
+## 4. WEE1 opposes APC/C CDH1 activity to promote S phase entry
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03257-y
+- DOI：10.1038/s41586-026-11188-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03257-y
+- 链接：https://www.nature.com/articles/s41586-026-11188-x
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03257-y A 3D-printing method has made single crystals of metals and alloys in complex shapes and up to one metre in length, as needed for advanced technological applications.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11188-x Experimental and modelling data indicate that WEE1 promotes re-entry of quiescent cells into the cell cycle, potentially explaining the toxic side effects of WEE1 inhibitors in cancer...
 
-## 4. A single antimatter particle in a cage opens door to ‘revolutionary’ physics
+## 5. A single archaeon couples long-chain fatty acid oxidation to methanogenesis
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03342-2
+- DOI：10.1038/s41586-026-11207-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03342-2
+- 链接：https://www.nature.com/articles/s41586-026-11207-x
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03342-2 Physicists trap and cool down positron for months to measure its ‘magnetic moment’ with extraordinary precision.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11207-x Methanoglobus dolicholipophagus AA-75 is a thermophilic archaeon isolated from a Chinese petroleum reservoir that converts methanol into methane, carbon dioxide and acetate, and uses...
 
-## 5. Robert Williamson obituary: geneticist who mapped genes for muscular dystrophy and cystic fibrosis
+## 6. An environmentally regulated dichotomy in cell lineages of the root
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03375-7
+- DOI：10.1038/s41586-026-11179-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03375-7
+- 链接：https://www.nature.com/articles/s41586-026-11179-y
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03375-7 Researcher and policy adviser who championed tests and treatments for genetic diseases.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11179-y An environment-regulated state is identified across multiple cell types at the root tip, revealing a shared dichotomy between cells with and without this state.
 
-## 6. Fabric user interface can be worn on your sleeve — and machine-washed
+## 7. CD51 delineates functionally distinct astrocyte subtypes in neural circuits
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03064-5
+- DOI：10.1038/s41586-026-11186-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03064-5
+- 链接：https://www.nature.com/articles/s41586-026-11186-z
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03064-5 Touch-sensitive, light-emitting yarn can turn everyday clothing into washable, bendable user interfaces with dynamic graphics and versatile computing functions.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11186-z CD51+ astrocytes promote synapse formation in the developing cortex, circuit plasticity in the hippocampus and circuit remodelling after stroke.
 
-## 7. How tech billionaires are disrupting biomedical science
+## 8. Persistent neuronal stress signalling underlies Angelman syndrome phenotypes
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03311-9
+- DOI：10.1038/s41586-026-11165-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03311-9
+- 链接：https://www.nature.com/articles/s41586-026-11165-4
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03311-9 Money from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11165-4 Genetic and proteomic analyses in human neurons and mouse models of Angelman syndrome (AS) show that loss of the ubiquitin ligase UBE3A leads to an overabundance of asparagine...
 
-## 8. How a new wave of science philanthropists can have the greatest impact
+## 9. Structural basis for protocadherin-1 recognition by New World hantaviruses
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/d41586-026-03326-2
+- DOI：10.1038/s41586-026-11184-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03326-2
+- 链接：https://www.nature.com/articles/s41586-026-11184-1
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03326-2 Tech entrepreneurs are bringing an engineer’s eye to research funding. They must be open about their findings to reap maximum benefit.
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11184-1 The structure of PCDH1 bound to the ANDV spike defines the structural determinants of hantavirus–receptor recognition.
 
-## 9. Multimodal precision diagnostics in clinical xenotransplantation
+## 10. GRP75-dependent SIMPA mediates inter-organellar quality control
 
 - 期刊：Nature
 - 日期：2026-10-21
-- DOI：10.1038/s41586-026-11096-0
+- DOI：10.1038/s41586-026-10733-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11096-0
+- 链接：https://www.nature.com/articles/s41586-026-10733-y
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11096-0 Now that hyperacute rejection of pig xenografts can be reliably prevented, subtler immune-mediated graft injuries have emerged that conventional diagnostics often miss; a multimodal...
-
-## 10. The contribution of salt marshes to wave attenuation during extreme storms
-
-- 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11145-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11145-8
-
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11145-8 Salt marsh platforms resist erosion under extreme waves, but vegetation damage reduces wave attenuation; substantial wave attenuation by vegetation is mainly limited to low-energy...
+摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-10733-y Proteotoxic stress drives formation of GRP75-dependent protein aggregates that signal through mitochondria–ER contact sites to activate targeted quality-control pathways, enabling...
