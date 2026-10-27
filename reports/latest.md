@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-26 05:11
+生成时间：2026-10-27 05:28
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2
+## 1. Nerve activity initiates autoimmune hair loss
 
 - 期刊：Nature
-- 日期：2026-10-25
-- DOI：10.1038/s41586-026-11328-3
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03258-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11328-3
+- 链接：https://www.nature.com/articles/d41586-026-03258-x
 
-摘要精简：Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.
 
-## 2. Zeolite-catalysed olefin carbonylation based on tuning spatial confinement
+## 2. Women might have invented language — but not alone
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11183-2
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03392-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11183-2
+- 链接：https://www.nature.com/articles/d41586-026-03392-6
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11183-2 The use of zeolites with an appropriate pore structure combined with a high CO/olefin ratio is shown to catalyse olefin carbonylation and produce primary and secondary carboxylic...
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.
 
-## 3. Cold activates a BH2 metabolic network promoting longevity and proteostasis
+## 3. Are salaries getting worse? Many scientists think so
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11152-9
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03398-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11152-9
+- 链接：https://www.nature.com/articles/d41586-026-03398-0
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11152-9 A multi-tissue signalling system links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans.
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03398-0 Nature’s survey of almost 4,000 researchers shows that you’re not alone if you struggle to make ends meet or your last pay rise is a distant memory.
 
-## 4. WEE1 opposes APC/C CDH1 activity to promote S phase entry
+## 4. Can science make your dog live longer? Longevity craze comes to pets
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11188-x
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03447-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11188-x
+- 链接：https://www.nature.com/articles/d41586-026-03447-8
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11188-x Experimental and modelling data indicate that WEE1 promotes re-entry of quiescent cells into the cell cycle, potentially explaining the toxic side effects of WEE1 inhibitors in cancer...
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03447-8 The emerging science — and industry — of animal longevity is attracting interest from companies and academics alike.
 
-## 5. A single archaeon couples long-chain fatty acid oxidation to methanogenesis
+## 5. Glimpsing archaeal microbes on the move
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11207-x
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03259-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11207-x
+- 链接：https://www.nature.com/articles/d41586-026-03259-w
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11207-x Methanoglobus dolicholipophagus AA-75 is a thermophilic archaeon isolated from a Chinese petroleum reservoir that converts methanol into methane, carbon dioxide and acetate, and uses...
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03259-w How and when did cells gain the ability to crawl? Live imaging of cells from close relatives of early eukaryotes fills in a major gap in the understanding of cellular evolution.
 
-## 6. An environmentally regulated dichotomy in cell lineages of the root
+## 6. Evolutionary ‘game-changer’: weird armoured amphibian lived in ancient seas
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11179-y
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03440-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11179-y
+- 链接：https://www.nature.com/articles/d41586-026-03440-1
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11179-y An environment-regulated state is identified across multiple cell types at the root tip, revealing a shared dichotomy between cells with and without this state.
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03440-1 The creature’s armour cladding probably enabled it to tolerate the salty seas of the Late Triassic.
 
-## 7. CD51 delineates functionally distinct astrocyte subtypes in neural circuits
+## 7. The Selfish Gene , 50 years on — it’s time for an update
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11186-z
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03393-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11186-z
+- 链接：https://www.nature.com/articles/d41586-026-03393-5
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11186-z CD51+ astrocytes promote synapse formation in the developing cortex, circuit plasticity in the hippocampus and circuit remodelling after stroke.
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03393-5 A focus on the gene alone has become outdated. Books that capture the complexity of life deserve centre stage.
 
-## 8. Persistent neuronal stress signalling underlies Angelman syndrome phenotypes
+## 8. Mentoring a lab colleague? Share your ‘CV of failures’ with them
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11165-4
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03410-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11165-4
+- 链接：https://www.nature.com/articles/d41586-026-03410-7
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11165-4 Genetic and proteomic analyses in human neurons and mouse models of Angelman syndrome (AS) show that loss of the ubiquitin ligase UBE3A leads to an overabundance of asparagine...
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03410-7 Melanie Stefan became a ‘poster child of failure’ after writing an article about it. Now she urges senior colleagues to be more open about career setbacks.
 
-## 9. Structural basis for protocadherin-1 recognition by New World hantaviruses
+## 9. Brazil election: many scientists relieved as Lula wins surprise victory
 
 - 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-11184-1
+- 日期：2026-10-26
+- DOI：10.1038/d41586-026-03446-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11184-1
+- 链接：https://www.nature.com/articles/d41586-026-03446-9
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11184-1 The structure of PCDH1 bound to the ANDV spike defines the structural determinants of hantavirus–receptor recognition.
+摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03446-9 Scientific organizations in Brazil had rallied around the incumbent president, who defied expectations to defeat his opponent in a run-off.
 
-## 10. GRP75-dependent SIMPA mediates inter-organellar quality control
+## 10. Continuous mass photometry by single-molecule trapping
 
-- 期刊：Nature
-- 日期：2026-10-21
-- DOI：10.1038/s41586-026-10733-y
+- 期刊：Nature Methods
+- 日期：2026-10-26
+- DOI：10.1038/s41592-026-03252-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10733-y
+- 链接：https://www.nature.com/articles/s41592-026-03252-1
 
-摘要精简：Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-10733-y Proteotoxic stress drives formation of GRP75-dependent protein aggregates that signal through mitochondria–ER contact sites to activate targeted quality-control pathways, enabling...
+摘要精简：Nature Methods, Published online: 26 October 2026; doi:10.1038/s41592-026-03252-1 Continuous mass photometry enables high-resolution observation of biomolecular masses and mass changes.
