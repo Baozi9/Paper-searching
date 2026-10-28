@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-27 05:28
+生成时间：2026-10-28 06:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Nerve activity initiates autoimmune hair loss
+## 1. The Nobel prize in economic science has a serious gender problem
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03258-x
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03404-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03258-x
+- 链接：https://www.nature.com/articles/d41586-026-03404-5
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5 The Nobel prize in economic science has a serious gender problem
 
-## 2. Women might have invented language — but not alone
+## 2. Methane emissions remain flat even as biggest US oil region opens the tap
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03392-6
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03388-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03392-6
+- 链接：https://www.nature.com/articles/d41586-026-03388-2
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2 Output of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled.
 
-## 3. Are salaries getting worse? Many scientists think so
+## 3. AI-hallucinated citations should be treated as research misconduct
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03398-0
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03407-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03398-0
+- 链接：https://www.nature.com/articles/d41586-026-03407-2
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03398-0 Nature’s survey of almost 4,000 researchers shows that you’re not alone if you struggle to make ends meet or your last pay rise is a distant memory.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2 AI-hallucinated citations should be treated as research misconduct
 
-## 4. Can science make your dog live longer? Longevity craze comes to pets
+## 4. Short-term academic visits to China could sustain ties
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03447-8
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03405-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03447-8
+- 链接：https://www.nature.com/articles/d41586-026-03405-4
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03447-8 The emerging science — and industry — of animal longevity is attracting interest from companies and academics alike.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4 Short-term academic visits to China could sustain ties
 
-## 5. Glimpsing archaeal microbes on the move
+## 5. Making ‘mind pictures’ takes mental effort
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03259-w
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03276-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03259-w
+- 链接：https://www.nature.com/articles/d41586-026-03276-9
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03259-w How and when did cells gain the ability to crawl? Live imaging of cells from close relatives of early eukaryotes fills in a major gap in the understanding of cellular evolution.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9 How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.
 
-## 6. Evolutionary ‘game-changer’: weird armoured amphibian lived in ancient seas
+## 6. Author Correction: A chemical defence against phage infection
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03440-1
+- 日期：2026-10-27
+- DOI：10.1038/s41586-026-11302-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03440-1
+- 链接：https://www.nature.com/articles/s41586-026-11302-z
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03440-1 The creature’s armour cladding probably enabled it to tolerate the salty seas of the Late Triassic.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection
 
-## 7. The Selfish Gene , 50 years on — it’s time for an update
+## 7. AI watermarking efforts must encourage independent public scrutiny
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03393-5
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03406-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03393-5
+- 链接：https://www.nature.com/articles/d41586-026-03406-3
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03393-5 A focus on the gene alone has become outdated. Books that capture the complexity of life deserve centre stage.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3 AI watermarking efforts must encourage independent public scrutiny
 
-## 8. Mentoring a lab colleague? Share your ‘CV of failures’ with them
+## 8. Barn owls’ ancestors made a transatlantic flight
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03410-7
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03385-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03410-7
+- 链接：https://www.nature.com/articles/d41586-026-03385-5
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03410-7 Melanie Stefan became a ‘poster child of failure’ after writing an article about it. Now she urges senior colleagues to be more open about career setbacks.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03385-5 Genomic analysis shows that the owls spread from Eurasia to the Caribbean, then colonized the rest of the Western Hemisphere.
 
-## 9. Brazil election: many scientists relieved as Lula wins surprise victory
+## 9. How to keep tabs on the tools in your lab
 
 - 期刊：Nature
-- 日期：2026-10-26
-- DOI：10.1038/d41586-026-03446-9
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-02814-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03446-9
+- 链接：https://www.nature.com/articles/d41586-026-02814-9
 
-摘要精简：Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03446-9 Scientific organizations in Brazil had rallied around the incumbent president, who defied expectations to defeat his opponent in a run-off.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-02814-9 Misplaced or borrowed laboratory equipment can bring experiments to a halt. Scientists explain how they stop essential kit from going missing.
 
-## 10. Continuous mass photometry by single-molecule trapping
+## 10. Gene therapy that led to boy’s death had limited efficacy
 
-- 期刊：Nature Methods
-- 日期：2026-10-26
-- DOI：10.1038/s41592-026-03252-1
+- 期刊：Nature
+- 日期：2026-10-27
+- DOI：10.1038/d41586-026-03449-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03252-1
+- 链接：https://www.nature.com/articles/d41586-026-03449-6
 
-摘要精简：Nature Methods, Published online: 26 October 2026; doi:10.1038/s41592-026-03252-1 Continuous mass photometry enables high-resolution observation of biomolecular masses and mass changes.
+摘要精简：Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03449-6 Therapy pioneered by biotechnology Chinese firm HuidaGene showed promise in animals but caused a fatal reaction in a child.
