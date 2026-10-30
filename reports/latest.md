@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-10-29 06:19
+生成时间：2026-10-30 06:18
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Switchable Chlorine Atom Transfer Radical Reactions
+## 1. Even stupendous black holes can’t explain dark matter
+
+- 期刊：Nature
+- 日期：2026-10-29
+- DOI：10.1038/d41586-026-03386-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03386-4
+
+摘要精简：Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies.
+
+## 2. How the US mid-term elections could shake up science
+
+- 期刊：Nature
+- 日期：2026-10-29
+- DOI：10.1038/d41586-026-03479-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03479-0
+
+摘要精简：Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration’s controversial grant-review plan and curb some of its funding actions.
+
+## 3. Daily briefing: The big push to personalize psychiatry
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/s41586-026-11348-z
+- DOI：10.1038/d41586-026-03531-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11348-z
+- 链接：https://www.nature.com/articles/d41586-026-03531-z
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03531-z A data-driven approach could match treatments to individuals with more precision. Plus, funders in Europe are backing preprint-led publishing and whether professors should care about...
 
-## 2. Back-to-monomer depolymerization of silicones by deoxygenative chlorination
+## 4. Clues about complex life come from freshly cultivated archaea
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/s41586-026-11335-4
+- DOI：10.1038/d41586-026-03294-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11335-4
+- 链接：https://www.nature.com/articles/d41586-026-03294-7
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03294-7 Two archaeal strains that belong to a lineage closely related to the ancestor of eukaryotic cells (complex cells with membrane-bound organelles) have been brought into culture. Their...
 
-## 3. Why did ancient humans avoid this lush paradise
+## 5. Preprint-centric publishing model gets major boost
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-03486-1
+- DOI：10.1038/d41586-026-03445-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03486-1
+- 链接：https://www.nature.com/articles/d41586-026-03445-w
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03445-w European funders put weight behind emerging ‘publish, review, curate’ approach for preprints.
 
-## 4. This Arabian desert was once a lush paradise. Why did ancient humans avoid it?
+## 6. These three red flags could unmask dodgy journals
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-03484-3
+- DOI：10.1038/d41586-026-03325-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03484-3
+- 链接：https://www.nature.com/articles/d41586-026-03325-3
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03325-3 As poor publishing practices proliferate, scholarly databases are under pressure to ensure the titles they list are reputable.
 
-## 5. Accounting of Africa’s water reveals a management gap
+## 7. Is research funding now a lottery? Elite funder ERC swamped by applications
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-03260-3
+- DOI：10.1038/d41586-026-03476-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03260-3
+- 链接：https://www.nature.com/articles/d41586-026-03476-3
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03476-3 A marked rise in submissions for the European Research Council’s grants is pushing down success rates.
 
-## 6. The brain liquidates billions of mutant neurons around the time we’re born
+## 8. Dengue comes back even in vaccinated people — new clues
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-03444-x
+- DOI：10.1038/d41586-026-03488-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03444-x
+- 链接：https://www.nature.com/articles/d41586-026-03488-z
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03488-z Researchers help to answer a question dogging the development of improved vaccines against the mosquito-borne disease.
 
-## 7. Tethered to stone: how rock and water availability shaped early desert occupation
+## 9. The grand plan to transform psychiatry — by personalizing mental-health care
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-03263-0
+- DOI：10.1038/d41586-026-03391-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03263-0
+- 链接：https://www.nature.com/articles/d41586-026-03391-7
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia’s Rub’ al Khali region, water alone does not predict occupation.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03391-7 Could a blood sample, a brain scan and a look at your phone data transform how your psychiatrist treats you?
 
-## 8. What students think about my teaching doesn’t matter. Am I wrong?
+## 10. Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously
 
 - 期刊：Nature
 - 日期：2026-10-28
-- DOI：10.1038/d41586-026-02202-3
+- DOI：10.1038/d41586-026-03415-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02202-3
+- 链接：https://www.nature.com/articles/d41586-026-03415-2
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-02202-3 A jury weighs in on whether teaching assessments are popularity contests or an important tool.
-
-## 9. How personalization and psychedelics are revitalizing psychiatry
-
-- 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/d41586-026-03402-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03402-7
-
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03402-7 Fresh ideas are welcome in a discipline in which progress is rare — provided they are applied rigorously.
-
-## 10. Lactate takes a shortcut into mitochondria to power the heart
-
-- 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/d41586-026-03261-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03261-2
-
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03261-2 A cellular fuel called lactate is channelled directly into energy-generating organelles in heart muscle, defying the prevailing view about lactate transport.
+摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03415-2 Some say the concept is complete fantasy, but a detailed analysis suggests that the falling cost of rocket launches might make it feasible in a few decades.
