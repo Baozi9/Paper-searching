@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-02 06:40
+生成时间：2026-11-03 07:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Measles made a stealthy return as another virus took the spotlight
+## 1. Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow
+
+- 期刊：Nature
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03480-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03480-7
+
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03480-7 This expands the country's ‘practical PhD’ programme beyond engineering students.
+
+## 2. Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
 
 - 期刊：Nature
 - 日期：2026-11-02
-- DOI：10.1038/d41586-026-03387-3
+- DOI：10.1038/s41586-026-11350-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03387-3
+- 链接：https://www.nature.com/articles/s41586-026-11350-5
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/s41586-026-11350-5 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
 
-## 2. Connectome simulations identify a central pattern generator for fly walking
+## 3. Earth’s resources sustain humanity — but they come at a high price
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11195-y
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03506-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11195-y
+- 链接：https://www.nature.com/articles/d41586-026-03506-0
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11195-y Computational simulations of a neural network based on fly connectomes identify a three-neuron circuit that is organized to produce leg motor rhythms for walking.
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials.
 
-## 3. Narrow carbon pentaheptite nanoribbon as a covalent metal
+## 4. What tech entrepreneurs can teach scientists about failure
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11202-2
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03485-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11202-2
+- 链接：https://www.nature.com/articles/d41586-026-03485-2
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11202-2 Planar carbon pentaheptite nanoribbons are synthesized by laterally fusing polypentalene chains transformed from pre-synthesized polycyclooctadiene chains, suggesting a possible route...
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03485-2 Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.
 
-## 4. Molecular underpinnings of rheumatic diseases and emerging therapeutic concepts
+## 5. Iranian scientists in the United States face major upheaval
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-10966-x
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03346-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10966-x
+- 链接：https://www.nature.com/articles/d41586-026-03346-y
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-10966-x Improved molecular insights into inflammatory rheumatic diseases are enabling better disease control and advancing the field towards achieving durable remission and eventual cure.
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03346-y Pressures due to the continuing US–Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war.
 
-## 5. Subcycle videography of Landau–Zener–Majorana transitions in graphene
+## 6. Five overlooked steps to identify new epidemics, fast
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11214-y
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03509-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11214-y
+- 链接：https://www.nature.com/articles/d41586-026-03509-x
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11214-y An experimental concept enabling attosecond-precision, subcycle band-structure videography covering the entire first Brillouin zone is demonstrated and used to visualize the...
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03509-x Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.
 
-## 6. Diet at disease onset determines tissue inflammatory memory
+## 7. Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11181-4
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03511-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11181-4
+- 链接：https://www.nature.com/articles/d41586-026-03511-3
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11181-4 Dietary state during a narrow temporal window can durably reprogram disease trajectory.
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03511-3 From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain.
 
-## 7. T and B cells recognize splicing-derived neutrophil neoantigens in lupus
+## 8. In Indonesia, PhD students blow the whistle on bad supervision
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11219-7
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-02465-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11219-7
+- 链接：https://www.nature.com/articles/d41586-026-02465-w
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11219-7 In systemic lupus erythematosus, aberrant splicing in neutrophils generates novel peptides that are presented on MHC I, driving CD4+ and CD8+ T cell activation, clonal expansion and...
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-02465-w The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervision.
 
-## 8. Rare and common genetic variants shape single-cell immune gene expression
+## 9. How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-10721-2
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03507-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-10721-2
+- 链接：https://www.nature.com/articles/d41586-026-03507-z
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-10721-2 Phase 1 of TenK10K takes single-cell RNA sequencing and matched whole-genome sequencing data from 1,925 individuals, enabling detection of associations for common and rare genetic...
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03507-z An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices — although their effects are still felt...
 
-## 9. Emotion regulation capacity lacks a shared neural signature
+## 10. ‘A perfect scientist, a perfect mum’: researchers mourn two biologists’ deaths in Spanish train crash
 
 - 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11203-1
+- 日期：2026-11-02
+- DOI：10.1038/d41586-026-03564-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11203-1
+- 链接：https://www.nature.com/articles/d41586-026-03564-4
 
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11203-1 Sensorimotor and amygdala activation, but not canonical prefrontal control circuits, indicate emotion regulation capacity.
-
-## 10. Tumour assembloids recapitulate tumour–CAF–T cell crosstalk in renal cancer
-
-- 期刊：Nature
-- 日期：2026-10-28
-- DOI：10.1038/s41586-026-11208-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11208-w
-
-摘要精简：Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11208-w Tumour assembloids, which model components of human renal cell carcinoma, including cancer cells, cancer-associated fibroblasts and tumour-infiltrating immune cells, are used to...
+摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03564-4 Scientists pay tribute to Marta Shahbazi Alonso and Tamara González Costa who died on their way to a developmental-biology meeting.
