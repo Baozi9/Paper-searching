@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-03 07:09
+生成时间：2026-11-04 06:54
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow
+## 1. Whence dragons?
 
 - 期刊：Nature
 - 日期：2026-11-03
-- DOI：10.1038/d41586-026-03480-7
+- DOI：10.1038/d41586-026-03277-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03480-7
+- 链接：https://www.nature.com/articles/d41586-026-03277-8
 
-摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03480-7 This expands the country's ‘practical PhD’ programme beyond engineering students.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03277-8 The ecology and evolution of winged legendary beasts, and monkeys that show their behinds to their buddies, in this week’s pick from the Nature archive.
 
-## 2. Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
+## 2. Research bonuses need clear and fair rules
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/s41586-026-11350-5
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03562-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11350-5
+- 链接：https://www.nature.com/articles/d41586-026-03562-6
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/s41586-026-11350-5 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03562-6 Research bonuses need clear and fair rules
 
-## 3. Earth’s resources sustain humanity — but they come at a high price
+## 3. Safety alerts must reach visiting PhD students
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03506-0
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03560-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03506-0
+- 链接：https://www.nature.com/articles/d41586-026-03560-8
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03560-8 Safety alerts must reach visiting PhD students
 
-## 4. What tech entrepreneurs can teach scientists about failure
+## 4. Universities must measure learning, both with and without AI assistance
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03485-2
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03559-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03485-2
+- 链接：https://www.nature.com/articles/d41586-026-03559-1
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03485-2 Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03559-1 Universities must measure learning, both with and without AI assistance
 
-## 5. Iranian scientists in the United States face major upheaval
+## 5. China should share the evidence behind animal-testing alternatives openly
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03346-y
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03561-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03346-y
+- 链接：https://www.nature.com/articles/d41586-026-03561-7
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03346-y Pressures due to the continuing US–Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03561-7 China should share the evidence behind animal-testing alternatives openly
 
-## 6. Five overlooked steps to identify new epidemics, fast
+## 6. Historic Marburg outbreak hints at long-term viral hideout
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03509-x
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03538-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03509-x
+- 链接：https://www.nature.com/articles/d41586-026-03538-6
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03509-x Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03538-6 Sequencing of Marburg virus collected during Ethiopia’s first outbreak suggests that the pathogen is lurking in East and Central Africa.
 
-## 7. Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience
+## 7. Will AI grant reviews make science more conservative?
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03511-3
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03340-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03511-3
+- 链接：https://www.nature.com/articles/d41586-026-03340-4
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03511-3 From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03340-4 Researchers are questioning whether outsourcing decisions about research funding to artificial intelligence will reduce scientific novelty.
 
-## 8. In Indonesia, PhD students blow the whistle on bad supervision
+## 8. Trump’s executive order on women’s health feels like déjà vu
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-02465-w
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03503-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02465-w
+- 链接：https://www.nature.com/articles/d41586-026-03503-3
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-02465-w The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervision.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03503-3 Previous US administrations fell short on promised improvements to women’s-health research — here’s what real change will take.
 
-## 9. How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’
+## 9. Cities are changing — and architects must adapt
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03507-z
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03508-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03507-z
+- 链接：https://www.nature.com/articles/d41586-026-03508-y
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03507-z An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices — although their effects are still felt...
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03508-y Climate change is reshaping urban environments. Architect Carlo Ratti tells Nature that technology offers solutions, but citizens must get the final say.
 
-## 10. ‘A perfect scientist, a perfect mum’: researchers mourn two biologists’ deaths in Spanish train crash
+## 10. How democracy depends on science — and must protect it
 
 - 期刊：Nature
-- 日期：2026-11-02
-- DOI：10.1038/d41586-026-03564-4
+- 日期：2026-11-03
+- DOI：10.1038/d41586-026-03510-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03564-4
+- 链接：https://www.nature.com/articles/d41586-026-03510-4
 
-摘要精简：Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03564-4 Scientists pay tribute to Marta Shahbazi Alonso and Tamara González Costa who died on their way to a developmental-biology meeting.
+摘要精简：Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03510-4 Verified information from trusted experts is crucial to help the public and governments navigate rapid changes and increasing complexity.
