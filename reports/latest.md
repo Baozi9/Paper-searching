@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-07 06:28
+生成时间：2026-11-08 06:34
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Medicinal plants, lessons from mushrooms and the power of smell: Books in brief
+## 1. Daily briefing: See a tardigrade shed its skin
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03595-x
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03593-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03595-x
+- 链接：https://www.nature.com/articles/d41586-026-03593-z
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03593-z Enjoy the month’s best science images. Plus, an outbreak of anthrax in African hippos and the places where biodiversity drops after humans leave.
 
-## 2. Cholera bacterium’s good deed: inspiring a glue with rare properties
+## 2. Clearing the way for a transformative stem-cell treatment for Parkinson’s disease
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03630-x
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03167-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03630-x
+- 链接：https://www.nature.com/articles/d41586-026-03167-z
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03167-z Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers. But stem-cell transplants in the brain could alter the disease at a more fundamental...
 
-## 3. Briefing Chat: Meet the snakes that cartwheel away from trouble
+## 3. Progress accelerates in Parkinson’s treatments
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03632-9
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03165-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03632-9
+- 链接：https://www.nature.com/articles/d41586-026-03165-1
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03165-1 Researchers are reporting encouraging results for a disease that affects millions of people worldwide.
 
-## 4. Preprint platform offers to pay researchers to review papers, but questions remain
+## 4. Ecosystems depend on people: don’t abandon them
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03442-z
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03544-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03442-z
+- 链接：https://www.nature.com/articles/d41586-026-03544-8
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03544-8 It might seem counterproductive to put more people in nature, but sometimes human activity nurtures biodiversity.
 
-## 5. In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering
+## 5. See a tardigrade shed its skin — October’s best science images
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/s41586-026-11233-9
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03563-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11233-9
+- 链接：https://www.nature.com/articles/d41586-026-03563-5
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03563-5 The month’s sharpest science shots, selected by Nature’s photo team.
 
-## 6. These AI agents design your perfect robot-powered lab — and run it for you
+## 6. Fruit, flies and getting frisky: how food odours trigger sexual arousal
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03587-x
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03271-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03587-x
+- 链接：https://www.nature.com/articles/d41586-026-03271-0
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03587-x A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace’s...
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03271-0 Males of a Drosophila species that thrives on a particular fruit need the smell of food to begin courtship. This environmental cue acts on defined mating circuits in the brain.
 
-## 7. ‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption
+## 7. Six highlights from Parkinson’s disease research
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03622-x
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03172-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03622-x
+- 链接：https://www.nature.com/articles/d41586-026-03172-2
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03622-x Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03172-2 Targeting a new network, addressing gait issues and other advances from recent studies.
 
-## 8. ESC (DC) 2
+## 8. Cutting-edge technique uncovers how the spine’s shock absorbers bear load
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03450-z
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03264-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03450-z
+- 链接：https://www.nature.com/articles/d41586-026-03264-z
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03450-z Security issues.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03264-z An exciting imaging approach reveals how discs of soft tissue in the spine respond to compressive force at the micrometre and nanometre scales.
 
-## 9. The palaeo cave art that hid in plain sight for 26,000 years
+## 9. Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03585-z
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03566-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03585-z
+- 链接：https://www.nature.com/articles/d41586-026-03566-2
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03585-z Hundreds of engravings were spotted in a widely visited cave — some include signs of animation.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03566-2 A clinical trial in three people tested a combination of gene-laden viruses and a drug.
 
-## 10. Daily briefing: Toothbrush zaps bacteria to clear plaque
+## 10. A death sentence for ‘sloppy’ cancers
 
 - 期刊：Nature
-- 日期：2026-11-05
-- DOI：10.1038/d41586-026-03596-w
+- 日期：2026-11-04
+- DOI：10.1038/d41586-026-03269-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03596-w
+- 链接：https://www.nature.com/articles/d41586-026-03269-8
 
-摘要精简：Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03596-w The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results mean for science and a genetics lab run by AI-powered robots.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.
