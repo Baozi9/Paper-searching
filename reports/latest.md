@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-08 06:34
+生成时间：2026-11-09 07:03
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Daily briefing: See a tardigrade shed its skin
+## 1. COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target
+
+- 期刊：Nature
+- 日期：2026-11-09
+- DOI：10.1038/d41586-026-03631-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03631-w
+
+摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03631-w Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits.
+
+## 2. Faint exoplanets detected using computational approach to remove glare from stars
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03593-z
+- DOI：10.1038/d41586-026-03295-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03593-z
+- 链接：https://www.nature.com/articles/d41586-026-03295-6
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03593-z Enjoy the month’s best science images. Plus, an outbreak of anthrax in African hippos and the places where biodiversity drops after humans leave.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03295-6 An image-processing framework for detecting exoplanets directly has been developed. The technique overcomes the telescope-stability barrier that has limited previous methods, reveals...
 
-## 2. Clearing the way for a transformative stem-cell treatment for Parkinson’s disease
+## 3. People’s social networks can be unintentionally reshaped during randomized interventions
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03167-z
+- DOI：10.1038/d41586-026-03267-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03167-z
+- 链接：https://www.nature.com/articles/d41586-026-03267-w
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03167-z Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers. But stem-cell transplants in the brain could alter the disease at a more fundamental...
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03267-w A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects and altered relationships in communities in rural Honduras.
 
-## 3. Progress accelerates in Parkinson’s treatments
+## 4. Fine-tuning brain stimulation to fight Parkinson’s disease
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03165-1
+- DOI：10.1038/d41586-026-03168-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03165-1
+- 链接：https://www.nature.com/articles/d41586-026-03168-y
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03165-1 Researchers are reporting encouraging results for a disease that affects millions of people worldwide.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03168-y Neuroscientists are developing a new type of brain implant that will decode every movement and symptom of people with this neurodegenerative condition, seeking better ways to ease...
 
-## 4. Ecosystems depend on people: don’t abandon them
+## 5. Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03544-8
+- DOI：10.1038/d41586-026-03580-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03544-8
+- 链接：https://www.nature.com/articles/d41586-026-03580-4
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03544-8 It might seem counterproductive to put more people in nature, but sometimes human activity nurtures biodiversity.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03580-4 The latest cases, in the Democratic Republic of the Congo, come as the country grapples with ongoing Ebola and cholera outbreaks.
 
-## 5. See a tardigrade shed its skin — October’s best science images
+## 6. When humans disappear, biodiversity takes a surprising turn
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03563-5
+- DOI：10.1038/d41586-026-03505-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03563-5
+- 链接：https://www.nature.com/articles/d41586-026-03505-1
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03563-5 The month’s sharpest science shots, selected by Nature’s photo team.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03505-1 For decades, conservation has worried about the risks of too many people. In some places, depopulation is the real threat.
 
-## 6. Fruit, flies and getting frisky: how food odours trigger sexual arousal
+## 7. Could chemicals contribute to Parkinson’s?
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03271-0
+- DOI：10.1038/d41586-026-03170-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03271-0
+- 链接：https://www.nature.com/articles/d41586-026-03170-4
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03271-0 Males of a Drosophila species that thrives on a particular fruit need the smell of food to begin courtship. This environmental cue acts on defined mating circuits in the brain.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03170-4 Researchers and advocates point to pollutants as a trigger for the neurodegenerative condition.
 
-## 7. Six highlights from Parkinson’s disease research
+## 8. Replacing the neurons that Parkinson’s destroys
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03172-2
+- DOI：10.1038/d41586-026-03166-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03172-2
+- 链接：https://www.nature.com/articles/d41586-026-03166-0
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03172-2 Targeting a new network, addressing gait issues and other advances from recent studies.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03166-0 After decades of work, researchers have begun trialling transplants of dopamine neurons into people with the neurodegenerative disease — with early signs of success.
 
-## 8. Cutting-edge technique uncovers how the spine’s shock absorbers bear load
+## 9. Why are we conscious? Nature investigates the theories
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03264-z
+- DOI：10.1038/d41586-026-03413-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03264-z
+- 链接：https://www.nature.com/articles/d41586-026-03413-4
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03264-z An exciting imaging approach reveals how discs of soft tissue in the spine respond to compressive force at the micrometre and nanometre scales.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03413-4 Scientists have yet to reveal how the human brain produces the subjective experience we perceive as consciousness, but research has pushed the field in exciting directions.
 
-## 9. Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains
+## 10. Infrared image detectors grown directly on read-out chips
 
 - 期刊：Nature
 - 日期：2026-11-04
-- DOI：10.1038/d41586-026-03566-2
+- DOI：10.1038/d41586-026-03420-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03566-2
+- 链接：https://www.nature.com/articles/d41586-026-03420-5
 
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03566-2 A clinical trial in three people tested a combination of gene-laden viruses and a drug.
-
-## 10. A death sentence for ‘sloppy’ cancers
-
-- 期刊：Nature
-- 日期：2026-11-04
-- DOI：10.1038/d41586-026-03269-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03269-8
-
-摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.
+摘要精简：Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03420-5 A film of lead sulfide — an infrared-sensitive semiconductor — has been grown directly on a circuit that can read out the material’s electrical signal through an approach called...
