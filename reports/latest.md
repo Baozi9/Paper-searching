@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-10 07:39
+生成时间：2026-11-11 06:58
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. He spent a year on ‘Mars’: NASA science officer emerges from mock mission
+## 1. PhD funding mechanisms should protect the right to disagree with supervisors
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-03588-w
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03645-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03588-w
+- 链接：https://www.nature.com/articles/d41586-026-03645-4
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors
 
-## 2. The super El Niño is more than a climate shock – it’s a health one, too
+## 2. A practically perfect plesiosaur
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-03628-5
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03278-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03628-5
+- 链接：https://www.nature.com/articles/d41586-026-03278-7
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.
 
-## 3. How to make failure your friend and teacher in science
+## 3. Chile’s postdoc rules risk driving talent away
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-03654-3
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03643-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03654-3
+- 链接：https://www.nature.com/articles/d41586-026-03643-6
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03654-3 Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6 Chile’s postdoc rules risk driving talent away
 
-## 4. Carlo Rovelli says fundamental physics is overrated
+## 4. Students need AI-free spaces to learn core skills
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-03626-7
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03644-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03626-7
+- 链接：https://www.nature.com/articles/d41586-026-03644-5
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03626-7 The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills
 
-## 5. Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally
+## 5. Why your physics project needs an anthropologist
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/s41586-026-11375-w
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03623-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11375-w
+- 链接：https://www.nature.com/articles/d41586-026-03623-w
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/s41586-026-11375-w Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.
 
-## 6. AI has transformed maths — this is how we got here
+## 6. California votes to give record $8.4 billion to medical research
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-03627-6
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03635-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03627-6
+- 链接：https://www.nature.com/articles/d41586-026-03635-6
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03627-6 The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6 The cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote — but it has drawn criticism.
 
-## 7. How academic freedom is changing around the world — by the numbers
+## 7. How microbes can secure the critical minerals the world needs
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-02998-0
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03629-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02998-0
+- 链接：https://www.nature.com/articles/d41586-026-03629-4
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02998-0 Nature reports on five countries where academic freedom has either plummeted or soared in recent years.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4 To sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.
 
-## 8. What postdoc ads ask for and what they leave unsaid
+## 8. Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them
 
 - 期刊：Nature
-- 日期：2026-11-09
-- DOI：10.1038/d41586-026-02903-9
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03589-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02903-9
+- 链接：https://www.nature.com/articles/d41586-026-03589-9
 
-摘要精简：Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02903-9 Looking for a postdoc while raising four children made one thing clear to Wenhuan Xu: many adverts describe the ideal applicant much more clearly than they describe the job itself.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.
 
-## 9. Daily briefing: Ancient cave art found hiding in plain sight
+## 9. PhDs worldwide are having a shake up — why now?
 
 - 期刊：Nature
-- 日期：2026-11-06
-- DOI：10.1038/d41586-026-03648-1
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03017-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03648-1
+- 链接：https://www.nature.com/articles/d41586-026-03017-y
 
-摘要精简：Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03648-1 Rock-art in a Spanish cave dates back 26,000 years. Plus, flexible working policies can end up saddling academic mothers with more work and the origins of Celtic and Germanic languages.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03017-y Government-supported initiatives around the globe aim to change the PhD, with the goal of providing fresh talent to the private sector.
 
-## 10. High school science ambitions
+## 10. The public trusts scientists with AI — more than it does anyone else
 
-- 期刊：Nature Methods
-- 日期：2026-11-09
-- DOI：10.1038/s41592-026-03323-3
+- 期刊：Nature
+- 日期：2026-11-10
+- DOI：10.1038/d41586-026-03578-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03323-3
+- 链接：https://www.nature.com/articles/d41586-026-03578-y
 
-摘要精简：Nature Methods, Published online: 09 November 2026; doi:10.1038/s41592-026-03323-3 The Brain Bee competitions let high schoolers leap toward a science career goal.
+摘要精简：Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03578-y Public confidence in scientists’ use of generative artificial intelligence remains high, but that trust comes with conditions.
