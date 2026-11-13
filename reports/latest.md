@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-12 07:35
+生成时间：2026-11-13 07:07
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Rattlesnakes have personalities too — to venomous effect
+## 1. Found: a protein that drives ageing without unleashing inflammation
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03638-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03638-3
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3 Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage.
+
+## 2. This little brown mushroom is laced with a hallucinogen — and lethal toxins
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03639-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03639-2
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2 A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals.
+
+## 3. Who needs sex? Kelp reproduce asexually when no mate is nearby
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03665-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03665-0
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.
+
+## 4. Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/s41586-026-11409-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11409-3
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer
+
+## 5. Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03666-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03666-z
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03666-z The Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say.
+
+## 6. Massive atlas of brain region linked to a host of diseases is the most detailed yet
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03565-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03565-3
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3 A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s...
+
+## 7. RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03573-3
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03573-3
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3 Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.
+
+## 8. Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body
+
+- 期刊：Nature
+- 日期：2026-11-12
+- DOI：10.1038/d41586-026-03705-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03705-9
+
+摘要精简：Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03705-9 Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach.
+
+## 9. Daily briefing: Should old, bad science be culled from the literature?
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03536-8
+- DOI：10.1038/d41586-026-03675-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03536-8
+- 链接：https://www.nature.com/articles/d41586-026-03675-y
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake’s defensiveness might affect how much venom it produces in a laboratory test.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03675-y AI tools that summarize scientific literature are picking up decades-old flawed papers — should they be retracted? Plus, the first image of a black hole holds up to scrutiny and how...
 
-## 2. Iconic first image of black hole holds up to scrutiny
+## 10. Extraordinary materials shaped by the principles of complex networks
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03642-7
+- DOI：10.1038/d41586-026-03272-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03642-7
+- 链接：https://www.nature.com/articles/d41586-026-03272-z
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03642-7 Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape.
-
-## 3. Too dry for cacti: extreme droughts could push iconic species to extinction
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03671-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03671-2
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03671-2 Analysis reveals these plants face severe habitat loss across the Americas — plus, researchers test a new way to diagnose obesity.
-
-## 4. Getting a grasp on the global wildlife trade
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03591-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03591-1
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03591-1 A study reports that about 107,000 species are traded worldwide, legally or illegally — more than double a previous estimate.
-
-## 5. Efficient catalyst-controlled C–H arylation of arenes
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11391-w
-- 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11391-w
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11391-w Efficient catalyst-controlled C–H arylation of arenes
-
-## 6. A guide to Nature Index tables
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03441-0
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03441-0
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03441-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy.
-
-## 7. Even giant anteaters in remote Brazil have microplastics in their blood
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03660-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03660-5
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives.
-
-## 8. Microplastics change the colour of the sea near the Great Pacific Garbage Patch
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03637-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03637-4
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic.
-
-## 9. Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03489-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03489-y
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03489-y One of Saturn’s rings consists of a diverse population of icy and rocky grains, each with a distinct composition. How this came about might now have an explanation.
-
-## 10. Cacti are severely threatened by drought in a warming world
-
-- 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03496-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03496-z
-
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03496-z Forecasts of the effects that climate change will have on biodiversity typically rely on long-term climate averages while excluding extreme events. Projections that include severe...
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03272-z Network science has inspired the design of materials that spread out their deformation when a force is applied, have tunable stiffness and can control vibrational waves.
