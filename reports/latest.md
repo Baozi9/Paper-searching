@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-14 06:55
+生成时间：2026-11-15 07:02
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Number of international students arriving in US plunges — worrying scientists
-
-- 期刊：Nature
-- 日期：2026-11-13
-- DOI：10.1038/d41586-026-03668-x
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03668-x
-
-摘要精简：Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.
-
-## 2. Chinese graduate students are now choosing to stay closer to home
-
-- 期刊：Nature
-- 日期：2026-11-13
-- DOI：10.1038/d41586-026-03456-7
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03456-7
-
-摘要精简：Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.
-
-## 3. Accept all changes
-
-- 期刊：Nature
-- 日期：2026-11-13
-- DOI：10.1038/d41586-026-03516-y
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03516-y
-
-摘要精简：Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-y It’s the end — or is it?
-
-## 4. This AI ‘mechanic’ can peer inside the black box of other neural networks
-
-- 期刊：Nature
-- 日期：2026-11-13
-- DOI：10.1038/d41586-026-03679-8
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03679-8
-
-摘要精简：Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.
-
-## 5. Is the climate totally cooked? What the data say
-
-- 期刊：Nature
-- 日期：2026-11-13
-- DOI：10.1038/d41586-026-03716-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03716-6
-
-摘要精简：Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.
-
-## 6. Even giant anteaters in remote Brazil have microplastics in their blood
+## 1. Biotech innovations are an opportunity to limit climate change
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03660-5
+- DOI：10.1038/d41586-026-03621-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03660-5
+- 链接：https://www.nature.com/articles/d41586-026-03621-y
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-y Agricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss.
 
-## 7. DeepMind’s ultra-powerful AI for genome mapping wows scientists
+## 2. How I balance my life as a professional surfer and a university researcher
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03673-0
+- DOI：10.1038/d41586-026-03183-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03673-0
+- 链接：https://www.nature.com/articles/d41586-026-03183-z
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03673-0 AlphaGenome 2 can predict the types of cell in which a DNA variant is likely to act.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03183-z Cliff Kapono shares his advice on ways to navigate and grow two different careers.
 
-## 8. Proteins that form the nuclear pore barrier move like liquids
+## 3. Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03428-x
+- DOI：10.1038/d41586-026-03633-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03428-x
+- 链接：https://www.nature.com/articles/d41586-026-03633-8
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03428-x Nuclear pores control molecular traffic into and out of the cell nucleus. Measurements in living cells, together with molecular-dynamics simulations, show that flexible protein...
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03633-8 Nobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and solar cells.
 
-## 9. How to avoid aliens and live
+## 4. Give biologists the space to be curious, not just better tools
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03515-z
+- DOI：10.1038/d41586-026-03669-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03515-z
+- 链接：https://www.nature.com/articles/d41586-026-03669-w
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03515-z Silence is golden.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03669-w Technology is making biological studies more powerful than ever. But people are the real force behind discovery.
 
-## 10. Earth’s early history told by 3.9-billion-year-old rocks from northern China
+## 5. Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03499-w
+- DOI：10.1038/d41586-026-03640-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03499-w
+- 链接：https://www.nature.com/articles/d41586-026-03640-9
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03499-w Ancient rocks in northern China reveal that by 3.95 billion years ago, surface-altered oceanic crust had been buried rapidly to depths greater than 50 kilometres and partly melted....
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03640-9 A promising biotechnology company developed an approach that might treat a rare disease — but its sole employee didn’t do all the work.
+
+## 6. Move over BMI: new obesity definition is better for predicting your health
+
+- 期刊：Nature
+- 日期：2026-11-11
+- DOI：10.1038/d41586-026-03636-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03636-5
+
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03636-5 A fresh approach considers waist circumference, rather than just weight and height, providing a more accurate classification.
+
+## 7. New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins
+
+- 期刊：Nature
+- 日期：2026-11-11
+- DOI：10.1038/d41586-026-03655-2
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03655-2
+
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03655-2 The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.
+
+## 8. AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?
+
+- 期刊：Nature
+- 日期：2026-11-11
+- DOI：10.1038/d41586-026-03412-5
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03412-5
+
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03412-5 Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positive.
+
+## 9. Author or just ‘acknowledged’? How women are not gaining full credit for research
+
+- 期刊：Nature
+- 日期：2026-11-11
+- DOI：10.1038/d41586-026-03448-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03448-7
+
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03448-7 An analysis of who is more likely to get authorship than acknowledgement highlights the influence of a researcher’s gender and status.
+
+## 10. Engineered bacteria are weaning farms away from synthetic fertilizers
+
+- 期刊：Nature
+- 日期：2026-11-11
+- DOI：10.1038/d41586-026-03641-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03641-8
+
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03641-8 Scientists are editing microbes to supply more nitrogen to staple crops.
