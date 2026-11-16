@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-15 07:02
+生成时间：2026-11-16 07:09
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Biotech innovations are an opportunity to limit climate change
+## 1. Proposed approach for diagnosing obesity outperforms old method
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03621-y
+- DOI：10.1038/d41586-026-03425-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03621-y
+- 链接：https://www.nature.com/articles/d41586-026-03425-0
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-y Agricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03425-0 A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures and distinguishes clinical from preclinical obesity on the basis of...
 
-## 2. How I balance my life as a professional surfer and a university researcher
+## 2. Personal incentives for public officials drove a drop in China’s fertility
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03183-z
+- DOI：10.1038/d41586-026-03274-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03183-z
+- 链接：https://www.nature.com/articles/d41586-026-03274-x
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03183-z Cliff Kapono shares his advice on ways to navigate and grow two different careers.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03274-x Once the promotion prospects of bureaucrats became tied to birth targets, the country’s one-child policy became more effective. Can the state now reverse this effect?
 
-## 3. Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity
+## 3. Can green technologies deliver energy security in an unstable world?
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03633-8
+- DOI：10.1038/d41586-026-03409-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03633-8
+- 链接：https://www.nature.com/articles/d41586-026-03409-0
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03633-8 Nobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and solar cells.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03409-0 As global energy markets grapple with a period of sustained political volatility, researchers are digging deep for solutions.
 
-## 4. Give biologists the space to be curious, not just better tools
+## 4. Human replisomes direct a dedicated leading-strand primase for fork restart
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03669-w
+- DOI：10.1038/s41586-026-11204-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03669-w
+- 链接：https://www.nature.com/articles/s41586-026-11204-0
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03669-w Technology is making biological studies more powerful than ever. But people are the real force behind discovery.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11204-0 Structural and biochemical studies show that the CMG helicase directly recruits PRIMPOL for leading-strand repriming, enabling replication fork restart and limiting post-replicative...
 
-## 5. Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?
+## 5. Bureaucratic incentives shaped effectiveness of the one-child policy in China
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03640-9
+- DOI：10.1038/s41586-026-11232-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03640-9
+- 链接：https://www.nature.com/articles/s41586-026-11232-w
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03640-9 A promising biotechnology company developed an approach that might treat a rare disease — but its sole employee didn’t do all the work.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11232-w Stronger bureaucratic incentives under China’s one vote veto policy intensified enforcement of the one-child policy, accounting for nearly half of China’s fertility decline during...
 
-## 6. Move over BMI: new obesity definition is better for predicting your health
+## 6. Validation of clinical and preclinical obesity across global cohorts
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03636-5
+- DOI：10.1038/s41586-026-11237-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03636-5
+- 链接：https://www.nature.com/articles/s41586-026-11237-5
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03636-5 A fresh approach considers waist circumference, rather than just weight and height, providing a more accurate classification.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11237-5 A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria,...
 
-## 7. New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins
+## 7. UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03655-2
+- DOI：10.1038/s41586-026-11256-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03655-2
+- 链接：https://www.nature.com/articles/s41586-026-11256-2
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03655-2 The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11256-2 TDP-43 loss induces a predegenerative state in which neurons remain structurally intact and suffer a substantial breakdown in synaptic communication; a therapeutic strategy is found...
 
-## 8. AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?
+## 8. NRF2 is a mechanosensitive checkpoint for NLRP3 inflammasome activation
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03412-5
+- DOI：10.1038/s41586-026-11324-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03412-5
+- 链接：https://www.nature.com/articles/s41586-026-11324-7
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03412-5 Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positive.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11324-7 The stiffness of the extracellular matrix is identified as a pivotal factor that influences activation of the NLRP3 inflammasome in vitro and in vivo.
 
-## 9. Author or just ‘acknowledged’? How women are not gaining full credit for research
+## 9. Non-halogen aqueous electrolytes for four-electron iodine conversion
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03448-7
+- DOI：10.1038/s41586-026-11282-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03448-7
+- 链接：https://www.nature.com/articles/s41586-026-11282-0
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03448-7 An analysis of who is more likely to get authorship than acknowledgement highlights the influence of a researcher’s gender and status.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11282-0 An electrolyte framework that harnesses anionic chemistry to coordinate the interfacial microenvironment and molecular interactions enables reversible four-electron iodine conversion...
 
-## 10. Engineered bacteria are weaning farms away from synthetic fertilizers
+## 10. Bistable regulation of adipocyte heterogeneity governs thermogenesis
 
 - 期刊：Nature
 - 日期：2026-11-11
-- DOI：10.1038/d41586-026-03641-8
+- DOI：10.1038/s41586-026-11308-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03641-8
+- 链接：https://www.nature.com/articles/s41586-026-11308-7
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03641-8 Scientists are editing microbes to supply more nitrogen to staple crops.
+摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11308-7 IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β via sympathetic nerves, leading to transition to a high-...
