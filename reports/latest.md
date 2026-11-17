@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-16 07:09
+生成时间：2026-11-17 08:22
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Proposed approach for diagnosing obesity outperforms old method
+## 1. The climate is in crisis — here’s four things we can do
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03425-0
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03760-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03425-0
+- 链接：https://www.nature.com/articles/d41586-026-03760-2
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03425-0 A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures and distinguishes clinical from preclinical obesity on the basis of...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03760-2 More needs to be done to combat climate change, but what? We discuss some big ideas to rein in emissions.
 
-## 2. Personal incentives for public officials drove a drop in China’s fertility
+## 2. Architecture of a portal complex embedded in the poxvirus core
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03274-x
+- 日期：2026-11-16
+- DOI：10.1038/s41586-026-11399-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03274-x
+- 链接：https://www.nature.com/articles/s41586-026-11399-2
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03274-x Once the promotion prospects of bureaucrats became tied to birth targets, the country’s one-child policy became more effective. Can the state now reverse this effect?
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/s41586-026-11399-2 Architecture of a portal complex embedded in the poxvirus core
 
-## 3. Can green technologies deliver energy security in an unstable world?
+## 3. As El Niño builds, studies of extreme marine heatwaves must start now
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/d41586-026-03409-0
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03715-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03409-0
+- 链接：https://www.nature.com/articles/d41586-026-03715-7
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03409-0 As global energy markets grapple with a period of sustained political volatility, researchers are digging deep for solutions.
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.
 
-## 4. Human replisomes direct a dedicated leading-strand primase for fork restart
+## 4. US Supreme Court rebuffs White House effort to cut research grants
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11204-0
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03765-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11204-0
+- 链接：https://www.nature.com/articles/d41586-026-03765-x
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11204-0 Structural and biochemical studies show that the CMG helicase directly recruits PRIMPOL for leading-strand repriming, enabling replication fork restart and limiting post-replicative...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03765-x The high court has declined for now to intervene in a key case, meaning that lower court rulings that restored several hundred terminated grants will stand.
 
-## 5. Bureaucratic incentives shaped effectiveness of the one-child policy in China
+## 5. Secrets of the vampires: genomes reveal how these bats live off blood alone
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11232-w
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03706-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11232-w
+- 链接：https://www.nature.com/articles/d41586-026-03706-8
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11232-w Stronger bureaucratic incentives under China’s one vote veto policy intensified enforcement of the one-child policy, accounting for nearly half of China’s fertility decline during...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03706-8 Expandable stomachs allow these flying mammals to gulp large amounts of blood, and fluid-handling genes help them to fly home after all that liquid.
 
-## 6. Validation of clinical and preclinical obesity across global cohorts
+## 6. The psychology of imaginary friends — and why they are good for kids
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11237-5
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03713-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11237-5
+- 链接：https://www.nature.com/articles/d41586-026-03713-9
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11237-5 A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria,...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03713-9 Children often conjure up invisible pals to keep them company. A psychologist delves into the reasons why.
 
-## 7. UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss
+## 7. Can AI actually help the climate? Nations want to harness the technology to cut emissions
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11256-2
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03763-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11256-2
+- 链接：https://www.nature.com/articles/d41586-026-03763-z
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11256-2 TDP-43 loss induces a predegenerative state in which neurons remain structurally intact and suffer a substantial breakdown in synaptic communication; a therapeutic strategy is found...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03763-z Countries pledge to use artificial-intelligence tools to accelerate the adoption of clean energy — but that potential is unproven.
 
-## 8. NRF2 is a mechanosensitive checkpoint for NLRP3 inflammasome activation
+## 8. Chinese scientist sacked after child died in gene-editing trial
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11324-7
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03752-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11324-7
+- 链接：https://www.nature.com/articles/d41586-026-03752-2
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11324-7 The stiffness of the extracellular matrix is identified as a pivotal factor that influences activation of the NLRP3 inflammasome in vitro and in vivo.
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03752-2 Institutions and other researchers involved have also been reprimanded.
 
-## 9. Non-halogen aqueous electrolytes for four-electron iodine conversion
+## 9. Is the sixth great extinction imminent? Scientists must draw on natural history for clues
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11282-0
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03712-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11282-0
+- 链接：https://www.nature.com/articles/d41586-026-03712-w
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11282-0 An electrolyte framework that harnesses anionic chemistry to coordinate the interfacial microenvironment and molecular interactions enables reversible four-electron iodine conversion...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-w A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.
 
-## 10. Bistable regulation of adipocyte heterogeneity governs thermogenesis
+## 10. Genetic variant that reshaped the human brain was inherited from Neanderthals
 
 - 期刊：Nature
-- 日期：2026-11-11
-- DOI：10.1038/s41586-026-11308-7
+- 日期：2026-11-16
+- DOI：10.1038/d41586-026-03762-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11308-7
+- 链接：https://www.nature.com/articles/d41586-026-03762-0
 
-摘要精简：Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11308-7 IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β via sympathetic nerves, leading to transition to a high-...
+摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03762-0 DNA derived from the ancient hominin might make parts of our brains smaller — and protect against schizophrenia.
