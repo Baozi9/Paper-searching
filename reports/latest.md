@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-17 08:22
+生成时间：2026-11-18 07:52
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. The climate is in crisis — here’s four things we can do
+## 1. Meet the ‘celestial bodies of fathomless powerful darkness’
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03760-2
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03750-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03760-2
+- 链接：https://www.nature.com/articles/d41586-026-03750-4
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03760-2 More needs to be done to combat climate change, but what? We discuss some big ideas to rein in emissions.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang.
 
-## 2. Architecture of a portal complex embedded in the poxvirus core
+## 2. The prospect of a ‘super’ El Niño demands better ocean monitoring
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/s41586-026-11399-2
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03744-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11399-2
+- 链接：https://www.nature.com/articles/d41586-026-03744-2
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/s41586-026-11399-2 Architecture of a portal complex embedded in the poxvirus core
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a ‘super’ El Niño demands better ocean monitoring
 
-## 3. As El Niño builds, studies of extreme marine heatwaves must start now
+## 3. Dinosaur’s rest break leaves a lasting impression
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03715-7
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03749-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03715-7
+- 链接：https://www.nature.com/articles/d41586-026-03749-x
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.
 
-## 4. US Supreme Court rebuffs White House effort to cut research grants
+## 4. AI wearables could exploit people’s most vulnerable moments
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03765-x
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03742-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03765-x
+- 链接：https://www.nature.com/articles/d41586-026-03742-4
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03765-x The high court has declined for now to intervene in a key case, meaning that lower court rulings that restored several hundred terminated grants will stand.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments
 
-## 5. Secrets of the vampires: genomes reveal how these bats live off blood alone
+## 5. The origins of scrotal asymmetry
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03706-8
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03279-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03706-8
+- 链接：https://www.nature.com/articles/d41586-026-03279-6
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03706-8 Expandable stomachs allow these flying mammals to gulp large amounts of blood, and fluid-handling genes help them to fly home after all that liquid.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.
 
-## 6. The psychology of imaginary friends — and why they are good for kids
+## 6. Should we move from artificial intelligence to artificial life?
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03713-9
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03743-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03713-9
+- 链接：https://www.nature.com/articles/d41586-026-03743-3
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03713-9 Children often conjure up invisible pals to keep them company. A psychologist delves into the reasons why.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3 Should we move from artificial intelligence to artificial life?
 
-## 7. Can AI actually help the climate? Nations want to harness the technology to cut emissions
+## 7. Is academia’s risk-averse culture stifling scientific discovery?
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03763-z
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03772-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03763-z
+- 链接：https://www.nature.com/articles/d41586-026-03772-y
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03763-z Countries pledge to use artificial-intelligence tools to accelerate the adoption of clean energy — but that potential is unproven.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03772-y Fear of failure can cause researchers to stay within their comfort zone, impacting innovation, argues Nessa Carey.
 
-## 8. Chinese scientist sacked after child died in gene-editing trial
+## 8. ‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03752-2
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03770-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03752-2
+- 链接：https://www.nature.com/articles/d41586-026-03770-0
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03752-2 Institutions and other researchers involved have also been reprimanded.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03770-0 A closely watched study found no cognitive benefit from a brain-stimulating headset designed to treat Alzheimer’s disease.
 
-## 9. Is the sixth great extinction imminent? Scientists must draw on natural history for clues
+## 9. New US Congress should ‘reimagine’ science — not just return to the past
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03712-w
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03709-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03712-w
+- 链接：https://www.nature.com/articles/d41586-026-03709-5
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-w A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03709-5 For science policy to be effective, the public must be engaged in the process of funding research.
 
-## 10. Genetic variant that reshaped the human brain was inherited from Neanderthals
+## 10. The world’s most precious brain samples — and what they teach us about being human
 
 - 期刊：Nature
-- 日期：2026-11-16
-- DOI：10.1038/d41586-026-03762-0
+- 日期：2026-11-17
+- DOI：10.1038/d41586-026-03711-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03762-0
+- 链接：https://www.nature.com/articles/d41586-026-03711-x
 
-摘要精简：Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03762-0 DNA derived from the ancient hominin might make parts of our brains smaller — and protect against schizophrenia.
+摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03711-x How do human neurons behave in their natural environment? To answer that question, you need rare brain samples taken from living humans — and very steady hands.
