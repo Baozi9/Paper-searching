@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-18 07:52
+生成时间：2026-11-19 07:48
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Meet the ‘celestial bodies of fathomless powerful darkness’
+## 1. Conference networking made simple, in three short videos
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03750-4
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03678-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03750-4
+- 链接：https://www.nature.com/articles/d41586-026-03678-9
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.
 
-## 2. The prospect of a ‘super’ El Niño demands better ocean monitoring
+## 2. First observation of a giant star swallowing its neighbour
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03744-2
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03784-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03744-2
+- 链接：https://www.nature.com/articles/d41586-026-03784-8
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a ‘super’ El Niño demands better ocean monitoring
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.
 
-## 3. Dinosaur’s rest break leaves a lasting impression
+## 3. How to make AI data centres more sustainable
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03749-x
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03708-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03749-x
+- 链接：https://www.nature.com/articles/d41586-026-03708-6
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.
 
-## 4. AI wearables could exploit people’s most vulnerable moments
+## 4. Microbiome home tests are taking off. Can they be trusted?
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03742-4
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03710-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03742-4
+- 链接：https://www.nature.com/articles/d41586-026-03710-y
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.
 
-## 5. The origins of scrotal asymmetry
+## 5. Tropical land-use intensification reshapes biodiversity in expected and unexpected ways
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03279-6
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03602-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03279-6
+- 链接：https://www.nature.com/articles/d41586-026-03602-1
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An assessment of some 40,000...
 
-## 6. Should we move from artificial intelligence to artificial life?
+## 6. Kings of the jungle? This early human had surprising survival skills that rivalled ours
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03743-3
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03777-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03743-3
+- 链接：https://www.nature.com/articles/d41586-026-03777-7
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3 Should we move from artificial intelligence to artificial life?
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03777-7 Teeth found in south China challenge the idea that Homo erectus was limited to woodlands and savannahs.
 
-## 7. Is academia’s risk-averse culture stifling scientific discovery?
+## 7. Intra-stellar: a star inside a giant star
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03772-y
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03273-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03772-y
+- 链接：https://www.nature.com/articles/d41586-026-03273-y
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03772-y Fear of failure can cause researchers to stay within their comfort zone, impacting innovation, argues Nessa Carey.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03273-y Long-term monitoring of a giant star in the Andromeda galaxy reveals, for the first time, the decay of the orbit of another star inside the giant’s envelope.
 
-## 8. ‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial
+## 8. Glucose-powered implant brings devices for treating diabetes a step closer
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03770-0
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03377-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03770-0
+- 链接：https://www.nature.com/articles/d41586-026-03377-5
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03770-0 A closely watched study found no cognitive benefit from a brain-stimulating headset designed to treat Alzheimer’s disease.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03377-5 A device that stimulates the main nerve between the brain and the internal organs when blood sugar is high is an effective therapy in rat models of diabetes.
 
-## 9. New US Congress should ‘reimagine’ science — not just return to the past
+## 9. Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03709-5
+- 日期：2026-11-18
+- DOI：10.1038/s41586-026-11427-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03709-5
+- 链接：https://www.nature.com/articles/s41586-026-11427-1
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03709-5 For science policy to be effective, the public must be engaged in the process of funding research.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11427-1 Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems
 
-## 10. The world’s most precious brain samples — and what they teach us about being human
+## 10. Poxviruses probably evolved in the digestive system of animals
 
 - 期刊：Nature
-- 日期：2026-11-17
-- DOI：10.1038/d41586-026-03711-x
+- 日期：2026-11-18
+- DOI：10.1038/d41586-026-03436-x
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03711-x
+- 链接：https://www.nature.com/articles/d41586-026-03436-x
 
-摘要精简：Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03711-x How do human neurons behave in their natural environment? To answer that question, you need rare brain samples taken from living humans — and very steady hands.
+摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03436-x Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but have rarely been found in the gut microbiome. The discovery of such viruses that...
