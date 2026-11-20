@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-19 07:48
+生成时间：2026-11-20 07:40
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Conference networking made simple, in three short videos
+## 1. Lifting weights reduces muscle loss from obesity drugs
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03678-9
+- 日期：2026-11-20
+- DOI：10.1038/d41586-026-03751-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03678-9
+- 链接：https://www.nature.com/articles/d41586-026-03751-3
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.
+摘要精简：Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.
 
-## 2. First observation of a giant star swallowing its neighbour
+## 2. Calcium catalysed nucleophilic fluorination
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03784-8
+- 日期：2026-11-19
+- DOI：10.1038/s41586-026-11445-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03784-8
+- 链接：https://www.nature.com/articles/s41586-026-11445-z
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11445-z Calcium catalysed nucleophilic fluorination
 
-## 3. How to make AI data centres more sustainable
+## 3. More tropical cyclones hit peak fury at the worst possible time
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03708-6
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03748-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03708-6
+- 链接：https://www.nature.com/articles/d41586-026-03748-y
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03748-y Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.
 
-## 4. Microbiome home tests are taking off. Can they be trusted?
+## 4. People entering old age now have better memory than their parents did
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03710-y
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03783-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03710-y
+- 链接：https://www.nature.com/articles/d41586-026-03783-9
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03783-9 Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.
 
-## 5. Tropical land-use intensification reshapes biodiversity in expected and unexpected ways
+## 5. University students are biggest spreaders of COVID
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03602-1
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03746-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03602-1
+- 链接：https://www.nature.com/articles/d41586-026-03746-0
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An assessment of some 40,000...
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03746-0 Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.
 
-## 6. Kings of the jungle? This early human had surprising survival skills that rivalled ours
+## 6. Sore throat? The brain has surprising control over how ill you feel
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03777-7
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03774-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03777-7
+- 链接：https://www.nature.com/articles/d41586-026-03774-w
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03777-7 Teeth found in south China challenge the idea that Homo erectus was limited to woodlands and savannahs.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03774-w The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats.
 
-## 7. Intra-stellar: a star inside a giant star
+## 7. AI is ditching hallucinated references — and other bad habits
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03273-y
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03753-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03273-y
+- 链接：https://www.nature.com/articles/d41586-026-03753-1
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03273-y Long-term monitoring of a giant star in the Andromeda galaxy reveals, for the first time, the decay of the orbit of another star inside the giant’s envelope.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03753-1 An analysis finds that many undesirable LLM behaviours dissipate after about 16 months.
 
-## 8. Glucose-powered implant brings devices for treating diabetes a step closer
+## 8. What do various cancers have in common?
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03377-5
+- 日期：2026-11-19
+- DOI：10.1038/d41586-026-03379-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03377-5
+- 链接：https://www.nature.com/articles/d41586-026-03379-3
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03377-5 A device that stimulates the main nerve between the brain and the internal organs when blood sugar is high is an effective therapy in rat models of diabetes.
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03379-3 An analysis of 42 cancer types reveals shared patterns of gene activity in the tumour microenvironment, which might point to treatments that work across a range of cancers.
 
-## 9. Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems
+## 9. Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/s41586-026-11427-1
+- 日期：2026-11-19
+- DOI：10.1038/s41586-026-11421-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11427-1
+- 链接：https://www.nature.com/articles/s41586-026-11421-7
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11427-1 Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11421-7 Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers
 
-## 10. Poxviruses probably evolved in the digestive system of animals
+## 10. Author Correction: Replication-stress-induced chromatin loops protect fork stability
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03436-x
+- 日期：2026-11-19
+- DOI：10.1038/s41586-026-11436-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03436-x
+- 链接：https://www.nature.com/articles/s41586-026-11436-0
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03436-x Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but have rarely been found in the gut microbiome. The discovery of such viruses that...
+摘要精简：Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11436-0 Author Correction: Replication-stress-induced chromatin loops protect fork stability
