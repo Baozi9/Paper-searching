@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-23 08:03
+生成时间：2026-11-24 10:19
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Meet ‘egoviruses’: the surprise microbes living in the guts of millions of people
+## 1. Hexa-substituted benzene synthesis with non-classical carbocations
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03766-w
+- 日期：2026-11-23
+- DOI：10.1038/s41586-026-11449-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03766-w
+- 链接：https://www.nature.com/articles/s41586-026-11449-9
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03766-w Egoviruses could be the evolutionary missing link between giant viruses that infect single-celled organisms and those that can infect people.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11449-9 Hexa-substituted benzene synthesis with non-classical carbocations
 
-## 2. A new view of Amazonian leaf seasonality
+## 2. COP31 went down in flames over fossil fuels — it sends an important message
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03490-5
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03827-0
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03490-5
+- 链接：https://www.nature.com/articles/d41586-026-03827-0
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03490-5 Much of the Amazon rainforest was thought to be evergreen, but high-resolution satellite imagery reveals that many of its trees can remain leafless for longer than expected.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03827-0 Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.
 
-## 3. Injured locusts heal or are cannibalized depending on levels of a bacterial odour molecule
+## 3. Continuous N-to-C Peptide Synthesis
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03599-7
+- 日期：2026-11-23
+- DOI：10.1038/s41586-026-11448-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03599-7
+- 链接：https://www.nature.com/articles/s41586-026-11448-w
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03599-7 When migratory locusts are injured, an odorous chemical produced by bacteria living in or on their bodies activates the immune system, helping them to fight disease-causing agents....
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11448-w Continuous N-to-C Peptide Synthesis
 
-## 4. Are you a budding science sleuth? Take our plagiarism quiz to test your skills
+## 4. Architecture of the poxvirus early-transcription machinery and portal complex
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03040-z
+- 日期：2026-11-23
+- DOI：10.1038/s41586-026-11458-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03040-z
+- 链接：https://www.nature.com/articles/s41586-026-11458-8
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03040-z Sleuths and publishers seize on ‘tortured phrases’ to detect research fraud. Sometimes they can raise a smile.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11458-8 Architecture of the poxvirus early-transcription machinery and portal complex
 
-## 5. AI must be held accountable — value statements won’t protect human dignity
+## 5. Build for the future climate — or waste trillions of dollars
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03717-5
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03722-8
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03717-5
+- 链接：https://www.nature.com/articles/d41586-026-03722-8
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03717-5 Technology companies can’t be the judges of their own regulatory compliance. Centuries of history explain why.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8 Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built.
 
-## 6. A grant to hand out more grants — and build a research area
+## 6. ‘Mozart of maths’ Terence Tao is your guide to what underpins reality
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03689-6
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03720-w
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03689-6
+- 链接：https://www.nature.com/articles/d41586-026-03720-w
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03689-6 A rapid microgrants scheme called the Field Building Accelerator aims to launch new scientific fields.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03720-w A Fields Medallist reveals how curiosity about numbers can lead to solutions in the real world.
 
-## 7. Quantum physics can prove where you are
+## 7. Chemistry giant George Whitesides dies: one of the most influential researchers of his generation
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03378-4
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03808-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03378-4
+- 链接：https://www.nature.com/articles/d41586-026-03808-3
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03378-4 Demonstrating your location to someone far away is surprisingly hard. Quantum correlations offer a way to do so without needing to trust any quantum hardware.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03808-3 Beloved intellectual mentored hundreds of scientists and switched fields many times to solve global challenges.
 
-## 8. The right to do wrong
+## 8. How to make climate anxiety your superpower
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/d41586-026-03517-x
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03818-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03517-x
+- 链接：https://www.nature.com/articles/d41586-026-03818-1
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03517-x An equal chance.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03818-1 Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action.
 
-## 9. Widespread deciduousness reveals diverse Amazonian phenological strategies
+## 9. I t’s our duty to promote ourselves: even to other scientists. Am I wrong?
 
 - 期刊：Nature
-- 日期：2026-11-18
-- DOI：10.1038/s41586-026-11284-y
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-02203-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11284-y
+- 链接：https://www.nature.com/articles/d41586-026-02203-2
 
-摘要精简：Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11284-y A basin-wide assessment of Amazonian deciduousness using high-resolution satellite observations shows a diverse range of phenological strategies across the Amazon rainforest,...
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-02203-2 A jury weighs in on whether it’s a researcher’s responsibility to convince colleagues that their work matters — or whether others should come to them instead.
 
-## 10. Computational methods for cell–cell communication via single cells
+## 10. Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools
 
-- 期刊：Nature Methods
-- 日期：2026-11-20
-- DOI：10.1038/s41592-026-03287-4
+- 期刊：Nature
+- 日期：2026-11-23
+- DOI：10.1038/d41586-026-03721-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41592-026-03287-4
+- 链接：https://www.nature.com/articles/d41586-026-03721-9
 
-摘要精简：Nature Methods, Published online: 20 November 2026; doi:10.1038/s41592-026-03287-4 This Review examines the diversity of algorithmic methods for cell–cell communication.
+摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03721-9 The researcher and educator explains why she’s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence.
