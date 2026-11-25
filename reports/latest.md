@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-24 10:19
+生成时间：2026-11-25 09:00
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Hexa-substituted benzene synthesis with non-classical carbocations
+## 1. Fight AI slop without punishing legitimate researchers
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/s41586-026-11449-9
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03824-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11449-9
+- 链接：https://www.nature.com/articles/d41586-026-03824-3
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11449-9 Hexa-substituted benzene synthesis with non-classical carbocations
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3 Fight AI slop without punishing legitimate researchers
 
-## 2. COP31 went down in flames over fossil fuels — it sends an important message
+## 2. Richard of Wallingford and his Rectangulus
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03827-0
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03725-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03827-0
+- 链接：https://www.nature.com/articles/d41586-026-03725-5
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03827-0 Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03725-5 The life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator at CERN, in our weekly dip into Nature’s archive.
 
-## 3. Continuous N-to-C Peptide Synthesis
+## 3. The science on AI consciousness must acknowledge uncertainty
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/s41586-026-11448-w
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03822-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11448-w
+- 链接：https://www.nature.com/articles/d41586-026-03822-5
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11448-w Continuous N-to-C Peptide Synthesis
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5 The science on AI consciousness must acknowledge uncertainty
 
-## 4. Architecture of the poxvirus early-transcription machinery and portal complex
+## 4. Himalayan disasters demand biodiversity conservation across borders
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/s41586-026-11458-8
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03825-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11458-8
+- 链接：https://www.nature.com/articles/d41586-026-03825-2
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11458-8 Architecture of the poxvirus early-transcription machinery and portal complex
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2 Himalayan disasters demand biodiversity conservation across borders
 
-## 5. Build for the future climate — or waste trillions of dollars
+## 5. Submission caps aren’t enough to tackle AI slop
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03722-8
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03823-4
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03722-8
+- 链接：https://www.nature.com/articles/d41586-026-03823-4
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8 Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03823-4 Submission caps aren’t enough to tackle AI slop
 
-## 6. ‘Mozart of maths’ Terence Tao is your guide to what underpins reality
+## 6. The brain keeps the score: how trauma leaves molecular scars in cells
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03720-w
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03821-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03720-w
+- 链接：https://www.nature.com/articles/d41586-026-03821-6
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03720-w A Fields Medallist reveals how curiosity about numbers can lead to solutions in the real world.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03821-6 Large post-mortem study identifies epigenetic changes in the brain linked to post-traumatic stress disorder.
 
-## 7. Chemistry giant George Whitesides dies: one of the most influential researchers of his generation
+## 7. Pakistani astronaut to become first foreign visitor to China’s space station
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03808-3
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03829-y
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03808-3
+- 链接：https://www.nature.com/articles/d41586-026-03829-y
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03808-3 Beloved intellectual mentored hundreds of scientists and switched fields many times to solve global challenges.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03829-y Muhammad Zeeshan Ali is flying this week to the Tiangong module aboard a Chinese spacecraft.
 
-## 8. How to make climate anxiety your superpower
+## 8. Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03818-1
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03836-z
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03818-1
+- 链接：https://www.nature.com/articles/d41586-026-03836-z
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03818-1 Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03836-z Anthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.
 
-## 9. I t’s our duty to promote ourselves: even to other scientists. Am I wrong?
+## 9. How acidic compounds in human sweat open a mosquito ion channel
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-02203-2
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03381-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02203-2
+- 链接：https://www.nature.com/articles/d41586-026-03381-9
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-02203-2 A jury weighs in on whether it’s a researcher’s responsibility to convince colleagues that their work matters — or whether others should come to them instead.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03381-9 Structures of a mosquito receptor bound to acids from human skin could inspire tactics to stifle the attraction of malaria-carrying mosquitoes to humans.
 
-## 10. Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools
+## 10. Blend public cash and private innovation to unlock drug development
 
 - 期刊：Nature
-- 日期：2026-11-23
-- DOI：10.1038/d41586-026-03721-9
+- 日期：2026-11-24
+- DOI：10.1038/d41586-026-03723-7
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03721-9
+- 链接：https://www.nature.com/articles/d41586-026-03723-7
 
-摘要精简：Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03721-9 The researcher and educator explains why she’s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence.
+摘要精简：Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03723-7 Common health conditions lack medicines and treatments because industry finds them too risky to invest in. Here’s what would help.
