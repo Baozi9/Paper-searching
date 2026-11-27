@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-26 08:48
+生成时间：2026-11-27 08:58
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. The leading cities in the world for high-quality research in 2025
+## 1. Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs
+
+- 期刊：Nature
+- 日期：2026-11-26
+- DOI：10.1038/d41586-026-03874-7
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03874-7
+
+摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.
+
+## 2. Navigating grief in academia: ways to find balance
+
+- 期刊：Nature
+- 日期：2026-11-26
+- DOI：10.1038/d41586-026-02752-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-02752-6
+
+摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden.
+
+## 3. Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists
+
+- 期刊：Nature
+- 日期：2026-11-26
+- DOI：10.1038/d41586-026-03875-6
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03875-6
+
+摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.
+
+## 4. Orangutans face bleak future after Indonesia’s devastating wildfires
+
+- 期刊：Nature
+- 日期：2026-11-26
+- DOI：10.1038/d41586-026-03828-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03828-z
+
+摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.
+
+## 5. From sketch to publication-ready flowchart: how AI tools can bridge the gap
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03468-3
+- DOI：10.1038/d41586-026-03513-1
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03468-3
+- 链接：https://www.nature.com/articles/d41586-026-03513-1
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03468-3 A decade of data on the top-performing science cities in the Nature Index.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1 The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.
 
-## 2. Dual proofs of legendary Riemann hypothesis stun mathematicians
+## 6. The world’s leading science cities are changing — here’s why
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03853-y
+- DOI：10.1038/d41586-026-03466-5
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03853-y
+- 链接：https://www.nature.com/articles/d41586-026-03466-5
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03853-y Experts say the AI and human-written proofs will need careful checking — plus, the fallout from the COP31 climate conference.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03466-5 Nature Index data reveal the cities that are gaining ground in research, as smart technologies transform how urban centres operate and compete for talent.
 
-## 3. An in situ redox-converted molecule for all-perovskite tandem solar cells
+## 7. Gut microbes can adapt to our ageing bodies
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/s41586-026-11465-9
+- DOI：10.1038/d41586-026-03268-9
 - 来源：rss
-- 链接：https://www.nature.com/articles/s41586-026-11465-9
+- 链接：https://www.nature.com/articles/d41586-026-03268-9
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11465-9 An in situ redox-converted molecule for all-perovskite tandem solar cells
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03268-9 A study of more than 10,000 individuals reveals specific mutations in gut bacteria that arise during human ageing, but few mutations associated with disease.
 
-## 4. How Singapore has turned a nation into a smart-city testing ground
+## 8. China’s AI-powered smart-city model is going global
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03472-7
+- DOI：10.1038/d41586-026-03473-6
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03472-7
+- 链接：https://www.nature.com/articles/d41586-026-03473-6
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03472-7 The city-state’s compact size and centralized governance allow digital infrastructure to be introduced with unusual speed and consistency.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03473-6 China is using AI and big data to connect its cities and rural regions. Now, its smart-city technologies are attracting international interest.
 
-## 5. How arteries keep their shape in the face of overgrowth-inducing mutations
+## 9. Pockets in compacted DNA tune gene activation
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03491-4
+- DOI：10.1038/d41586-026-03492-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03491-4
+- 链接：https://www.nature.com/articles/d41586-026-03492-3
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03491-4 Why do cancer-associated mutations cause some blood vessels to develop abnormally, but not arteries? The answer lies in the identity and maturity of the affected cells.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03492-3 The stochastic activation of specific genes is needed for the proper formation of neuronal circuits. Opposing forces act on inactive DNA to balance this process.
 
-## 6. What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers
+## 10. Helsinki puts trust at the heart of its smart-city model
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03854-x
+- DOI：10.1038/d41586-026-03469-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03854-x
+- 链接：https://www.nature.com/articles/d41586-026-03469-2
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03854-x The biggest problem in mathematics has to do with a statistical test familiar to scientists.
-
-## 7. Saving Nepal’s wild orchids — in photos
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03475-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03475-4
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03475-4 Prized for their ornamental and medicinal value, hundreds of orchids are illegally harvested and sold each year. Now, conservationist Reshu Bashyal is leading an effort to protect them.
-
-## 8. A fine-grained reconstruction of barley’s evolutionary history
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03494-1
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03494-1
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03494-1 Chromosome-scale genome sequences from across the barley genus Hordeum reveal large structural variation, evidence of ancient genetic exchange and extensive divergence of regulatory...
-
-## 9. A powerful HIV vaccine is finally within reach — thanks to these super antibodies
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03718-4
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03718-4
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03718-4 Potent immune responses against diverse HIV strains have ignited the field, but major hurdles remain.
-
-## 10. Can Beijing scale up its smart-city ambitions?
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03470-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03470-9
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03470-9 The world’s leading science city is testing AI and intelligent transport at scale, but linking data across its innovation hubs remains a challenge.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03469-2 Open urban data, recycled data-centre heat and a public AI register are helping the Finnish capital develop responsible urban technology.
