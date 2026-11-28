@@ -1,106 +1,106 @@
 # 今日 CNS 文献简报
 
-生成时间：2026-11-27 08:58
+生成时间：2026-11-28 08:19
 检索范围：近 7 天
 关键词：未设置，收集全部候选论文
 新增论文：10 篇
 
-## 1. Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs
+## 1. The haunting loveliness of boglands: Books in brief
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03885-4
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03885-4
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks.
+
+## 2. Brain area’s mysterious role in speech decoded at last
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03800-x
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03800-x
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task.
+
+## 3. Life-saving cancer drug pumped out by a plant
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03801-w
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03801-w
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.
+
+## 4. Audio long read: The world’s most precious brain samples — and what they teach us about being human
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03900-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03900-8
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment.
+
+## 5. Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/s41586-026-11411-9
+- 来源：rss
+- 链接：https://www.nature.com/articles/s41586-026-11411-9
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat
+
+## 6. Want your research cited in patents? Publishing open access increases your chances
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03754-0
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03754-0
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03754-0 Studies are more likely to be cited in patents if they are freely available — legitimately or otherwise — researchers have found.
+
+## 7. Postcards from your graves
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03523-z
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03523-z
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-z A disastrous outcome.
+
+## 8. Why the incoming US Congress should ban the development of self-improving AI
+
+- 期刊：Nature
+- 日期：2026-11-27
+- DOI：10.1038/d41586-026-03849-8
+- 来源：rss
+- 链接：https://www.nature.com/articles/d41586-026-03849-8
+
+摘要精简：Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8 Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development.
+
+## 9. Daily briefing: A guide to the Riemann hypothesis
 
 - 期刊：Nature
 - 日期：2026-11-26
-- DOI：10.1038/d41586-026-03874-7
+- DOI：10.1038/d41586-026-03894-3
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03874-7
+- 链接：https://www.nature.com/articles/d41586-026-03894-3
 
-摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.
+摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03894-3 Get to grips with the famed conjecture, and hear mathematicians’ reactions to its proofs. Plus, the benefits of eating with other people.
 
-## 2. Navigating grief in academia: ways to find balance
-
-- 期刊：Nature
-- 日期：2026-11-26
-- DOI：10.1038/d41586-026-02752-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-02752-6
-
-摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden.
-
-## 3. Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists
-
-- 期刊：Nature
-- 日期：2026-11-26
-- DOI：10.1038/d41586-026-03875-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03875-6
-
-摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.
-
-## 4. Orangutans face bleak future after Indonesia’s devastating wildfires
-
-- 期刊：Nature
-- 日期：2026-11-26
-- DOI：10.1038/d41586-026-03828-z
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03828-z
-
-摘要精简：Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.
-
-## 5. From sketch to publication-ready flowchart: how AI tools can bridge the gap
+## 10. Daily briefing: A powerful HIV vaccine is finally within reach
 
 - 期刊：Nature
 - 日期：2026-11-25
-- DOI：10.1038/d41586-026-03513-1
+- DOI：10.1038/d41586-026-03879-2
 - 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03513-1
+- 链接：https://www.nature.com/articles/d41586-026-03879-2
 
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1 The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.
-
-## 6. The world’s leading science cities are changing — here’s why
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03466-5
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03466-5
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03466-5 Nature Index data reveal the cities that are gaining ground in research, as smart technologies transform how urban centres operate and compete for talent.
-
-## 7. Gut microbes can adapt to our ageing bodies
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03268-9
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03268-9
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03268-9 A study of more than 10,000 individuals reveals specific mutations in gut bacteria that arise during human ageing, but few mutations associated with disease.
-
-## 8. China’s AI-powered smart-city model is going global
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03473-6
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03473-6
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03473-6 China is using AI and big data to connect its cities and rural regions. Now, its smart-city technologies are attracting international interest.
-
-## 9. Pockets in compacted DNA tune gene activation
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03492-3
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03492-3
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03492-3 The stochastic activation of specific genes is needed for the proper formation of neuronal circuits. Opposing forces act on inactive DNA to balance this process.
-
-## 10. Helsinki puts trust at the heart of its smart-city model
-
-- 期刊：Nature
-- 日期：2026-11-25
-- DOI：10.1038/d41586-026-03469-2
-- 来源：rss
-- 链接：https://www.nature.com/articles/d41586-026-03469-2
-
-摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03469-2 Open urban data, recycled data-centre heat and a public AI register are helping the Finnish capital develop responsible urban technology.
+摘要精简：Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03879-2 The world has a golden chance to improve HIV prevention — if we don’t squander it. Plus, how pregnancy changes the brain and general-purpose chatbots are getting better at science.
